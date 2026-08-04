@@ -31,7 +31,7 @@ WALLETS = {
 }
 
 # Alert whenever this many wallets share the same market AND side.
-ALERT_TIERS = [2, 3, 4, 5]
+ALERT_TIERS = [3, 4, 5]
 
 # Only alert on NEW positions at or above this size. Raise to cut noise.
 BIG_BET_USD = 25000
