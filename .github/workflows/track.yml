@@ -1,0 +1,45 @@
+name: Polymarket Tracker
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tracker
+  cancel-in-progress: false
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests
+
+      - name: Run tracker
+        env:
+          TG_TOKEN: ${{ secrets.TG_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+        run: python tracker.py
+
+      - name: Save state
+        run: |
+          git config user.name "tracker-bot"
+          git config user.email "actions@github.com"
+          git add state.json
+          git diff --staged --quiet && exit 0
+          git commit -m "state update"
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash origin main && git push && exit 0
+            sleep 5
+          done
+          echo "push failed after retries"
+          exit 1
