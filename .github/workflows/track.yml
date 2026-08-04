@@ -1,8 +1,8 @@
 name: Polymarket Tracker
 
 on:
-  schedule:
-    - cron: "*/5 * * * *"
+  schedule:    - cron: "7,22,37,52 * * * *"
+
   workflow_dispatch:
 
 permissions:
