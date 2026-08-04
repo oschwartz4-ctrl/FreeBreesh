@@ -5,6 +5,9 @@ Polymarket multi-wallet tracker - one-shot version for GitHub Actions.
 Runs once, compares against state.json, sends Telegram alerts, updates
 state.json, and exits. The workflow commits state.json back to the repo
 so the next run remembers what it already saw.
+
+Consensus alerts fire at each new tier: 3, 4, and 5 wallets. If an
+overlap grows from 3 to 4 to 5, you get a separate alert each time.
 """
 
 import json
@@ -16,7 +19,7 @@ from pathlib import Path
 import requests
 
 # -------------------------------------------------------------
-# CONFIG - add the last two wallets here when you have them
+# CONFIG
 # -------------------------------------------------------------
 
 WALLETS = {
@@ -27,9 +30,8 @@ WALLETS = {
     "#5 HomeRunHazard": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
 }
 
-
-# Fire the loud alert when this many wallets share the same position.
-CONSENSUS_THRESHOLD = 3
+# Alert at each of these overlap counts.
+ALERT_TIERS = [3, 4, 5]
 
 MIN_POSITION_USD = 100        # ignore dust positions
 ALERT_NEW_POSITIONS = True    # set False for overlap alerts only
@@ -109,17 +111,30 @@ def link(info):
     return f"https://polymarket.com/event/{info['slug']}" if info["slug"] else ""
 
 
+def tier_for(count, tiers):
+    """Highest tier this count has reached, or 0."""
+    reached = [t for t in tiers if count >= t]
+    return max(reached) if reached else 0
+
+
 def main():
     if STATE_FILE.exists():
         state = json.loads(STATE_FILE.read_text())
     else:
-        state = {"seen": {}, "announced": []}
+        state = {}
 
     seen = state.get("seen", {})
-    announced = set(state.get("announced", []))
+    # announced maps position key -> highest tier already alerted
+    announced = state.get("announced", {})
+    if isinstance(announced, list):        # migrate from old format
+        announced = {k: 3 for k in announced}
+
     first_run = not seen
 
-    threshold = min(CONSENSUS_THRESHOLD, len(WALLETS))
+    tiers = sorted(t for t in ALERT_TIERS if t <= len(WALLETS))
+    if not tiers:
+        tiers = [len(WALLETS)]
+
     current = {}
     failures = []
 
@@ -142,38 +157,58 @@ def main():
                 )
         time.sleep(1)
 
+    # -------- overlap detection, tiered --------
     tally = {}
     for nick, pos in current.items():
         for key, info in pos.items():
             tally.setdefault(key, {"wallets": [], "info": info})
             tally[key]["wallets"].append(nick)
 
+    new_announced = {}
     for key, rec in tally.items():
         holders = rec["wallets"]
-        if len(holders) >= threshold and key not in announced:
+        count = len(holders)
+        now_tier = tier_for(count, tiers)
+        if now_tier == 0:
+            continue
+
+        new_announced[key] = now_tier
+        prev_tier = announced.get(key, 0)
+
+        if now_tier > prev_tier:
             i = rec["info"]
+            if count == len(WALLETS):
+                header = f"*** ALL {count} WALLETS AGREE ***"
+            else:
+                header = f"*** OVERLAP - {count} of {len(WALLETS)} wallets ***"
+            escalation = ""
+            if prev_tier > 0:
+                escalation = f"\n(was {prev_tier}, now {count})"
             notify(
-                f"*** OVERLAP - {len(holders)}/{len(WALLETS)} wallets ***\n"
+                f"{header}\n"
                 f"{i['title']}\n"
                 f"-> <b>{i['outcome']}</b>\n"
-                f"Held by: {', '.join(holders)}\n{link(i)}"
+                f"Held by: {', '.join(sorted(holders))}{escalation}\n"
+                f"{link(i)}"
             )
-            announced.add(key)
 
-    for key in list(announced):
-        if key not in tally or len(tally[key]["wallets"]) < threshold:
-            announced.discard(key)
+    announced = new_announced
 
     if first_run:
-        overlaps = sum(1 for r in tally.values() if len(r["wallets"]) >= threshold)
+        counts = {}
+        for rec in tally.values():
+            c = len(rec["wallets"])
+            if c >= min(tiers):
+                counts[c] = counts.get(c, 0) + 1
+        summary = ", ".join(f"{v} at {k}-way" for k, v in sorted(counts.items())) or "none"
         notify(
-            f"Tracker initialized - {len(WALLETS)} wallets, "
-            f"alerting at {threshold}+ overlap.\n"
-            f"Baseline saved. Overlapping positions right now: {overlaps}"
+            f"Tracker initialized - {len(WALLETS)} wallets.\n"
+            f"Alert tiers: {tiers}\n"
+            f"Current overlaps: {summary}"
         )
 
     STATE_FILE.write_text(json.dumps(
-        {"seen": current, "announced": sorted(announced)}, indent=2
+        {"seen": current, "announced": announced}, indent=2
     ))
 
     if failures:
