@@ -2,12 +2,12 @@
 """
 Polymarket multi-wallet tracker - one-shot version for GitHub Actions.
 
-Runs once, compares against state.json, sends Telegram alerts, updates
-state.json, and exits. The workflow commits state.json back to the repo
-so the next run remembers what it already saw.
+Alerts on:
+  1. NEW positions above BIG_BET_USD (whale-size entries only).
+  2. Overlap: a market+side held by 2, 3, 4, or 5 wallets. Each tier
+     alerts once, and again if the overlap grows to the next tier.
 
-Consensus alerts fire at each new tier: 3, 4, and 5 wallets. If an
-overlap grows from 3 to 4 to 5, you get a separate alert each time.
+Runs once, saves state.json, exits. The workflow commits state back.
 """
 
 import json
@@ -30,11 +30,14 @@ WALLETS = {
     "#5 HomeRunHazard": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
 }
 
-# Alert at each of these overlap counts.
-ALERT_TIERS = [3, 4, 5]
+# Alert whenever this many wallets share the same market AND side.
+ALERT_TIERS = [2, 3, 4, 5]
 
-MIN_POSITION_USD = 100        # ignore dust positions
-ALERT_NEW_POSITIONS = True    # set False for overlap alerts only
+# Only alert on NEW positions at or above this size. Raise to cut noise.
+BIG_BET_USD = 25000
+
+# Positions smaller than this are ignored entirely, including for overlap.
+MIN_POSITION_USD = 500
 
 # -------------------------------------------------------------
 
@@ -68,7 +71,6 @@ def notify(text):
 
 
 def get_positions(address):
-    """Return {conditionId|outcome: info}, or None if the fetch failed."""
     rows = None
     for attempt in range(3):
         try:
@@ -112,31 +114,23 @@ def link(info):
 
 
 def tier_for(count, tiers):
-    """Highest tier this count has reached, or 0."""
     reached = [t for t in tiers if count >= t]
     return max(reached) if reached else 0
 
 
 def main():
-    if STATE_FILE.exists():
-        state = json.loads(STATE_FILE.read_text())
-    else:
-        state = {}
-
+    state = json.loads(STATE_FILE.read_text()) if STATE_FILE.exists() else {}
     seen = state.get("seen", {})
-    # announced maps position key -> highest tier already alerted
     announced = state.get("announced", {})
-    if isinstance(announced, list):        # migrate from old format
+    if isinstance(announced, list):
         announced = {k: 3 for k in announced}
 
     first_run = not seen
-
-    tiers = sorted(t for t in ALERT_TIERS if t <= len(WALLETS))
-    if not tiers:
-        tiers = [len(WALLETS)]
+    tiers = sorted(t for t in ALERT_TIERS if t <= len(WALLETS)) or [len(WALLETS)]
 
     current = {}
     failures = []
+    big_bets = 0
 
     for nick, addr in WALLETS.items():
         pos = get_positions(addr)
@@ -146,23 +140,27 @@ def main():
             continue
         current[nick] = pos
 
-        if ALERT_NEW_POSITIONS and not first_run:
+        if not first_run:
             for key in set(pos) - set(seen.get(nick, {})):
                 i = pos[key]
+                if i["value"] < BIG_BET_USD:
+                    continue
+                big_bets += 1
                 notify(
-                    f"NEW - <b>{nick}</b> opened a position\n"
+                    f"BIG BET - <b>{nick}</b>\n"
                     f"{i['title']}\n"
-                    f"-> <b>{i['outcome']}</b> @ {i['avgPrice']} "
-                    f"(${i['value']:,.0f})\n{link(i)}"
+                    f"-> <b>{i['outcome']}</b> @ {i['avgPrice']}\n"
+                    f"Size: <b>${i['value']:,.0f}</b>\n{link(i)}"
                 )
         time.sleep(1)
 
-    # -------- overlap detection, tiered --------
+    # -------- overlap detection --------
     tally = {}
     for nick, pos in current.items():
         for key, info in pos.items():
-            tally.setdefault(key, {"wallets": [], "info": info})
+            tally.setdefault(key, {"wallets": [], "info": info, "total": 0.0})
             tally[key]["wallets"].append(nick)
+            tally[key]["total"] += info["value"]
 
     new_announced = {}
     for key, rec in tally.items():
@@ -179,17 +177,17 @@ def main():
             i = rec["info"]
             if count == len(WALLETS):
                 header = f"*** ALL {count} WALLETS AGREE ***"
+            elif count >= 3:
+                header = f"*** OVERLAP - {count} of {len(WALLETS)} ***"
             else:
-                header = f"*** OVERLAP - {count} of {len(WALLETS)} wallets ***"
-            escalation = ""
-            if prev_tier > 0:
-                escalation = f"\n(was {prev_tier}, now {count})"
+                header = f"Overlap - {count} of {len(WALLETS)}"
+            escalation = f"\n(was {prev_tier}, now {count})" if prev_tier else ""
             notify(
                 f"{header}\n"
                 f"{i['title']}\n"
                 f"-> <b>{i['outcome']}</b>\n"
-                f"Held by: {', '.join(sorted(holders))}{escalation}\n"
-                f"{link(i)}"
+                f"Held by: {', '.join(sorted(holders))}\n"
+                f"Combined: ${rec['total']:,.0f}{escalation}\n{link(i)}"
             )
 
     announced = new_announced
@@ -203,7 +201,8 @@ def main():
         summary = ", ".join(f"{v} at {k}-way" for k, v in sorted(counts.items())) or "none"
         notify(
             f"Tracker initialized - {len(WALLETS)} wallets.\n"
-            f"Alert tiers: {tiers}\n"
+            f"Big-bet threshold: ${BIG_BET_USD:,}\n"
+            f"Overlap tiers: {tiers}\n"
             f"Current overlaps: {summary}"
         )
 
@@ -213,7 +212,8 @@ def main():
 
     if failures:
         print(f"[warn] fetch failed for: {', '.join(failures)}", flush=True)
-    print("Run complete.", flush=True)
+    print(f"Run complete. Big bets: {big_bets}. Tracked markets: {len(tally)}.",
+          flush=True)
     return 0
 
 
