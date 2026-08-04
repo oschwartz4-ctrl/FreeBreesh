@@ -34,11 +34,16 @@ jobs:
         run: |
           git config user.name "tracker-bot"
           git config user.email "actions@github.com"
-          git add state.json
-          git diff --staged --quiet && exit 0
-          git commit -m "state update"
           for i in 1 2 3 4 5; do
-            git pull --rebase --autostash origin main && git push && exit 0
+            git fetch origin main
+            git checkout --ours state.json 2>/dev/null || true
+            git stash push state.json 2>/dev/null || true
+            git reset --hard origin/main
+            git stash pop 2>/dev/null || true
+            git add state.json
+            git diff --staged --quiet && exit 0
+            git commit -m "state update"
+            git push && exit 0
             sleep 5
           done
           echo "push failed after retries"
