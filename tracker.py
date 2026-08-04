@@ -20,11 +20,11 @@ import requests
 # -------------------------------------------------------------
 
 WALLETS = {
-    "DRose":     "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-    "DJ":        "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
-    "SwissTony": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "HomeRunHazard": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "RN1":           "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "#1 Ferrari":       "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "#2 RN1":           "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "#3 2C":            "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "#4 SwissTony":     "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "#5 HomeRunHazard": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
 }
 
 
