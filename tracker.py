@@ -3,11 +3,12 @@
 Polymarket multi-wallet tracker - one-shot version for GitHub Actions.
 
 Alerts on:
-  1. NEW positions above BIG_BET_USD (whale-size entries only).
-  2. Overlap: a market+side held by 2, 3, 4, or 5 wallets. Each tier
-     alerts once, and again if the overlap grows to the next tier.
+  1. NEW positions at or above BIG_BET_USD.
+  2. Overlap: a market+side held by 3, 4, or 5 wallets. Each tier fires
+     once, and again if the overlap grows to a higher tier.
 
-Runs once, saves state.json, exits. The workflow commits state back.
+Runs once, writes state.json atomically, exits. Corrupt state is
+detected and discarded rather than crashing the run.
 """
 
 import json
@@ -30,14 +31,9 @@ WALLETS = {
     "#5 HomeRunHazard": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
 }
 
-# Alert whenever this many wallets share the same market AND side.
-ALERT_TIERS = [3, 4, 5]
-
-# Only alert on NEW positions at or above this size. Raise to cut noise.
-BIG_BET_USD = 25000
-
-# Positions smaller than this are ignored entirely, including for overlap.
-MIN_POSITION_USD = 500
+ALERT_TIERS = [3, 4, 5]     # overlap counts that trigger an alert
+BIG_BET_USD = 25000         # minimum size for a new-position alert
+MIN_POSITION_USD = 500      # ignore anything smaller than this entirely
 
 # -------------------------------------------------------------
 
@@ -45,6 +41,7 @@ TG_TOKEN = os.environ.get("TG_TOKEN", "")
 TG_CHAT_ID = os.environ.get("TG_CHAT_ID", "")
 
 STATE_FILE = Path("state.json")
+TMP_FILE = Path("state.json.tmp")
 DATA_API = "https://data-api.polymarket.com"
 
 
@@ -68,6 +65,28 @@ def notify(text):
             print(f"[warn] telegram {r.status_code}: {r.text[:200]}", flush=True)
     except Exception as e:
         print(f"[warn] telegram failed: {e}", flush=True)
+
+
+def load_state():
+    """Read state.json, tolerating a missing or corrupt file."""
+    if not STATE_FILE.exists():
+        return {}
+    try:
+        data = json.loads(STATE_FILE.read_text())
+        if not isinstance(data, dict):
+            print("[warn] state.json is not an object; starting fresh", flush=True)
+            return {}
+        return data
+    except Exception as e:
+        print(f"[warn] state.json unreadable ({e}); starting fresh", flush=True)
+        return {}
+
+
+def save_state(seen, announced):
+    """Write to a temp file first, then rename. Never leaves a partial file."""
+    payload = json.dumps({"seen": seen, "announced": announced}, indent=2)
+    TMP_FILE.write_text(payload)
+    TMP_FILE.replace(STATE_FILE)
 
 
 def get_positions(address):
@@ -119,11 +138,17 @@ def tier_for(count, tiers):
 
 
 def main():
-    state = json.loads(STATE_FILE.read_text()) if STATE_FILE.exists() else {}
+    state = load_state()
+
     seen = state.get("seen", {})
+    if not isinstance(seen, dict):
+        seen = {}
+
     announced = state.get("announced", {})
     if isinstance(announced, list):
-        announced = {k: 3 for k in announced}
+        announced = {k: min(ALERT_TIERS) for k in announced}
+    if not isinstance(announced, dict):
+        announced = {}
 
     first_run = not seen
     tiers = sorted(t for t in ALERT_TIERS if t <= len(WALLETS)) or [len(WALLETS)]
@@ -172,15 +197,15 @@ def main():
 
         new_announced[key] = now_tier
         prev_tier = announced.get(key, 0)
+        if not isinstance(prev_tier, int):
+            prev_tier = 0
 
         if now_tier > prev_tier:
             i = rec["info"]
             if count == len(WALLETS):
                 header = f"*** ALL {count} WALLETS AGREE ***"
-            elif count >= 3:
-                header = f"*** OVERLAP - {count} of {len(WALLETS)} ***"
             else:
-                header = f"Overlap - {count} of {len(WALLETS)}"
+                header = f"*** OVERLAP - {count} of {len(WALLETS)} ***"
             escalation = f"\n(was {prev_tier}, now {count})" if prev_tier else ""
             notify(
                 f"{header}\n"
@@ -189,8 +214,6 @@ def main():
                 f"Held by: {', '.join(sorted(holders))}\n"
                 f"Combined: ${rec['total']:,.0f}{escalation}\n{link(i)}"
             )
-
-    announced = new_announced
 
     if first_run:
         counts = {}
@@ -206,9 +229,7 @@ def main():
             f"Current overlaps: {summary}"
         )
 
-    STATE_FILE.write_text(json.dumps(
-        {"seen": current, "announced": announced}, indent=2
-    ))
+    save_state(current, new_announced)
 
     if failures:
         print(f"[warn] fetch failed for: {', '.join(failures)}", flush=True)
