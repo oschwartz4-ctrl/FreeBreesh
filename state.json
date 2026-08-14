@@ -1,13 +1,6 @@
 {
   "seen": {
     "#1 Ferrari": {
-      "0xa5ca29e8a6668f42d4085eee8d2779a70aac8469807bc0ef8d3fc98487ad50b9|Thanasi Kokkinakis": {
-        "title": "Cincinnati Open: Nuno Borges vs Thanasi Kokkinakis",
-        "outcome": "Thanasi Kokkinakis",
-        "value": 31415.124,
-        "avgPrice": 0.3831,
-        "slug": "atp-borges-kokkina-2026-08-13"
-      },
       "0x8d8e0630bd63491f2a77d1e0fb0f2750ec4ff118151bade96b00700813d7c467|St. Louis Cardinals": {
         "title": "St. Louis Cardinals vs. Cincinnati Reds",
         "outcome": "St. Louis Cardinals",
@@ -18,8 +11,8 @@
       "0x84ca6491b3ec7bfc65b1b07a9897cb85445ba01ab54c1ef500f6be7b54acd9ef|2GAME Esports": {
         "title": "Valorant: FURIA Esports vs 2GAME Esports (BO3) - VCT Americas Stage 2 Play-In",
         "outcome": "2GAME Esports",
-        "value": 18978.9692,
-        "avgPrice": 0.3554,
+        "value": 20512.0331,
+        "avgPrice": 0.3987,
         "slug": "val-fur-2game-2026-08-14"
       },
       "0xfadb4ce0f2ff95054d2e58c5425bbf2c9c348a6ef588dceeb44ea40f183ed50f|Felix Auger-Aliassime": {
@@ -43,6 +36,13 @@
         "avgPrice": 0.4699,
         "slug": "mlb-sea-hou-2026-08-14-total-8pt5"
       },
+      "0xc87df8c6fda93d98e77fa12234fa07350f294841c423670dc6ba9182e5bbfc12|Michael Zheng": {
+        "title": "Cincinnati Open: Fabian Marozsan vs Michael Zheng",
+        "outcome": "Michael Zheng",
+        "value": 11654.143,
+        "avgPrice": 0.5279,
+        "slug": "atp-marozsa-zheng-2026-08-14"
+      },
       "0xcebad2b69f42a4110e88fb62b67925bb37df6560c9da0d41bf47003538a92f89|Amanda Anisimova": {
         "title": "National Bank Open: Lanlana Tararudee vs Amanda Anisimova",
         "outcome": "Amanda Anisimova",
@@ -50,40 +50,47 @@
         "avgPrice": 0.6431,
         "slug": "wta-tararud-anisimo-2026-08-04"
       },
-      "0x4953dcc504b091c757cccb58dbe28780d994b4f0455aaf3d4bc7c593279e6019|Chicago White Sox": {
-        "title": "Spread: Detroit Tigers (-1.5)",
-        "outcome": "Chicago White Sox",
-        "value": 10325.2966,
-        "avgPrice": 0.5899,
-        "slug": "mlb-cws-det-2026-08-14-spread-home-1pt5"
-      },
       "0x5e19b524253bd09a387a301edea0ac3a4687f6165204686eff2f9e748d324838|Under": {
         "title": "Miami Marlins vs. Cincinnati Reds: O/U 7.5",
         "outcome": "Under",
-        "value": 9983.3023,
-        "avgPrice": 0.4712,
+        "value": 11101.2949,
+        "avgPrice": 0.4782,
         "slug": "mlb-mia-cin-2026-08-14-total-7pt5"
+      },
+      "0xa02bbd8cecdd70852a777e96d62420fdd3370c014c59899a7f98f89e0e1d4f51|Marin Cilic": {
+        "title": "Cincinnati Open: Daniel Merida Aguilar vs Marin Cilic",
+        "outcome": "Marin Cilic",
+        "value": 10777.1013,
+        "avgPrice": 0.4706,
+        "slug": "atp-aguilar-cilic-2026-08-13"
       },
       "0x7983ea1751d12f8f3db41bc217f7126cc9a9c708b6b60ab79cb8598effa307bb|Marco Trungelliti": {
         "title": "Cincinnati Open: Hamad Medjedovic vs Marco Trungelliti",
         "outcome": "Marco Trungelliti",
-        "value": 9972.8756,
-        "avgPrice": 0.4336,
+        "value": 10406.4387,
+        "avgPrice": 0.8935,
         "slug": "atp-medjedo-trungel-2026-08-14"
       },
-      "0x7983ea1751d12f8f3db41bc217f7126cc9a9c708b6b60ab79cb8598effa307bb|Hamad Medjedovic": {
-        "title": "Cincinnati Open: Hamad Medjedovic vs Marco Trungelliti",
-        "outcome": "Hamad Medjedovic",
-        "value": 9767.0047,
-        "avgPrice": 0.31,
-        "slug": "atp-medjedo-trungel-2026-08-14"
-      },
-      "0x396649f68a9000541248996c69612da0f7fa17239625de443037ae4ca501cd3c|Chicago White Sox": {
-        "title": "Chicago White Sox vs. Detroit Tigers",
+      "0x4953dcc504b091c757cccb58dbe28780d994b4f0455aaf3d4bc7c593279e6019|Chicago White Sox": {
+        "title": "Spread: Detroit Tigers (-1.5)",
         "outcome": "Chicago White Sox",
-        "value": 9167.7597,
-        "avgPrice": 0.4099,
-        "slug": "mlb-cws-det-2026-08-14"
+        "value": 10312.859,
+        "avgPrice": 0.5899,
+        "slug": "mlb-cws-det-2026-08-14-spread-home-1pt5"
+      },
+      "0x5a24fa38c7db4731a8e4b8b08e60864eb4496e15d9c1cbc2fb7575112ce79648|Over": {
+        "title": "New York Yankees vs. Toronto Blue Jays: O/U 7.5",
+        "outcome": "Over",
+        "value": 10271.1594,
+        "avgPrice": 0.5299,
+        "slug": "mlb-nyy-tor-2026-08-14-total-7pt5"
+      },
+      "0x864324713766812d609e2373c754abbd412219e955e25c7c0b70fb67f6a2298e|Over": {
+        "title": "Boston Red Sox vs. Pittsburgh Pirates: O/U 7.5",
+        "outcome": "Over",
+        "value": 9429.5041,
+        "avgPrice": 0.48,
+        "slug": "mlb-bos-pit-2026-08-14-total-7pt5"
       },
       "0x68f4414fec7cfde3da92b1830df7a7b6815c281626b83d6ee24ceba3af6dd38e|Toronto Blue Jays": {
         "title": "New York Yankees vs. Toronto Blue Jays",
@@ -92,6 +99,20 @@
         "avgPrice": 0.4212,
         "slug": "mlb-nyy-tor-2026-08-14"
       },
+      "0xc9c680830e3c7ec4292462d38680c3eeb26c17c7055f23a88c3bf08c32dbad89|Cincinnati Reds": {
+        "title": "Miami Marlins vs. Cincinnati Reds",
+        "outcome": "Cincinnati Reds",
+        "value": 8935.8457,
+        "avgPrice": 0.5437,
+        "slug": "mlb-mia-cin-2026-08-14"
+      },
+      "0x5685c534ce5dca14ab141388f65bb70414af7f4c65c29950886e691ff4042e5b|Yulia Putintseva": {
+        "title": "Cincinnati Open: Yulia Putintseva vs Liudmila Samsonova",
+        "outcome": "Yulia Putintseva",
+        "value": 8876.0766,
+        "avgPrice": 0.381,
+        "slug": "wta-putints-samsono-2026-08-13"
+      },
       "0x69d9f9dc7bdb3fa4adee96a8e7f1e176e5971434c58d7b2c5210a2380b9a15e5|No": {
         "title": "Will Galatasaray SK win on 2026-08-14?",
         "outcome": "No",
@@ -99,19 +120,33 @@
         "avgPrice": 0.2779,
         "slug": "tur-gal-cf-2026-08-14-gal"
       },
+      "0xa0fb56bd90e8a43aff6c028a2b4c55751c64c11ccf004aebb56e91460fc38d59|Under": {
+        "title": "Chicago White Sox vs. Detroit Tigers: O/U 9.5",
+        "outcome": "Under",
+        "value": 8275.7749,
+        "avgPrice": 0.5499,
+        "slug": "mlb-cws-det-2026-08-14-total-9pt5"
+      },
       "0xf6e3cd9a991072115121e28251dfa1651d6f329ba8a6f78e0c18bf801150c0a8|Xinyu Wang": {
         "title": "Cincinnati Open: Xinyu Wang vs Hanne Vandewinkel",
         "outcome": "Xinyu Wang",
-        "value": 8591.6827,
-        "avgPrice": 0.6458,
+        "value": 8101.0995,
+        "avgPrice": 0.7402,
         "slug": "wta-wa-vandewi-2026-08-14"
       },
       "0x9a9d3bfbb23acafb8c574adba6bcacc7faffc1b9666b341b26112a94604930e3|San Francisco Giants": {
         "title": "Colorado Rockies vs. San Francisco Giants",
         "outcome": "San Francisco Giants",
-        "value": 7881.0071,
+        "value": 8025.6128,
         "avgPrice": 0.5499,
         "slug": "mlb-col-sf-2026-08-14"
+      },
+      "0x396649f68a9000541248996c69612da0f7fa17239625de443037ae4ca501cd3c|Chicago White Sox": {
+        "title": "Chicago White Sox vs. Detroit Tigers",
+        "outcome": "Chicago White Sox",
+        "value": 7697.8456,
+        "avgPrice": 0.4099,
+        "slug": "mlb-cws-det-2026-08-14"
       },
       "0x0cc3d7f9723b06381b10222bed4d30f56ddf1c24fa36edf4c7e828e659495de9|No": {
         "title": "Will Blackburn Rovers FC win on 2026-08-14?",
@@ -120,19 +155,12 @@
         "avgPrice": 0.3774,
         "slug": "elc-wol-bbr-2026-08-14-bbr"
       },
-      "0x3243b05b05746a69b9f787cd6dfbbc064af59fa5b7d2feb449d972c0888f0786|Under": {
-        "title": "Coventry City vs. AS Monaco: O/U 2.5",
-        "outcome": "Under",
-        "value": 6404.8459,
-        "avgPrice": 0.2953,
-        "slug": "clf-cov-asm-2026-08-14-total-2pt5"
-      },
-      "0x5685c534ce5dca14ab141388f65bb70414af7f4c65c29950886e691ff4042e5b|Yulia Putintseva": {
-        "title": "Cincinnati Open: Yulia Putintseva vs Liudmila Samsonova",
-        "outcome": "Yulia Putintseva",
-        "value": 5865.5287,
-        "avgPrice": 0.2847,
-        "slug": "wta-putints-samsono-2026-08-13"
+      "0x416f73b788cad3259262cfca9885a0fa96696efac040f803fdd4dc0d146c62a6|Toronto Blue Jays": {
+        "title": "Spread: New York Yankees (-1.5)",
+        "outcome": "Toronto Blue Jays",
+        "value": 6230.876,
+        "avgPrice": 0.55,
+        "slug": "mlb-nyy-tor-2026-08-14-spread-away-1pt5"
       },
       "0xa571f0b270deb9e7d31ef5b658f7095d4ded43ff4509cf71ad6ae755ea27329b|Kimmer Coppejans": {
         "title": "Zug: Cezar Cretu vs Kimmer Coppejans",
@@ -148,12 +176,12 @@
         "avgPrice": 0.3699,
         "slug": "mlb-mil-lad-2026-08-14"
       },
-      "0x0f0152281c867a8b1290332a936df74ae00fe535c3e0d23eb1fa80b70cd3bb71|Adam Walton": {
-        "title": "Cincinnati Open: Adam Walton vs Nicolas Mejia",
-        "outcome": "Adam Walton",
-        "value": 5111.4691,
-        "avgPrice": 0.9199,
-        "slug": "atp-walton-mejia-2026-08-14"
+      "0x7983ea1751d12f8f3db41bc217f7126cc9a9c708b6b60ab79cb8598effa307bb|Hamad Medjedovic": {
+        "title": "Cincinnati Open: Hamad Medjedovic vs Marco Trungelliti",
+        "outcome": "Hamad Medjedovic",
+        "value": 5035.3252,
+        "avgPrice": 0.0767,
+        "slug": "atp-medjedo-trungel-2026-08-14"
       },
       "0xf74a2646439b950c4cb8436bd1f7138d7d195ea899cd87801cc1f2136c376b76|Nadia Elle Valdez": {
         "title": "ITF Huamantla: Marianne Angel Gonzalez vs Nadia Elle Valdez",
@@ -162,26 +190,19 @@
         "avgPrice": 0.7119,
         "slug": "itf-mariann-valde-2026-07-22"
       },
-      "0x5f6820ec4323c595d09a617504de6ba4d8212c8a99688af12d73453a267d98ba|Over": {
-        "title": "Galatasaray SK vs. \u00c7orum FK: O/U 3.5",
-        "outcome": "Over",
-        "value": 4389.9106,
-        "avgPrice": 0.4079,
-        "slug": "tur-gal-cf-2026-08-14-total-3pt5"
-      },
-      "0x64b20e986ef477690afe7b934c7a7eac3c7e827f7c5a10119fdf41d2fc1c4da7|Seattle Mariners": {
-        "title": "Seattle Mariners vs. Houston Astros",
-        "outcome": "Seattle Mariners",
-        "value": 4302.459,
-        "avgPrice": 0.4699,
-        "slug": "mlb-sea-hou-2026-08-14"
-      },
       "0xe621e71a6bb2a310e35db9e1cc8c4a2d3da18a628935b231bfe3029b6810e98c|Over": {
         "title": "Wolverhampton Wanderers FC vs. Blackburn Rovers FC: O/U 3.5",
         "outcome": "Over",
         "value": 4291.614,
         "avgPrice": 0.5796,
         "slug": "elc-wol-bbr-2026-08-14-total-3pt5"
+      },
+      "0x64b20e986ef477690afe7b934c7a7eac3c7e827f7c5a10119fdf41d2fc1c4da7|Seattle Mariners": {
+        "title": "Seattle Mariners vs. Houston Astros",
+        "outcome": "Seattle Mariners",
+        "value": 4211.8809,
+        "avgPrice": 0.4699,
+        "slug": "mlb-sea-hou-2026-08-14"
       },
       "0x6263775feac6be865c5a9cce2861b8c0ceab16e6ffe574a6b6128b340a0c8b07|Angelina Voloshchuk": {
         "title": "ITF Florence: Aspen Schuman vs Angelina Voloshchuk",
@@ -190,26 +211,19 @@
         "avgPrice": 0.5129,
         "slug": "itf-schuman-voloshc-2026-07-29"
       },
+      "0x85064e686ff884307b6225af50cc301a738526b993e6acb6713899667556741a|Pittsburgh Pirates": {
+        "title": "Boston Red Sox vs. Pittsburgh Pirates",
+        "outcome": "Pittsburgh Pirates",
+        "value": 3781.0396,
+        "avgPrice": 0.4512,
+        "slug": "mlb-bos-pit-2026-08-14"
+      },
       "0x5e24be8dad6dcabb9877c914a1488785d79dde87125c83474254a70cbf44d52c|Aristotelis Thanos": {
         "title": "ITF Metzingen: Niels Ratiu vs Aristotelis Thanos",
         "outcome": "Aristotelis Thanos",
         "value": 3770.645,
         "avgPrice": 0.6466,
         "slug": "itf-ratiu-thanos-2026-07-22"
-      },
-      "0xa5ca29e8a6668f42d4085eee8d2779a70aac8469807bc0ef8d3fc98487ad50b9|Nuno Borges": {
-        "title": "Cincinnati Open: Nuno Borges vs Thanasi Kokkinakis",
-        "outcome": "Nuno Borges",
-        "value": 3710.2012,
-        "avgPrice": 0.6899,
-        "slug": "atp-borges-kokkina-2026-08-13"
-      },
-      "0x85064e686ff884307b6225af50cc301a738526b993e6acb6713899667556741a|Pittsburgh Pirates": {
-        "title": "Boston Red Sox vs. Pittsburgh Pirates",
-        "outcome": "Pittsburgh Pirates",
-        "value": 3555.3058,
-        "avgPrice": 0.4512,
-        "slug": "mlb-bos-pit-2026-08-14"
       },
       "0xd59a70cb6105f77c1db8f613943011958d1bf30a14f0961e85f82f3881b8364f|Hubert Hurkacz": {
         "title": "Cincinnati Open: Corentin Moutet vs Hubert Hurkacz",
@@ -239,6 +253,13 @@
         "avgPrice": 0.6369,
         "slug": "itf-ivantsi-dapkute-2026-08-12"
       },
+      "0xfdd3dbb046a16a303cef4fae8fa2fbdf101bb931ac0cc6544f908ce4508f7c26|Under": {
+        "title": "Boston Red Sox vs. Pittsburgh Pirates: O/U 8.5",
+        "outcome": "Under",
+        "value": 2684.5483,
+        "avgPrice": 0.5499,
+        "slug": "mlb-bos-pit-2026-08-14-total-8pt5"
+      },
       "0x9e9a83812c7d527869c929011657dac3c600151dac7d08c742b7f073049b3824|Under": {
         "title": "San Diego Padres vs. Cleveland Guardians: O/U 7.5",
         "outcome": "Under",
@@ -252,13 +273,6 @@
         "value": 2497.23,
         "avgPrice": 0.5248,
         "slug": "itf-steven-oconnel-2026-07-29"
-      },
-      "0xfdd3dbb046a16a303cef4fae8fa2fbdf101bb931ac0cc6544f908ce4508f7c26|Under": {
-        "title": "Boston Red Sox vs. Pittsburgh Pirates: O/U 8.5",
-        "outcome": "Under",
-        "value": 2418.3121,
-        "avgPrice": 0.5499,
-        "slug": "mlb-bos-pit-2026-08-14-total-8pt5"
       },
       "0xefb63177017a2bff2965cb15a6bbc03d3a5108ed3026f69b25715f634d2a11e5|Yulia Putintseva": {
         "title": "Iasi Open: Clara Burel vs Yulia Putintseva",
@@ -302,13 +316,6 @@
         "avgPrice": 0.67,
         "slug": "itf-orlov-kumstat-2026-07-23"
       },
-      "0x2d16e1d12ca7083361cf56b219f44508fc715bd9eeb340b8e0c9b948e4fa87b6|Tereza Valentova": {
-        "title": "Cincinnati Open: Mary Stoiana vs Tereza Valentova",
-        "outcome": "Tereza Valentova",
-        "value": 1931.9744,
-        "avgPrice": 0.7699,
-        "slug": "wta-stoiana-valento-2026-08-14"
-      },
       "0x4c7b0e07dfb705ca8004abf7dd591e62a35dae69c7b27de634b7aed4573c8483|Tereza Valentova": {
         "title": "Livesport Prague Open: Eva Lys vs Tereza Valentova",
         "outcome": "Tereza Valentova",
@@ -323,12 +330,19 @@
         "avgPrice": 0.49,
         "slug": "mlb-bos-nyy-2026-06-06"
       },
-      "0xc305f1a8731b1227ebefb8917faa8ec7a62d4a2ff23df5ef75e126dad6d4f575|Over": {
-        "title": "Stade de Reims vs. USL Dunkerque: O/U 5.5",
-        "outcome": "Over",
-        "value": 1423.4978,
-        "avgPrice": 0.0937,
-        "slug": "fr2-rei-usd-2026-08-14-total-5pt5"
+      "0x706093a798fdee4388ec7a96c1e7ffca880a279c2e8a3bfc14c8e68d7c321793|Boston Red Sox": {
+        "title": "Spread: Boston Red Sox (-1.5)",
+        "outcome": "Boston Red Sox",
+        "value": 1739.2408,
+        "avgPrice": 0.36,
+        "slug": "mlb-bos-pit-2026-08-14-spread-away-1pt5"
+      },
+      "0xcd32686639a196982a0d412fbc3e7300618cc7ad9d6625eb7b76336536861cdb|Blue Otter": {
+        "title": "LoL: Conviction vs Blue Otter (BO3) - North American Challengers League Last Chance Qualifier",
+        "outcome": "Blue Otter",
+        "value": 1580.0145,
+        "avgPrice": 0.2051,
+        "slug": "lol-cnv-blue-2026-08-14"
       },
       "0xa0186f1011da61f31ca779437eb11556677bc9f8030dd25171d9da85b0e245b6|Yes": {
         "title": "Will Pau FC win on 2026-08-14?",
@@ -344,19 +358,19 @@
         "avgPrice": 0.5886,
         "slug": "itf-rottoli-ferrar-2026-08-04"
       },
-      "0x9c22889d6c465ae6562225a76ce642ecc76e99b10e1616d8111a4f812cff61e9|AS Saint-\u00c9tienne": {
-        "title": "Spread: AS Saint-\u00c9tienne (-1.5)",
-        "outcome": "AS Saint-\u00c9tienne",
-        "value": 1241.289,
-        "avgPrice": 0.31,
-        "slug": "fr2-ass-clf-2026-08-14-spread-home-1pt5"
-      },
       "0x7aa71e47536cd611c9a7567bcd45752e171da74fae7c437a8c959fce8254c2c7|Stefan Vujic": {
         "title": "ITF Hillcrest: Preston Brown vs Stefan Vujic",
         "outcome": "Stefan Vujic",
         "value": 1220.77,
         "avgPrice": 0.65,
         "slug": "itf-brow-vujic-2026-07-15"
+      },
+      "0x328d9191e16ecb4da340779c8aa6a98b2475ab28e9639a422013fa6f60383f98|Cincinnati Reds": {
+        "title": "Spread: Cincinnati Reds (-1.5)",
+        "outcome": "Cincinnati Reds",
+        "value": 1219.7442,
+        "avgPrice": 0.34,
+        "slug": "mlb-mia-cin-2026-08-14-spread-home-1pt5"
       },
       "0x6cd2e0ae968a82ffeb5c1f5fbf9f3734ba0dc1f24d7a7b9ef427ba35a9dca381|Katie Swan": {
         "title": "Mubadala Citi DC Open, Qualification: Lea Ma vs Katie Swan",
@@ -407,20 +421,6 @@
         "avgPrice": 0.73,
         "slug": "itf-daems-granweh-2026-07-23"
       },
-      "0x39d34f305cd36a1a416141749d0b53b67e75e2c70c5785db6ddc771d7358e6ad|Under": {
-        "title": "Stade Lavallois Mayenne FC vs. FC Nantes: O/U 4.5",
-        "outcome": "Under",
-        "value": 1047.5451,
-        "avgPrice": 0.87,
-        "slug": "fr2-lav-nan-2026-08-14-total-4pt5"
-      },
-      "0x0f0152281c867a8b1290332a936df74ae00fe535c3e0d23eb1fa80b70cd3bb71|Nicolas Mejia": {
-        "title": "Cincinnati Open: Adam Walton vs Nicolas Mejia",
-        "outcome": "Nicolas Mejia",
-        "value": 1023.4978,
-        "avgPrice": 0.06,
-        "slug": "atp-walton-mejia-2026-08-14"
-      },
       "0xd73b81755d573d5abb591ab049ef6a5c535833296e8b1d3573558b6d12d686fe|Yes": {
         "title": "Will Vancouver Whitecaps FC win on 2026-07-16?",
         "outcome": "Yes",
@@ -434,13 +434,6 @@
         "value": 790.6373,
         "avgPrice": 0.5688,
         "slug": "kbo-doo-kt-2026-07-21"
-      },
-      "0x155423b726152c0c3b0483cc439e4a98450454208390f5bdb51fdae5d9dada3f|Over": {
-        "title": "AS Saint-\u00c9tienne vs. Clermont Foot 63: O/U 3.5",
-        "outcome": "Over",
-        "value": 785.3371,
-        "avgPrice": 0.1698,
-        "slug": "fr2-ass-clf-2026-08-14-total-3pt5"
       },
       "0x425a3294cb0c23814f88f481ecb6e44f5f7401dd884826fdf23faa2e98b2a75b|Atlanta Braves": {
         "title": "Spread: Atlanta Braves (-1.5)",
@@ -456,26 +449,12 @@
         "avgPrice": 0.6982,
         "slug": "itf-tenguer-reco-2026-07-23"
       },
-      "0xe7d1197611f2f0abe22f0b1e230886e0c47b9aef20f22365c283792b28e0208d|FC Annecy": {
-        "title": "Spread: FC Annecy (-1.5)",
-        "outcome": "FC Annecy",
-        "value": 662.4159,
-        "avgPrice": 0.279,
-        "slug": "fr2-fca-raf-2026-08-14-spread-home-1pt5"
-      },
       "0xe3c90c8836bbdcb619f6b749e7095458baca9be96cc81f125568bea771336207|Sobolieva": {
         "title": "Set 1 Winner: Samson vs Sobolieva",
         "outcome": "Sobolieva",
         "value": 647.4618,
         "avgPrice": 0.5179,
         "slug": "wta-samson-sobolie-2026-07-29-first-set-winner-Samson-vs-Sobolieva"
-      },
-      "0x1d7cdd2901251ff3c26d42b083bb24641ee06f18a530e8a4d6f18d3b060819c2|Over": {
-        "title": "Dijon Football C\u00f4te d'Or vs. Pau FC: O/U 0.5",
-        "outcome": "Over",
-        "value": 635.7919,
-        "avgPrice": 0.64,
-        "slug": "fr2-dij-pau-2026-08-14-total-0pt5"
       },
       "0x024894cf2eea678a8fcf231ce51d26777160230112d5fe93420573b741b2b603|San Diego Padres": {
         "title": "San Diego Padres vs. Cleveland Guardians",
@@ -491,12 +470,12 @@
         "avgPrice": 0.4912,
         "slug": "atp-zandsch-grieksp-2026-08-13"
       },
-      "0x21aff551460ffcccf9f38c78b04a3a99e55a5b3bd3782cd86056c03f8bf83f73|Putintseva": {
-        "title": "Set 1 Winner: Putintseva vs Samsonova",
-        "outcome": "Putintseva",
-        "value": 531.3252,
-        "avgPrice": 0.17,
-        "slug": "wta-putints-samsono-2026-08-13-first-set-winner-Putintseva-vs-Samsonova"
+      "0x2d16e1d12ca7083361cf56b219f44508fc715bd9eeb340b8e0c9b948e4fa87b6|Tereza Valentova": {
+        "title": "Cincinnati Open: Mary Stoiana vs Tereza Valentova",
+        "outcome": "Tereza Valentova",
+        "value": 523.7914,
+        "avgPrice": 0.736,
+        "slug": "wta-stoiana-valento-2026-08-14"
       },
       "0xcba78f02cd07d809471ee9b21813b430d360262db259917a6709806d69e159ea|Dzumhur": {
         "title": "Set 1 Winner: Gaston vs Dzumhur",
@@ -514,26 +493,19 @@
         "avgPrice": 0.4468,
         "slug": "elc-wol-bbr-2026-08-14-wol"
       },
-      "0xa5ca29e8a6668f42d4085eee8d2779a70aac8469807bc0ef8d3fc98487ad50b9|Nuno Borges": {
-        "title": "Cincinnati Open: Nuno Borges vs Thanasi Kokkinakis",
-        "outcome": "Nuno Borges",
-        "value": 49690.8265,
-        "avgPrice": 0.5744,
-        "slug": "atp-borges-kokkina-2026-08-13"
-      },
-      "0x9851747dca35bd781373bdb42253084b500c182c92bca9095a0fdc4faf9162d7|Under": {
-        "title": "Atalanta BC vs. Athletic Bilbao: O/U 1.5",
-        "outcome": "Under",
-        "value": 40097.5965,
-        "avgPrice": 0.822,
-        "slug": "clf-ata-ath-2026-08-14-total-1pt5"
-      },
       "0xf6e3cd9a991072115121e28251dfa1651d6f329ba8a6f78e0c18bf801150c0a8|Xinyu Wang": {
         "title": "Cincinnati Open: Xinyu Wang vs Hanne Vandewinkel",
         "outcome": "Xinyu Wang",
-        "value": 32058.6965,
-        "avgPrice": 0.5094,
+        "value": 46968.8762,
+        "avgPrice": 0.5853,
         "slug": "wta-wa-vandewi-2026-08-14"
+      },
+      "0x5685c534ce5dca14ab141388f65bb70414af7f4c65c29950886e691ff4042e5b|Liudmila Samsonova": {
+        "title": "Cincinnati Open: Yulia Putintseva vs Liudmila Samsonova",
+        "outcome": "Liudmila Samsonova",
+        "value": 28455.9443,
+        "avgPrice": 0.6461,
+        "slug": "wta-putints-samsono-2026-08-13"
       },
       "0x69d9f9dc7bdb3fa4adee96a8e7f1e176e5971434c58d7b2c5210a2380b9a15e5|No": {
         "title": "Will Galatasaray SK win on 2026-08-14?",
@@ -542,19 +514,12 @@
         "avgPrice": 0.4204,
         "slug": "tur-gal-cf-2026-08-14-gal"
       },
-      "0xa5ca29e8a6668f42d4085eee8d2779a70aac8469807bc0ef8d3fc98487ad50b9|Thanasi Kokkinakis": {
-        "title": "Cincinnati Open: Nuno Borges vs Thanasi Kokkinakis",
-        "outcome": "Thanasi Kokkinakis",
-        "value": 24072.3298,
-        "avgPrice": 0.3839,
-        "slug": "atp-borges-kokkina-2026-08-13"
-      },
-      "0xe77a5e4398adf2e2687ef3e0da8800233ab033bdda3e45716465d72327a51db0|Over": {
-        "title": "Al Ettifaq Saudi Club vs. Al Riyadh Saudi Club: O/U 5.5",
-        "outcome": "Over",
-        "value": 20425.1985,
-        "avgPrice": 0.256,
-        "slug": "spl-ett-riy-2026-08-14-total-5pt5"
+      "0x9890e51b1b7c924d3f6b6436e4c497b6df02756028b494e1f783a5c25812ce26|Lloyd Harris": {
+        "title": "Brownsburg: Lloyd Harris vs Harry Wendelken",
+        "outcome": "Lloyd Harris",
+        "value": 21227.1816,
+        "avgPrice": 0.5929,
+        "slug": "atp-harri-wendelk-2026-08-14"
       },
       "0x0cc3d7f9723b06381b10222bed4d30f56ddf1c24fa36edf4c7e828e659495de9|No": {
         "title": "Will Blackburn Rovers FC win on 2026-08-14?",
@@ -563,12 +528,26 @@
         "avgPrice": 0.5094,
         "slug": "elc-wol-bbr-2026-08-14-bbr"
       },
-      "0x9890e51b1b7c924d3f6b6436e4c497b6df02756028b494e1f783a5c25812ce26|Lloyd Harris": {
-        "title": "Brownsburg: Lloyd Harris vs Harry Wendelken",
-        "outcome": "Lloyd Harris",
-        "value": 18583.0755,
-        "avgPrice": 0.5929,
-        "slug": "atp-harri-wendelk-2026-08-14"
+      "0x7983ea1751d12f8f3db41bc217f7126cc9a9c708b6b60ab79cb8598effa307bb|Marco Trungelliti": {
+        "title": "Cincinnati Open: Hamad Medjedovic vs Marco Trungelliti",
+        "outcome": "Marco Trungelliti",
+        "value": 19794.5993,
+        "avgPrice": 0.5938,
+        "slug": "atp-medjedo-trungel-2026-08-14"
+      },
+      "0xa02bbd8cecdd70852a777e96d62420fdd3370c014c59899a7f98f89e0e1d4f51|Marin Cilic": {
+        "title": "Cincinnati Open: Daniel Merida Aguilar vs Marin Cilic",
+        "outcome": "Marin Cilic",
+        "value": 14962.4851,
+        "avgPrice": 0.4133,
+        "slug": "atp-aguilar-cilic-2026-08-13"
+      },
+      "0x65349f9bd2763d0a3ea1d54dedac67625cf5bfb46ced508d0f299cd921d0b77b|No": {
+        "title": "Will Racing Club win on 2026-08-14?",
+        "outcome": "No",
+        "value": 14316.9729,
+        "avgPrice": 0.4356,
+        "slug": "arg-rac-ban-2026-08-14-rac"
       },
       "0x27d4565178c430f220cf398ffe4942d2e7bc17feb5c9a40b58654f8c54e7f0dd|Under": {
         "title": "Sporting CP vs. Vit\u00f3ria SC: O/U 5.5",
@@ -577,12 +556,12 @@
         "avgPrice": 0.6407,
         "slug": "por-spo-gui-2026-08-14-total-5pt5"
       },
-      "0xc128b75fa1658a3db616e9d7aec6fffafba2f1d2b62dfdc7a1aedaf1586e8d1b|No": {
-        "title": "Will AS Monaco win on 2026-08-14?",
-        "outcome": "No",
-        "value": 12995.4533,
-        "avgPrice": 0.9468,
-        "slug": "clf-cov-asm-2026-08-14-asm"
+      "0x5685c534ce5dca14ab141388f65bb70414af7f4c65c29950886e691ff4042e5b|Yulia Putintseva": {
+        "title": "Cincinnati Open: Yulia Putintseva vs Liudmila Samsonova",
+        "outcome": "Yulia Putintseva",
+        "value": 13048.8338,
+        "avgPrice": 0.3046,
+        "slug": "wta-putints-samsono-2026-08-13"
       },
       "0xe621e71a6bb2a310e35db9e1cc8c4a2d3da18a628935b231bfe3029b6810e98c|Over": {
         "title": "Wolverhampton Wanderers FC vs. Blackburn Rovers FC: O/U 3.5",
@@ -598,33 +577,19 @@
         "avgPrice": 0.7359,
         "slug": "por-spo-gui-2026-08-14-spo"
       },
+      "0xc87df8c6fda93d98e77fa12234fa07350f294841c423670dc6ba9182e5bbfc12|Michael Zheng": {
+        "title": "Cincinnati Open: Fabian Marozsan vs Michael Zheng",
+        "outcome": "Michael Zheng",
+        "value": 11715.8776,
+        "avgPrice": 0.5158,
+        "slug": "atp-marozsa-zheng-2026-08-14"
+      },
       "0x40d9ffee2603effadde13cb16baae1bef9bdf16508fd78562875188c7c784b80|No": {
         "title": "Will \u00c7orum FK win on 2026-08-14?",
         "outcome": "No",
         "value": 11410.8203,
         "avgPrice": 0.6515,
         "slug": "tur-gal-cf-2026-08-14-cf"
-      },
-      "0x74cdf67deb3103d7a6e639687b95dfed3a5ca9daf823985ddedf10c447562636|Over": {
-        "title": "Telstar 1963 vs. Sparta Rotterdam: O/U 2.5",
-        "outcome": "Over",
-        "value": 10913.3905,
-        "avgPrice": 0.6974,
-        "slug": "ere-tel-spa-2026-08-14-total-2pt5"
-      },
-      "0x5685c534ce5dca14ab141388f65bb70414af7f4c65c29950886e691ff4042e5b|Liudmila Samsonova": {
-        "title": "Cincinnati Open: Yulia Putintseva vs Liudmila Samsonova",
-        "outcome": "Liudmila Samsonova",
-        "value": 10857.6869,
-        "avgPrice": 0.6413,
-        "slug": "wta-putints-samsono-2026-08-13"
-      },
-      "0x614c26ff43ada58efe5a87f133c056c2aeaede5c0a8fdec0e61704947066c52c|ENCE": {
-        "title": "Counter-Strike: Just Players vs ENCE (BO3) - NODWIN Clutch Series Play-In Group A",
-        "outcome": "ENCE",
-        "value": 10782.9418,
-        "avgPrice": 0.5402,
-        "slug": "cs2-justpl-ence-2026-08-14"
       },
       "0xebfee51f2635dadc2d8f17a3295593948188620ff0eac281ce83487b4e13837b|Yes": {
         "title": "Will Viborg FF win on 2026-08-14?",
@@ -640,26 +605,19 @@
         "avgPrice": 0.805,
         "slug": "elc-wol-bbr-2026-08-14-spread-home-2pt5"
       },
-      "0x7983ea1751d12f8f3db41bc217f7126cc9a9c708b6b60ab79cb8598effa307bb|Hamad Medjedovic": {
-        "title": "Cincinnati Open: Hamad Medjedovic vs Marco Trungelliti",
-        "outcome": "Hamad Medjedovic",
-        "value": 8577.6513,
-        "avgPrice": 0.4894,
-        "slug": "atp-medjedo-trungel-2026-08-14"
+      "0x2d16e1d12ca7083361cf56b219f44508fc715bd9eeb340b8e0c9b948e4fa87b6|Tereza Valentova": {
+        "title": "Cincinnati Open: Mary Stoiana vs Tereza Valentova",
+        "outcome": "Tereza Valentova",
+        "value": 9183.8801,
+        "avgPrice": 0.854,
+        "slug": "wta-stoiana-valento-2026-08-14"
       },
-      "0xf6e3cd9a991072115121e28251dfa1651d6f329ba8a6f78e0c18bf801150c0a8|Hanne Vandewinkel": {
-        "title": "Cincinnati Open: Xinyu Wang vs Hanne Vandewinkel",
-        "outcome": "Hanne Vandewinkel",
-        "value": 7765.3311,
-        "avgPrice": 0.4526,
-        "slug": "wta-wa-vandewi-2026-08-14"
-      },
-      "0x5f6820ec4323c595d09a617504de6ba4d8212c8a99688af12d73453a267d98ba|Over": {
-        "title": "Galatasaray SK vs. \u00c7orum FK: O/U 3.5",
-        "outcome": "Over",
-        "value": 7763.2306,
-        "avgPrice": 0.6331,
-        "slug": "tur-gal-cf-2026-08-14-total-3pt5"
+      "0xc9c680830e3c7ec4292462d38680c3eeb26c17c7055f23a88c3bf08c32dbad89|Cincinnati Reds": {
+        "title": "Miami Marlins vs. Cincinnati Reds",
+        "outcome": "Cincinnati Reds",
+        "value": 8695.6494,
+        "avgPrice": 0.5425,
+        "slug": "mlb-mia-cin-2026-08-14"
       },
       "0x11f3edfefd84d223f41c57ee05081944e0d6a79cfa758e4bf25c144d9d9e9543|Yes": {
         "title": "Will Stade Lavallois Mayenne FC win on 2026-08-14?",
@@ -675,20 +633,6 @@
         "avgPrice": 0.67,
         "slug": "hr1-din-rud-2026-08-14-halftime-result-home"
       },
-      "0x8d42eb46e6ec62960bb27d144b6c2a3a2ab2feecdbb091bce0afc9603491c0a0|No": {
-        "title": "Will St. Truidense VV win on 2026-08-14?",
-        "outcome": "No",
-        "value": 6531.1827,
-        "avgPrice": 0.1389,
-        "slug": "bel1-cer-stt-2026-08-14-stt"
-      },
-      "0x06ccc96fbee925f4fa9fdbd64e580bb554b82948de9273ac75ea510b8a4c482a|No": {
-        "title": "Will Al Faisaly Saudi Club win on 2026-08-14?",
-        "outcome": "No",
-        "value": 6505.972,
-        "avgPrice": 0.9746,
-        "slug": "spl-hil-fai-2026-08-14-fai"
-      },
       "0x692e9eea103ed39f9624dba36524e0c5eabd26617b2d1000b9ef2776d4a5584a|Over": {
         "title": "Sporting CP vs. Vit\u00f3ria SC: O/U 4.5",
         "outcome": "Over",
@@ -696,26 +640,12 @@
         "avgPrice": 0.4622,
         "slug": "por-spo-gui-2026-08-14-total-4pt5"
       },
-      "0x7983ea1751d12f8f3db41bc217f7126cc9a9c708b6b60ab79cb8598effa307bb|Marco Trungelliti": {
+      "0x7983ea1751d12f8f3db41bc217f7126cc9a9c708b6b60ab79cb8598effa307bb|Hamad Medjedovic": {
         "title": "Cincinnati Open: Hamad Medjedovic vs Marco Trungelliti",
-        "outcome": "Marco Trungelliti",
-        "value": 5727.6305,
-        "avgPrice": 0.3955,
+        "outcome": "Hamad Medjedovic",
+        "value": 5726.83,
+        "avgPrice": 0.3435,
         "slug": "atp-medjedo-trungel-2026-08-14"
-      },
-      "0xd6e3e6620c32a0e41eea9728b46cac6dba3482926b5f3f2e1439eec21d9e66e0|No": {
-        "title": "Will FC Nantes win on 2026-08-14?",
-        "outcome": "No",
-        "value": 5061.2152,
-        "avgPrice": 0.5257,
-        "slug": "fr2-lav-nan-2026-08-14-nan"
-      },
-      "0x6b41ecccf777b2794b79a6c41e99b88d70d08fdee4e5679f7fb150d4ce56d036|Under": {
-        "title": "GNK Dinamo Zagreb vs. NK Rude\u0161: O/U 4.5",
-        "outcome": "Under",
-        "value": 4890.5535,
-        "avgPrice": 0.7878,
-        "slug": "hr1-din-rud-2026-08-14-total-4pt5"
       },
       "0xd57f0fe8965c5c7af747f520761d4d79bacecb50332ced643bdda3b5b54250ba|No": {
         "title": "Coventry City vs. AS Monaco: Both Teams to Score",
@@ -723,13 +653,6 @@
         "value": 4585.9558,
         "avgPrice": 0.32,
         "slug": "clf-cov-asm-2026-08-14-btts"
-      },
-      "0xc87df8c6fda93d98e77fa12234fa07350f294841c423670dc6ba9182e5bbfc12|Michael Zheng": {
-        "title": "Cincinnati Open: Fabian Marozsan vs Michael Zheng",
-        "outcome": "Michael Zheng",
-        "value": 4555.0471,
-        "avgPrice": 0.5162,
-        "slug": "atp-marozsa-zheng-2026-08-14"
       },
       "0xe3134c729243928958c193f5695b24aa9cf689e920f39302656da84ea3840bc7|Over": {
         "title": "Sporting CP vs. Vit\u00f3ria SC: O/U 3.5",
@@ -752,19 +675,26 @@
         "avgPrice": 0.8256,
         "slug": "spl-ett-riy-2026-08-14-ett"
       },
-      "0x9890e51b1b7c924d3f6b6436e4c497b6df02756028b494e1f783a5c25812ce26|Harry Wendelken": {
-        "title": "Brownsburg: Lloyd Harris vs Harry Wendelken",
-        "outcome": "Harry Wendelken",
-        "value": 3444.4714,
-        "avgPrice": 0.4578,
-        "slug": "atp-harri-wendelk-2026-08-14"
+      "0x82f73c941a2955728a6ec9b968bd60fa7c58006ebc63bfa80e16ea28451200c8|Andres Andrade": {
+        "title": "Brownsburg: Andres Andrade vs Jack Pinnington Jones",
+        "outcome": "Andres Andrade",
+        "value": 3669.0085,
+        "avgPrice": 0.3246,
+        "slug": "atp-andrade-jones-2026-08-14"
       },
-      "0x4520580992fbd381428fbb091b8f1bc69cab798b387d5ad964babc6effa223d7|Tristan Schoolkate": {
-        "title": "Brownsburg: Andre Ilagan vs Tristan Schoolkate",
-        "outcome": "Tristan Schoolkate",
-        "value": 3409.248,
-        "avgPrice": 0.5,
-        "slug": "atp-ilagan-schoolk-2026-08-14"
+      "0x706093a798fdee4388ec7a96c1e7ffca880a279c2e8a3bfc14c8e68d7c321793|Pittsburgh Pirates": {
+        "title": "Spread: Boston Red Sox (-1.5)",
+        "outcome": "Pittsburgh Pirates",
+        "value": 3605.55,
+        "avgPrice": 0.64,
+        "slug": "mlb-bos-pit-2026-08-14-spread-away-1pt5"
+      },
+      "0x771586bcaf94076261352e995ebe598b6dceec89db9c5e021ccba5976d645dbe|No": {
+        "title": "Will CD La Serena win on 2026-08-14?",
+        "outcome": "No",
+        "value": 3475.0,
+        "avgPrice": 0.7,
+        "slug": "chi1-cu1-cls-2026-08-14-cls"
       },
       "0xac7b6df5700b8ef04beb605203d2447f33904f32b77cacd01f2aa532fc780125|Over": {
         "title": "Wolverhampton Wanderers FC vs. Blackburn Rovers FC: O/U 2.5",
@@ -783,7 +713,7 @@
       "0xa7870cb3a41edca2f37610587494db5c4f767241ed1d77c50e99a41179cab9c3|No": {
         "title": "Exact Score: CA Grau 1 - 2 CD Comerciantes Unidos?",
         "outcome": "No",
-        "value": 3132.3632,
+        "value": 3168.8229,
         "avgPrice": 0.9599,
         "slug": "per1-cag-ccu-2026-08-14-exact-score-1-2"
       },
@@ -794,26 +724,33 @@
         "avgPrice": 0.8655,
         "slug": "por-spo-gui-2026-08-14-draw"
       },
-      "0xc87df8c6fda93d98e77fa12234fa07350f294841c423670dc6ba9182e5bbfc12|Fabian Marozsan": {
-        "title": "Cincinnati Open: Fabian Marozsan vs Michael Zheng",
-        "outcome": "Fabian Marozsan",
-        "value": 3008.9542,
-        "avgPrice": 0.728,
-        "slug": "atp-marozsa-zheng-2026-08-14"
+      "0xc9c680830e3c7ec4292462d38680c3eeb26c17c7055f23a88c3bf08c32dbad89|Miami Marlins": {
+        "title": "Miami Marlins vs. Cincinnati Reds",
+        "outcome": "Miami Marlins",
+        "value": 3062.9251,
+        "avgPrice": 0.4477,
+        "slug": "mlb-mia-cin-2026-08-14"
       },
-      "0x99ae145a7ea8ebbf403f5df9c6038e12b465f70fbc08f86a9ca1db07246f3f06|Juncheng Shang": {
-        "title": "Cincinnati Open: Juncheng Shang vs Lorenzo Sonego",
-        "outcome": "Juncheng Shang",
-        "value": 2966.4779,
-        "avgPrice": 0.3582,
-        "slug": "atp-shang-sonego-2026-08-13"
+      "0x9fd1d642cf2c7514dfee935fd196b31b028c1658a705bd2ca192671b3009f0e8|No": {
+        "title": "Will CD Universidad de Concepci\u00f3n win on 2026-08-14?",
+        "outcome": "No",
+        "value": 2875.0,
+        "avgPrice": 0.57,
+        "slug": "chi1-cu1-cls-2026-08-14-cu1"
       },
-      "0xa02bbd8cecdd70852a777e96d62420fdd3370c014c59899a7f98f89e0e1d4f51|Marin Cilic": {
-        "title": "Cincinnati Open: Daniel Merida Aguilar vs Marin Cilic",
-        "outcome": "Marin Cilic",
-        "value": 2876.055,
-        "avgPrice": 0.4127,
-        "slug": "atp-aguilar-cilic-2026-08-13"
+      "0x7d2645281dea219373603f3e3ea0ffcce7546fe93e45f63ddebb03ffb5f1c4fc|No": {
+        "title": "Will Clube N\u00e1utico Capibaribe win on 2026-08-14?",
+        "outcome": "No",
+        "value": 2777.5816,
+        "avgPrice": 0.5029,
+        "slug": "bra2-pop-nau-2026-08-14-nau"
+      },
+      "0x4520580992fbd381428fbb091b8f1bc69cab798b387d5ad964babc6effa223d7|Tristan Schoolkate": {
+        "title": "Brownsburg: Andre Ilagan vs Tristan Schoolkate",
+        "outcome": "Tristan Schoolkate",
+        "value": 2757.1639,
+        "avgPrice": 0.4977,
+        "slug": "atp-ilagan-schoolk-2026-08-14"
       },
       "0xaedb6667cf88cade0903baee5d5f14180e0cb4c35cfb1c8c05d5f91af051ba5b|Alexander Blockx": {
         "title": "National Bank Open: Jaume Munar vs Alexander Blockx",
@@ -822,68 +759,40 @@
         "avgPrice": 0.5,
         "slug": "atp-munar-blockx-2026-08-04"
       },
-      "0x0613053bb91184a4d89787d1ce5ef01dc312020be6415aa127d1e4d063ef9097|No": {
-        "title": "Will Stade de Reims win on 2026-08-14?",
+      "0xa02bbd8cecdd70852a777e96d62420fdd3370c014c59899a7f98f89e0e1d4f51|Daniel Merida Aguilar": {
+        "title": "Cincinnati Open: Daniel Merida Aguilar vs Marin Cilic",
+        "outcome": "Daniel Merida Aguilar",
+        "value": 2494.964,
+        "avgPrice": 0.319,
+        "slug": "atp-aguilar-cilic-2026-08-13"
+      },
+      "0xf662409e2f7ce1143462ca79c437c8d4206749ceeaaffca6a3b2889719a59070|No": {
+        "title": "Will Delfin SC win on 2026-08-14?",
         "outcome": "No",
-        "value": 2457.4284,
-        "avgPrice": 0.283,
-        "slug": "fr2-rei-usd-2026-08-14-rei"
+        "value": 2357.0041,
+        "avgPrice": 0.9348,
+        "slug": "ecu1-ind-dsc-2026-08-14-dsc"
       },
       "0x7d2645281dea219373603f3e3ea0ffcce7546fe93e45f63ddebb03ffb5f1c4fc|Yes": {
         "title": "Will Clube N\u00e1utico Capibaribe win on 2026-08-14?",
         "outcome": "Yes",
-        "value": 2375.0,
+        "value": 2352.9331,
         "avgPrice": 0.45,
         "slug": "bra2-pop-nau-2026-08-14-nau"
       },
-      "0xe7c3ba587c882531d4b710c8175a096019bcf1886f18a2691e880e3f2aa6f915|No": {
-        "title": "Will Red Star FC win on 2026-08-14?",
-        "outcome": "No",
-        "value": 2216.988,
-        "avgPrice": 0.5498,
-        "slug": "fr2-rst-fcs-2026-08-14-rst"
+      "0x85064e686ff884307b6225af50cc301a738526b993e6acb6713899667556741a|Pittsburgh Pirates": {
+        "title": "Boston Red Sox vs. Pittsburgh Pirates",
+        "outcome": "Pittsburgh Pirates",
+        "value": 2030.7429,
+        "avgPrice": 0.4851,
+        "slug": "mlb-bos-pit-2026-08-14"
       },
-      "0xc3ee5a4f4b96df86d4759a012cab0cca40b116ca80cf01a2edb58ff032f4ccf8|Over": {
-        "title": "Telstar 1963 vs. Sparta Rotterdam: O/U 3.5",
-        "outcome": "Over",
-        "value": 2149.1534,
-        "avgPrice": 0.2102,
-        "slug": "ere-tel-spa-2026-08-14-total-3pt5"
-      },
-      "0x99ae145a7ea8ebbf403f5df9c6038e12b465f70fbc08f86a9ca1db07246f3f06|Lorenzo Sonego": {
-        "title": "Cincinnati Open: Juncheng Shang vs Lorenzo Sonego",
-        "outcome": "Lorenzo Sonego",
-        "value": 2047.6756,
-        "avgPrice": 0.6236,
-        "slug": "atp-shang-sonego-2026-08-13"
-      },
-      "0x1e71cace907df6523986f3ecf982b9e0c7997a42e826f232422f87ddeb02bbab|No": {
-        "title": "Exact Score: GNK Dinamo Zagreb 3 - 1 NK Rude\u0161?",
-        "outcome": "No",
-        "value": 2022.155,
-        "avgPrice": 0.91,
-        "slug": "hr1-din-rud-2026-08-14-exact-score-3-1"
-      },
-      "0x0f0152281c867a8b1290332a936df74ae00fe535c3e0d23eb1fa80b70cd3bb71|Adam Walton": {
-        "title": "Cincinnati Open: Adam Walton vs Nicolas Mejia",
-        "outcome": "Adam Walton",
-        "value": 1887.0563,
-        "avgPrice": 0.6608,
-        "slug": "atp-walton-mejia-2026-08-14"
-      },
-      "0x6fa9cbf317fa64384a330791b02c6bdc29bb2add863f2a992356853a3b6ddc6a|No": {
-        "title": "Will Al Riyadh Saudi Club win on 2026-08-14?",
-        "outcome": "No",
-        "value": 1789.8857,
-        "avgPrice": 0.9276,
-        "slug": "spl-ett-riy-2026-08-14-riy"
-      },
-      "0xddb64a60328748811152394e7d5f812477acee7bd7add14082969d4b08be7358|No": {
-        "title": "Will Aarhus GF win on 2026-08-14?",
-        "outcome": "No",
-        "value": 1673.5821,
-        "avgPrice": 0.8864,
-        "slug": "den-vib-agf-2026-08-14-agf"
+      "0xe247dc592a1555e87763f89d3cc902b89b3f6050fe8e7577aa13c014ddfb7530|Under": {
+        "title": "Miami Marlins vs. Cincinnati Reds: O/U 9.5",
+        "outcome": "Under",
+        "value": 2004.975,
+        "avgPrice": 0.8286,
+        "slug": "mlb-mia-cin-2026-08-14-total-9pt5"
       },
       "0x11aa41cef078134b7772d57757fcff0de86eff53000e0e401382924f17c40561|No": {
         "title": "Exact Score: Galatasaray SK 0 - 1 \u00c7orum FK?",
@@ -927,27 +836,6 @@
         "avgPrice": 0.9209,
         "slug": "elc-wol-bbr-2026-08-14-total-4pt5"
       },
-      "0x9db4f37312b0b716c18963c1ad4d9de57e201ad858300ad5d54bd965cc25e7cf|No": {
-        "title": "Will RKS Radomiak Radom win on 2026-08-14?",
-        "outcome": "No",
-        "value": 1563.218,
-        "avgPrice": 0.86,
-        "slug": "pol-leg-rad-2026-08-14-rad"
-      },
-      "0x4b6c42116ab4469e955c1587abda5eca11e0b116dcddf175b88b420ab4931085|Al Hilal Saudi Club": {
-        "title": "Spread: Al Hilal Saudi Club (-1.5)",
-        "outcome": "Al Hilal Saudi Club",
-        "value": 1491.254,
-        "avgPrice": 0.98,
-        "slug": "spl-hil-fai-2026-08-14-spread-home-1pt5"
-      },
-      "0x8f499cd1e287be696aea3f848d265ab0c19dde467630c5cdcb22760411abfef2|Over": {
-        "title": "Al Ettifaq Saudi Club vs. Al Riyadh Saudi Club: O/U 2.5",
-        "outcome": "Over",
-        "value": 1475.262,
-        "avgPrice": 0.82,
-        "slug": "spl-ett-riy-2026-08-14-total-2pt5"
-      },
       "0x0ea7d1cc19694badd5c19a94134a2770391c6070cf881c0b429851f93f806288|No": {
         "title": "Will Ayr United FC win on 2026-08-14?",
         "outcome": "No",
@@ -958,7 +846,7 @@
       "0xe5907ee5b1cbb4a4a905e29edaf2222f46f257e3780a8572791f0546236acbd3|Over": {
         "title": "San Francisco Giants vs. Atlanta Braves: O/U 7.5",
         "outcome": "Over",
-        "value": 1430.8255,
+        "value": 1441.7478,
         "avgPrice": 0.47,
         "slug": "mlb-sf-atl-2026-06-18-total-7pt5"
       },
@@ -969,33 +857,12 @@
         "avgPrice": 0.4999,
         "slug": "mlb-bos-nyy-2026-06-06"
       },
-      "0xd1cc8f54118d7c8deed9cd7c221b32c312cc54e50556017062acaabb2ed1897a|Yes": {
-        "title": "Will Sparta Rotterdam win on 2026-08-14?",
-        "outcome": "Yes",
-        "value": 1383.7224,
-        "avgPrice": 0.5887,
-        "slug": "ere-tel-spa-2026-08-14-spa"
-      },
       "0x7e85510448fdbcc001c3ef38e2a4dac72a9725f991e0beca0e87272ab95bdb61|Yes": {
         "title": "Will Wolverhampton Wanderers FC vs. Blackburn Rovers FC end in a draw?",
         "outcome": "Yes",
         "value": 1318.2005,
         "avgPrice": 0.2875,
         "slug": "elc-wol-bbr-2026-08-14-draw"
-      },
-      "0x347586402adfe1103bfecd1d61185b2aed1d48a2649d408292a9c84587ea7788|No": {
-        "title": "Will Telstar 1963 win on 2026-08-14?",
-        "outcome": "No",
-        "value": 1317.7408,
-        "avgPrice": 0.703,
-        "slug": "ere-tel-spa-2026-08-14-tel"
-      },
-      "0x025a281bed848283bb90adb5d66a5b524810aceb46dd4f103a74232d2f70e0c8|\u00c7orum FK": {
-        "title": "Spread: Galatasaray SK (-1.5)",
-        "outcome": "\u00c7orum FK",
-        "value": 1308.2755,
-        "avgPrice": 0.6171,
-        "slug": "tur-gal-cf-2026-08-14-spread-home-1pt5"
       },
       "0x461dca02ef81cdd6796c599394d6ff89016fe63af9395b6af9871fd86c40432f|No": {
         "title": "Exact Score: Sporting CP 1 - 1 Vit\u00f3ria SC?",
@@ -1004,6 +871,13 @@
         "avgPrice": 0.94,
         "slug": "por-spo-gui-2026-08-14-exact-score-1-1"
       },
+      "0x9fd1d642cf2c7514dfee935fd196b31b028c1658a705bd2ca192671b3009f0e8|Yes": {
+        "title": "Will CD Universidad de Concepci\u00f3n win on 2026-08-14?",
+        "outcome": "Yes",
+        "value": 1264.17,
+        "avgPrice": 0.43,
+        "slug": "chi1-cu1-cls-2026-08-14-cu1"
+      },
       "0x5d3b7e0f13b6339a13286171aca72e5942ee53bc172455b4dd146b0e4b5de25c|No": {
         "title": "Exact Score: Galatasaray SK 1 - 3 \u00c7orum FK?",
         "outcome": "No",
@@ -1011,61 +885,47 @@
         "avgPrice": 0.9309,
         "slug": "tur-gal-cf-2026-08-14-exact-score-1-3"
       },
-      "0xf4785c846881b84991ab57a5ca14836d541e67575f3b87fd27d3c63fe88f705c|Over": {
-        "title": "Stade Lavallois Mayenne FC vs. FC Nantes: O/U 0.5",
+      "0x396649f68a9000541248996c69612da0f7fa17239625de443037ae4ca501cd3c|Detroit Tigers": {
+        "title": "Chicago White Sox vs. Detroit Tigers",
+        "outcome": "Detroit Tigers",
+        "value": 1209.073,
+        "avgPrice": 0.5458,
+        "slug": "mlb-cws-det-2026-08-14"
+      },
+      "0xe247dc592a1555e87763f89d3cc902b89b3f6050fe8e7577aa13c014ddfb7530|Over": {
+        "title": "Miami Marlins vs. Cincinnati Reds: O/U 9.5",
         "outcome": "Over",
-        "value": 1173.4729,
-        "avgPrice": 0.9199,
-        "slug": "fr2-lav-nan-2026-08-14-total-0pt5"
+        "value": 1183.6891,
+        "avgPrice": 0.2823,
+        "slug": "mlb-mia-cin-2026-08-14-total-9pt5"
       },
-      "0xd5c4c45aeec73e5c96c4d34ad80a1c942a43f466afc5895b657a4517dffc4a9a|Yes": {
-        "title": "Will Al Hilal Saudi Club win on 2026-08-14?",
-        "outcome": "Yes",
-        "value": 1057.2511,
-        "avgPrice": 0.8604,
-        "slug": "spl-hil-fai-2026-08-14-hil"
+      "0x4520580992fbd381428fbb091b8f1bc69cab798b387d5ad964babc6effa223d7|Andre Ilagan": {
+        "title": "Brownsburg: Andre Ilagan vs Tristan Schoolkate",
+        "outcome": "Andre Ilagan",
+        "value": 1122.407,
+        "avgPrice": 0.692,
+        "slug": "atp-ilagan-schoolk-2026-08-14"
       },
-      "0x96c91c84529bf6918bc5678e747e2ff5683aa21b2cb47918b8e0d2a1f7933fc8|No": {
-        "title": "Will FC Sochaux-Montb\u00e9liard win on 2026-08-14?",
-        "outcome": "No",
-        "value": 1027.2861,
-        "avgPrice": 0.9,
-        "slug": "fr2-rst-fcs-2026-08-14-fcs"
-      },
-      "0xba09a49bd43b1cc29e36b9d7a98a3abb656a385556ae24d780a78a76c9dd274c|No": {
-        "title": "Will Cercle Brugge win on 2026-08-14?",
-        "outcome": "No",
-        "value": 980.9276,
-        "avgPrice": 0.8227,
-        "slug": "bel1-cer-stt-2026-08-14-cer"
-      },
-      "0xf0fd511816dd46ac79b0d2e7cabb56f158e441b8294941e33bc36ca8dfb88b63|Under": {
-        "title": "Atalanta BC vs. Athletic Bilbao: O/U 3.5",
-        "outcome": "Under",
-        "value": 972.7633,
-        "avgPrice": 0.7625,
-        "slug": "clf-ata-ath-2026-08-14-total-3pt5"
-      },
-      "0x7e3f04f39aec127094a4800c503d96cd6c2476395495c084972a4e0822d5698d|No": {
-        "title": "Will USL Dunkerque win on 2026-08-14?",
-        "outcome": "No",
-        "value": 946.9548,
-        "avgPrice": 0.9307,
-        "slug": "fr2-rei-usd-2026-08-14-usd"
-      },
-      "0x41b5988776df3e5f6c425f0312dea527f8a286ddb04026a1505c97389035d047|Over": {
-        "title": "Galatasaray SK vs. \u00c7orum FK: O/U 0.5",
+      "0x864324713766812d609e2373c754abbd412219e955e25c7c0b70fb67f6a2298e|Over": {
+        "title": "Boston Red Sox vs. Pittsburgh Pirates: O/U 7.5",
         "outcome": "Over",
-        "value": 945.0472,
-        "avgPrice": 0.9227,
-        "slug": "tur-gal-cf-2026-08-14-total-0pt5"
+        "value": 1025.2832,
+        "avgPrice": 0.4792,
+        "slug": "mlb-bos-pit-2026-08-14-total-7pt5"
       },
-      "0x2d16e1d12ca7083361cf56b219f44508fc715bd9eeb340b8e0c9b948e4fa87b6|Tereza Valentova": {
-        "title": "Cincinnati Open: Mary Stoiana vs Tereza Valentova",
-        "outcome": "Tereza Valentova",
-        "value": 902.2359,
-        "avgPrice": 0.7462,
-        "slug": "wta-stoiana-valento-2026-08-14"
+      "0x396649f68a9000541248996c69612da0f7fa17239625de443037ae4ca501cd3c|Chicago White Sox": {
+        "title": "Chicago White Sox vs. Detroit Tigers",
+        "outcome": "Chicago White Sox",
+        "value": 927.825,
+        "avgPrice": 0.51,
+        "slug": "mlb-cws-det-2026-08-14"
+      },
+      "0xb05c818298bb52963289b4a3345bc04e52e278933373e046d8371eb651b98e39|Over": {
+        "title": "Chicago White Sox vs. Detroit Tigers: O/U 8.5",
+        "outcome": "Over",
+        "value": 926.25,
+        "avgPrice": 0.4802,
+        "slug": "mlb-cws-det-2026-08-14-total-8pt5"
       },
       "0xc2930df535462409523c4330b7bea5eca23e7b3d0df4bf36db15c9c3c73f7bd0|Jack Draper": {
         "title": "Lexus Eastbourne Open: Brandon Nakashima vs Jack Draper",
@@ -1074,26 +934,12 @@
         "avgPrice": 0.44,
         "slug": "atp-nakashi-draper-2026-06-22"
       },
-      "0xc31b37f2c713592db7afd4fbd4ee598aba0bb889923217270afb789abb94fba5|Over": {
-        "title": "Telstar 1963 vs. Sparta Rotterdam: O/U 1.5",
-        "outcome": "Over",
-        "value": 884.5575,
-        "avgPrice": 0.8004,
-        "slug": "ere-tel-spa-2026-08-14-total-1pt5"
-      },
-      "0x5685c534ce5dca14ab141388f65bb70414af7f4c65c29950886e691ff4042e5b|Yulia Putintseva": {
-        "title": "Cincinnati Open: Yulia Putintseva vs Liudmila Samsonova",
-        "outcome": "Yulia Putintseva",
-        "value": 855.2613,
-        "avgPrice": 0.2972,
-        "slug": "wta-putints-samsono-2026-08-13"
-      },
-      "0x6ba3e2c2962902d77b9cc7f874998671e464aac1ecac779654af0ec4e0eed253|Yes": {
-        "title": "Galatasaray SK vs. \u00c7orum FK: Both Teams to Score",
-        "outcome": "Yes",
-        "value": 820.7245,
-        "avgPrice": 0.26,
-        "slug": "tur-gal-cf-2026-08-14-btts"
+      "0xb05c818298bb52963289b4a3345bc04e52e278933373e046d8371eb651b98e39|Under": {
+        "title": "Chicago White Sox vs. Detroit Tigers: O/U 8.5",
+        "outcome": "Under",
+        "value": 815.2152,
+        "avgPrice": 0.4543,
+        "slug": "mlb-cws-det-2026-08-14-total-8pt5"
       },
       "0xbb8a9ab9edaeef7f5a633dd771b66107385644ca03ebdd0836a267d6e4b8cf68|Yes": {
         "title": "Will Bayern Munich win on 2026-08-15?",
@@ -1102,19 +948,12 @@
         "avgPrice": 0.72,
         "slug": "clf-bmu-rbl-2026-08-15-bmu"
       },
-      "0x14b1a523b0490d8843a6318fc295b707a83f90f8ad5ef359964c035769076f38|Under": {
-        "title": "Legia Warszawa vs. RKS Radomiak Radom: O/U 5.5",
-        "outcome": "Under",
-        "value": 768.075,
-        "avgPrice": 0.8837,
-        "slug": "pol-leg-rad-2026-08-14-total-5pt5"
-      },
-      "0x5726d8359447c5163eaa61f6801d5976d724e7387701959c6061162ffa317cf7|Over": {
-        "title": "Stade Lavallois Mayenne FC vs. FC Nantes: O/U 2.5",
-        "outcome": "Over",
-        "value": 739.1302,
-        "avgPrice": 0.4335,
-        "slug": "fr2-lav-nan-2026-08-14-total-2pt5"
+      "0x41e6d953f239d81f313479a9dbe973060b60b2d8c70eb1c565648623c21ee4f9|No": {
+        "title": "Will Botafogo FC win on 2026-08-14?",
+        "outcome": "No",
+        "value": 720.0042,
+        "avgPrice": 0.6598,
+        "slug": "bra2-ber-bot-2026-08-14-bot"
       },
       "0x2a6e431d9c6d91853bc9c1f345fa7498f615fba2e362644fbb7015f28e9da3db|Yes": {
         "title": "Will CA Penarol Montevideo win on 2026-08-08?",
@@ -1130,13 +969,6 @@
         "avgPrice": 0.8738,
         "slug": "atp-matsuda-matsuok-2026-08-10"
       },
-      "0xd95e68559c04e9a7af7f43da6c6dafbb0b13643895f175cb35531fb131c32fe5|No": {
-        "title": "Will FC Metz win on 2026-08-14?",
-        "outcome": "No",
-        "value": 656.4893,
-        "avgPrice": 0.5896,
-        "slug": "fr2-gre-met-2026-08-14-met"
-      },
       "0x6e52e45529e66a5422eb427624a7bff1a53071edeadecb098931575f4953b4bc|Tara Wurth": {
         "title": "Makarska: Rebecca Sramkova vs Tara Wurth",
         "outcome": "Tara Wurth",
@@ -1147,23 +979,16 @@
       "0x7b349861d118c9778bc0bdd2e80003a6c414e609cb68548fc9154b785c83dfb8|No": {
         "title": "Exact Score: S\u00e3o Bernardo FC 3 - 2 Botafogo FC?",
         "outcome": "No",
-        "value": 616.4432,
+        "value": 623.0513,
         "avgPrice": 0.971,
         "slug": "bra2-ber-bot-2026-08-14-exact-score-3-2"
       },
-      "0x9450bf67d36b470f8a9e0599f18c433691126bc677c39ebf4e0e6f66fab39c9e|Over": {
-        "title": "Al Hilal Saudi Club vs. Al Faisaly Saudi Club: O/U 3.5",
-        "outcome": "Over",
-        "value": 585.9868,
-        "avgPrice": 0.53,
-        "slug": "spl-hil-fai-2026-08-14-total-3pt5"
-      },
-      "0x35361a0d4bfaea320b5597dee494b75f0b1be4061cef7b3314f9d6f192fc3c0a|No": {
-        "title": "Al Faisaly Saudi Club leading at halftime?",
-        "outcome": "No",
-        "value": 510.8577,
-        "avgPrice": 0.91,
-        "slug": "spl-hil-fai-2026-08-14-halftime-result-away"
+      "0x8e3d6312c6637d8fd3fb1478eb367773f5ac73f070bc4db2217489b64a361fd8|Under": {
+        "title": "CA Boston River vs. Danubio FC: O/U 2.5",
+        "outcome": "Under",
+        "value": 595.9672,
+        "avgPrice": 0.56,
+        "slug": "uru1-bri-dan-2026-08-14-total-2pt5"
       }
     },
     "#3 2C": {
@@ -1191,14 +1016,21 @@
       "0xf6e3cd9a991072115121e28251dfa1651d6f329ba8a6f78e0c18bf801150c0a8|Xinyu Wang": {
         "title": "Cincinnati Open: Xinyu Wang vs Hanne Vandewinkel",
         "outcome": "Xinyu Wang",
-        "value": 79508.8552,
+        "value": 96326.1828,
         "avgPrice": 0.5499,
         "slug": "wta-wa-vandewi-2026-08-14"
+      },
+      "0xdba80b0424e1246f429301738c4ec607f31ba09fc8a65f6e4d309cfce998fc9d|NYJ": {
+        "title": "Spread: NYJ (-5.5)",
+        "outcome": "NYJ",
+        "value": 51232.5452,
+        "avgPrice": 0.47,
+        "slug": "nfl-tb-nyj-2026-08-14-spread-home-5pt5"
       },
       "0x78d312393007e870d2dade8572beb140dfe18e02ce17f6289323ae3de7992a8d|Over": {
         "title": "DEN vs. ATL: O/U 38.5",
         "outcome": "Over",
-        "value": 37025.7031,
+        "value": 35666.9617,
         "avgPrice": 0.5299,
         "slug": "nfl-den-atl-2026-08-14-total-38pt5"
       },
@@ -1209,12 +1041,12 @@
         "avgPrice": 0.8499,
         "slug": "will-bitcoin-dip-to-35000-by-december-31-2026-744-877-748-219-467-465-646-211-122-947-537-552-555-361-972-954-635-887-657-996-643"
       },
-      "0xa5ca29e8a6668f42d4085eee8d2779a70aac8469807bc0ef8d3fc98487ad50b9|Thanasi Kokkinakis": {
-        "title": "Cincinnati Open: Nuno Borges vs Thanasi Kokkinakis",
-        "outcome": "Thanasi Kokkinakis",
-        "value": 16750.9081,
-        "avgPrice": 0.3582,
-        "slug": "atp-borges-kokkina-2026-08-13"
+      "0xc87df8c6fda93d98e77fa12234fa07350f294841c423670dc6ba9182e5bbfc12|Michael Zheng": {
+        "title": "Cincinnati Open: Fabian Marozsan vs Michael Zheng",
+        "outcome": "Michael Zheng",
+        "value": 14288.4529,
+        "avgPrice": 0.8241,
+        "slug": "atp-marozsa-zheng-2026-08-14"
       },
       "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523|New York Yankees": {
         "title": "Boston Red Sox vs. New York Yankees",
@@ -1237,6 +1069,20 @@
         "avgPrice": 0.8604,
         "slug": "will-philadelphia-76ers-win-the-2027-nba-finals"
       },
+      "0xe247dc592a1555e87763f89d3cc902b89b3f6050fe8e7577aa13c014ddfb7530|Over": {
+        "title": "Miami Marlins vs. Cincinnati Reds: O/U 9.5",
+        "outcome": "Over",
+        "value": 3608.4448,
+        "avgPrice": 0.25,
+        "slug": "mlb-mia-cin-2026-08-14-total-9pt5"
+      },
+      "0x7983ea1751d12f8f3db41bc217f7126cc9a9c708b6b60ab79cb8598effa307bb|Hamad Medjedovic": {
+        "title": "Cincinnati Open: Hamad Medjedovic vs Marco Trungelliti",
+        "outcome": "Hamad Medjedovic",
+        "value": 2888.5422,
+        "avgPrice": 0.0426,
+        "slug": "atp-medjedo-trungel-2026-08-14"
+      },
       "0xe326d1abf5fb59b82ecfdff3348e75f90561eace327ba1bdc8d38d045ddbe775|No": {
         "title": "Will Bitcoin dip to $25,000 by December 31, 2026?",
         "outcome": "No",
@@ -1250,6 +1096,13 @@
         "value": 1488.675,
         "avgPrice": 0.5499,
         "slug": "val-c9-w7m-2026-08-14-map-handicap-away-1pt5"
+      },
+      "0xe247dc592a1555e87763f89d3cc902b89b3f6050fe8e7577aa13c014ddfb7530|Under": {
+        "title": "Miami Marlins vs. Cincinnati Reds: O/U 9.5",
+        "outcome": "Under",
+        "value": 949.999,
+        "avgPrice": 0.7299,
+        "slug": "mlb-mia-cin-2026-08-14-total-9pt5"
       },
       "0x0cc3d7f9723b06381b10222bed4d30f56ddf1c24fa36edf4c7e828e659495de9|No": {
         "title": "Will Blackburn Rovers FC win on 2026-08-14?",
@@ -1288,13 +1141,6 @@
         "avgPrice": 0.778,
         "slug": "wta-boisson-bencic-2026-08-15"
       },
-      "0xa5ca29e8a6668f42d4085eee8d2779a70aac8469807bc0ef8d3fc98487ad50b9|Nuno Borges": {
-        "title": "Cincinnati Open: Nuno Borges vs Thanasi Kokkinakis",
-        "outcome": "Nuno Borges",
-        "value": 14637.9588,
-        "avgPrice": 0.5973,
-        "slug": "atp-borges-kokkina-2026-08-13"
-      },
       "0xb15ef15c8c549b9a0252e4b00daef3b35141441bc3a793d2a098acf30b3e5942|Yes": {
         "title": "Will Al Ettifaq Saudi Club win on 2026-08-14?",
         "outcome": "Yes",
@@ -1302,47 +1148,33 @@
         "avgPrice": 0.7919,
         "slug": "spl-ett-riy-2026-08-14-ett"
       },
-      "0xd5c4c45aeec73e5c96c4d34ad80a1c942a43f466afc5895b657a4517dffc4a9a|Yes": {
-        "title": "Will Al Hilal Saudi Club win on 2026-08-14?",
-        "outcome": "Yes",
-        "value": 10686.0507,
-        "avgPrice": 0.9688,
-        "slug": "spl-hil-fai-2026-08-14-hil"
+      "0xc87df8c6fda93d98e77fa12234fa07350f294841c423670dc6ba9182e5bbfc12|Michael Zheng": {
+        "title": "Cincinnati Open: Fabian Marozsan vs Michael Zheng",
+        "outcome": "Michael Zheng",
+        "value": 9961.0827,
+        "avgPrice": 0.5515,
+        "slug": "atp-marozsa-zheng-2026-08-14"
       },
-      "0xc128b75fa1658a3db616e9d7aec6fffafba2f1d2b62dfdc7a1aedaf1586e8d1b|No": {
-        "title": "Will AS Monaco win on 2026-08-14?",
-        "outcome": "No",
-        "value": 10659.7406,
-        "avgPrice": 0.9757,
-        "slug": "clf-cov-asm-2026-08-14-asm"
-      },
-      "0x8f499cd1e287be696aea3f848d265ab0c19dde467630c5cdcb22760411abfef2|Over": {
-        "title": "Al Ettifaq Saudi Club vs. Al Riyadh Saudi Club: O/U 2.5",
-        "outcome": "Over",
-        "value": 10512.3217,
-        "avgPrice": 0.8134,
-        "slug": "spl-ett-riy-2026-08-14-total-2pt5"
-      },
-      "0x5f6820ec4323c595d09a617504de6ba4d8212c8a99688af12d73453a267d98ba|Over": {
-        "title": "Galatasaray SK vs. \u00c7orum FK: O/U 3.5",
-        "outcome": "Over",
-        "value": 8193.1938,
-        "avgPrice": 0.7124,
-        "slug": "tur-gal-cf-2026-08-14-total-3pt5"
+      "0xf6e3cd9a991072115121e28251dfa1651d6f329ba8a6f78e0c18bf801150c0a8|Xinyu Wang": {
+        "title": "Cincinnati Open: Xinyu Wang vs Hanne Vandewinkel",
+        "outcome": "Xinyu Wang",
+        "value": 9355.6157,
+        "avgPrice": 0.842,
+        "slug": "wta-wa-vandewi-2026-08-14"
       },
       "0xddc9722bf9409b02dab4dd7b914f3f22daf4e7a1135550846e65aa3481facba5|Club Atl\u00e9tico de Madrid": {
         "title": "Spread: M\u00e1laga CF (-2.5)",
         "outcome": "Club Atl\u00e9tico de Madrid",
-        "value": 7778.7338,
+        "value": 7774.7406,
         "avgPrice": 0.9901,
         "slug": "lal-mad-mala-2026-08-19-spread-away-2pt5"
       },
-      "0x6ba3e2c2962902d77b9cc7f874998671e464aac1ecac779654af0ec4e0eed253|Yes": {
-        "title": "Galatasaray SK vs. \u00c7orum FK: Both Teams to Score",
-        "outcome": "Yes",
-        "value": 7268.9148,
-        "avgPrice": 0.9439,
-        "slug": "tur-gal-cf-2026-08-14-btts"
+      "0x2d16e1d12ca7083361cf56b219f44508fc715bd9eeb340b8e0c9b948e4fa87b6|Tereza Valentova": {
+        "title": "Cincinnati Open: Mary Stoiana vs Tereza Valentova",
+        "outcome": "Tereza Valentova",
+        "value": 7760.7289,
+        "avgPrice": 0.8176,
+        "slug": "wta-stoiana-valento-2026-08-14"
       },
       "0xac7b6df5700b8ef04beb605203d2447f33904f32b77cacd01f2aa532fc780125|Over": {
         "title": "Wolverhampton Wanderers FC vs. Blackburn Rovers FC: O/U 2.5",
@@ -1350,13 +1182,6 @@
         "value": 6740.424,
         "avgPrice": 0.5988,
         "slug": "elc-wol-bbr-2026-08-14-total-2pt5"
-      },
-      "0xddb64a60328748811152394e7d5f812477acee7bd7add14082969d4b08be7358|No": {
-        "title": "Will Aarhus GF win on 2026-08-14?",
-        "outcome": "No",
-        "value": 6704.1276,
-        "avgPrice": 0.839,
-        "slug": "den-vib-agf-2026-08-14-agf"
       },
       "0x27d4565178c430f220cf398ffe4942d2e7bc17feb5c9a40b58654f8c54e7f0dd|Under": {
         "title": "Sporting CP vs. Vit\u00f3ria SC: O/U 5.5",
@@ -1372,26 +1197,12 @@
         "avgPrice": 0.9376,
         "slug": "por-spo-gui-2026-08-14-gui"
       },
-      "0x06ccc96fbee925f4fa9fdbd64e580bb554b82948de9273ac75ea510b8a4c482a|No": {
-        "title": "Will Al Faisaly Saudi Club win on 2026-08-14?",
-        "outcome": "No",
-        "value": 6062.895,
-        "avgPrice": 0.9755,
-        "slug": "spl-hil-fai-2026-08-14-fai"
-      },
-      "0x0613053bb91184a4d89787d1ce5ef01dc312020be6415aa127d1e4d063ef9097|No": {
-        "title": "Will Stade de Reims win on 2026-08-14?",
-        "outcome": "No",
-        "value": 5992.9802,
-        "avgPrice": 0.431,
-        "slug": "fr2-rei-usd-2026-08-14-rei"
-      },
-      "0x025a281bed848283bb90adb5d66a5b524810aceb46dd4f103a74232d2f70e0c8|\u00c7orum FK": {
-        "title": "Spread: Galatasaray SK (-1.5)",
-        "outcome": "\u00c7orum FK",
-        "value": 5850.7549,
-        "avgPrice": 0.6133,
-        "slug": "tur-gal-cf-2026-08-14-spread-home-1pt5"
+      "0x5685c534ce5dca14ab141388f65bb70414af7f4c65c29950886e691ff4042e5b|Liudmila Samsonova": {
+        "title": "Cincinnati Open: Yulia Putintseva vs Liudmila Samsonova",
+        "outcome": "Liudmila Samsonova",
+        "value": 5779.0702,
+        "avgPrice": 0.6663,
+        "slug": "wta-putints-samsono-2026-08-13"
       },
       "0x3f7f1cd9ad769b8a1f3bdeb2de7db5be1b3eb1a0c5fe291cea6d69bd58ac84ab|Vit\u00f3ria SC": {
         "title": "Spread: Sporting CP (-2.5)",
@@ -1407,13 +1218,6 @@
         "avgPrice": 0.8509,
         "slug": "elc-wol-bbr-2026-08-14-total-4pt5"
       },
-      "0x50e8ae1397d1c6877b9a606ccbe8dc630e52ad3d36aaf1e56f389fb55ae99a55|Galatasaray SK": {
-        "title": "Spread: \u00c7orum FK (-1.5)",
-        "outcome": "Galatasaray SK",
-        "value": 5344.7846,
-        "avgPrice": 0.962,
-        "slug": "tur-gal-cf-2026-08-14-spread-away-1pt5"
-      },
       "0x3dd6267b5703f55e7a5dab147cd2f8d45c63b73a229e7b99a737479d143d8519|No": {
         "title": "Will Sporting CP vs. Vit\u00f3ria SC end in a draw?",
         "outcome": "No",
@@ -1428,33 +1232,12 @@
         "avgPrice": 0.4684,
         "slug": "fr2-gre-met-2026-08-14-draw"
       },
-      "0x29d9f55f91f0b70650e2d4217131aef728f7fc85d9c4bb6aa6b24f227213659c|Under": {
-        "title": "Galatasaray SK vs. \u00c7orum FK: \u00c7orum FK O/U 2.5",
-        "outcome": "Under",
-        "value": 4971.0891,
-        "avgPrice": 0.9124,
-        "slug": "tur-gal-cf-2026-08-14-team-total-away-2pt5"
-      },
-      "0xd1cc8f54118d7c8deed9cd7c221b32c312cc54e50556017062acaabb2ed1897a|Yes": {
-        "title": "Will Sparta Rotterdam win on 2026-08-14?",
-        "outcome": "Yes",
-        "value": 4916.3371,
-        "avgPrice": 0.5562,
-        "slug": "ere-tel-spa-2026-08-14-spa"
-      },
       "0x0e10c103e28aa9bda571f6e16da9a5d3ef91a630dc07858d846563d5509227a4|Yes": {
         "title": "Exact Score: Galatasaray SK 2 - 2 \u00c7orum FK?",
         "outcome": "Yes",
         "value": 4720.6385,
         "avgPrice": 0.0299,
         "slug": "tur-gal-cf-2026-08-14-exact-score-2-2"
-      },
-      "0x62d043466736afc505f6e9d09c4f4affe0e3283842d0d603b2687b490ec69df5|No": {
-        "title": "Will Clermont Foot 63 win on 2026-08-14?",
-        "outcome": "No",
-        "value": 4495.8259,
-        "avgPrice": 0.9054,
-        "slug": "fr2-ass-clf-2026-08-14-clf"
       },
       "0x0bd4667cd7cbe189854dbd69891190e9817ae4514f935962c608f95675dc40dd|Yes": {
         "title": "Will CD Castell\u00f3n win on 2026-08-14?",
@@ -1463,26 +1246,19 @@
         "avgPrice": 0.7352,
         "slug": "es2-rso-cas-2026-08-14-cas"
       },
+      "0x65349f9bd2763d0a3ea1d54dedac67625cf5bfb46ced508d0f299cd921d0b77b|No": {
+        "title": "Will Racing Club win on 2026-08-14?",
+        "outcome": "No",
+        "value": 3705.6401,
+        "avgPrice": 0.4352,
+        "slug": "arg-rac-ban-2026-08-14-rac"
+      },
       "0x866a7a3334df36228b4a846411e670275f1094a6763cfe75cd340652d9c19391|Vit\u00f3ria SC": {
         "title": "Spread: Sporting CP (-1.5)",
         "outcome": "Vit\u00f3ria SC",
         "value": 3490.5078,
         "avgPrice": 0.5216,
         "slug": "por-spo-gui-2026-08-14-spread-home-1pt5"
-      },
-      "0x7983ea1751d12f8f3db41bc217f7126cc9a9c708b6b60ab79cb8598effa307bb|Hamad Medjedovic": {
-        "title": "Cincinnati Open: Hamad Medjedovic vs Marco Trungelliti",
-        "outcome": "Hamad Medjedovic",
-        "value": 3487.0852,
-        "avgPrice": 0.4935,
-        "slug": "atp-medjedo-trungel-2026-08-14"
-      },
-      "0x22cb1cfcd639dea7a0d9e4c68ad1da711f50ccd21d7ae09f08455c8137116232|Yes": {
-        "title": "Will LASK Linz win on 2026-08-14?",
-        "outcome": "Yes",
-        "value": 3351.0409,
-        "avgPrice": 0.6882,
-        "slug": "aut-ask-svr-2026-08-14-ask"
       },
       "0xdee53c872dfc5f633345aa8e953958961e3d2daf3aabed82a715f8a42ee33875|No": {
         "title": "Exact Score: Chicago Fire FC 0 - 2 Vancouver Whitecaps FC?",
@@ -1505,47 +1281,12 @@
         "avgPrice": 0.5911,
         "slug": "lal-ala-get-2026-08-15-ala"
       },
-      "0x331db5363da2581c44a3f35c061681b3fd19fd7d36227d1504532b8319423abf|Athletic Bilbao": {
-        "title": "Spread: Atalanta BC (-2.5)",
-        "outcome": "Athletic Bilbao",
-        "value": 3045.9288,
-        "avgPrice": 0.9396,
-        "slug": "clf-ata-ath-2026-08-14-spread-home-2pt5"
-      },
-      "0xa670f7956433d29db190ebe66a66842a294f76dfa071875d8bcb8bcebefcd240|No": {
-        "title": "Will PFC Cherno More Varna win on 2026-08-14?",
-        "outcome": "No",
-        "value": 3043.1389,
-        "avgPrice": 0.9868,
-        "slug": "bul-csk-cmv-2026-08-14-cmv"
-      },
-      "0x545ab8cf2a2ba7614edcaac942ab4b48708cc1c989717ded5b4df29322ac2269|No": {
-        "title": "Will Al Ettifaq Saudi Club vs. Al Riyadh Saudi Club end in a draw?",
-        "outcome": "No",
-        "value": 3038.9471,
-        "avgPrice": 0.733,
-        "slug": "spl-ett-riy-2026-08-14-draw"
-      },
-      "0x2d16e1d12ca7083361cf56b219f44508fc715bd9eeb340b8e0c9b948e4fa87b6|Tereza Valentova": {
-        "title": "Cincinnati Open: Mary Stoiana vs Tereza Valentova",
-        "outcome": "Tereza Valentova",
-        "value": 3016.9147,
-        "avgPrice": 0.8107,
-        "slug": "wta-stoiana-valento-2026-08-14"
-      },
       "0xa24bf049503fde1309dcc58a70322e913bfcd6acd3ddb18f179d71a311e8cb22|Yes": {
         "title": "Will En Avant Guingamp win on 2026-08-14?",
         "outcome": "Yes",
         "value": 3007.3954,
         "avgPrice": 0.4926,
         "slug": "fr2-gui-usb-2026-08-14-gui"
-      },
-      "0x0c44bf82f484ac670619c4ecd19bf20bc6ce153bdaae70612f8f4c4d57a26eb3|Al Ettifaq Saudi Club": {
-        "title": "Spread: Al Ettifaq Saudi Club (-1.5)",
-        "outcome": "Al Ettifaq Saudi Club",
-        "value": 2988.5299,
-        "avgPrice": 0.1681,
-        "slug": "spl-ett-riy-2026-08-14-spread-home-1pt5"
       },
       "0x5d10cc20d6f66003099ae21a8972a4d3a0b07987982603bfb9f4cb617a896098|Yes": {
         "title": "Will AC Monza win on 2026-08-14?",
@@ -1561,40 +1302,33 @@
         "avgPrice": 0.8839,
         "slug": "por-spo-gui-2026-08-14-spo"
       },
-      "0xd702d3b8523d0a3b23e5f4f4c0e98673923cf53181382ea190b721a0861e22a0|No": {
-        "title": "Will RC Deportivo A Coru\u00f1a win on 2026-08-17?",
-        "outcome": "No",
-        "value": 2844.0801,
-        "avgPrice": 0.5999,
-        "slug": "lal-dep-elc-2026-08-17-dep"
-      },
-      "0x192dddb6656de493881ec529f8df66779a9403eb92682458120dff157ea67c1e|No": {
-        "title": "Will RFC Seraing win on 2026-08-14?",
-        "outcome": "No",
-        "value": 2841.3641,
-        "avgPrice": 0.9887,
-        "slug": "bel2-ser-ksc-2026-08-14-ser"
-      },
       "0x298fe65f7d6c46f187b0038897cc9bfe1be24fcaca392f98cf1b2ec73cc8fce7|No": {
         "title": "Will FC Arge\u0219 Pite\u0219ti win on 2026-08-14?",
         "outcome": "No",
-        "value": 2828.2287,
+        "value": 2839.5928,
         "avgPrice": 0.7393,
         "slug": "rou1-fap-ffc-2026-08-14-fap"
       },
-      "0x7cc454547d66dc075e3e0bac475bd3f8e10a73c43794eb83df73f4e78eac6ed4|Under": {
-        "title": "Red Star FC vs. FC Sochaux-Montb\u00e9liard: O/U 1.5",
-        "outcome": "Under",
-        "value": 2815.7928,
-        "avgPrice": 0.6693,
-        "slug": "fr2-rst-fcs-2026-08-14-total-1pt5"
+      "0x9890e51b1b7c924d3f6b6436e4c497b6df02756028b494e1f783a5c25812ce26|Lloyd Harris": {
+        "title": "Brownsburg: Lloyd Harris vs Harry Wendelken",
+        "outcome": "Lloyd Harris",
+        "value": 2812.7075,
+        "avgPrice": 0.5171,
+        "slug": "atp-harri-wendelk-2026-08-14"
       },
-      "0xe7c3ba587c882531d4b710c8175a096019bcf1886f18a2691e880e3f2aa6f915|No": {
-        "title": "Will Red Star FC win on 2026-08-14?",
+      "0xd702d3b8523d0a3b23e5f4f4c0e98673923cf53181382ea190b721a0861e22a0|No": {
+        "title": "Will RC Deportivo A Coru\u00f1a win on 2026-08-17?",
         "outcome": "No",
-        "value": 2782.2043,
-        "avgPrice": 0.6145,
-        "slug": "fr2-rst-fcs-2026-08-14-rst"
+        "value": 2796.2804,
+        "avgPrice": 0.5999,
+        "slug": "lal-dep-elc-2026-08-17-dep"
+      },
+      "0x862b32bb2a0359f7f2d22348f039ce89a0186691907bd15dc9bc2b8c98dee63f|Racing Club": {
+        "title": "Spread: CA Banfield (-1.5)",
+        "outcome": "Racing Club",
+        "value": 2779.5222,
+        "avgPrice": 0.9496,
+        "slug": "arg-rac-ban-2026-08-14-spread-away-1pt5"
       },
       "0x90b20331bb29676f3d5a78baf2b698aa39bde523e4a2761f41a106b30ee59c74|Under": {
         "title": "Wolverhampton Wanderers FC vs. Blackburn Rovers FC: 1st Half O/U 2.5",
@@ -1603,6 +1337,13 @@
         "avgPrice": 0.8065,
         "slug": "elc-wol-bbr-2026-08-14-first-half-total-2pt5"
       },
+      "0x7348856d6a0c14bb85544ba21ab8db6eacd3b33d2e894f57f562594c7018a9ba|Yes": {
+        "title": "Will CA Grau win on 2026-08-14?",
+        "outcome": "Yes",
+        "value": 2754.5236,
+        "avgPrice": 0.4166,
+        "slug": "per1-cag-ccu-2026-08-14-cag"
+      },
       "0xa83f940452e1f6263fe4410cc3e942f3d3a57f4a8e8451d275049334fa6517ea|Matej Dodig": {
         "title": "Hamburg: Matej Dodig vs Rudolf Molleker",
         "outcome": "Matej Dodig",
@@ -1610,54 +1351,19 @@
         "avgPrice": 0.8306,
         "slug": "atp-dodig-molleke-2026-08-13"
       },
-      "0x14b1a523b0490d8843a6318fc295b707a83f90f8ad5ef359964c035769076f38|Under": {
-        "title": "Legia Warszawa vs. RKS Radomiak Radom: O/U 5.5",
-        "outcome": "Under",
-        "value": 2534.4938,
-        "avgPrice": 0.5314,
-        "slug": "pol-leg-rad-2026-08-14-total-5pt5"
-      },
-      "0xfc232cb161fef3b2d8ab361dc1db0a5920eddfe0ddbe72193996042c92656b18|St. Truidense VV": {
-        "title": "Spread: Cercle Brugge (-1.5)",
-        "outcome": "St. Truidense VV",
-        "value": 2511.4823,
-        "avgPrice": 0.8556,
-        "slug": "bel1-cer-stt-2026-08-14-spread-home-1pt5"
-      },
-      "0xf6e3cd9a991072115121e28251dfa1651d6f329ba8a6f78e0c18bf801150c0a8|Xinyu Wang": {
-        "title": "Cincinnati Open: Xinyu Wang vs Hanne Vandewinkel",
-        "outcome": "Xinyu Wang",
-        "value": 2491.5892,
-        "avgPrice": 0.5531,
-        "slug": "wta-wa-vandewi-2026-08-14"
-      },
-      "0x7e3f04f39aec127094a4800c503d96cd6c2476395495c084972a4e0822d5698d|No": {
-        "title": "Will USL Dunkerque win on 2026-08-14?",
+      "0x0b9538cf6bb1d1ad69cb4a91ca55de713d8ce5ae4735297ff35df3c0d1930a41|No": {
+        "title": "Will CA Grau vs. CD Comerciantes Unidos end in a draw?",
         "outcome": "No",
-        "value": 2467.3053,
-        "avgPrice": 0.9851,
-        "slug": "fr2-rei-usd-2026-08-14-usd"
+        "value": 2549.7967,
+        "avgPrice": 0.8359,
+        "slug": "per1-cag-ccu-2026-08-14-draw"
       },
-      "0x9890e51b1b7c924d3f6b6436e4c497b6df02756028b494e1f783a5c25812ce26|Lloyd Harris": {
-        "title": "Brownsburg: Lloyd Harris vs Harry Wendelken",
-        "outcome": "Lloyd Harris",
-        "value": 2462.3502,
-        "avgPrice": 0.5171,
-        "slug": "atp-harri-wendelk-2026-08-14"
-      },
-      "0xd543ea4b3bfae94260f62fdd053ad59965e73bbc1e42d01004ed308b1163a3ef|Yes": {
-        "title": "AS Saint-\u00c9tienne vs. Clermont Foot 63: Both Teams to Score",
-        "outcome": "Yes",
-        "value": 2451.5233,
-        "avgPrice": 0.9891,
-        "slug": "fr2-ass-clf-2026-08-14-btts"
-      },
-      "0x74cdf67deb3103d7a6e639687b95dfed3a5ca9daf823985ddedf10c447562636|Over": {
-        "title": "Telstar 1963 vs. Sparta Rotterdam: O/U 2.5",
-        "outcome": "Over",
-        "value": 2444.9266,
-        "avgPrice": 0.7254,
-        "slug": "ere-tel-spa-2026-08-14-total-2pt5"
+      "0x7983ea1751d12f8f3db41bc217f7126cc9a9c708b6b60ab79cb8598effa307bb|Hamad Medjedovic": {
+        "title": "Cincinnati Open: Hamad Medjedovic vs Marco Trungelliti",
+        "outcome": "Hamad Medjedovic",
+        "value": 2454.9799,
+        "avgPrice": 0.5007,
+        "slug": "atp-medjedo-trungel-2026-08-14"
       },
       "0x0c449cf629537c2c4880a247eab20ab21e1ae66d3001b2220539cdc80a352f6a|Yes": {
         "title": "Will Galatasaray SK vs. \u00c7orum FK end in a draw?",
@@ -1666,13 +1372,6 @@
         "avgPrice": 0.2398,
         "slug": "tur-gal-cf-2026-08-14-draw"
       },
-      "0x7b10753a1700d9dfa7f048d83921c1cc3aa942f3f15fc6e4f82ec3925eab7f59|No": {
-        "title": "Grenoble Foot 38 vs. FC Metz: Both Teams to Score",
-        "outcome": "No",
-        "value": 2419.4682,
-        "avgPrice": 0.8572,
-        "slug": "fr2-gre-met-2026-08-14-btts"
-      },
       "0xd73b81755d573d5abb591ab049ef6a5c535833296e8b1d3573558b6d12d686fe|Yes": {
         "title": "Will Vancouver Whitecaps FC win on 2026-07-16?",
         "outcome": "Yes",
@@ -1680,26 +1379,12 @@
         "avgPrice": 0.3858,
         "slug": "mls-chi-vwh-2026-07-16-vwh"
       },
-      "0x48e5c2c3cf5b6e4380db5ba6b6b6207c2735745db4be15693b0af2f69b96bb41|Under": {
-        "title": "Al Ettifaq Saudi Club vs. Al Riyadh Saudi Club: Al Riyadh Saudi Club O/U 2.5",
-        "outcome": "Under",
-        "value": 2258.87,
-        "avgPrice": 0.7509,
-        "slug": "spl-ett-riy-2026-08-14-team-total-away-2pt5"
-      },
       "0x77edf9a9f7ca0160e563d711c40ea7445ba68d66525bdec3c0ce30fb16d80d0b|Villarreal CF": {
         "title": "Spread: Real Racing Club (-2.5)",
         "outcome": "Villarreal CF",
-        "value": 2250.7064,
+        "value": 2246.0417,
         "avgPrice": 0.9418,
         "slug": "lal-rrc-vil-2026-08-16-spread-home-2pt5"
-      },
-      "0xd58defd9b5eeefd384a22bd34411b654bc475b7d9341d42bfc235d48795083cf|Over": {
-        "title": "Al Ettifaq Saudi Club vs. Al Riyadh Saudi Club: O/U 4.5",
-        "outcome": "Over",
-        "value": 2249.6209,
-        "avgPrice": 0.3636,
-        "slug": "spl-ett-riy-2026-08-14-total-4pt5"
       },
       "0x7e85510448fdbcc001c3ef38e2a4dac72a9725f991e0beca0e87272ab95bdb61|Yes": {
         "title": "Will Wolverhampton Wanderers FC vs. Blackburn Rovers FC end in a draw?",
@@ -1708,40 +1393,12 @@
         "avgPrice": 0.284,
         "slug": "elc-wol-bbr-2026-08-14-draw"
       },
-      "0x7579c75cd01d484ffb9b1110ba193af4ff5cb8604d2a920110580159e7787763|No": {
-        "title": "Will Dijon Football C\u00f4te d'Or win on 2026-08-14?",
-        "outcome": "No",
-        "value": 2219.8304,
-        "avgPrice": 0.8376,
-        "slug": "fr2-dij-pau-2026-08-14-dij"
-      },
-      "0x4802351a05c14306901a35343a6d5e69bf6c81028989f54bb94bc55177608d78|Al Riyadh Saudi Club": {
-        "title": "Spread: Al Ettifaq Saudi Club (-2.5)",
-        "outcome": "Al Riyadh Saudi Club",
-        "value": 2181.5565,
-        "avgPrice": 0.8087,
-        "slug": "spl-ett-riy-2026-08-14-spread-home-2pt5"
-      },
-      "0x99ae145a7ea8ebbf403f5df9c6038e12b465f70fbc08f86a9ca1db07246f3f06|Lorenzo Sonego": {
-        "title": "Cincinnati Open: Juncheng Shang vs Lorenzo Sonego",
-        "outcome": "Lorenzo Sonego",
-        "value": 2156.9438,
-        "avgPrice": 0.8873,
-        "slug": "atp-shang-sonego-2026-08-13"
-      },
-      "0x7348856d6a0c14bb85544ba21ab8db6eacd3b33d2e894f57f562594c7018a9ba|Yes": {
-        "title": "Will CA Grau win on 2026-08-14?",
-        "outcome": "Yes",
-        "value": 2134.0032,
-        "avgPrice": 0.4118,
-        "slug": "per1-cag-ccu-2026-08-14-cag"
-      },
-      "0x80f73f21503330b6e8bcf8718a4d0db36f3511f0b1b3d815a3f0896c3f1af1eb|Under": {
-        "title": "Real Sociedad de F\u00fatbol B vs. CD Castell\u00f3n: O/U 1.5",
-        "outcome": "Under",
-        "value": 2100.0548,
-        "avgPrice": 0.3854,
-        "slug": "es2-rso-cas-2026-08-14-total-1pt5"
+      "0x5685c534ce5dca14ab141388f65bb70414af7f4c65c29950886e691ff4042e5b|Yulia Putintseva": {
+        "title": "Cincinnati Open: Yulia Putintseva vs Liudmila Samsonova",
+        "outcome": "Yulia Putintseva",
+        "value": 2117.7545,
+        "avgPrice": 0.3574,
+        "slug": "wta-putints-samsono-2026-08-13"
       },
       "0x6fc71583ebf3be44617d6b78a544c41eb2acb259ac133d085c425638509db1c6|Wolverhampton Wanderers FC": {
         "title": "Spread: Blackburn Rovers FC (-1.5)",
@@ -1757,33 +1414,12 @@
         "avgPrice": 0.5814,
         "slug": "por-spo-gui-2026-08-14-total-4pt5"
       },
-      "0xd4597097f2784144c6fe9958be2330360ad3e38c351104a7b5974a59df334e5b|Under": {
-        "title": "Al Hilal Saudi Club vs. Al Faisaly Saudi Club: Al Faisaly Saudi Club O/U 2.5",
-        "outcome": "Under",
-        "value": 2073.79,
-        "avgPrice": 0.8,
-        "slug": "spl-hil-fai-2026-08-14-team-total-away-2pt5"
-      },
-      "0xfec08b9cc074c897eefff40c87be9905f3194770bbbdd0940f30c3104b428df4|Under": {
-        "title": "Red Star FC vs. FC Sochaux-Montb\u00e9liard: O/U 0.5",
-        "outcome": "Under",
-        "value": 2026.7325,
-        "avgPrice": 0.7341,
-        "slug": "fr2-rst-fcs-2026-08-14-total-0pt5"
-      },
-      "0xfd68853ebbea51180409701ea92a9da8de4d99b575a7d53308ada41d8e06adbe|\u00c7orum FK": {
-        "title": "Spread: Galatasaray SK (-2.5)",
-        "outcome": "\u00c7orum FK",
-        "value": 2012.2682,
-        "avgPrice": 0.7431,
-        "slug": "tur-gal-cf-2026-08-14-spread-home-2pt5"
-      },
-      "0x7bd4f2872a6626ec1f6a348bd33ec25fe7a186f446d4c395f7cf641a32c8a3ae|No": {
-        "title": "Will Viborg FF vs. Aarhus GF end in a draw?",
+      "0x1396cf57eaab4b201b8167c9e048e04ad692cb1776d56feb079c0600f9d33644|No": {
+        "title": "Exact Score: Racing Club 0 - 2 CA Banfield?",
         "outcome": "No",
-        "value": 1981.3154,
-        "avgPrice": 0.7429,
-        "slug": "den-vib-agf-2026-08-14-draw"
+        "value": 1962.373,
+        "avgPrice": 0.9749,
+        "slug": "arg-rac-ban-2026-08-14-exact-score-0-2"
       },
       "0xbfbf42bef7dc25cd95c59937a4216db962670d78f766e7730befa4cdad9bad31|No": {
         "title": "Will Arsenal FC win on 2026-08-16?",
@@ -1792,40 +1428,12 @@
         "avgPrice": 0.6273,
         "slug": "ecs-ars-mci-2026-08-16-ars"
       },
-      "0x8d42eb46e6ec62960bb27d144b6c2a3a2ab2feecdbb091bce0afc9603491c0a0|No": {
-        "title": "Will St. Truidense VV win on 2026-08-14?",
+      "0x771586bcaf94076261352e995ebe598b6dceec89db9c5e021ccba5976d645dbe|No": {
+        "title": "Will CD La Serena win on 2026-08-14?",
         "outcome": "No",
-        "value": 1883.2447,
-        "avgPrice": 0.1746,
-        "slug": "bel1-cer-stt-2026-08-14-stt"
-      },
-      "0x56b3b2946aedc94e244b58b4378621ecfd457acce39104616ae282bc7e2f8884|Under": {
-        "title": "Real Sociedad de F\u00fatbol B vs. CD Castell\u00f3n: O/U 3.5",
-        "outcome": "Under",
-        "value": 1883.1574,
-        "avgPrice": 0.5832,
-        "slug": "es2-rso-cas-2026-08-14-total-3pt5"
-      },
-      "0x10b1235e61e16b3a9852add42e705d669b9bf05a4755f140985095439dce76e7|Over": {
-        "title": "AC Monza vs. US Avellino 1912: O/U 0.5",
-        "outcome": "Over",
-        "value": 1843.0933,
-        "avgPrice": 0.85,
-        "slug": "itc-mon1-ave-2026-08-14-total-0pt5"
-      },
-      "0x27b4085b75b59bd7b7d80a63676c538a542a5bcada68967924c0e9fc88a48fa6|Over": {
-        "title": "Al Wahda FC (UAE) vs. Ajman Club: O/U 1.5",
-        "outcome": "Over",
-        "value": 1817.0709,
-        "avgPrice": 0.9069,
-        "slug": "uae1-alw-ajm-2026-08-14-total-1pt5"
-      },
-      "0x79e885b4ead0ecca3f65e5c40dd0383a2d24213c1bd54e11393090c073755d48|Under": {
-        "title": "AC Monza vs. US Avellino 1912: O/U 3.5",
-        "outcome": "Under",
-        "value": 1777.0426,
-        "avgPrice": 0.5436,
-        "slug": "itc-mon1-ave-2026-08-14-total-3pt5"
+        "value": 1923.6011,
+        "avgPrice": 0.7005,
+        "slug": "chi1-cu1-cls-2026-08-14-cls"
       },
       "0xebfee51f2635dadc2d8f17a3295593948188620ff0eac281ce83487b4e13837b|Yes": {
         "title": "Will Viborg FF win on 2026-08-14?",
@@ -1834,47 +1442,12 @@
         "avgPrice": 0.7115,
         "slug": "den-vib-agf-2026-08-14-vib"
       },
-      "0xdac30b88427cda3c45d456b14a1be7d3d0e1fd1cc9315356602d7621b9439672|AS Saint-\u00c9tienne": {
-        "title": "Spread: Clermont Foot 63 (-1.5)",
-        "outcome": "AS Saint-\u00c9tienne",
-        "value": 1770.5045,
-        "avgPrice": 0.9954,
-        "slug": "fr2-ass-clf-2026-08-14-spread-away-1pt5"
-      },
-      "0xe5916e777b231eca6d4ef92da1328340fe3d7a292395656fe6c5237652b3a559|Coventry City": {
-        "title": "Spread: Coventry City (-1.5)",
-        "outcome": "Coventry City",
-        "value": 1756.6219,
-        "avgPrice": 0.6914,
-        "slug": "clf-cov-asm-2026-08-14-spread-home-1pt5"
-      },
-      "0xe179ddda13e401dad25c4be41de8a7169f4d5b8bcf0046d6b04b9ed47c99041e|Under": {
-        "title": "Grenoble Foot 38 vs. FC Metz: O/U 0.5",
-        "outcome": "Under",
-        "value": 1755.7086,
-        "avgPrice": 0.5311,
-        "slug": "fr2-gre-met-2026-08-14-total-0pt5"
-      },
       "0xe0c81e7a3a84597dad5db3101e6295b1f35aaedec4d511ee5121dd6571d65357|Yes": {
         "title": "Will Deportivo Alav\u00e9s win on 2026-08-15?",
         "outcome": "Yes",
         "value": 1733.3619,
         "avgPrice": 0.3999,
         "slug": "lal-ala-get-2026-08-15-ala"
-      },
-      "0x8279eb7cc5932b5f875235b57b9a3f582c81557d951a2182382d2bc5cd914fbe|Under": {
-        "title": "FC Annecy vs. Rodez Aveyron Football: O/U 3.5",
-        "outcome": "Under",
-        "value": 1723.4675,
-        "avgPrice": 0.9293,
-        "slug": "fr2-fca-raf-2026-08-14-total-3pt5"
-      },
-      "0x338a6b26b9dd0a72fb26105a184f59fbd3ed844937676e5d1c69d0fcf7024859|Under": {
-        "title": "En Avant Guingamp vs. US Boulogne C\u00f4te d'Opale: O/U 2.5",
-        "outcome": "Under",
-        "value": 1715.4858,
-        "avgPrice": 0.8582,
-        "slug": "fr2-gui-usb-2026-08-14-total-2pt5"
       },
       "0xa26b10762096ade1fc322372d963e41ae8d1a128cf7ac430ca269ebda3788335|No": {
         "title": "Exact Score: Chicago Fire FC 1 - 2 Vancouver Whitecaps FC?",
@@ -1883,34 +1456,6 @@
         "avgPrice": 0.9087,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-1-2"
       },
-      "0x4b6c42116ab4469e955c1587abda5eca11e0b116dcddf175b88b420ab4931085|Al Hilal Saudi Club": {
-        "title": "Spread: Al Hilal Saudi Club (-1.5)",
-        "outcome": "Al Hilal Saudi Club",
-        "value": 1649.7912,
-        "avgPrice": 0.9836,
-        "slug": "spl-hil-fai-2026-08-14-spread-home-1pt5"
-      },
-      "0xba09a49bd43b1cc29e36b9d7a98a3abb656a385556ae24d780a78a76c9dd274c|No": {
-        "title": "Will Cercle Brugge win on 2026-08-14?",
-        "outcome": "No",
-        "value": 1634.8118,
-        "avgPrice": 0.837,
-        "slug": "bel1-cer-stt-2026-08-14-cer"
-      },
-      "0x8402f06c0bd548593f40bf8b574e36e0e084355dac66559527b98baf3e6fdadc|No": {
-        "title": "Will Real Sociedad de F\u00fatbol B vs. CD Castell\u00f3n end in a draw?",
-        "outcome": "No",
-        "value": 1606.4768,
-        "avgPrice": 0.8553,
-        "slug": "es2-rso-cas-2026-08-14-draw"
-      },
-      "0x9969f5819348b84d487cbfbe17c9054217128ff9fe99abe1293651be44085a03|Over": {
-        "title": "Galatasaray SK vs. \u00c7orum FK: O/U 1.5",
-        "outcome": "Over",
-        "value": 1590.9314,
-        "avgPrice": 0.7662,
-        "slug": "tur-gal-cf-2026-08-14-total-1pt5"
-      },
       "0xe0a6bb69cee41bddf824378242f550e1c68e8382deb9f8549fbf16dad45822e4|No": {
         "title": "Will Marumo Gallants FC win on 2026-08-14?",
         "outcome": "No",
@@ -1918,47 +1463,12 @@
         "avgPrice": 0.987,
         "slug": "saf1-stb-mgl-2026-08-14-mgl"
       },
-      "0xe2aa9ec2dcc48db34c50b76b2406087f37ae55be2740d5fb0484494f023cab2b|No": {
-        "title": "Exact Score: Stade de Reims 0 - 2 USL Dunkerque?",
+      "0x9908a5ce0d433c363fc778debffc8dfcefbaae93d9498730b43120d5524362f2|No": {
+        "title": "Will CA Boston River vs. Danubio FC end in a draw?",
         "outcome": "No",
-        "value": 1536.15,
-        "avgPrice": 0.9989,
-        "slug": "fr2-rei-usd-2026-08-14-exact-score-0-2"
-      },
-      "0x1d44781ae1e7fd0fb894297a688bf73e22ce7cc87618bf117705bddedd036aeb|No": {
-        "title": "Exact Score: Al Ettifaq Saudi Club 1 - 2 Al Riyadh Saudi Club?",
-        "outcome": "No",
-        "value": 1524.2375,
-        "avgPrice": 0.9989,
-        "slug": "spl-ett-riy-2026-08-14-exact-score-1-2"
-      },
-      "0x71ee914b638df57f21ea686c7f7dd0a47559c1f5eca738388612a95d829bd786|Under": {
-        "title": "AS Nancy-Lorraine vs. Montpellier HSC: O/U 2.5",
-        "outcome": "Under",
-        "value": 1497.5316,
-        "avgPrice": 0.8217,
-        "slug": "fr2-asn-mon-2026-08-14-total-2pt5"
-      },
-      "0x8af2ffab33a560aa41898834be06b378ca9fd6716b8f12d435200bc5ff09c0bf|Under": {
-        "title": "Real Sociedad de F\u00fatbol B vs. CD Castell\u00f3n: O/U 2.5",
-        "outcome": "Under",
-        "value": 1495.1544,
-        "avgPrice": 0.6189,
-        "slug": "es2-rso-cas-2026-08-14-total-2pt5"
-      },
-      "0x9606741ee2f0a94c626ff35e312f5fc89308782c3905a65026ac8836af5add6f|No": {
-        "title": "Real Sociedad de F\u00fatbol B vs. CD Castell\u00f3n: Both Teams to Score",
-        "outcome": "No",
-        "value": 1471.516,
-        "avgPrice": 0.4363,
-        "slug": "es2-rso-cas-2026-08-14-btts"
-      },
-      "0xe2fd72dd45acee1d72cea3c4e7b3884f6485ef759f3120640dd483db119bf863|Under": {
-        "title": "Galatasaray SK vs. \u00c7orum FK: 1st Half O/U 0.5",
-        "outcome": "Under",
-        "value": 1424.5833,
-        "avgPrice": 0.5351,
-        "slug": "tur-gal-cf-2026-08-14-first-half-total-0pt5"
+        "value": 1463.5685,
+        "avgPrice": 0.6592,
+        "slug": "uru1-bri-dan-2026-08-14-draw"
       },
       "0x8d2b5f6cf960996e07236bec5b967d845a08aa4031eaee6c787686e357c05485|No": {
         "title": "Galatasaray SK leading at halftime?",
@@ -1967,13 +1477,6 @@
         "avgPrice": 0.6494,
         "slug": "tur-gal-cf-2026-08-14-halftime-result-home"
       },
-      "0x2911ae41f7e5ee472b1e839e675fed339f1b504b9d6808cb31a333f5d2809ab4|Over": {
-        "title": "Al Ettifaq Saudi Club vs. Al Riyadh Saudi Club: 1st Half O/U 0.5",
-        "outcome": "Over",
-        "value": 1411.9894,
-        "avgPrice": 0.9762,
-        "slug": "spl-ett-riy-2026-08-14-first-half-total-0pt5"
-      },
       "0x130519eb37711ef791770209af431ee8075b89d5d621bac48a6826cf7510e181|Yes": {
         "title": "Will Ajman Club win on 2026-08-14?",
         "outcome": "Yes",
@@ -1981,12 +1484,12 @@
         "avgPrice": 0.8399,
         "slug": "uae1-alw-ajm-2026-08-14-ajm"
       },
-      "0xbed723b50cc6442145ac23fefe8f8ed0206d64e37cb235a1be282cda1cfa9986|No": {
-        "title": "Will FC Den Bosch win on 2026-08-14?",
+      "0x9d30cb205566f13737f424c05dea9de9bbfb5645b9a5005e36d4d8ab9aab7ac7|No": {
+        "title": "Exact Score: AA Ponte Preta 0 - 0 Clube N\u00e1utico Capibaribe?",
         "outcome": "No",
-        "value": 1387.2112,
-        "avgPrice": 0.9499,
-        "slug": "ned2-her-dbo-2026-08-14-dbo"
+        "value": 1377.0657,
+        "avgPrice": 0.9007,
+        "slug": "bra2-pop-nau-2026-08-14-exact-score-0-0"
       },
       "0xe0f126592fd9e62909fc7bb376a97623116cfebd9151f2940f0a30f4e81940af|No": {
         "title": "Will Real Racing Club win on 2026-08-16?",
@@ -2009,27 +1512,6 @@
         "avgPrice": 0.3662,
         "slug": "fr2-rst-fcs-2026-08-14-draw"
       },
-      "0x347586402adfe1103bfecd1d61185b2aed1d48a2649d408292a9c84587ea7788|No": {
-        "title": "Will Telstar 1963 win on 2026-08-14?",
-        "outcome": "No",
-        "value": 1355.9653,
-        "avgPrice": 0.7802,
-        "slug": "ere-tel-spa-2026-08-14-tel"
-      },
-      "0x9d773073ac2e904022a82c27c1e7a6bac6e61e82f02f0942515110571e3ce848|Under": {
-        "title": "Stade Lavallois Mayenne FC vs. FC Nantes: O/U 3.5",
-        "outcome": "Under",
-        "value": 1349.4087,
-        "avgPrice": 0.8466,
-        "slug": "fr2-lav-nan-2026-08-14-total-3pt5"
-      },
-      "0xa5ca29e8a6668f42d4085eee8d2779a70aac8469807bc0ef8d3fc98487ad50b9|Thanasi Kokkinakis": {
-        "title": "Cincinnati Open: Nuno Borges vs Thanasi Kokkinakis",
-        "outcome": "Thanasi Kokkinakis",
-        "value": 1339.256,
-        "avgPrice": 0.2761,
-        "slug": "atp-borges-kokkina-2026-08-13"
-      },
       "0xe621e71a6bb2a310e35db9e1cc8c4a2d3da18a628935b231bfe3029b6810e98c|Over": {
         "title": "Wolverhampton Wanderers FC vs. Blackburn Rovers FC: O/U 3.5",
         "outcome": "Over",
@@ -2037,26 +1519,12 @@
         "avgPrice": 0.4415,
         "slug": "elc-wol-bbr-2026-08-14-total-3pt5"
       },
-      "0xe77a5e4398adf2e2687ef3e0da8800233ab033bdda3e45716465d72327a51db0|Over": {
-        "title": "Al Ettifaq Saudi Club vs. Al Riyadh Saudi Club: O/U 5.5",
+      "0xc941f8ec18634231189f8d359f0ece5471d1b53a68c3c2739e315d11193c1c10|Over": {
+        "title": "CA Boston River vs. Danubio FC: O/U 0.5",
         "outcome": "Over",
-        "value": 1329.6356,
-        "avgPrice": 0.2055,
-        "slug": "spl-ett-riy-2026-08-14-total-5pt5"
-      },
-      "0x05e4c1fd7d3afd49ffbf16b2166210977dd0b05c9c9d384ba8c93ac67b63e590|No": {
-        "title": "Will Real Sociedad de F\u00fatbol B win on 2026-08-14?",
-        "outcome": "No",
-        "value": 1309.8247,
-        "avgPrice": 0.9199,
-        "slug": "es2-rso-cas-2026-08-14-rso"
-      },
-      "0x828f857dee20f55ec3148152f304d5cadb8005eef2ddf740fa0102760b69f7fe|No": {
-        "title": "Red Star FC vs. FC Sochaux-Montb\u00e9liard: Both Teams to Score",
-        "outcome": "No",
-        "value": 1304.3365,
-        "avgPrice": 0.9112,
-        "slug": "fr2-rst-fcs-2026-08-14-btts"
+        "value": 1319.4048,
+        "avgPrice": 0.8303,
+        "slug": "uru1-bri-dan-2026-08-14-total-0pt5"
       },
       "0xa00506e0e377d6bf061f0b2053316d84253ea55cfd7580139ad998c1f97a5a8d|Yes": {
         "title": "Will Montpellier HSC win on 2026-08-14?",
@@ -2065,26 +1533,19 @@
         "avgPrice": 0.8794,
         "slug": "fr2-asn-mon-2026-08-14-mon"
       },
-      "0xf0fd511816dd46ac79b0d2e7cabb56f158e441b8294941e33bc36ca8dfb88b63|Under": {
-        "title": "Atalanta BC vs. Athletic Bilbao: O/U 3.5",
-        "outcome": "Under",
-        "value": 1286.7836,
-        "avgPrice": 0.7862,
-        "slug": "clf-ata-ath-2026-08-14-total-3pt5"
-      },
-      "0x6aa926e858e9906bd8f5d0a468f9479a63134a389ccb8bd8341c0fdef48826e1|Under": {
-        "title": "FC Annecy vs. Rodez Aveyron Football: O/U 2.5",
-        "outcome": "Under",
-        "value": 1267.6819,
-        "avgPrice": 0.75,
-        "slug": "fr2-fca-raf-2026-08-14-total-2pt5"
-      },
       "0x2fb15810a854d163b5c5321907d0621208b743ee89b02a7afafea019e66c83fd|Yes": {
         "title": "Will Manchester City win on 2026-08-16?",
         "outcome": "Yes",
         "value": 1255.309,
         "avgPrice": 0.3472,
         "slug": "ecs-ars-mci-2026-08-16-mci"
+      },
+      "0x82ef68a94569a1879767a8e02c2f9f1d58e4b09e8aec7a4ce99844b00949e9c5|Over": {
+        "title": "Atlanta Braves vs. Chicago White Sox: O/U 5.5",
+        "outcome": "Over",
+        "value": 1230.48,
+        "avgPrice": 0.7799,
+        "slug": "mlb-atl-cws-2026-06-11-total-5pt5"
       },
       "0xe0f126592fd9e62909fc7bb376a97623116cfebd9151f2940f0a30f4e81940af|Yes": {
         "title": "Will Real Racing Club win on 2026-08-16?",
@@ -2093,13 +1554,6 @@
         "avgPrice": 0.3001,
         "slug": "lal-rrc-vil-2026-08-16-rrc"
       },
-      "0x9851747dca35bd781373bdb42253084b500c182c92bca9095a0fdc4faf9162d7|Under": {
-        "title": "Atalanta BC vs. Athletic Bilbao: O/U 1.5",
-        "outcome": "Under",
-        "value": 1226.274,
-        "avgPrice": 0.5317,
-        "slug": "clf-ata-ath-2026-08-14-total-1pt5"
-      },
       "0x2fb15810a854d163b5c5321907d0621208b743ee89b02a7afafea019e66c83fd|No": {
         "title": "Will Manchester City win on 2026-08-16?",
         "outcome": "No",
@@ -2107,40 +1561,12 @@
         "avgPrice": 0.6397,
         "slug": "ecs-ars-mci-2026-08-16-mci"
       },
-      "0x82ef68a94569a1879767a8e02c2f9f1d58e4b09e8aec7a4ce99844b00949e9c5|Over": {
-        "title": "Atlanta Braves vs. Chicago White Sox: O/U 5.5",
-        "outcome": "Over",
-        "value": 1213.39,
-        "avgPrice": 0.7799,
-        "slug": "mlb-atl-cws-2026-06-11-total-5pt5"
-      },
-      "0x3243b05b05746a69b9f787cd6dfbbc064af59fa5b7d2feb449d972c0888f0786|Under": {
-        "title": "Coventry City vs. AS Monaco: O/U 2.5",
-        "outcome": "Under",
-        "value": 1208.1901,
-        "avgPrice": 0.3728,
-        "slug": "clf-cov-asm-2026-08-14-total-2pt5"
-      },
       "0x189be2bc66fe696793bdb01fa939e1d9a9eaabb39995502c50eb4c609f54720e|Yes": {
         "title": "Will Legia Warszawa win on 2026-08-14?",
         "outcome": "Yes",
         "value": 1198.9492,
         "avgPrice": 0.9937,
         "slug": "pol-leg-rad-2026-08-14-leg"
-      },
-      "0xfde88b34c3ad8fc3acbae46eb30f3be149e1914a5c32ccf9fb43f68a6d8aced1|FC Sochaux-Montb\u00e9liard": {
-        "title": "Spread: Red Star FC (-1.5)",
-        "outcome": "FC Sochaux-Montb\u00e9liard",
-        "value": 1163.243,
-        "avgPrice": 0.8,
-        "slug": "fr2-rst-fcs-2026-08-14-spread-home-1pt5"
-      },
-      "0x4f01b19d0a28ee218cfd8819d4123eba5601be0d13c7d54519c3b77e20032d19|Under": {
-        "title": "Red Star FC vs. FC Sochaux-Montb\u00e9liard: Red Star FC O/U 0.5",
-        "outcome": "Under",
-        "value": 1161.7965,
-        "avgPrice": 0.4799,
-        "slug": "fr2-rst-fcs-2026-08-14-team-total-home-0pt5"
       },
       "0x09a9b9ebeca666ff816a0f655d0b6aba9b41f808393d44c0f241f838f18d3eee|Yes": {
         "title": "Will Real Salt Lake win on 2026-08-15?",
@@ -2163,40 +1589,12 @@
         "avgPrice": 0.9583,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-3-2"
       },
-      "0x1e0d0efeac100494671f20a52456f268e2011902e34d6ef23f8a43c104845679|Over": {
-        "title": "Legia Warszawa vs. RKS Radomiak Radom: O/U 2.5",
-        "outcome": "Over",
-        "value": 1090.4545,
-        "avgPrice": 0.8958,
-        "slug": "pol-leg-rad-2026-08-14-total-2pt5"
-      },
-      "0x9450bf67d36b470f8a9e0599f18c433691126bc677c39ebf4e0e6f66fab39c9e|Over": {
-        "title": "Al Hilal Saudi Club vs. Al Faisaly Saudi Club: O/U 3.5",
-        "outcome": "Over",
-        "value": 1090.3387,
-        "avgPrice": 0.6549,
-        "slug": "spl-hil-fai-2026-08-14-total-3pt5"
-      },
-      "0xd6e3e6620c32a0e41eea9728b46cac6dba3482926b5f3f2e1439eec21d9e66e0|No": {
-        "title": "Will FC Nantes win on 2026-08-14?",
-        "outcome": "No",
-        "value": 1089.9208,
-        "avgPrice": 0.6366,
-        "slug": "fr2-lav-nan-2026-08-14-nan"
-      },
-      "0x5482ecca69f1b0b390eaea212545759e43207d0488b657700ac82c7bf5fd5c71|Over": {
-        "title": "FC Eindhoven vs. MVV Maastricht: O/U 3.5",
-        "outcome": "Over",
-        "value": 1089.455,
-        "avgPrice": 0.5975,
-        "slug": "ned2-ein-maa-2026-08-14-total-3pt5"
-      },
-      "0x823f67f70f6fd737efd35b585fab769b951ba58c3173f34e3917821ba7623039|Under": {
-        "title": "En Avant Guingamp vs. US Boulogne C\u00f4te d'Opale: O/U 1.5",
-        "outcome": "Under",
-        "value": 1081.438,
-        "avgPrice": 0.9263,
-        "slug": "fr2-gui-usb-2026-08-14-total-1pt5"
+      "0xa02bbd8cecdd70852a777e96d62420fdd3370c014c59899a7f98f89e0e1d4f51|Marin Cilic": {
+        "title": "Cincinnati Open: Daniel Merida Aguilar vs Marin Cilic",
+        "outcome": "Marin Cilic",
+        "value": 1072.6122,
+        "avgPrice": 0.4511,
+        "slug": "atp-aguilar-cilic-2026-08-13"
       },
       "0xe19ddd7a87ad62801fdd2387d8c1056a7521e11110af4fc009b9189924a01760|Cleveland Guardians": {
         "title": "Spread: Cleveland Guardians (-1.5)",
@@ -2204,13 +1602,6 @@
         "value": 1042.0971,
         "avgPrice": 0.3426,
         "slug": "mlb-det-cle-2026-06-14-spread-home-1pt5"
-      },
-      "0xa85da0bdef0c289916dfc48addc846e096be86948191dc8719701894115949c0|Under": {
-        "title": "Grenoble Foot 38 vs. FC Metz: O/U 3.5",
-        "outcome": "Under",
-        "value": 1007.2274,
-        "avgPrice": 0.9279,
-        "slug": "fr2-gre-met-2026-08-14-total-3pt5"
       },
       "0x5420884d67823c689ec4e334dd4a5f06740d06f40368aaa2f6798c87acee217e|Elena Rybakina": {
         "title": "Cincinnati Open: Taylor Townsend vs Elena Rybakina",
@@ -2222,23 +1613,16 @@
       "0x91844aec0b532f9ec1e3368a2fb6ad3a1390157012ce7c71964864429e252fd8|Under": {
         "title": "FC Mito Holly Hock vs. Gamba \u014csaka: O/U 5.5",
         "outcome": "Under",
-        "value": 969.8224,
+        "value": 967.2849,
         "avgPrice": 0.9302,
         "slug": "jap-hol-gam-2026-08-15-total-5pt5"
       },
-      "0x1278a7f9e46edcf50b44ead094ba1a068edb66f5aee9cd245363d9ded64117a1|Under": {
-        "title": "AS Nancy-Lorraine vs. Montpellier HSC: O/U 3.5",
-        "outcome": "Under",
-        "value": 963.75,
-        "avgPrice": 0.7925,
-        "slug": "fr2-asn-mon-2026-08-14-total-3pt5"
-      },
-      "0x51dd9896f6c1337c3049508ad6300efc372a58588f898a26b61203fb338ee64c|No": {
-        "title": "AS Nancy-Lorraine vs. Montpellier HSC: Both Teams to Score",
-        "outcome": "No",
-        "value": 943.9051,
-        "avgPrice": 0.7625,
-        "slug": "fr2-asn-mon-2026-08-14-btts"
+      "0x7983ea1751d12f8f3db41bc217f7126cc9a9c708b6b60ab79cb8598effa307bb|Marco Trungelliti": {
+        "title": "Cincinnati Open: Hamad Medjedovic vs Marco Trungelliti",
+        "outcome": "Marco Trungelliti",
+        "value": 939.8992,
+        "avgPrice": 0.3823,
+        "slug": "atp-medjedo-trungel-2026-08-14"
       },
       "0x3957825e71700637ac7e4e3d652b5d157a14c4016e970ed5324ef4d363660555|Over": {
         "title": "Wolverhampton Wanderers FC vs. Blackburn Rovers FC: Wolverhampton Wanderers FC O/U 0.5",
@@ -2246,20 +1630,6 @@
         "value": 930.3224,
         "avgPrice": 0.9899,
         "slug": "elc-wol-bbr-2026-08-14-team-total-home-0pt5"
-      },
-      "0xc96745b9f956a0d207b614eb9e02a02c2a79395fbfda7cf967799f86dfb60200|No": {
-        "title": "Will Al Wahda FC (UAE) win on 2026-08-14?",
-        "outcome": "No",
-        "value": 929.3551,
-        "avgPrice": 0.9838,
-        "slug": "uae1-alw-ajm-2026-08-14-alw"
-      },
-      "0x3af8a6168a15075119d5942a28e25d680ce9b592298241495eb76291593a9cb6|No": {
-        "title": "Will AC Monza vs. US Avellino 1912 end in a draw?",
-        "outcome": "No",
-        "value": 909.4532,
-        "avgPrice": 0.9899,
-        "slug": "itc-mon1-ave-2026-08-14-draw"
       },
       "0xa0186f1011da61f31ca779437eb11556677bc9f8030dd25171d9da85b0e245b6|Yes": {
         "title": "Will Pau FC win on 2026-08-14?",
@@ -2282,13 +1652,6 @@
         "avgPrice": 0.464,
         "slug": "por-spo-gui-2026-08-14-btts"
       },
-      "0x16f42f75eaef85bccf71ddafdc85d3453a19b6928635b54916392a44182c56d7|Over": {
-        "title": "Al Hilal Saudi Club vs. Al Faisaly Saudi Club: O/U 5.5",
-        "outcome": "Over",
-        "value": 894.9602,
-        "avgPrice": 0.4116,
-        "slug": "spl-hil-fai-2026-08-14-total-5pt5"
-      },
       "0xcc08e84a393c13b7359fd940b4712a40ab467c21989585b85ff80960ddb92190|Under": {
         "title": "ACF Fiorentina vs. Benevento Calcio: O/U 5.5",
         "outcome": "Under",
@@ -2296,54 +1659,12 @@
         "avgPrice": 0.3712,
         "slug": "itc-fio-ben-2026-08-14-total-5pt5"
       },
-      "0xe6b43a71a89c48735f9c9e2aec7f292b2ffe2d4b95907613d2e2e39558c2ba31|No": {
-        "title": "Exact Score: Red Star FC 0 - 1 FC Sochaux-Montb\u00e9liard?",
-        "outcome": "No",
-        "value": 871.815,
-        "avgPrice": 0.9,
-        "slug": "fr2-rst-fcs-2026-08-14-exact-score-0-1"
-      },
-      "0x4520580992fbd381428fbb091b8f1bc69cab798b387d5ad964babc6effa223d7|Tristan Schoolkate": {
-        "title": "Brownsburg: Andre Ilagan vs Tristan Schoolkate",
-        "outcome": "Tristan Schoolkate",
-        "value": 868.5924,
-        "avgPrice": 0.5038,
-        "slug": "atp-ilagan-schoolk-2026-08-14"
-      },
-      "0x1002d54aa30d1dd29202ef5618db53e47cf072a1f52f9c88f9489fdc214fad37|Under": {
-        "title": "Grenoble Foot 38 vs. FC Metz: O/U 1.5",
-        "outcome": "Under",
-        "value": 866.6875,
-        "avgPrice": 0.7879,
-        "slug": "fr2-gre-met-2026-08-14-total-1pt5"
-      },
-      "0xbd68f64b7a6d9d0a0c780b6fd2d2b6a25bd3e1940180f37cecb3b941e91ccf3a|Under": {
-        "title": "AS Nancy-Lorraine vs. Montpellier HSC: O/U 1.5",
-        "outcome": "Under",
-        "value": 865.87,
-        "avgPrice": 0.7583,
-        "slug": "fr2-asn-mon-2026-08-14-total-1pt5"
-      },
-      "0xc87df8c6fda93d98e77fa12234fa07350f294841c423670dc6ba9182e5bbfc12|Michael Zheng": {
-        "title": "Cincinnati Open: Fabian Marozsan vs Michael Zheng",
-        "outcome": "Michael Zheng",
-        "value": 861.8878,
-        "avgPrice": 0.5333,
-        "slug": "atp-marozsa-zheng-2026-08-14"
-      },
       "0x2307c8dd123f120f7d8a890646229f3b0211e182534e925e9604942317b7eddd|No": {
         "title": "Exact Score: Chicago Fire FC 3 - 3 Vancouver Whitecaps FC?",
         "outcome": "No",
         "value": 859.6534,
         "avgPrice": 0.9739,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-3-3"
-      },
-      "0x4981262e4f99407d9443c8f33c703e42af8a7da728a26629a9a334d8947aca55|Sparta Rotterdam": {
-        "title": "Spread: Sparta Rotterdam (-1.5)",
-        "outcome": "Sparta Rotterdam",
-        "value": 851.3618,
-        "avgPrice": 0.6385,
-        "slug": "ere-tel-spa-2026-08-14-spread-away-1pt5"
       },
       "0x96739c07de9d8cd1f1945dd9993f0b2a4cfdb9353bb0e9ecf99de675aebb01b0|Yes": {
         "title": "Wolverhampton Wanderers FC vs. Blackburn Rovers FC: Draw at halftime?",
@@ -2359,40 +1680,12 @@
         "avgPrice": 0.5499,
         "slug": "mls-hou-lag-2026-08-15-hou"
       },
-      "0xce1b5cace115aaa4eb5df30e08f339bf78b563ed26883c5b3a2bde5a2537dc39|Under": {
-        "title": "Red Star FC vs. FC Sochaux-Montb\u00e9liard: O/U 2.5",
-        "outcome": "Under",
-        "value": 826.219,
-        "avgPrice": 0.8276,
-        "slug": "fr2-rst-fcs-2026-08-14-total-2pt5"
-      },
-      "0x488047b21e1353ab813c15d8c22fb424316a5f064e7c7d766cf9ea0252a28bb3|Under": {
-        "title": "Galatasaray SK vs. \u00c7orum FK: O/U 4.5",
-        "outcome": "Under",
-        "value": 819.2744,
-        "avgPrice": 0.8063,
-        "slug": "tur-gal-cf-2026-08-14-total-4pt5"
-      },
       "0x4234a8fc59b3e003c00d5f590bce15bd7f778b2049dabd7bcb3e6d0e409398a6|No": {
         "title": "Will Paris Saint-Germain win on 2026-08-16?",
         "outcome": "No",
         "value": 810.56,
         "avgPrice": 0.4318,
         "slug": "frtc-rcl-psg-2026-08-16-psg"
-      },
-      "0x04c748c5c64c3607972cc9f73a9bf4feb005ced5bf2e9aca349a6b64096dd2eb|Under": {
-        "title": "Dijon Football C\u00f4te d'Or vs. Pau FC: O/U 2.5",
-        "outcome": "Under",
-        "value": 809.62,
-        "avgPrice": 0.9179,
-        "slug": "fr2-dij-pau-2026-08-14-total-2pt5"
-      },
-      "0xe8900b6651f90489666573fb4487967fee59019c50ceb4cdc8173d9388c0c1b9|Over": {
-        "title": "FC CSKA 1948 vs. PFC Cherno More Varna: FC CSKA 1948 O/U 2.5",
-        "outcome": "Over",
-        "value": 805.8276,
-        "avgPrice": 0.2599,
-        "slug": "bul-csk-cmv-2026-08-14-team-total-home-2pt5"
       },
       "0x90002576dddaf30d4b5fa7411216bea04d945a76f3c3d877735da932a9760908|No": {
         "title": "\u00c7orum FK leading at halftime?",
@@ -2401,34 +1694,6 @@
         "avgPrice": 0.9058,
         "slug": "tur-gal-cf-2026-08-14-halftime-result-away"
       },
-      "0x2a2ff5bf27eef0d6e1f87ce3d432565b1aaa8f028b8da7536b4f4a8bc9fe2f2b|Under": {
-        "title": "Red Star FC vs. FC Sochaux-Montb\u00e9liard: O/U 3.5",
-        "outcome": "Under",
-        "value": 791.2916,
-        "avgPrice": 0.9622,
-        "slug": "fr2-rst-fcs-2026-08-14-total-3pt5"
-      },
-      "0xc0f041bee2fba8b040d75cd11342d5e1b7984bf7124b1dda5225ee8b3a72aeb7|Under": {
-        "title": "Coventry City vs. AS Monaco: O/U 3.5",
-        "outcome": "Under",
-        "value": 777.8103,
-        "avgPrice": 0.6719,
-        "slug": "clf-cov-asm-2026-08-14-total-3pt5"
-      },
-      "0x28ba0f78b9cf0ec664424e47949ef27565a2e889ef4c84969c4c2045fe29856b|Over": {
-        "title": "Atalanta BC vs. Athletic Bilbao: O/U 0.5",
-        "outcome": "Over",
-        "value": 772.6135,
-        "avgPrice": 0.8152,
-        "slug": "clf-ata-ath-2026-08-14-total-0pt5"
-      },
-      "0x41b5988776df3e5f6c425f0312dea527f8a286ddb04026a1505c97389035d047|Over": {
-        "title": "Galatasaray SK vs. \u00c7orum FK: O/U 0.5",
-        "outcome": "Over",
-        "value": 765.2777,
-        "avgPrice": 0.9353,
-        "slug": "tur-gal-cf-2026-08-14-total-0pt5"
-      },
       "0x9c6d5a791aaad4ffa2e6da2f4ee41a4a8e03f2de96312788e3c6aa5f74132421|Over": {
         "title": "Stellenbosch FC vs. Marumo Gallants FC: O/U 2.5",
         "outcome": "Over",
@@ -2436,12 +1701,12 @@
         "avgPrice": 0.9712,
         "slug": "saf1-stb-mgl-2026-08-14-total-2pt5"
       },
-      "0x087924582f4ab6e78a743da3577685468c3118fc58f3d8c2ff3b1d82e908ce9d|Grenoble Foot 38": {
-        "title": "Spread: FC Metz (-2.5)",
-        "outcome": "Grenoble Foot 38",
-        "value": 743.1228,
-        "avgPrice": 0.9691,
-        "slug": "fr2-gre-met-2026-08-14-spread-away-2pt5"
+      "0x4520580992fbd381428fbb091b8f1bc69cab798b387d5ad964babc6effa223d7|Andre Ilagan": {
+        "title": "Brownsburg: Andre Ilagan vs Tristan Schoolkate",
+        "outcome": "Andre Ilagan",
+        "value": 728.6766,
+        "avgPrice": 0.6754,
+        "slug": "atp-ilagan-schoolk-2026-08-14"
       },
       "0x36b9af0a97e69566ff47c7eec5ce923662faf6e4ccff029bb19d451dec0dc646|No": {
         "title": "Will Atlanta United FC win on 2026-08-15?",
@@ -2456,13 +1721,6 @@
         "value": 709.6232,
         "avgPrice": 0.6092,
         "slug": "tur-gal-cf-2026-08-14-cf"
-      },
-      "0xc5c5fda620a88ef954d036f9f63600513ebb1c8fd9108745d4bbd500c5eb6a36|Over": {
-        "title": "Al Wahda FC (UAE) vs. Ajman Club: O/U 0.5",
-        "outcome": "Over",
-        "value": 697.638,
-        "avgPrice": 0.9989,
-        "slug": "uae1-alw-ajm-2026-08-14-total-0pt5"
       },
       "0x9f3c6d54829c028038778578a0404f0132f9a3f30f8c9cbfb871eb8e029e0509|Yes": {
         "title": "Will Atalanta BC win on 2026-08-14?",
@@ -2492,12 +1750,12 @@
         "avgPrice": 0.8996,
         "slug": "por-spo-gui-2026-08-14-exact-score-3-0"
       },
-      "0x52b1aea03ac9e8cc3d560d0263ef3ee87f9ef8fef9fcea2b0b04d78a6175003a|GNK Dinamo Zagreb": {
-        "title": "Spread: GNK Dinamo Zagreb (-1.5)",
-        "outcome": "GNK Dinamo Zagreb",
-        "value": 660.4268,
-        "avgPrice": 0.8637,
-        "slug": "hr1-din-rud-2026-08-14-spread-home-1pt5"
+      "0x9c4a8ab4e67ee787f9ee93627332c8a6babbddfd8e7e972679e0630227969f64|No": {
+        "title": "Will CD Comerciantes Unidos win on 2026-08-14?",
+        "outcome": "No",
+        "value": 662.0774,
+        "avgPrice": 0.8298,
+        "slug": "per1-cag-ccu-2026-08-14-ccu"
       },
       "0x4fc889e9cabcfaf2dca7f9f7af0e9bca69ac54dbf529a6d9e61ae35d0526d7df|Over": {
         "title": "Arsenal FC vs. Manchester City: O/U 2.5",
@@ -2520,40 +1778,12 @@
         "avgPrice": 0.9522,
         "slug": "por-spo-gui-2026-08-14-total-2pt5"
       },
-      "0x9c4a8ab4e67ee787f9ee93627332c8a6babbddfd8e7e972679e0630227969f64|No": {
-        "title": "Will CD Comerciantes Unidos win on 2026-08-14?",
-        "outcome": "No",
-        "value": 650.1541,
-        "avgPrice": 0.8298,
-        "slug": "per1-cag-ccu-2026-08-14-ccu"
-      },
-      "0xeeefbb1c63535a8cbdf63bc5147f29d50fdba88be986933d16ade4b7a2fe393d|Under": {
-        "title": "Galatasaray SK vs. \u00c7orum FK: 1st Half O/U 2.5",
-        "outcome": "Under",
-        "value": 644.2366,
-        "avgPrice": 0.8307,
-        "slug": "tur-gal-cf-2026-08-14-first-half-total-2pt5"
-      },
-      "0xd13e53fa16458ffae5b47eb10c3de60f9dc9f10698072453eb8f4990d6aac49b|No": {
-        "title": "Will US Boulogne C\u00f4te d'Opale win on 2026-08-14?",
-        "outcome": "No",
-        "value": 634.8056,
-        "avgPrice": 0.8559,
-        "slug": "fr2-gui-usb-2026-08-14-usb"
-      },
-      "0x9c22889d6c465ae6562225a76ce642ecc76e99b10e1616d8111a4f812cff61e9|AS Saint-\u00c9tienne": {
-        "title": "Spread: AS Saint-\u00c9tienne (-1.5)",
-        "outcome": "AS Saint-\u00c9tienne",
-        "value": 633.613,
-        "avgPrice": 0.9558,
-        "slug": "fr2-ass-clf-2026-08-14-spread-home-1pt5"
-      },
-      "0x4cc7d05fbca7c021731c237068546faa268cd0e48fb5c28b537c45074c91c9c5|Stade Lavallois Mayenne FC": {
-        "title": "Spread: FC Nantes (-2.5)",
-        "outcome": "Stade Lavallois Mayenne FC",
-        "value": 629.6745,
-        "avgPrice": 0.9603,
-        "slug": "fr2-lav-nan-2026-08-14-spread-away-2pt5"
+      "0x5539ec7351b133c58717813036da83e5f384f50bfc2fc9c50c1384d489a12206|Yes": {
+        "title": "Will Villarreal CF win on 2026-08-16?",
+        "outcome": "Yes",
+        "value": 639.91,
+        "avgPrice": 0.4331,
+        "slug": "lal-rrc-vil-2026-08-16-vil"
       },
       "0x841fb7a9055ca17285ff76a882274972b072eda7569d4fe6daef56fa29a8ee6b|No": {
         "title": "Exact Score: Chicago Fire FC 0 - 0 Vancouver Whitecaps FC?",
@@ -2562,40 +1792,12 @@
         "avgPrice": 0.9609,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-0-0"
       },
-      "0x5539ec7351b133c58717813036da83e5f384f50bfc2fc9c50c1384d489a12206|Yes": {
-        "title": "Will Villarreal CF win on 2026-08-16?",
-        "outcome": "Yes",
-        "value": 625.53,
-        "avgPrice": 0.4331,
-        "slug": "lal-rrc-vil-2026-08-16-vil"
-      },
-      "0x57c5b8bdf6b9a529a188f4e583bd8dfaf065c31c2fdd0874ed8b230db47f0f7b|Yes": {
-        "title": "FC CSKA 1948 vs. PFC Cherno More Varna: Both Teams to Score",
-        "outcome": "Yes",
-        "value": 620.6633,
-        "avgPrice": 0.9981,
-        "slug": "bul-csk-cmv-2026-08-14-btts"
-      },
-      "0xf69eff341cba1f0c1961ed51afdf826f86026b52070996015fd87e426b46f7fc|Al Faisaly Saudi Club": {
-        "title": "Spread: Al Hilal Saudi Club (-2.5)",
-        "outcome": "Al Faisaly Saudi Club",
-        "value": 619.2983,
-        "avgPrice": 0.6558,
-        "slug": "spl-hil-fai-2026-08-14-spread-home-2pt5"
-      },
-      "0x95438f1590331b3a0ef1b1d913584bbbfeec260260ccc6ce617bf917d982a062|Stade Lavallois Mayenne FC": {
-        "title": "Spread: FC Nantes (-1.5)",
-        "outcome": "Stade Lavallois Mayenne FC",
-        "value": 614.2994,
-        "avgPrice": 0.8318,
-        "slug": "fr2-lav-nan-2026-08-14-spread-away-1pt5"
-      },
-      "0x932b3233c294a460211275c6c7213d58a1e5dc1165470ba3ae9957916e083339|Over": {
-        "title": "Coventry City vs. AS Monaco: O/U 0.5",
-        "outcome": "Over",
-        "value": 609.695,
-        "avgPrice": 0.9989,
-        "slug": "clf-cov-asm-2026-08-14-total-0pt5"
+      "0x1a8c776deed0a243a37f3f01c8a3d6ce452640e56546c7bdcc8b159925d8f2ae|No": {
+        "title": "Will S\u00e3o Bernardo FC win on 2026-08-14?",
+        "outcome": "No",
+        "value": 622.3238,
+        "avgPrice": 0.6199,
+        "slug": "bra2-ber-bot-2026-08-14-ber"
       },
       "0xda7d05262b576bc81ac8efb3b85017c4c2806243f61cb29b4177ba5830f7bb73|LG Twins": {
         "title": "KBO: Hanwha Eagles vs. LG Twins",
@@ -2611,20 +1813,6 @@
         "avgPrice": 0.81,
         "slug": "mlb-det-cle-2026-06-14-total-4pt5"
       },
-      "0x0530d1be18595421c44dd6e09e70050bdcc0d9f66f555445fcf60c26b14b8985|Real Sociedad de F\u00fatbol B": {
-        "title": "Spread: CD Castell\u00f3n (-2.5)",
-        "outcome": "Real Sociedad de F\u00fatbol B",
-        "value": 597.3565,
-        "avgPrice": 0.8844,
-        "slug": "es2-rso-cas-2026-08-14-spread-away-2pt5"
-      },
-      "0x3268c640377242bfee9944afd15faddaf16b515c914c13ced39086361339ee9f|Over": {
-        "title": "K\u00cd vs. KKS Lech Pozna\u0144: O/U 1.5",
-        "outcome": "Over",
-        "value": 595.702,
-        "avgPrice": 0.82,
-        "slug": "uel-ki-lep-2026-08-13-total-1pt5"
-      },
       "0xeb3c53f73a2c9344d265142907cb55ffadf0490bade8b1053127a5f69fad256e|Yes": {
         "title": "Will FC Annecy win on 2026-08-14?",
         "outcome": "Yes",
@@ -2639,26 +1827,19 @@
         "avgPrice": 0.8099,
         "slug": "fr2-dij-pau-2026-08-14-spread-home-1pt5"
       },
+      "0x372d3c5b60fc67ae96293ca5c2330cb8491ade414af7d5523632c30fd8b88613|No": {
+        "title": "Exact Score: Racing Club 3 - 1 CA Banfield?",
+        "outcome": "No",
+        "value": 584.5835,
+        "avgPrice": 0.9508,
+        "slug": "arg-rac-ban-2026-08-14-exact-score-3-1"
+      },
       "0x77df5aad702270c1559e073ee5096dc680e48cc540c3982811fb7c389c631222|Over": {
         "title": "Wolverhampton Wanderers FC vs. Blackburn Rovers FC: 1st Half O/U 1.5",
         "outcome": "Over",
         "value": 581.8689,
         "avgPrice": 0.4632,
         "slug": "elc-wol-bbr-2026-08-14-first-half-total-1pt5"
-      },
-      "0xe715c79acc26f75dcbf0f75a079773b58a1aa370890a325677fe642ae75c9cde|Over": {
-        "title": "Al Wahda FC (UAE) vs. Ajman Club: O/U 2.5",
-        "outcome": "Over",
-        "value": 581.1953,
-        "avgPrice": 0.8226,
-        "slug": "uae1-alw-ajm-2026-08-14-total-2pt5"
-      },
-      "0xb25d83f059b60ad4d8904b0f023affae5588e541b73e96adf9f197d09eb583e4|Yes": {
-        "title": "Almere City FC vs. Jong PSV Eindhoven: Both Teams to Score",
-        "outcome": "Yes",
-        "value": 573.696,
-        "avgPrice": 0.9989,
-        "slug": "ned2-alm-psv-2026-08-14-btts"
       },
       "0xc617ec799c9eae0383dcdab05646e5bf6fae63408d444ee6cace7a5d26815142|US Boulogne C\u00f4te d'Opale": {
         "title": "Spread: En Avant Guingamp (-1.5)",
@@ -2667,26 +1848,12 @@
         "avgPrice": 0.8193,
         "slug": "fr2-gui-usb-2026-08-14-spread-home-1pt5"
       },
-      "0x155423b726152c0c3b0483cc439e4a98450454208390f5bdb51fdae5d9dada3f|Over": {
-        "title": "AS Saint-\u00c9tienne vs. Clermont Foot 63: O/U 3.5",
-        "outcome": "Over",
-        "value": 560.4428,
-        "avgPrice": 0.2127,
-        "slug": "fr2-ass-clf-2026-08-14-total-3pt5"
-      },
-      "0x5ae30d5f4cc525f37da9ce9b7d023d5b0642d6169d3dfd1482130895789fee4f|Under": {
-        "title": "Grenoble Foot 38 vs. FC Metz: O/U 2.5",
-        "outcome": "Under",
-        "value": 560.353,
-        "avgPrice": 0.7829,
-        "slug": "fr2-gre-met-2026-08-14-total-2pt5"
-      },
-      "0x475ea765cb0765159f451be617fe44d5127f35a7315802addb57fef5fba95593|Over": {
-        "title": "RFC Seraing vs. KSC Lokeren-Temse: O/U 1.5",
-        "outcome": "Over",
-        "value": 559.709,
-        "avgPrice": 0.9989,
-        "slug": "bel2-ser-ksc-2026-08-14-total-1pt5"
+      "0xa2e4ec14205538716e7b33a7a6bd8fe3418580bc9e3ee59f0341bb1661407299|No": {
+        "title": "Will CA Boston River win on 2026-08-14?",
+        "outcome": "No",
+        "value": 558.0737,
+        "avgPrice": 0.6031,
+        "slug": "uru1-bri-dan-2026-08-14-bri"
       },
       "0xf6fdeffa9f281edbcbeac78f0eca55feb56fa0ef3170544cc0b53f945bc00fcb|No": {
         "title": "Vit\u00f3ria SC leading at halftime?",
@@ -2694,13 +1861,6 @@
         "value": 556.5159,
         "avgPrice": 0.9292,
         "slug": "por-spo-gui-2026-08-14-halftime-result-away"
-      },
-      "0x5539ec7351b133c58717813036da83e5f384f50bfc2fc9c50c1384d489a12206|No": {
-        "title": "Will Villarreal CF win on 2026-08-16?",
-        "outcome": "No",
-        "value": 555.6525,
-        "avgPrice": 0.5793,
-        "slug": "lal-rrc-vil-2026-08-16-vil"
       },
       "0xda9fcfe15a8a3132eb7836193db3cc96ffbf0bdc45943de1e372adee6b0ef214|No": {
         "title": "Exact Score: Chicago Fire FC 0 - 3 Vancouver Whitecaps FC?",
@@ -2730,13 +1890,6 @@
         "avgPrice": 0.9699,
         "slug": "por-spo-gui-2026-08-14-spread-away-1pt5"
       },
-      "0x86b993f9b1eb4de47fcea954a8ee2257b308fbf86df4b2cec5da4d605880bb8d|Over": {
-        "title": "Legia Warszawa vs. RKS Radomiak Radom: O/U 0.5",
-        "outcome": "Over",
-        "value": 549.714,
-        "avgPrice": 0.9989,
-        "slug": "pol-leg-rad-2026-08-14-total-0pt5"
-      },
       "0xa3529034be157756dfb2f05dcdac35b690c77f1b895980e00dbed9542376413b|No": {
         "title": "Exact Score: Deportivo Alav\u00e9s 3 - 3 Getafe CF?",
         "outcome": "No",
@@ -2744,12 +1897,12 @@
         "avgPrice": 0.99,
         "slug": "lal-ala-get-2026-08-15-exact-score-3-3"
       },
-      "0x81adcb1cb3908974a9fc6198a39fcde50e98f9224afab051bdaa8e21fcef6334|Over": {
-        "title": "AC Monza vs. US Avellino 1912: O/U 2.5",
-        "outcome": "Over",
-        "value": 545.4773,
-        "avgPrice": 0.672,
-        "slug": "itc-mon1-ave-2026-08-14-total-2pt5"
+      "0x5539ec7351b133c58717813036da83e5f384f50bfc2fc9c50c1384d489a12206|No": {
+        "title": "Will Villarreal CF win on 2026-08-16?",
+        "outcome": "No",
+        "value": 545.818,
+        "avgPrice": 0.5793,
+        "slug": "lal-rrc-vil-2026-08-16-vil"
       },
       "0x4aa3bbbfcca55802fe284e7f4fd47543832ed089d612311e3f643a6f6f57ff2e|No": {
         "title": "Exact Score: Chicago Fire FC 1 - 1 Vancouver Whitecaps FC?",
@@ -2758,34 +1911,6 @@
         "avgPrice": 0.8799,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-1-1"
       },
-      "0x4b7659d93c1f8fff4907f8c3796eccfd63995ed63b43cecfd83416ef21514156|Over": {
-        "title": "Al Hilal Saudi Club vs. Al Faisaly Saudi Club: Al Faisaly Saudi Club O/U 1.5",
-        "outcome": "Over",
-        "value": 543.7493,
-        "avgPrice": 0.8698,
-        "slug": "spl-hil-fai-2026-08-14-team-total-away-1pt5"
-      },
-      "0x5685c534ce5dca14ab141388f65bb70414af7f4c65c29950886e691ff4042e5b|Liudmila Samsonova": {
-        "title": "Cincinnati Open: Yulia Putintseva vs Liudmila Samsonova",
-        "outcome": "Liudmila Samsonova",
-        "value": 533.2891,
-        "avgPrice": 0.6196,
-        "slug": "wta-putints-samsono-2026-08-13"
-      },
-      "0xd95e68559c04e9a7af7f43da6c6dafbb0b13643895f175cb35531fb131c32fe5|No": {
-        "title": "Will FC Metz win on 2026-08-14?",
-        "outcome": "No",
-        "value": 528.3366,
-        "avgPrice": 0.708,
-        "slug": "fr2-gre-met-2026-08-14-met"
-      },
-      "0xec006d201c55a23aece2152dc2e8083c933c4ef837ad81a0b122aaf9fe6a27f1|No": {
-        "title": "Will FCV Dender EH win on 2026-08-14?",
-        "outcome": "No",
-        "value": 519.651,
-        "avgPrice": 0.88,
-        "slug": "bel2-has-den-2026-08-14-den"
-      },
       "0x165ea0616d1fcc9974dde2c40a15b407575f82ab95793489e417343ed36d61bd|Yes": {
         "title": "Will Stellenbosch FC win on 2026-08-14?",
         "outcome": "Yes",
@@ -2793,70 +1918,56 @@
         "avgPrice": 0.8555,
         "slug": "saf1-stb-mgl-2026-08-14-stb"
       },
-      "0x0f0152281c867a8b1290332a936df74ae00fe535c3e0d23eb1fa80b70cd3bb71|Adam Walton": {
-        "title": "Cincinnati Open: Adam Walton vs Nicolas Mejia",
-        "outcome": "Adam Walton",
-        "value": 510.1421,
-        "avgPrice": 0.5722,
-        "slug": "atp-walton-mejia-2026-08-14"
-      },
-      "0x7983ea1751d12f8f3db41bc217f7126cc9a9c708b6b60ab79cb8598effa307bb|Marco Trungelliti": {
-        "title": "Cincinnati Open: Hamad Medjedovic vs Marco Trungelliti",
-        "outcome": "Marco Trungelliti",
-        "value": 503.7131,
-        "avgPrice": 0.3478,
-        "slug": "atp-medjedo-trungel-2026-08-14"
+      "0x4520580992fbd381428fbb091b8f1bc69cab798b387d5ad964babc6effa223d7|Tristan Schoolkate": {
+        "title": "Brownsburg: Andre Ilagan vs Tristan Schoolkate",
+        "outcome": "Tristan Schoolkate",
+        "value": 502.4211,
+        "avgPrice": 0.5038,
+        "slug": "atp-ilagan-schoolk-2026-08-14"
       }
     },
     "#5 HomeRunHazard": {
-      "0xa5ca29e8a6668f42d4085eee8d2779a70aac8469807bc0ef8d3fc98487ad50b9|Nuno Borges": {
-        "title": "Cincinnati Open: Nuno Borges vs Thanasi Kokkinakis",
-        "outcome": "Nuno Borges",
-        "value": 26452.0269,
-        "avgPrice": 0.5128,
-        "slug": "atp-borges-kokkina-2026-08-13"
-      },
       "0xf6e3cd9a991072115121e28251dfa1651d6f329ba8a6f78e0c18bf801150c0a8|Xinyu Wang": {
         "title": "Cincinnati Open: Xinyu Wang vs Hanne Vandewinkel",
         "outcome": "Xinyu Wang",
-        "value": 23837.6375,
-        "avgPrice": 0.5727,
+        "value": 32882.9264,
+        "avgPrice": 0.6173,
         "slug": "wta-wa-vandewi-2026-08-14"
-      },
-      "0xa5ca29e8a6668f42d4085eee8d2779a70aac8469807bc0ef8d3fc98487ad50b9|Thanasi Kokkinakis": {
-        "title": "Cincinnati Open: Nuno Borges vs Thanasi Kokkinakis",
-        "outcome": "Thanasi Kokkinakis",
-        "value": 22742.8537,
-        "avgPrice": 0.5712,
-        "slug": "atp-borges-kokkina-2026-08-13"
       },
       "0x5e19b524253bd09a387a301edea0ac3a4687f6165204686eff2f9e748d324838|Under": {
         "title": "Miami Marlins vs. Cincinnati Reds: O/U 7.5",
         "outcome": "Under",
-        "value": 15611.4964,
+        "value": 24340.5052,
         "avgPrice": 0.4586,
         "slug": "mlb-mia-cin-2026-08-14-total-7pt5"
-      },
-      "0x0f0152281c867a8b1290332a936df74ae00fe535c3e0d23eb1fa80b70cd3bb71|Adam Walton": {
-        "title": "Cincinnati Open: Adam Walton vs Nicolas Mejia",
-        "outcome": "Adam Walton",
-        "value": 13721.6584,
-        "avgPrice": 0.7863,
-        "slug": "atp-walton-mejia-2026-08-14"
-      },
-      "0x9890e51b1b7c924d3f6b6436e4c497b6df02756028b494e1f783a5c25812ce26|Lloyd Harris": {
-        "title": "Brownsburg: Lloyd Harris vs Harry Wendelken",
-        "outcome": "Lloyd Harris",
-        "value": 9371.2273,
-        "avgPrice": 0.5509,
-        "slug": "atp-harri-wendelk-2026-08-14"
       },
       "0x2d16e1d12ca7083361cf56b219f44508fc715bd9eeb340b8e0c9b948e4fa87b6|Tereza Valentova": {
         "title": "Cincinnati Open: Mary Stoiana vs Tereza Valentova",
         "outcome": "Tereza Valentova",
-        "value": 8906.3678,
-        "avgPrice": 0.8099,
+        "value": 13632.7195,
+        "avgPrice": 0.8354,
         "slug": "wta-stoiana-valento-2026-08-14"
+      },
+      "0x9890e51b1b7c924d3f6b6436e4c497b6df02756028b494e1f783a5c25812ce26|Lloyd Harris": {
+        "title": "Brownsburg: Lloyd Harris vs Harry Wendelken",
+        "outcome": "Lloyd Harris",
+        "value": 10704.6191,
+        "avgPrice": 0.5509,
+        "slug": "atp-harri-wendelk-2026-08-14"
+      },
+      "0x5685c534ce5dca14ab141388f65bb70414af7f4c65c29950886e691ff4042e5b|Liudmila Samsonova": {
+        "title": "Cincinnati Open: Yulia Putintseva vs Liudmila Samsonova",
+        "outcome": "Liudmila Samsonova",
+        "value": 10536.3324,
+        "avgPrice": 0.6745,
+        "slug": "wta-putints-samsono-2026-08-13"
+      },
+      "0x7983ea1751d12f8f3db41bc217f7126cc9a9c708b6b60ab79cb8598effa307bb|Marco Trungelliti": {
+        "title": "Cincinnati Open: Hamad Medjedovic vs Marco Trungelliti",
+        "outcome": "Marco Trungelliti",
+        "value": 10198.1704,
+        "avgPrice": 0.6357,
+        "slug": "atp-medjedo-trungel-2026-08-14"
       },
       "0xbabc896225844371b57a54468c5e2638a47fc64039765fb61c68d10f23885331|Atlanta Braves": {
         "title": "Atlanta Braves vs. Chicago White Sox",
@@ -2872,6 +1983,27 @@
         "avgPrice": 0.5247,
         "slug": "mlb-stl-cin-2026-05-24-total-9pt5"
       },
+      "0x2864736102f31d0eb7585f51d18188a17ce8b8e967bba700ad1cf73b5e7d29cf|Over": {
+        "title": "MIA vs. WAS: O/U 37.5",
+        "outcome": "Over",
+        "value": 7366.7767,
+        "avgPrice": 0.4599,
+        "slug": "nfl-mia-was-2026-08-14-total-37pt5"
+      },
+      "0xc9c680830e3c7ec4292462d38680c3eeb26c17c7055f23a88c3bf08c32dbad89|Cincinnati Reds": {
+        "title": "Miami Marlins vs. Cincinnati Reds",
+        "outcome": "Cincinnati Reds",
+        "value": 6614.1784,
+        "avgPrice": 0.5599,
+        "slug": "mlb-mia-cin-2026-08-14"
+      },
+      "0x847054b3a8e4bd0556bfd7c5045068cb4016a3d8ffd450dd53cfa1634aae1800|Dallas Wings": {
+        "title": "Spread: Indiana Fever (-8.5)",
+        "outcome": "Dallas Wings",
+        "value": 6169.2829,
+        "avgPrice": 0.5099,
+        "slug": "wnba-dal-ind-2026-08-14-spread-home-8pt5"
+      },
       "0xb406b83892c361aef8b1d87f01605b7ca991800be4ce73af32d0f03f6d5e28a6|Over": {
         "title": "MIA vs. WAS: O/U 36.5",
         "outcome": "Over",
@@ -2879,19 +2011,26 @@
         "avgPrice": 0.4899,
         "slug": "nfl-mia-was-2026-08-14-total-36pt5"
       },
+      "0xfdd3dbb046a16a303cef4fae8fa2fbdf101bb931ac0cc6544f908ce4508f7c26|Under": {
+        "title": "Boston Red Sox vs. Pittsburgh Pirates: O/U 8.5",
+        "outcome": "Under",
+        "value": 5144.5693,
+        "avgPrice": 0.5316,
+        "slug": "mlb-bos-pit-2026-08-14-total-8pt5"
+      },
+      "0x5685c534ce5dca14ab141388f65bb70414af7f4c65c29950886e691ff4042e5b|Yulia Putintseva": {
+        "title": "Cincinnati Open: Yulia Putintseva vs Liudmila Samsonova",
+        "outcome": "Yulia Putintseva",
+        "value": 5046.8136,
+        "avgPrice": 0.2083,
+        "slug": "wta-putints-samsono-2026-08-13"
+      },
       "0xb05c818298bb52963289b4a3345bc04e52e278933373e046d8371eb651b98e39|Over": {
         "title": "Chicago White Sox vs. Detroit Tigers: O/U 8.5",
         "outcome": "Over",
-        "value": 5257.1422,
+        "value": 5044.7324,
         "avgPrice": 0.4991,
         "slug": "mlb-cws-det-2026-08-14-total-8pt5"
-      },
-      "0x2864736102f31d0eb7585f51d18188a17ce8b8e967bba700ad1cf73b5e7d29cf|Over": {
-        "title": "MIA vs. WAS: O/U 37.5",
-        "outcome": "Over",
-        "value": 5171.8977,
-        "avgPrice": 0.4598,
-        "slug": "nfl-mia-was-2026-08-14-total-37pt5"
       },
       "0x31895872275819d45a79f75d5328362d86916caa65a707a3186f6ec7e3d974ce|Over": {
         "title": "Houston Astros vs. San Francisco Giants: O/U 8.5",
@@ -2900,40 +2039,19 @@
         "avgPrice": 0.4158,
         "slug": "mlb-hou-sf-2026-08-10-total-8pt5"
       },
-      "0xfdd3dbb046a16a303cef4fae8fa2fbdf101bb931ac0cc6544f908ce4508f7c26|Under": {
-        "title": "Boston Red Sox vs. Pittsburgh Pirates: O/U 8.5",
-        "outcome": "Under",
-        "value": 4634.3641,
-        "avgPrice": 0.5316,
-        "slug": "mlb-bos-pit-2026-08-14-total-8pt5"
-      },
-      "0x847054b3a8e4bd0556bfd7c5045068cb4016a3d8ffd450dd53cfa1634aae1800|Dallas Wings": {
-        "title": "Spread: Indiana Fever (-8.5)",
-        "outcome": "Dallas Wings",
-        "value": 4348.9388,
-        "avgPrice": 0.5099,
-        "slug": "wnba-dal-ind-2026-08-14-spread-home-8pt5"
-      },
-      "0x5e19b524253bd09a387a301edea0ac3a4687f6165204686eff2f9e748d324838|Over": {
-        "title": "Miami Marlins vs. Cincinnati Reds: O/U 7.5",
+      "0xa0fb56bd90e8a43aff6c028a2b4c55751c64c11ccf004aebb56e91460fc38d59|Over": {
+        "title": "Chicago White Sox vs. Detroit Tigers: O/U 9.5",
         "outcome": "Over",
-        "value": 4186.8207,
-        "avgPrice": 0.5202,
-        "slug": "mlb-mia-cin-2026-08-14-total-7pt5"
+        "value": 4734.4739,
+        "avgPrice": 0.4498,
+        "slug": "mlb-cws-det-2026-08-14-total-9pt5"
       },
       "0x864324713766812d609e2373c754abbd412219e955e25c7c0b70fb67f6a2298e|Under": {
         "title": "Boston Red Sox vs. Pittsburgh Pirates: O/U 7.5",
         "outcome": "Under",
-        "value": 4095.6942,
+        "value": 4536.1738,
         "avgPrice": 0.4557,
         "slug": "mlb-bos-pit-2026-08-14-total-7pt5"
-      },
-      "0x99ae145a7ea8ebbf403f5df9c6038e12b465f70fbc08f86a9ca1db07246f3f06|Lorenzo Sonego": {
-        "title": "Cincinnati Open: Juncheng Shang vs Lorenzo Sonego",
-        "outcome": "Lorenzo Sonego",
-        "value": 3986.4551,
-        "avgPrice": 0.7472,
-        "slug": "atp-shang-sonego-2026-08-13"
       },
       "0xc53b6056373f3659365afa094b4ba9af14f540b576a8ca0347309be8b4ed3228|Over": {
         "title": "Boston Red Sox vs. New York Yankees: O/U 7.5",
@@ -2941,6 +2059,13 @@
         "value": 3891.0974,
         "avgPrice": 0.5609,
         "slug": "mlb-bos-nyy-2026-06-06-total-7pt5"
+      },
+      "0x8eab2c882b8ce7cabe414b0b05bb623fb5b43d5acb81752b2f94d1d0d5fafdbe|Under": {
+        "title": "Dallas Wings vs. Indiana Fever: O/U 186.5",
+        "outcome": "Under",
+        "value": 3829.0708,
+        "avgPrice": 0.5063,
+        "slug": "wnba-dal-ind-2026-08-14-total-186pt5"
       },
       "0xfd2052594f25def40a18550640ee55714e2b45e1302e1ed59a8b96427742992d|Over": {
         "title": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
@@ -2959,7 +2084,7 @@
       "0x3099171a6a16db303b1f27db9c5a813df7f31fcf28e8acd6395b58e90beb128f|Dallas Wings": {
         "title": "Spread: Indiana Fever (-7.5)",
         "outcome": "Dallas Wings",
-        "value": 2950.9469,
+        "value": 3017.0968,
         "avgPrice": 0.4613,
         "slug": "wnba-dal-ind-2026-08-14-spread-home-7pt5"
       },
@@ -2973,30 +2098,37 @@
       "0x3c8dd350b991851fc756ce80f00a99f10243e5637234028c26285e91474f725c|Over": {
         "title": "Milwaukee Brewers vs. Los Angeles Dodgers: O/U 8.5",
         "outcome": "Over",
-        "value": 2925.4152,
+        "value": 2856.5819,
         "avgPrice": 0.42,
         "slug": "mlb-mil-lad-2026-08-14-total-8pt5"
+      },
+      "0xa4ee6a82813ad783c2ba99401118e2b4d38f645b5bf4b5f54efaafccdc9f740c|Indiana Fever": {
+        "title": "Dallas Wings vs. Indiana Fever",
+        "outcome": "Indiana Fever",
+        "value": 2662.2852,
+        "avgPrice": 0.7424,
+        "slug": "wnba-dal-ind-2026-08-14"
       },
       "0x85064e686ff884307b6225af50cc301a738526b993e6acb6713899667556741a|Boston Red Sox": {
         "title": "Boston Red Sox vs. Pittsburgh Pirates",
         "outcome": "Boston Red Sox",
-        "value": 2642.4401,
-        "avgPrice": 0.5266,
+        "value": 2513.2929,
+        "avgPrice": 0.5264,
         "slug": "mlb-bos-pit-2026-08-14"
       },
       "0xe5907ee5b1cbb4a4a905e29edaf2222f46f257e3780a8572791f0546236acbd3|Under": {
         "title": "San Francisco Giants vs. Atlanta Braves: O/U 7.5",
         "outcome": "Under",
-        "value": 2545.0681,
+        "value": 2508.183,
         "avgPrice": 0.4791,
         "slug": "mlb-sf-atl-2026-06-18-total-7pt5"
       },
-      "0x8eab2c882b8ce7cabe414b0b05bb623fb5b43d5acb81752b2f94d1d0d5fafdbe|Under": {
-        "title": "Dallas Wings vs. Indiana Fever: O/U 186.5",
-        "outcome": "Under",
-        "value": 2216.9659,
-        "avgPrice": 0.4899,
-        "slug": "wnba-dal-ind-2026-08-14-total-186pt5"
+      "0x7983ea1751d12f8f3db41bc217f7126cc9a9c708b6b60ab79cb8598effa307bb|Hamad Medjedovic": {
+        "title": "Cincinnati Open: Hamad Medjedovic vs Marco Trungelliti",
+        "outcome": "Hamad Medjedovic",
+        "value": 2498.9193,
+        "avgPrice": 0.4268,
+        "slug": "atp-medjedo-trungel-2026-08-14"
       },
       "0x717c526bb6a5946f75423352cdbd0d92ab87651710a7740997126d58b3a7925d|Over": {
         "title": "Boston Red Sox vs. New York Yankees: O/U 8.5",
@@ -3004,6 +2136,13 @@
         "value": 2165.0701,
         "avgPrice": 0.4861,
         "slug": "mlb-bos-nyy-2026-06-06-total-8pt5"
+      },
+      "0x5e19b524253bd09a387a301edea0ac3a4687f6165204686eff2f9e748d324838|Over": {
+        "title": "Miami Marlins vs. Cincinnati Reds: O/U 7.5",
+        "outcome": "Over",
+        "value": 2154.8541,
+        "avgPrice": 0.5202,
+        "slug": "mlb-mia-cin-2026-08-14-total-7pt5"
       },
       "0x941fbf592963145534ff96af5bfc20e410d7a55f193b0c38110629db95f8d4d7|Over": {
         "title": "TB vs. NYJ: O/U 35.5",
@@ -3025,6 +2164,20 @@
         "value": 1936.0606,
         "avgPrice": 0.3625,
         "slug": "wta-marcink-palicov-2026-06-04"
+      },
+      "0xe247dc592a1555e87763f89d3cc902b89b3f6050fe8e7577aa13c014ddfb7530|Over": {
+        "title": "Miami Marlins vs. Cincinnati Reds: O/U 9.5",
+        "outcome": "Over",
+        "value": 1848.9994,
+        "avgPrice": 0.29,
+        "slug": "mlb-mia-cin-2026-08-14-total-9pt5"
+      },
+      "0xc87df8c6fda93d98e77fa12234fa07350f294841c423670dc6ba9182e5bbfc12|Michael Zheng": {
+        "title": "Cincinnati Open: Fabian Marozsan vs Michael Zheng",
+        "outcome": "Michael Zheng",
+        "value": 1793.5652,
+        "avgPrice": 0.6076,
+        "slug": "atp-marozsa-zheng-2026-08-14"
       },
       "0xc86108feec188547ff26fe9fae656323fdb2a954b0f9753bd5cb9c453428501b|Milwaukee Brewers": {
         "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
@@ -3064,14 +2217,35 @@
       "0x5838cf80f5a987553e382f3067ba97ab1b557575793f5c1e197b89df2c9cbcf3|Seattle Storm": {
         "title": "Spread: Seattle Storm (-2.5)",
         "outcome": "Seattle Storm",
-        "value": 1438.2814,
+        "value": 1465.1652,
         "avgPrice": 0.5149,
         "slug": "wnba-por-sea-2026-08-14-spread-home-2pt5"
+      },
+      "0xa02bbd8cecdd70852a777e96d62420fdd3370c014c59899a7f98f89e0e1d4f51|Marin Cilic": {
+        "title": "Cincinnati Open: Daniel Merida Aguilar vs Marin Cilic",
+        "outcome": "Marin Cilic",
+        "value": 1445.3359,
+        "avgPrice": 0.4099,
+        "slug": "atp-aguilar-cilic-2026-08-13"
+      },
+      "0xf44f22d840d7088144c4960579d15bc8cf776ba7e36d9fcf2246c60fc03f1f0d|Under": {
+        "title": "Dallas Wings vs. Indiana Fever: O/U 185.5",
+        "outcome": "Under",
+        "value": 1377.8611,
+        "avgPrice": 0.4892,
+        "slug": "wnba-dal-ind-2026-08-14-total-185pt5"
+      },
+      "0x78d312393007e870d2dade8572beb140dfe18e02ce17f6289323ae3de7992a8d|Under": {
+        "title": "DEN vs. ATL: O/U 38.5",
+        "outcome": "Under",
+        "value": 1358.9275,
+        "avgPrice": 0.4697,
+        "slug": "nfl-den-atl-2026-08-14-total-38pt5"
       },
       "0xf80ca9f5a40e435d3de36332a47e0090073e004edce06ff877e41644e3217d5d|Over": {
         "title": "TB vs. NYJ: O/U 36.5",
         "outcome": "Over",
-        "value": 1351.1895,
+        "value": 1323.0397,
         "avgPrice": 0.4536,
         "slug": "nfl-tb-nyj-2026-08-14-total-36pt5"
       },
@@ -3082,12 +2256,26 @@
         "avgPrice": 0.6104,
         "slug": "wta-masarov-ryser-2026-07-18-match-total-23pt5"
       },
+      "0xfa981819b8e94c472dd1afd1bce5a7329d37088b7bd14d731c8e5b40a923595f|Falcons": {
+        "title": "Broncos vs. Falcons",
+        "outcome": "Falcons",
+        "value": 1174.3231,
+        "avgPrice": 0.3699,
+        "slug": "nfl-den-atl-2026-08-14"
+      },
       "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523|New York Yankees": {
         "title": "Boston Red Sox vs. New York Yankees",
         "outcome": "New York Yankees",
         "value": 1084.5341,
         "avgPrice": 0.5298,
         "slug": "mlb-bos-nyy-2026-06-06"
+      },
+      "0x8aa5f912124f63bcf4e47b36d116f0746fa8e69adc831db91b97303b337b64b8|Under": {
+        "title": "Arizona Diamondbacks vs. Atlanta Braves: O/U 8.5",
+        "outcome": "Under",
+        "value": 1036.6935,
+        "avgPrice": 0.53,
+        "slug": "mlb-ari-atl-2026-08-14-total-8pt5"
       },
       "0x68f4414fec7cfde3da92b1830df7a7b6815c281626b83d6ee24ceba3af6dd38e|Toronto Blue Jays": {
         "title": "New York Yankees vs. Toronto Blue Jays",
@@ -3103,13 +2291,6 @@
         "avgPrice": 0.46,
         "slug": "mlb-sd-cle-2026-08-14-total-7pt5"
       },
-      "0x8aa5f912124f63bcf4e47b36d116f0746fa8e69adc831db91b97303b337b64b8|Under": {
-        "title": "Arizona Diamondbacks vs. Atlanta Braves: O/U 8.5",
-        "outcome": "Under",
-        "value": 1017.6716,
-        "avgPrice": 0.53,
-        "slug": "mlb-ari-atl-2026-08-14-total-8pt5"
-      },
       "0xe19ddd7a87ad62801fdd2387d8c1056a7521e11110af4fc009b9189924a01760|Detroit Tigers": {
         "title": "Spread: Cleveland Guardians (-1.5)",
         "outcome": "Detroit Tigers",
@@ -3124,12 +2305,12 @@
         "avgPrice": 0.5046,
         "slug": "nfl-den-atl-2026-08-14-total-40pt5"
       },
-      "0x9952ac8902f12c98f87d7868689becb6fad664b74f254121ba6326afb0ccc1ea|Baltimore Orioles": {
-        "title": "Baltimore Orioles vs. Tampa Bay Rays",
-        "outcome": "Baltimore Orioles",
-        "value": 999.0013,
-        "avgPrice": 0.39,
-        "slug": "mlb-bal-tb-2026-08-14"
+      "0x3732724749dcdb9f1966f406a3e859f67833f5e4ae3ff37b73b52c68286301a9|Buccaneers": {
+        "title": "Buccaneers vs. Jets",
+        "outcome": "Buccaneers",
+        "value": 996.0655,
+        "avgPrice": 0.2999,
+        "slug": "nfl-tb-nyj-2026-08-14"
       },
       "0x2308d78dccdf19bf2a66acc8af60dfc3a435e7f55482a651e602658e354aac6f|Atlanta Braves": {
         "title": "San Francisco Giants vs. Atlanta Braves",
@@ -3138,19 +2319,12 @@
         "avgPrice": 0.56,
         "slug": "mlb-sf-atl-2026-06-18"
       },
-      "0x9890e51b1b7c924d3f6b6436e4c497b6df02756028b494e1f783a5c25812ce26|Harry Wendelken": {
-        "title": "Brownsburg: Lloyd Harris vs Harry Wendelken",
-        "outcome": "Harry Wendelken",
-        "value": 946.2346,
-        "avgPrice": 0.403,
-        "slug": "atp-harri-wendelk-2026-08-14"
-      },
-      "0x3732724749dcdb9f1966f406a3e859f67833f5e4ae3ff37b73b52c68286301a9|Buccaneers": {
-        "title": "Buccaneers vs. Jets",
-        "outcome": "Buccaneers",
-        "value": 906.8656,
-        "avgPrice": 0.2999,
-        "slug": "nfl-tb-nyj-2026-08-14"
+      "0x9952ac8902f12c98f87d7868689becb6fad664b74f254121ba6326afb0ccc1ea|Baltimore Orioles": {
+        "title": "Baltimore Orioles vs. Tampa Bay Rays",
+        "outcome": "Baltimore Orioles",
+        "value": 974.3346,
+        "avgPrice": 0.39,
+        "slug": "mlb-bal-tb-2026-08-14"
       },
       "0x7200b66fb23793c75cc63ed78cb10cdcb00cb507ecb1751cfee5e395e556a37e|Over": {
         "title": "Detroit Tigers vs. Cleveland Guardians: O/U 7.5",
@@ -3162,7 +2336,7 @@
       "0x36205363d937441634df38790c5736cf33333c1d6a03082c4641c1b7b99686bb|Under": {
         "title": "Colorado Rockies vs. San Francisco Giants: O/U 8.5",
         "outcome": "Under",
-        "value": 871.3603,
+        "value": 872.7532,
         "avgPrice": 0.571,
         "slug": "mlb-col-sf-2026-08-14-total-8pt5"
       },
@@ -3173,40 +2347,33 @@
         "avgPrice": 0.57,
         "slug": "atp-michels-gea-2026-07-20-match-total-23pt5"
       },
-      "0xf6e3cd9a991072115121e28251dfa1651d6f329ba8a6f78e0c18bf801150c0a8|Hanne Vandewinkel": {
-        "title": "Cincinnati Open: Xinyu Wang vs Hanne Vandewinkel",
-        "outcome": "Hanne Vandewinkel",
-        "value": 811.9317,
-        "avgPrice": 0.4778,
-        "slug": "wta-wa-vandewi-2026-08-14"
+      "0x2d16e1d12ca7083361cf56b219f44508fc715bd9eeb340b8e0c9b948e4fa87b6|Mary Stoiana": {
+        "title": "Cincinnati Open: Mary Stoiana vs Tereza Valentova",
+        "outcome": "Mary Stoiana",
+        "value": 830.6708,
+        "avgPrice": 0.1694,
+        "slug": "wta-stoiana-valento-2026-08-14"
+      },
+      "0xa4ee6a82813ad783c2ba99401118e2b4d38f645b5bf4b5f54efaafccdc9f740c|Dallas Wings": {
+        "title": "Dallas Wings vs. Indiana Fever",
+        "outcome": "Dallas Wings",
+        "value": 732.1738,
+        "avgPrice": 0.2323,
+        "slug": "wnba-dal-ind-2026-08-14"
       },
       "0x314888454a510655c5b862eff840c4f48b3c8937e9171f438a1cda8768b833c7|Over": {
         "title": "Boston Red Sox vs. Pittsburgh Pirates: O/U 6.5",
         "outcome": "Over",
-        "value": 726.4146,
+        "value": 659.8728,
         "avgPrice": 0.6557,
         "slug": "mlb-bos-pit-2026-08-14-total-6pt5"
       },
-      "0x2d16e1d12ca7083361cf56b219f44508fc715bd9eeb340b8e0c9b948e4fa87b6|Mary Stoiana": {
-        "title": "Cincinnati Open: Mary Stoiana vs Tereza Valentova",
-        "outcome": "Mary Stoiana",
-        "value": 683.9281,
-        "avgPrice": 0.2131,
-        "slug": "wta-stoiana-valento-2026-08-14"
-      },
-      "0x7983ea1751d12f8f3db41bc217f7126cc9a9c708b6b60ab79cb8598effa307bb|Hamad Medjedovic": {
-        "title": "Cincinnati Open: Hamad Medjedovic vs Marco Trungelliti",
-        "outcome": "Hamad Medjedovic",
-        "value": 655.3078,
-        "avgPrice": 0.6309,
-        "slug": "atp-medjedo-trungel-2026-08-14"
-      },
-      "0x3d90b70e01bb2ebf55d379b6bff8d2e224e718f8042a22e5ca92ae1b314bd7b7|Dallas Wings": {
-        "title": "Spread: Indiana Fever (-6.5)",
-        "outcome": "Dallas Wings",
-        "value": 639.9024,
-        "avgPrice": 0.42,
-        "slug": "wnba-dal-ind-2026-08-14-spread-home-6pt5"
+      "0x68f4414fec7cfde3da92b1830df7a7b6815c281626b83d6ee24ceba3af6dd38e|New York Yankees": {
+        "title": "New York Yankees vs. Toronto Blue Jays",
+        "outcome": "New York Yankees",
+        "value": 642.8157,
+        "avgPrice": 0.571,
+        "slug": "mlb-nyy-tor-2026-08-14"
       },
       "0x322320d8d1677279c938484d87234ceafd936e7a5e7fe414b28bb63f1207e171|Kansas City Royals": {
         "title": "Spread: Los Angeles Angels (-1.5)",
@@ -3215,12 +2382,12 @@
         "avgPrice": 0.66,
         "slug": "mlb-kc-laa-2026-08-14-spread-home-1pt5"
       },
-      "0x864324713766812d609e2373c754abbd412219e955e25c7c0b70fb67f6a2298e|Over": {
-        "title": "Boston Red Sox vs. Pittsburgh Pirates: O/U 7.5",
-        "outcome": "Over",
-        "value": 603.0216,
-        "avgPrice": 0.5519,
-        "slug": "mlb-bos-pit-2026-08-14-total-7pt5"
+      "0x3d90b70e01bb2ebf55d379b6bff8d2e224e718f8042a22e5ca92ae1b314bd7b7|Dallas Wings": {
+        "title": "Spread: Indiana Fever (-6.5)",
+        "outcome": "Dallas Wings",
+        "value": 625.192,
+        "avgPrice": 0.42,
+        "slug": "wnba-dal-ind-2026-08-14-spread-home-6pt5"
       },
       "0x717c526bb6a5946f75423352cdbd0d92ab87651710a7740997126d58b3a7925d|Under": {
         "title": "Boston Red Sox vs. New York Yankees: O/U 8.5",
@@ -3250,44 +2417,46 @@
         "avgPrice": 0.5228,
         "slug": "mlb-nyy-tor-2026-08-14-total-7pt5"
       },
+      "0x864324713766812d609e2373c754abbd412219e955e25c7c0b70fb67f6a2298e|Over": {
+        "title": "Boston Red Sox vs. Pittsburgh Pirates: O/U 7.5",
+        "outcome": "Over",
+        "value": 546.6645,
+        "avgPrice": 0.5519,
+        "slug": "mlb-bos-pit-2026-08-14-total-7pt5"
+      },
       "0x7f239104f9827f95a4985478b72c14a486f681590f9a4558f4f43283eae6c683|Under": {
         "title": "Dallas Wings vs. Indiana Fever: O/U 187.5",
         "outcome": "Under",
-        "value": 538.2074,
+        "value": 544.9986,
         "avgPrice": 0.5338,
         "slug": "wnba-dal-ind-2026-08-14-total-187pt5"
       },
       "0xef6aa9c6f2d1817171f3a34fcd7bfa34b339d6282c457142034801046d0dbdef|Chicago White Sox": {
         "title": "Spread: Detroit Tigers (-2.5)",
         "outcome": "Chicago White Sox",
-        "value": 526.0684,
+        "value": 533.426,
         "avgPrice": 0.7,
         "slug": "mlb-cws-det-2026-08-14-spread-home-2pt5"
-      },
-      "0xa4ee6a82813ad783c2ba99401118e2b4d38f645b5bf4b5f54efaafccdc9f740c|Indiana Fever": {
-        "title": "Dallas Wings vs. Indiana Fever",
-        "outcome": "Indiana Fever",
-        "value": 505.5006,
-        "avgPrice": 0.7096,
-        "slug": "wnba-dal-ind-2026-08-14"
       }
     }
   },
   "announced": {
-    "0xa5ca29e8a6668f42d4085eee8d2779a70aac8469807bc0ef8d3fc98487ad50b9|Thanasi Kokkinakis": 5,
-    "0x7983ea1751d12f8f3db41bc217f7126cc9a9c708b6b60ab79cb8598effa307bb|Marco Trungelliti": 3,
-    "0x7983ea1751d12f8f3db41bc217f7126cc9a9c708b6b60ab79cb8598effa307bb|Hamad Medjedovic": 4,
+    "0xc87df8c6fda93d98e77fa12234fa07350f294841c423670dc6ba9182e5bbfc12|Michael Zheng": 5,
+    "0xa02bbd8cecdd70852a777e96d62420fdd3370c014c59899a7f98f89e0e1d4f51|Marin Cilic": 4,
+    "0x7983ea1751d12f8f3db41bc217f7126cc9a9c708b6b60ab79cb8598effa307bb|Marco Trungelliti": 4,
+    "0x864324713766812d609e2373c754abbd412219e955e25c7c0b70fb67f6a2298e|Over": 3,
+    "0xc9c680830e3c7ec4292462d38680c3eeb26c17c7055f23a88c3bf08c32dbad89|Cincinnati Reds": 3,
+    "0x5685c534ce5dca14ab141388f65bb70414af7f4c65c29950886e691ff4042e5b|Yulia Putintseva": 4,
     "0x69d9f9dc7bdb3fa4adee96a8e7f1e176e5971434c58d7b2c5210a2380b9a15e5|No": 3,
     "0xf6e3cd9a991072115121e28251dfa1651d6f329ba8a6f78e0c18bf801150c0a8|Xinyu Wang": 5,
     "0x0cc3d7f9723b06381b10222bed4d30f56ddf1c24fa36edf4c7e828e659495de9|No": 3,
-    "0x0f0152281c867a8b1290332a936df74ae00fe535c3e0d23eb1fa80b70cd3bb71|Adam Walton": 4,
-    "0x5f6820ec4323c595d09a617504de6ba4d8212c8a99688af12d73453a267d98ba|Over": 3,
+    "0x7983ea1751d12f8f3db41bc217f7126cc9a9c708b6b60ab79cb8598effa307bb|Hamad Medjedovic": 5,
     "0xe621e71a6bb2a310e35db9e1cc8c4a2d3da18a628935b231bfe3029b6810e98c|Over": 3,
-    "0xa5ca29e8a6668f42d4085eee8d2779a70aac8469807bc0ef8d3fc98487ad50b9|Nuno Borges": 4,
     "0x2d16e1d12ca7083361cf56b219f44508fc715bd9eeb340b8e0c9b948e4fa87b6|Tereza Valentova": 4,
     "0x52ce446772dc568b68cd1759aa1b44f76676a297736fe9582a32f2e15e92ba21|No": 3,
+    "0x5685c534ce5dca14ab141388f65bb70414af7f4c65c29950886e691ff4042e5b|Liudmila Samsonova": 3,
     "0x9890e51b1b7c924d3f6b6436e4c497b6df02756028b494e1f783a5c25812ce26|Lloyd Harris": 3,
-    "0x99ae145a7ea8ebbf403f5df9c6038e12b465f70fbc08f86a9ca1db07246f3f06|Lorenzo Sonego": 3,
-    "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523|New York Yankees": 3
+    "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523|New York Yankees": 3,
+    "0xe247dc592a1555e87763f89d3cc902b89b3f6050fe8e7577aa13c014ddfb7530|Over": 3
   }
 }
