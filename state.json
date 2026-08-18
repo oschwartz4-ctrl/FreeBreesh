@@ -1,13 +1,6 @@
 {
   "seen": {
     "#1 Ferrari": {
-      "0x70af02bdb4070dfdf4ff7d7a93856146a745b0c95a96956cd3b13890c1cb2e93|Adolfo Vallejo": {
-        "title": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
-        "outcome": "Adolfo Vallejo",
-        "value": 23220.5535,
-        "avgPrice": 0.3314,
-        "slug": "atp-paul-vallejo-2026-08-17"
-      },
       "0xfadb4ce0f2ff95054d2e58c5425bbf2c9c348a6ef588dceeb44ea40f183ed50f|Felix Auger-Aliassime": {
         "title": "National Bank Open: Titouan Droguet vs Felix Auger-Aliassime",
         "outcome": "Felix Auger-Aliassime",
@@ -106,19 +99,19 @@
         "avgPrice": 0.6349,
         "slug": "wta-burel-putints-2026-07-13"
       },
-      "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18|Brandon Nakashima": {
-        "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
-        "outcome": "Brandon Nakashima",
-        "value": 2390.4326,
-        "avgPrice": 0.4445,
-        "slug": "atp-nakashi-medvede-2026-08-18"
-      },
       "0xc5932733f539c4706d0d8ac0aab53916b7d67399e9ca0f2b2c821c1af8fc7427|Andres Urrea": {
         "title": "ITF Huamantla: Niels Peter Van Noord vs Andres Urrea",
         "outcome": "Andres Urrea",
         "value": 2388.13,
         "avgPrice": 0.5947,
         "slug": "itf-noord-urrea-2026-07-29"
+      },
+      "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18|Brandon Nakashima": {
+        "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
+        "outcome": "Brandon Nakashima",
+        "value": 2335.4801,
+        "avgPrice": 0.4445,
+        "slug": "atp-nakashi-medvede-2026-08-18"
       },
       "0x4add5d6c538a3231c493ea5ed350177e0aefd8b434918a3f1fe450a4bc8d205b|Julieta Pareja": {
         "title": "ITF Dallas: Dana Guzman vs Julieta Pareja",
@@ -158,7 +151,7 @@
       "0x9bff2210c23d5ea33d3628c457f2491edd652b9bea77c30f032d7b3ac507c738|Jiangxue Han": {
         "title": "ITF W15 Tianjin 3 Women: Jiangxue Han vs Meng Yi Chen",
         "outcome": "Jiangxue Han",
-        "value": 1857.8664,
+        "value": 1871.3292,
         "avgPrice": 0.67,
         "slug": "itf-jiangxu-che-2026-08-18"
       },
@@ -172,7 +165,7 @@
       "0x165179fab4cf7c30846f29b5074113dc99b1e4d12fa9cfeeed782e55511f128d|Laia Petretic": {
         "title": "ITF W35 Verbier Women: Angella Okutoyi vs Laia Petretic",
         "outcome": "Laia Petretic",
-        "value": 1441.2791,
+        "value": 1370.9728,
         "avgPrice": 0.1884,
         "slug": "itf-okutoyi-petreti-2026-08-18"
       },
@@ -304,40 +297,33 @@
       }
     },
     "#2 RN1": {
-      "0xd720d155365c4b147dd4df8c55a3561e520965459a69b36707a053a2021f5253|Amanda Anisimova": {
-        "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
-        "outcome": "Amanda Anisimova",
-        "value": 88241.6532,
-        "avgPrice": 0.5614,
-        "slug": "wta-eala-anisimo-2026-08-17"
-      },
-      "0xb8e41ef6e462cf664a460c8abd96248fad5324cbfdc664e6d73fd102ff3646dd|Vladimir Osminkin": {
-        "title": "ITF M15 Maanshan 7 Men: Hanlei Lu vs Vladimir Osminkin",
-        "outcome": "Vladimir Osminkin",
-        "value": 28575.2728,
-        "avgPrice": 0.3958,
-        "slug": "itf-hanleil-osminki-2026-08-18"
-      },
-      "0x70af02bdb4070dfdf4ff7d7a93856146a745b0c95a96956cd3b13890c1cb2e93|Tommy Paul": {
-        "title": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
-        "outcome": "Tommy Paul",
-        "value": 23684.3538,
-        "avgPrice": 0.57,
-        "slug": "atp-paul-vallejo-2026-08-17"
-      },
-      "0x70af02bdb4070dfdf4ff7d7a93856146a745b0c95a96956cd3b13890c1cb2e93|Adolfo Vallejo": {
-        "title": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
-        "outcome": "Adolfo Vallejo",
-        "value": 17209.9081,
-        "avgPrice": 0.4966,
-        "slug": "atp-paul-vallejo-2026-08-17"
-      },
-      "0x9bc80f2d30825169b75b5b43fcc611cacbae2229a4e5640fe2778bd4407d7320|No": {
+      "0x9bc80f2d30825169b75b5b43fcc611cacbae2229a4e5640fe2778bd4407d7320|Yes": {
         "title": "Will Club Puebla win on 2026-08-17?",
-        "outcome": "No",
-        "value": 16966.1943,
-        "avgPrice": 0.5122,
+        "outcome": "Yes",
+        "value": 18913.7209,
+        "avgPrice": 0.381,
         "slug": "mex-pac-pue-2026-08-17-pue"
+      },
+      "0x14ae55866b75a0b5716ec4b5f2d830059fc3f0f89f2b9779e93317d542241007|Sunam Jeong": {
+        "title": "ITF W15 Tianjin 3 Women: Margot Phanthala vs Sunam Jeong",
+        "outcome": "Sunam Jeong",
+        "value": 15865.3781,
+        "avgPrice": 0.9308,
+        "slug": "itf-phantha-jeo-2026-08-18"
+      },
+      "0xa29f500ceef16a302ba180f0167be82ae110228395b9f5f05c356cec855c7e09|Over": {
+        "title": "CF Pachuca vs. Club Puebla: O/U 4.5",
+        "outcome": "Over",
+        "value": 8351.9205,
+        "avgPrice": 0.3692,
+        "slug": "mex-pac-pue-2026-08-17-total-4pt5"
+      },
+      "0xf99172a0331a165659283e1a2f5f648218d5e262b544901628b3c0dbd8d6d5ca|Chen Hui Ho": {
+        "title": "ITF M25 Taipei Men: Koki Matsuda vs Chen Hui Ho",
+        "outcome": "Chen Hui Ho",
+        "value": 6801.6252,
+        "avgPrice": 0.4219,
+        "slug": "itf-mats-chenhui-2026-08-18"
       },
       "0x11a97cdfb51d27b4e331a4ec6d69846fa730ac4c753e81ae393475227c2c9d5e|Over": {
         "title": "CF Pachuca vs. Club Puebla: O/U 3.5",
@@ -346,12 +332,12 @@
         "avgPrice": 0.5977,
         "slug": "mex-pac-pue-2026-08-17-total-3pt5"
       },
-      "0xe0cbea7de1d22a18243954da31976a9fe8d0934ac9144a0c3f9f9b83ab56b91d|Tai Leonard Sach": {
-        "title": "ITF M25 Taipei Men: Tai Leonard Sach vs Seongwoo Cho",
-        "outcome": "Tai Leonard Sach",
-        "value": 5398.907,
-        "avgPrice": 0.6819,
-        "slug": "itf-sach-cho-2026-08-18"
+      "0xff675c8969677114109995d41446f6592239bb3318170af8fca6b09ec8b77470|No": {
+        "title": "Will CF Pachuca win on 2026-08-17?",
+        "outcome": "No",
+        "value": 6254.2399,
+        "avgPrice": 0.6282,
+        "slug": "mex-pac-pue-2026-08-17-pac"
       },
       "0xb5d3c3684745bfeddbd64b7da32e05d1dd80cf694011961cf2c834754d396bad|Calvin Hemery": {
         "title": "Sion: Petr Nesterov vs Calvin Hemery",
@@ -367,32 +353,18 @@
         "avgPrice": 0.91,
         "slug": "mex-pac-pue-2026-08-17-exact-score-3-1"
       },
-      "0xe084ffc3eca7c2071990ca7f55be429fc3624766c0ad196a2cf7594d6b860a0e|Maiko Uchijima": {
+      "0xe084ffc3eca7c2071990ca7f55be429fc3624766c0ad196a2cf7594d6b860a0e|Alisa Vasileva": {
         "title": "ITF W15 Tianjin 3 Women: Alisa Vasileva vs Maiko Uchijima",
-        "outcome": "Maiko Uchijima",
-        "value": 4809.8432,
-        "avgPrice": 0.6538,
+        "outcome": "Alisa Vasileva",
+        "value": 4467.0542,
+        "avgPrice": 0.6632,
         "slug": "itf-vasilev-uchijim-2026-08-18"
       },
-      "0xa29f500ceef16a302ba180f0167be82ae110228395b9f5f05c356cec855c7e09|Over": {
-        "title": "CF Pachuca vs. Club Puebla: O/U 4.5",
-        "outcome": "Over",
-        "value": 4219.8297,
-        "avgPrice": 0.3692,
-        "slug": "mex-pac-pue-2026-08-17-total-4pt5"
-      },
-      "0xff675c8969677114109995d41446f6592239bb3318170af8fca6b09ec8b77470|No": {
-        "title": "Will CF Pachuca win on 2026-08-17?",
-        "outcome": "No",
-        "value": 4161.1501,
-        "avgPrice": 0.6282,
-        "slug": "mex-pac-pue-2026-08-17-pac"
-      },
-      "0x00c99411cd3fa0ce0ffac9ab84248cd555d60e14a65cb7342f70d8dcb60cb747|Yes": {
+      "0x00c99411cd3fa0ce0ffac9ab84248cd555d60e14a65cb7342f70d8dcb60cb747|No": {
         "title": "Will CF Pachuca vs. Club Puebla end in a draw?",
-        "outcome": "Yes",
-        "value": 3806.0219,
-        "avgPrice": 0.2316,
+        "outcome": "No",
+        "value": 3811.6632,
+        "avgPrice": 0.391,
         "slug": "mex-pac-pue-2026-08-17-draw"
       },
       "0xcfbce057a76a18c9fc12fe4a6dc9822a16e13c45891730dbfecfcf207d6a275e|Salma Djoubri": {
@@ -402,20 +374,6 @@
         "avgPrice": 0.636,
         "slug": "itf-fojcik-djoubri-2026-08-17"
       },
-      "0xb9f75f2010f6c4007d98569bfa86e7c3e49286301fd379cace3fce87424b8447|Yu Hsiou Hsu": {
-        "title": "ITF M25 Taipei Men: Yu Hsiou Hsu vs Kai-I Wang",
-        "outcome": "Yu Hsiou Hsu",
-        "value": 3560.8763,
-        "avgPrice": 0.9111,
-        "slug": "itf-hs-kaiiwan-2026-08-18"
-      },
-      "0xa29f500ceef16a302ba180f0167be82ae110228395b9f5f05c356cec855c7e09|Under": {
-        "title": "CF Pachuca vs. Club Puebla: O/U 4.5",
-        "outcome": "Under",
-        "value": 3386.5587,
-        "avgPrice": 0.4612,
-        "slug": "mex-pac-pue-2026-08-17-total-4pt5"
-      },
       "0xb5d3c3684745bfeddbd64b7da32e05d1dd80cf694011961cf2c834754d396bad|Petr Nesterov": {
         "title": "Sion: Petr Nesterov vs Calvin Hemery",
         "outcome": "Petr Nesterov",
@@ -423,11 +381,18 @@
         "avgPrice": 0.4946,
         "slug": "atp-nestero-hemery-2026-08-17"
       },
+      "0xb9f75f2010f6c4007d98569bfa86e7c3e49286301fd379cace3fce87424b8447|Yu Hsiou Hsu": {
+        "title": "ITF M25 Taipei Men: Yu Hsiou Hsu vs Kai-I Wang",
+        "outcome": "Yu Hsiou Hsu",
+        "value": 3184.53,
+        "avgPrice": 0.9115,
+        "slug": "itf-hs-kaiiwan-2026-08-18"
+      },
       "0xf99172a0331a165659283e1a2f5f648218d5e262b544901628b3c0dbd8d6d5ca|Koki Matsuda": {
         "title": "ITF M25 Taipei Men: Koki Matsuda vs Chen Hui Ho",
         "outcome": "Koki Matsuda",
-        "value": 2997.15,
-        "avgPrice": 0.92,
+        "value": 3032.5317,
+        "avgPrice": 0.7669,
         "slug": "itf-mats-chenhui-2026-08-18"
       },
       "0xaedb6667cf88cade0903baee5d5f14180e0cb4c35cfb1c8c05d5f91af051ba5b|Alexander Blockx": {
@@ -437,13 +402,6 @@
         "avgPrice": 0.5,
         "slug": "atp-munar-blockx-2026-08-04"
       },
-      "0x9bc80f2d30825169b75b5b43fcc611cacbae2229a4e5640fe2778bd4407d7320|Yes": {
-        "title": "Will Club Puebla win on 2026-08-17?",
-        "outcome": "Yes",
-        "value": 2554.6296,
-        "avgPrice": 0.3795,
-        "slug": "mex-pac-pue-2026-08-17-pue"
-      },
       "0x4695ff6834637bf6888298412bc894511a0bf07d71be0ff9ecf5c5e90f72672c|No": {
         "title": "Exact Score: CF Pachuca 0 - 1 Club Puebla?",
         "outcome": "No",
@@ -451,47 +409,19 @@
         "avgPrice": 0.8972,
         "slug": "mex-pac-pue-2026-08-17-exact-score-0-1"
       },
+      "0x655b9dd948cd4b8ec5d8d609937b4c4b8eeb13b9083b07ac003b2a6035963337|Xin Zhou": {
+        "title": "ITF M15 Maanshan 7 Men: Yuquan Jin vs Xin Zhou",
+        "outcome": "Xin Zhou",
+        "value": 2262.462,
+        "avgPrice": 0.4017,
+        "slug": "itf-jin-zhou-2026-08-18"
+      },
       "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18|Brandon Nakashima": {
         "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
         "outcome": "Brandon Nakashima",
-        "value": 2174.9789,
+        "value": 2124.9794,
         "avgPrice": 0.43,
         "slug": "atp-nakashi-medvede-2026-08-18"
-      },
-      "0xd720d155365c4b147dd4df8c55a3561e520965459a69b36707a053a2021f5253|Alexandra Eala": {
-        "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
-        "outcome": "Alexandra Eala",
-        "value": 2166.8455,
-        "avgPrice": 0.451,
-        "slug": "wta-eala-anisimo-2026-08-17"
-      },
-      "0xb574b396e82020caafbe4cceeadccbf0a22a089dabbb499a15f3b81fc758a27c|James van Herzeele": {
-        "title": "ITF M15 Maanshan 7 Men: James van Herzeele vs Yua Taka",
-        "outcome": "James van Herzeele",
-        "value": 2074.6546,
-        "avgPrice": 0.8531,
-        "slug": "itf-herzeel-taka-2026-08-18"
-      },
-      "0xff675c8969677114109995d41446f6592239bb3318170af8fca6b09ec8b77470|Yes": {
-        "title": "Will CF Pachuca win on 2026-08-17?",
-        "outcome": "Yes",
-        "value": 2027.2721,
-        "avgPrice": 0.4633,
-        "slug": "mex-pac-pue-2026-08-17-pac"
-      },
-      "0x00c99411cd3fa0ce0ffac9ab84248cd555d60e14a65cb7342f70d8dcb60cb747|No": {
-        "title": "Will CF Pachuca vs. Club Puebla end in a draw?",
-        "outcome": "No",
-        "value": 1811.4457,
-        "avgPrice": 0.391,
-        "slug": "mex-pac-pue-2026-08-17-draw"
-      },
-      "0xa0f1d0b5e0339ebe4bb5d48286fe9502582bafa30223f2b53e4b7fdd4e6e905f|Yes": {
-        "title": "Will Club Le\u00f3n FC win on 2026-08-17?",
-        "outcome": "Yes",
-        "value": 1768.8851,
-        "avgPrice": 0.5745,
-        "slug": "mex-nec-leo-2026-08-17-leo"
       },
       "0x9098b41db5e8e1dbcd58ab2c9b4c733464f1303a24f2edc1c49742fb5ca710f9|Over": {
         "title": "CF Pachuca vs. Club Puebla: 1st Half O/U 2.5",
@@ -514,13 +444,6 @@
         "avgPrice": 0.6288,
         "slug": "mex-pac-pue-2026-08-17-total-2pt5"
       },
-      "0xf127707646d16debbab6ae6d151c95b84d192ac60769f1a65b25444613aba283|Kuan-Shou Chen": {
-        "title": "ITF M25 Taipei Men: Yen-Chun Wang vs Kuan-Shou Chen",
-        "outcome": "Kuan-Shou Chen",
-        "value": 1541.2645,
-        "avgPrice": 0.6839,
-        "slug": "itf-yenchun-kuansho-2026-08-18"
-      },
       "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523|New York Yankees": {
         "title": "Boston Red Sox vs. New York Yankees",
         "outcome": "New York Yankees",
@@ -535,12 +458,12 @@
         "avgPrice": 0.47,
         "slug": "mlb-sf-atl-2026-06-18-total-7pt5"
       },
-      "0x9c805b3d83a202546dc39b0d2d55b6d5de1cad34ae5402819deb4cffb0e152db|Reiya Komagata": {
-        "title": "ITF M15 Maanshan 7 Men: Shu Muto vs Reiya Komagata",
-        "outcome": "Reiya Komagata",
-        "value": 1213.3742,
-        "avgPrice": 0.5221,
-        "slug": "itf-muto-komagat-2026-08-18"
+      "0xe084ffc3eca7c2071990ca7f55be429fc3624766c0ad196a2cf7594d6b860a0e|Maiko Uchijima": {
+        "title": "ITF W15 Tianjin 3 Women: Alisa Vasileva vs Maiko Uchijima",
+        "outcome": "Maiko Uchijima",
+        "value": 1136.3773,
+        "avgPrice": 0.6446,
+        "slug": "itf-vasilev-uchijim-2026-08-18"
       },
       "0x7377bc19311c7730f0b59df36eac312e0ccae15d23ac4a1797a17ce99c2065b2|Yes": {
         "title": "Club Puebla leading at halftime?",
@@ -549,26 +472,12 @@
         "avgPrice": 0.7495,
         "slug": "mex-pac-pue-2026-08-17-halftime-result-away"
       },
-      "0xb8e41ef6e462cf664a460c8abd96248fad5324cbfdc664e6d73fd102ff3646dd|Hanlei Lu": {
-        "title": "ITF M15 Maanshan 7 Men: Hanlei Lu vs Vladimir Osminkin",
-        "outcome": "Hanlei Lu",
-        "value": 1003.7465,
-        "avgPrice": 0.4822,
-        "slug": "itf-hanleil-osminki-2026-08-18"
-      },
       "0x078649b2b61448e4b8758a7a9b7bf21fa8d205de747039b436ccf4de64fa0903|No": {
         "title": "CF Pachuca leading at halftime?",
         "outcome": "No",
         "value": 968.5155,
         "avgPrice": 0.6,
         "slug": "mex-pac-pue-2026-08-17-halftime-result-home"
-      },
-      "0x4bbccf5e938c16006c9dd21a58820b260d22625da3cb89260d72e87565ad38c9|Hiromasa Koyama": {
-        "title": "ITF M25 Taipei Men: Yuki Mochizuki vs Hiromasa Koyama",
-        "outcome": "Hiromasa Koyama",
-        "value": 934.4068,
-        "avgPrice": 0.7187,
-        "slug": "itf-mochizu-koyam-2026-08-18"
       },
       "0xd971042567dcb9590a3fe5349374a139a7fe42bd84a17a1cee821c7d5d6295eb|No": {
         "title": "Exact Score: CF Pachuca 1 - 1 Club Puebla?",
@@ -583,13 +492,6 @@
         "value": 891.1234,
         "avgPrice": 0.44,
         "slug": "atp-nakashi-draper-2026-06-22"
-      },
-      "0x6b1efd6b676f421ee9efffa6858d3e5ce95fe94fb27731cd03f6ea595cac737c|Over": {
-        "title": "CF Pachuca vs. Club Puebla: O/U 5.5",
-        "outcome": "Over",
-        "value": 870.7331,
-        "avgPrice": 0.1339,
-        "slug": "mex-pac-pue-2026-08-17-total-5pt5"
       },
       "0x2a6e431d9c6d91853bc9c1f345fa7498f615fba2e362644fbb7015f28e9da3db|Yes": {
         "title": "Will CA Penarol Montevideo win on 2026-08-08?",
@@ -611,13 +513,6 @@
         "value": 607.155,
         "avgPrice": 0.5,
         "slug": "atp-gengel-gulin-2026-08-16"
-      },
-      "0x9c805b3d83a202546dc39b0d2d55b6d5de1cad34ae5402819deb4cffb0e152db|Shu Muto": {
-        "title": "ITF M15 Maanshan 7 Men: Shu Muto vs Reiya Komagata",
-        "outcome": "Shu Muto",
-        "value": 607.075,
-        "avgPrice": 0.5228,
-        "slug": "itf-muto-komagat-2026-08-18"
       },
       "0xbb5f41af214b0bafba1b361763cff2d255f8c5eca995a2f180214f7de3e88d59|Nino Ehrenschneider": {
         "title": "Sion: Nino Ehrenschneider vs Kai Wehnelt",
@@ -642,13 +537,6 @@
         "avgPrice": 0.4999,
         "slug": "2026-balance-of-power-d-senate-d-house-949"
       },
-      "0xb8e41ef6e462cf664a460c8abd96248fad5324cbfdc664e6d73fd102ff3646dd|Vladimir Osminkin": {
-        "title": "ITF M15 Maanshan 7 Men: Hanlei Lu vs Vladimir Osminkin",
-        "outcome": "Vladimir Osminkin",
-        "value": 37748.3788,
-        "avgPrice": 0.388,
-        "slug": "itf-hanleil-osminki-2026-08-18"
-      },
       "0x2745c38ff0617cb345c1d2df19b4f74ea777508e07411e88eeb6ab3affcda2a2|No": {
         "title": "Will Bitcoin dip to $35,000 by December 31, 2026?",
         "outcome": "No",
@@ -659,7 +547,7 @@
       "0x819a8392acd00ada07a213b558837dd03cc4b24fc360a7c6e7bdef9f838dc66c|DN SOOPers": {
         "title": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
         "outcome": "DN SOOPers",
-        "value": 15268.239,
+        "value": 14977.4154,
         "avgPrice": 0.5159,
         "slug": "lol-ns-dnf-2026-08-18"
       },
@@ -669,13 +557,6 @@
         "value": 13026.3273,
         "avgPrice": 0.4899,
         "slug": "mlb-bos-nyy-2026-06-06"
-      },
-      "0xd720d155365c4b147dd4df8c55a3561e520965459a69b36707a053a2021f5253|Amanda Anisimova": {
-        "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
-        "outcome": "Amanda Anisimova",
-        "value": 5214.378,
-        "avgPrice": 0.7481,
-        "slug": "wta-eala-anisimo-2026-08-17"
       },
       "0xf44cf137562b90cf6205e0b81a03aa63001c491e4d8f04c0098bfb9233f9d04f|No": {
         "title": "Will Philadelphia 76ers win the 2027 NBA Finals?",
@@ -691,13 +572,6 @@
         "avgPrice": 0.92,
         "slug": "will-bitcoin-dip-to-25000-by-december-31-2026-948-243-253-666-115-787-981-282-573-719-186-417-762-754-486-851-278-145-417-178-244"
       },
-      "0x70af02bdb4070dfdf4ff7d7a93856146a745b0c95a96956cd3b13890c1cb2e93|Adolfo Vallejo": {
-        "title": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
-        "outcome": "Adolfo Vallejo",
-        "value": 1917.8167,
-        "avgPrice": 0.2002,
-        "slug": "atp-paul-vallejo-2026-08-17"
-      },
       "0x25f8c5fb2d15dc9e0e27f32f5b23031be54cd12d767be87e2a723fb38f2db7fe|Petr Brunclik": {
         "title": "Prague 2: Petr Brunclik vs Jan Kumstat",
         "outcome": "Petr Brunclik",
@@ -707,10 +581,17 @@
       }
     },
     "#4 SwissTony": {
+      "0xff675c8969677114109995d41446f6592239bb3318170af8fca6b09ec8b77470|No": {
+        "title": "Will CF Pachuca win on 2026-08-17?",
+        "outcome": "No",
+        "value": 11721.8111,
+        "avgPrice": 0.6386,
+        "slug": "mex-pac-pue-2026-08-17-pac"
+      },
       "0xd85a87558891aaf60169f6620b0df1dc7129ea44b6b5a84de82684fbff9ab8f4|Under": {
         "title": "Arsenal FC vs. Coventry City FC: Coventry City FC O/U 2.5",
         "outcome": "Under",
-        "value": 9519.5979,
+        "value": 8399.0514,
         "avgPrice": 0.9809,
         "slug": "epl-ars-cov-2026-08-21-team-total-away-2pt5"
       },
@@ -721,45 +602,38 @@
         "avgPrice": 0.9901,
         "slug": "lal-mad-mala-2026-08-19-spread-away-2pt5"
       },
-      "0xff675c8969677114109995d41446f6592239bb3318170af8fca6b09ec8b77470|No": {
-        "title": "Will CF Pachuca win on 2026-08-17?",
-        "outcome": "No",
-        "value": 7798.9038,
-        "avgPrice": 0.6386,
-        "slug": "mex-pac-pue-2026-08-17-pac"
-      },
-      "0x00c99411cd3fa0ce0ffac9ab84248cd555d60e14a65cb7342f70d8dcb60cb747|Yes": {
-        "title": "Will CF Pachuca vs. Club Puebla end in a draw?",
+      "0x9bc80f2d30825169b75b5b43fcc611cacbae2229a4e5640fe2778bd4407d7320|Yes": {
+        "title": "Will Club Puebla win on 2026-08-17?",
         "outcome": "Yes",
-        "value": 6049.685,
-        "avgPrice": 0.3561,
-        "slug": "mex-pac-pue-2026-08-17-draw"
+        "value": 6464.49,
+        "avgPrice": 0.253,
+        "slug": "mex-pac-pue-2026-08-17-pue"
       },
       "0x5dd0db9f057884e9d67e46081943fe7fb26aee87784d0f15beb93046fcbfa729|Over": {
         "title": "Manchester City FC vs. AFC Bournemouth: O/U 0.5",
         "outcome": "Over",
-        "value": 6019.1563,
+        "value": 6022.3126,
         "avgPrice": 0.9618,
         "slug": "epl-mac-bou-2026-08-23-total-0pt5"
       },
       "0x9359698aab64d2cf210dbee9926d01188cb5277a3442dcf0552855842c44dce0|No": {
         "title": "Will Tottenham Hotspur FC win on 2026-08-22?",
         "outcome": "No",
-        "value": 5785.2729,
+        "value": 5974.4563,
         "avgPrice": 0.6499,
         "slug": "epl-bre-tot-2026-08-22-tot"
       },
       "0xfa1b5b1436a9fd8bc0f32017832281c2c8665997a5885173170ef479b1832af0|CF Pachuca": {
         "title": "Spread: Club Puebla (-2.5)",
         "outcome": "CF Pachuca",
-        "value": 5410.5177,
+        "value": 5434.9874,
         "avgPrice": 0.9649,
         "slug": "mex-pac-pue-2026-08-17-spread-away-2pt5"
       },
       "0x3e5ad7b79195e0fb562ec9c2e27bce01936bc38dd6244802666626ca835850b6|No": {
         "title": "Will M\u00e1laga CF win on 2026-08-19?",
         "outcome": "No",
-        "value": 4067.0649,
+        "value": 4023.0967,
         "avgPrice": 0.9195,
         "slug": "lal-mad-mala-2026-08-19-mala"
       },
@@ -791,27 +665,6 @@
         "avgPrice": 0.8306,
         "slug": "atp-dodig-molleke-2026-08-13"
       },
-      "0xa0f1d0b5e0339ebe4bb5d48286fe9502582bafa30223f2b53e4b7fdd4e6e905f|Yes": {
-        "title": "Will Club Le\u00f3n FC win on 2026-08-17?",
-        "outcome": "Yes",
-        "value": 2433.3825,
-        "avgPrice": 0.5859,
-        "slug": "mex-nec-leo-2026-08-17-leo"
-      },
-      "0x70af02bdb4070dfdf4ff7d7a93856146a745b0c95a96956cd3b13890c1cb2e93|Adolfo Vallejo": {
-        "title": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
-        "outcome": "Adolfo Vallejo",
-        "value": 2405.8963,
-        "avgPrice": 0.2316,
-        "slug": "atp-paul-vallejo-2026-08-17"
-      },
-      "0x70af02bdb4070dfdf4ff7d7a93856146a745b0c95a96956cd3b13890c1cb2e93|Tommy Paul": {
-        "title": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
-        "outcome": "Tommy Paul",
-        "value": 2331.3376,
-        "avgPrice": 0.5878,
-        "slug": "atp-paul-vallejo-2026-08-17"
-      },
       "0xd73b81755d573d5abb591ab049ef6a5c535833296e8b1d3573558b6d12d686fe|Yes": {
         "title": "Will Vancouver Whitecaps FC win on 2026-07-16?",
         "outcome": "Yes",
@@ -822,7 +675,7 @@
       "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18|Brandon Nakashima": {
         "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
         "outcome": "Brandon Nakashima",
-        "value": 2039.2609,
+        "value": 1992.3814,
         "avgPrice": 0.4422,
         "slug": "atp-nakashi-medvede-2026-08-18"
       },
@@ -840,13 +693,6 @@
         "avgPrice": 0.78,
         "slug": "atp-fonseca-oconnel-2026-08-18"
       },
-      "0xd82493a82eec544548cd28a430ba56541a35517975d6d0df2a7e2b8fd5385110|Over": {
-        "title": "Arsenal FC vs. Coventry City FC: Coventry City FC O/U 0.5",
-        "outcome": "Over",
-        "value": 1703.6204,
-        "avgPrice": 0.3899,
-        "slug": "epl-ars-cov-2026-08-21-team-total-away-0pt5"
-      },
       "0xa26b10762096ade1fc322372d963e41ae8d1a128cf7ac430ca269ebda3788335|No": {
         "title": "Exact Score: Chicago Fire FC 1 - 2 Vancouver Whitecaps FC?",
         "outcome": "No",
@@ -854,12 +700,12 @@
         "avgPrice": 0.9087,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-1-2"
       },
-      "0xa29f500ceef16a302ba180f0167be82ae110228395b9f5f05c356cec855c7e09|Under": {
-        "title": "CF Pachuca vs. Club Puebla: O/U 4.5",
-        "outcome": "Under",
-        "value": 1682.8218,
-        "avgPrice": 0.4913,
-        "slug": "mex-pac-pue-2026-08-17-total-4pt5"
+      "0xd82493a82eec544548cd28a430ba56541a35517975d6d0df2a7e2b8fd5385110|Over": {
+        "title": "Arsenal FC vs. Coventry City FC: Coventry City FC O/U 0.5",
+        "outcome": "Over",
+        "value": 1682.3252,
+        "avgPrice": 0.3899,
+        "slug": "epl-ars-cov-2026-08-21-team-total-away-0pt5"
       },
       "0x265a8aa9194555bfc6fa1ace5d603f6021980b6572d8f5988548b0a691224f49|Under": {
         "title": "New York Yankees vs. Baltimore Orioles: O/U 9.5",
@@ -871,7 +717,7 @@
       "0x12967548d6636cf5ea934465f7ad66addb6261469b7bb512b8846f3108947f3e|Club Puebla": {
         "title": "Spread: CF Pachuca (-1.5)",
         "outcome": "Club Puebla",
-        "value": 1533.0246,
+        "value": 1624.876,
         "avgPrice": 0.8735,
         "slug": "mex-pac-pue-2026-08-17-spread-home-1pt5"
       },
@@ -899,23 +745,23 @@
       "0x82ef68a94569a1879767a8e02c2f9f1d58e4b09e8aec7a4ce99844b00949e9c5|Over": {
         "title": "Atlanta Braves vs. Chicago White Sox: O/U 5.5",
         "outcome": "Over",
-        "value": 1213.39,
+        "value": 1247.57,
         "avgPrice": 0.7799,
         "slug": "mlb-atl-cws-2026-06-11-total-5pt5"
-      },
-      "0xe19ddd7a87ad62801fdd2387d8c1056a7521e11110af4fc009b9189924a01760|Cleveland Guardians": {
-        "title": "Spread: Cleveland Guardians (-1.5)",
-        "outcome": "Cleveland Guardians",
-        "value": 1099.1983,
-        "avgPrice": 0.3426,
-        "slug": "mlb-det-cle-2026-06-14-spread-home-1pt5"
       },
       "0x7beb03b48f520e43ae2e217fefe3a48f6948018d3da07678e22708463789afa0|No": {
         "title": "Exact Score: Chicago Fire FC 3 - 2 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 1099.1904,
+        "value": 1095.5039,
         "avgPrice": 0.9583,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-3-2"
+      },
+      "0xe19ddd7a87ad62801fdd2387d8c1056a7521e11110af4fc009b9189924a01760|Cleveland Guardians": {
+        "title": "Spread: Cleveland Guardians (-1.5)",
+        "outcome": "Cleveland Guardians",
+        "value": 1084.923,
+        "avgPrice": 0.3426,
+        "slug": "mlb-det-cle-2026-06-14-spread-home-1pt5"
       },
       "0xd971042567dcb9590a3fe5349374a139a7fe42bd84a17a1cee821c7d5d6295eb|No": {
         "title": "Exact Score: CF Pachuca 1 - 1 Club Puebla?",
@@ -945,12 +791,12 @@
         "avgPrice": 0.2036,
         "slug": "lal-get-rrc-2026-08-23-rrc"
       },
-      "0x6b1efd6b676f421ee9efffa6858d3e5ce95fe94fb27731cd03f6ea595cac737c|Over": {
-        "title": "CF Pachuca vs. Club Puebla: O/U 5.5",
-        "outcome": "Over",
-        "value": 951.0693,
-        "avgPrice": 0.1083,
-        "slug": "mex-pac-pue-2026-08-17-total-5pt5"
+      "0x00c99411cd3fa0ce0ffac9ab84248cd555d60e14a65cb7342f70d8dcb60cb747|No": {
+        "title": "Will CF Pachuca vs. Club Puebla end in a draw?",
+        "outcome": "No",
+        "value": 942.6974,
+        "avgPrice": 0.4987,
+        "slug": "mex-pac-pue-2026-08-17-draw"
       },
       "0x887c28013b5fd57ae0a5ee3e640ea96c4c5414775b736deb5a4ad58d7d64eb9a|Sporting FC": {
         "title": "Spread: Sporting FC (-1.5)",
@@ -958,13 +804,6 @@
         "value": 885.2787,
         "avgPrice": 0.8694,
         "slug": "fpd-spo-esc-2026-08-17-spread-home-1pt5"
-      },
-      "0x9bc80f2d30825169b75b5b43fcc611cacbae2229a4e5640fe2778bd4407d7320|Yes": {
-        "title": "Will Club Puebla win on 2026-08-17?",
-        "outcome": "Yes",
-        "value": 873.1427,
-        "avgPrice": 0.253,
-        "slug": "mex-pac-pue-2026-08-17-pue"
       },
       "0x6e0fefd19591904a4098340a3c7a92e97dca11bf89b1c6240d578509bd9aa7ae|Over": {
         "title": "CF Pachuca vs. Club Puebla: O/U 1.5",
@@ -980,13 +819,6 @@
         "avgPrice": 0.9739,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-3-3"
       },
-      "0xff675c8969677114109995d41446f6592239bb3318170af8fca6b09ec8b77470|Yes": {
-        "title": "Will CF Pachuca win on 2026-08-17?",
-        "outcome": "Yes",
-        "value": 841.086,
-        "avgPrice": 0.3308,
-        "slug": "mex-pac-pue-2026-08-17-pac"
-      },
       "0x96af468d82c98f77f9e41e7affce571066fa45bce6dca9e9fab31c523ba5959c|Elina Svitolina": {
         "title": "Cincinnati Open: Xiyu Wang vs Elina Svitolina",
         "outcome": "Elina Svitolina",
@@ -997,16 +829,16 @@
       "0x6f08f5499b2441a8d525961988d5f1fe65b318cc52e34eb8dd72f9d09c6a8d70|Over": {
         "title": "Detroit Tigers vs. Cleveland Guardians: O/U 4.5",
         "outcome": "Over",
-        "value": 773.575,
+        "value": 779.395,
         "avgPrice": 0.81,
         "slug": "mlb-det-cle-2026-06-14-total-4pt5"
       },
-      "0x9bc80f2d30825169b75b5b43fcc611cacbae2229a4e5640fe2778bd4407d7320|No": {
-        "title": "Will Club Puebla win on 2026-08-17?",
-        "outcome": "No",
-        "value": 722.7261,
-        "avgPrice": 0.9123,
-        "slug": "mex-pac-pue-2026-08-17-pue"
+      "0xd6214ea8da3c8281d3fe444e87bebe1cb1802b49407b55e5a37d592aa000c110|Over": {
+        "title": "CF Pachuca vs. Club Puebla: Club Puebla O/U 2.5",
+        "outcome": "Over",
+        "value": 721.3534,
+        "avgPrice": 0.0797,
+        "slug": "mex-pac-pue-2026-08-17-team-total-away-2pt5"
       },
       "0x1144adfcb0b72dc0832e54d07fd7939b56f27fbd835d0b9f25d10c8f05ee87a1|Under": {
         "title": "Manchester City FC vs. AFC Bournemouth: O/U 2.5",
@@ -1018,7 +850,7 @@
       "0x1c6f7e9db5dc3f7c6827cf8552f9a481e2331936641b0cfa6ba7d65826029d0b|Club Puebla": {
         "title": "Spread: CF Pachuca (-2.5)",
         "outcome": "Club Puebla",
-        "value": 629.9702,
+        "value": 634.4134,
         "avgPrice": 0.9542,
         "slug": "mex-pac-pue-2026-08-17-spread-home-2pt5"
       },
@@ -1046,7 +878,7 @@
       "0xbaaebdf982b987694de4f2dbf4605eead94012ada2c5507167a72102484bbedb|No": {
         "title": "Exact Score: Chicago Fire FC 2 - 2 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 592.515,
+        "value": 595.65,
         "avgPrice": 0.91,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-2-2"
       },
@@ -1099,6 +931,13 @@
         "avgPrice": 0.5159,
         "slug": "ucl-fen-lyo-2026-08-18-fen"
       },
+      "0x3a5b640c5a6e5245e182888cab50765e51a94ec7209c996b8577ef722865864b|No": {
+        "title": "Exact Score: CF Pachuca 3 - 2 Club Puebla?",
+        "outcome": "No",
+        "value": 510.4542,
+        "avgPrice": 0.8509,
+        "slug": "mex-pac-pue-2026-08-17-exact-score-3-2"
+      },
       "0x7367df88b3c0eb6ff01ebc8c40f6887a163fa0baf505814decc204d47ee7ea7c|No": {
         "title": "Will Real Madrid CF win on 2026-08-22?",
         "outcome": "No",
@@ -1108,27 +947,6 @@
       }
     },
     "#5 HomeRunHazard": {
-      "0xd720d155365c4b147dd4df8c55a3561e520965459a69b36707a053a2021f5253|Amanda Anisimova": {
-        "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
-        "outcome": "Amanda Anisimova",
-        "value": 39509.1144,
-        "avgPrice": 0.6163,
-        "slug": "wta-eala-anisimo-2026-08-17"
-      },
-      "0x70af02bdb4070dfdf4ff7d7a93856146a745b0c95a96956cd3b13890c1cb2e93|Adolfo Vallejo": {
-        "title": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
-        "outcome": "Adolfo Vallejo",
-        "value": 25652.1999,
-        "avgPrice": 0.4643,
-        "slug": "atp-paul-vallejo-2026-08-17"
-      },
-      "0x70af02bdb4070dfdf4ff7d7a93856146a745b0c95a96956cd3b13890c1cb2e93|Tommy Paul": {
-        "title": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
-        "outcome": "Tommy Paul",
-        "value": 23218.1157,
-        "avgPrice": 0.6641,
-        "slug": "atp-paul-vallejo-2026-08-17"
-      },
       "0xbabc896225844371b57a54468c5e2638a47fc64039765fb61c68d10f23885331|Atlanta Braves": {
         "title": "Atlanta Braves vs. Chicago White Sox",
         "outcome": "Atlanta Braves",
@@ -1178,13 +996,6 @@
         "avgPrice": 0.6104,
         "slug": "wta-masarov-ryser-2026-07-18-match-total-23pt5"
       },
-      "0xd720d155365c4b147dd4df8c55a3561e520965459a69b36707a053a2021f5253|Alexandra Eala": {
-        "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
-        "outcome": "Alexandra Eala",
-        "value": 1169.8158,
-        "avgPrice": 0.4478,
-        "slug": "wta-eala-anisimo-2026-08-17"
-      },
       "0xe1b460e8426fdb8ae3f0c78d88d5c0ef649abf56b47fe8432b565debe1a91dca|Under": {
         "title": "Atlanta Dream vs. Las Vegas Aces: O/U 178.5",
         "outcome": "Under",
@@ -1230,7 +1041,7 @@
       "0xe19ddd7a87ad62801fdd2387d8c1056a7521e11110af4fc009b9189924a01760|Detroit Tigers": {
         "title": "Spread: Cleveland Guardians (-1.5)",
         "outcome": "Detroit Tigers",
-        "value": 980.6087,
+        "value": 988.5811,
         "avgPrice": 0.6547,
         "slug": "mlb-det-cle-2026-06-14-spread-home-1pt5"
       },
@@ -1279,10 +1090,7 @@
     }
   },
   "announced": {
-    "0x70af02bdb4070dfdf4ff7d7a93856146a745b0c95a96956cd3b13890c1cb2e93|Adolfo Vallejo": 5,
     "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18|Brandon Nakashima": 3,
-    "0xd720d155365c4b147dd4df8c55a3561e520965459a69b36707a053a2021f5253|Amanda Anisimova": 3,
-    "0x70af02bdb4070dfdf4ff7d7a93856146a745b0c95a96956cd3b13890c1cb2e93|Tommy Paul": 3,
     "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523|New York Yankees": 3
   }
 }
