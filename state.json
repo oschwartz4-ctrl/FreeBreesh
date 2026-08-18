@@ -1,12 +1,19 @@
 {
   "seen": {
     "#1 Ferrari": {
-      "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18|Brandon Nakashima": {
+      "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18|Daniil Medvedev": {
         "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
-        "outcome": "Brandon Nakashima",
-        "value": 30710.4717,
-        "avgPrice": 0.5586,
+        "outcome": "Daniil Medvedev",
+        "value": 18427.2815,
+        "avgPrice": 0.7849,
         "slug": "atp-nakashi-medvede-2026-08-18"
+      },
+      "0xebd7653a13838fa5838537370b9b09fe91169e02171b8c62f7ff4018ebee59c7|Atlanta Braves": {
+        "title": "Atlanta Braves vs. Minnesota Twins",
+        "outcome": "Atlanta Braves",
+        "value": 17756.6393,
+        "avgPrice": 0.5399,
+        "slug": "mlb-atl-min-2026-08-18"
       },
       "0xfadb4ce0f2ff95054d2e58c5425bbf2c9c348a6ef588dceeb44ea40f183ed50f|Felix Auger-Aliassime": {
         "title": "National Bank Open: Titouan Droguet vs Felix Auger-Aliassime",
@@ -22,13 +29,6 @@
         "avgPrice": 0.6273,
         "slug": "wta-basilet-grant-2026-07-21"
       },
-      "0xebd7653a13838fa5838537370b9b09fe91169e02171b8c62f7ff4018ebee59c7|Atlanta Braves": {
-        "title": "Atlanta Braves vs. Minnesota Twins",
-        "outcome": "Atlanta Braves",
-        "value": 11339.6364,
-        "avgPrice": 0.5399,
-        "slug": "mlb-atl-min-2026-08-18"
-      },
       "0xcebad2b69f42a4110e88fb62b67925bb37df6560c9da0d41bf47003538a92f89|Amanda Anisimova": {
         "title": "National Bank Open: Lanlana Tararudee vs Amanda Anisimova",
         "outcome": "Amanda Anisimova",
@@ -36,12 +36,12 @@
         "avgPrice": 0.6431,
         "slug": "wta-tararud-anisimo-2026-08-04"
       },
-      "0x9fb6f2edbfac8d97979b275d8002329fb374122d0841de2fce2782893697cfef|Valentin Royer": {
-        "title": "Kingston: Valentin Royer vs Luis Guto Miguel",
-        "outcome": "Valentin Royer",
-        "value": 7849.6277,
-        "avgPrice": 0.8738,
-        "slug": "atp-royer-miguel-2026-08-17"
+      "0x95cfd737e6138fc583b75396282d70d773c18789294a7b92b4daf91dd5771dee|Nishesh Basavareddy": {
+        "title": "Quebec City: Andrea Pellegrino vs Nishesh Basavareddy",
+        "outcome": "Nishesh Basavareddy",
+        "value": 7787.9497,
+        "avgPrice": 0.86,
+        "slug": "atp-pellegr-basavar-2026-08-18"
       },
       "0x2dcb820bd62140902999067ccac825612e7761cf25205fafe9460a5b93024338|Under": {
         "title": "Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5",
@@ -50,19 +50,19 @@
         "avgPrice": 0.5213,
         "slug": "mlb-ari-bos-2026-08-18-total-8pt5"
       },
-      "0x457871979fd34d510133cbaf33f8508fceae492940bcb78f5a0de584d8996701|Tristan Schoolkate": {
-        "title": "Quebec City: Stefanos Sakellaridis vs Tristan Schoolkate",
-        "outcome": "Tristan Schoolkate",
-        "value": 7233.9419,
-        "avgPrice": 0.4032,
-        "slug": "atp-sakella-schoolk-2026-08-18"
+      "0x31015c7fad183133690f61c2f236fa777b1c3250fee75e5a3ec9b6b3d141ec81|Metizport": {
+        "title": "Counter-Strike: Metizport vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Group C",
+        "outcome": "Metizport",
+        "value": 7260.5703,
+        "avgPrice": 0.6276,
+        "slug": "cs2-mzp-sparta-2026-08-18"
       },
-      "0x81c08b5c34d517c2835b1ca4c777b64223d332c48678c2f69a3e4e462ebc15cd|No": {
-        "title": "Will Olympique Lyonnais win on 2026-08-18?",
-        "outcome": "No",
-        "value": 6394.4526,
-        "avgPrice": 0.8013,
-        "slug": "ucl-fen-lyo-2026-08-18-lyo"
+      "0x934bb5bb0887ad1e5145996e2d45f99d55a2dff24e542f90305e6ac162e0d98b|Over": {
+        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 2.5",
+        "outcome": "Over",
+        "value": 5925.7134,
+        "avgPrice": 0.3747,
+        "slug": "ucl-fen-lyo-2026-08-18-total-2pt5"
       },
       "0xa571f0b270deb9e7d31ef5b658f7095d4ded43ff4509cf71ad6ae755ea27329b|Kimmer Coppejans": {
         "title": "Zug: Cezar Cretu vs Kimmer Coppejans",
@@ -85,6 +85,13 @@
         "avgPrice": 0.4,
         "slug": "mlb-ari-bos-2026-08-18"
       },
+      "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18|Brandon Nakashima": {
+        "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
+        "outcome": "Brandon Nakashima",
+        "value": 4883.6088,
+        "avgPrice": 0.3821,
+        "slug": "atp-nakashi-medvede-2026-08-18"
+      },
       "0x2547606b0defa595ad3e14c7c1b08cf65e4251fb6264056e5ca09511a394debc|Rocco Piatti": {
         "title": "ITF M25 Idanha-a-Nova 2 Men: Tiago Silva vs Rocco Piatti",
         "outcome": "Rocco Piatti",
@@ -99,19 +106,19 @@
         "avgPrice": 0.7119,
         "slug": "itf-mariann-valde-2026-07-22"
       },
-      "0xfb6aebc7096dd036681802e29b2f28ff6d6c675eda504b672966047ff41cb5c3|Yes": {
-        "title": "Will Fenerbah\u00e7e SK win on 2026-08-18?",
-        "outcome": "Yes",
-        "value": 4242.6628,
-        "avgPrice": 0.5194,
-        "slug": "ucl-fen-lyo-2026-08-18-fen"
-      },
       "0x6263775feac6be865c5a9cce2861b8c0ceab16e6ffe574a6b6128b340a0c8b07|Angelina Voloshchuk": {
         "title": "ITF Florence: Aspen Schuman vs Angelina Voloshchuk",
         "outcome": "Angelina Voloshchuk",
         "value": 4007.65,
         "avgPrice": 0.5129,
         "slug": "itf-schuman-voloshc-2026-07-29"
+      },
+      "0x81c08b5c34d517c2835b1ca4c777b64223d332c48678c2f69a3e4e462ebc15cd|No": {
+        "title": "Will Olympique Lyonnais win on 2026-08-18?",
+        "outcome": "No",
+        "value": 3980.2776,
+        "avgPrice": 0.7589,
+        "slug": "ucl-fen-lyo-2026-08-18-lyo"
       },
       "0x5e24be8dad6dcabb9877c914a1488785d79dde87125c83474254a70cbf44d52c|Aristotelis Thanos": {
         "title": "ITF Metzingen: Niels Ratiu vs Aristotelis Thanos",
@@ -127,13 +134,6 @@
         "avgPrice": 0.5,
         "slug": "cs2-mzp-sparta-2026-08-18-game2"
       },
-      "0x9fb6f2edbfac8d97979b275d8002329fb374122d0841de2fce2782893697cfef|Luis Guto Miguel": {
-        "title": "Kingston: Valentin Royer vs Luis Guto Miguel",
-        "outcome": "Luis Guto Miguel",
-        "value": 3592.565,
-        "avgPrice": 0.2229,
-        "slug": "atp-royer-miguel-2026-08-17"
-      },
       "0x9e162a83c2d7fc45a16bbe23801a60eb9cd589e4450195bc0659a7053fc0e8e7|Over": {
         "title": "St. Louis Cardinals vs. Cincinnati Reds: O/U 8.5",
         "outcome": "Over",
@@ -148,12 +148,19 @@
         "avgPrice": 0.656,
         "slug": "atp-moutet-hurkacz-2026-08-13"
       },
-      "0xfd610a74a2315282e7a5493d590f04bb8f6014fef4c1508dd83cc6378f70016a|Fenerbah\u00e7e SK": {
-        "title": "Spread: Olympique Lyonnais (-1.5)",
-        "outcome": "Fenerbah\u00e7e SK",
-        "value": 3265.8255,
-        "avgPrice": 0.9413,
-        "slug": "ucl-fen-lyo-2026-08-18-spread-away-1pt5"
+      "0x419b8aebc24af493100eeb4202d6df21215522643cbf37f81aaad3ea4bc33d1e|Over": {
+        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 0.5",
+        "outcome": "Over",
+        "value": 3460.902,
+        "avgPrice": 0.8875,
+        "slug": "ucl-fen-lyo-2026-08-18-total-0pt5"
+      },
+      "0xfb6aebc7096dd036681802e29b2f28ff6d6c675eda504b672966047ff41cb5c3|Yes": {
+        "title": "Will Fenerbah\u00e7e SK win on 2026-08-18?",
+        "outcome": "Yes",
+        "value": 3249.3365,
+        "avgPrice": 0.3953,
+        "slug": "ucl-fen-lyo-2026-08-18-fen"
       },
       "0x34bee39a68d7459a5380229787d0361e0bf1e68e4b17bdea0720fce35be55d69|Cincinnati Reds": {
         "title": "St. Louis Cardinals vs. Cincinnati Reds",
@@ -183,6 +190,13 @@
         "avgPrice": 0.6369,
         "slug": "itf-ivantsi-dapkute-2026-08-12"
       },
+      "0xfd610a74a2315282e7a5493d590f04bb8f6014fef4c1508dd83cc6378f70016a|Fenerbah\u00e7e SK": {
+        "title": "Spread: Olympique Lyonnais (-1.5)",
+        "outcome": "Fenerbah\u00e7e SK",
+        "value": 2953.4175,
+        "avgPrice": 0.9365,
+        "slug": "ucl-fen-lyo-2026-08-18-spread-away-1pt5"
+      },
       "0xde5eeb0860270c58e265904d31e772698a9764ca0dec088bdef92e7259bf275a|Pittsburgh Pirates": {
         "title": "Detroit Tigers vs. Pittsburgh Pirates",
         "outcome": "Pittsburgh Pirates",
@@ -190,12 +204,12 @@
         "avgPrice": 0.5712,
         "slug": "mlb-det-pit-2026-08-18"
       },
-      "0x934bb5bb0887ad1e5145996e2d45f99d55a2dff24e542f90305e6ac162e0d98b|Over": {
-        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 2.5",
-        "outcome": "Over",
-        "value": 2780.206,
-        "avgPrice": 0.3774,
-        "slug": "ucl-fen-lyo-2026-08-18-total-2pt5"
+      "0x6aa6f1fe3b71fc908b93c04c8e2011392582d6b13b1e5bb1475900a00618b340|Pedro Martinez": {
+        "title": "Kingston: Evan Zhu vs Pedro Martinez",
+        "outcome": "Pedro Martinez",
+        "value": 2806.9423,
+        "avgPrice": 0.9064,
+        "slug": "atp-zh-martine-2026-08-18"
       },
       "0x9ceaad602f0a1a97c697826274e7abce6fedd27f2c367d9520300e33dabe934e|Miami Marlins": {
         "title": "Miami Marlins vs. Philadelphia Phillies",
@@ -203,20 +217,6 @@
         "value": 2752.9148,
         "avgPrice": 0.32,
         "slug": "mlb-mia-phi-2026-08-18"
-      },
-      "0x31015c7fad183133690f61c2f236fa777b1c3250fee75e5a3ec9b6b3d141ec81|Metizport": {
-        "title": "Counter-Strike: Metizport vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Group C",
-        "outcome": "Metizport",
-        "value": 2615.9122,
-        "avgPrice": 0.6592,
-        "slug": "cs2-mzp-sparta-2026-08-18"
-      },
-      "0x6aa6f1fe3b71fc908b93c04c8e2011392582d6b13b1e5bb1475900a00618b340|Pedro Martinez": {
-        "title": "Kingston: Evan Zhu vs Pedro Martinez",
-        "outcome": "Pedro Martinez",
-        "value": 2513.4701,
-        "avgPrice": 0.9064,
-        "slug": "atp-zh-martine-2026-08-18"
       },
       "0xf1e34834a08dfbafa339b43b2133adc044932bec25e94f8f78294aebac60c8a1|Benjamin O'connell": {
         "title": "ITF Brisbane: Zane Stevens vs Benjamin O'connell",
@@ -232,12 +232,12 @@
         "avgPrice": 0.6349,
         "slug": "wta-burel-putints-2026-07-13"
       },
-      "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18|Daniil Medvedev": {
-        "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
-        "outcome": "Daniil Medvedev",
-        "value": 2409.5772,
-        "avgPrice": 0.3664,
-        "slug": "atp-nakashi-medvede-2026-08-18"
+      "0x5cf06d4b3c51116c349da2f5e94e36f105e36c3cfb03b15f9d02f736a935a5bb|Medvedev": {
+        "title": "Set 1 Winner: Nakashima vs Medvedev",
+        "outcome": "Medvedev",
+        "value": 2391.7836,
+        "avgPrice": 0.4189,
+        "slug": "atp-nakashi-medvede-2026-08-18-first-set-winner-Nakashima-vs-Medvedev"
       },
       "0xc5932733f539c4706d0d8ac0aab53916b7d67399e9ca0f2b2c821c1af8fc7427|Andres Urrea": {
         "title": "ITF Huamantla: Niels Peter Van Noord vs Andres Urrea",
@@ -245,6 +245,13 @@
         "value": 2388.13,
         "avgPrice": 0.5947,
         "slug": "itf-noord-urrea-2026-07-29"
+      },
+      "0x01901ed2c813f364bb4e432d0cd7f1a4ddca202dcaedb1666550c3e7c8dab08f|Over": {
+        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 1.5",
+        "outcome": "Over",
+        "value": 2269.828,
+        "avgPrice": 0.7768,
+        "slug": "ucl-fen-lyo-2026-08-18-total-1pt5"
       },
       "0x4add5d6c538a3231c493ea5ed350177e0aefd8b434918a3f1fe450a4bc8d205b|Julieta Pareja": {
         "title": "ITF Dallas: Dana Guzman vs Julieta Pareja",
@@ -260,19 +267,12 @@
         "avgPrice": 0.5834,
         "slug": "wta-kuderme-korneev-2026-07-20"
       },
-      "0x7481960be626be0fb68a491d6ba3e27d1b0c555fb4fa217fc15535fbb917068f|Over": {
-        "title": "Los Angeles Dodgers vs. Colorado Rockies: O/U 11.5",
+      "0x0e2de6e2773f26496f7ea8307df1def6e2f14cf66d8ed6737c35252f21316ca2|Over": {
+        "title": "GNK Dinamo Zagreb vs. Viking FK: O/U 4.5",
         "outcome": "Over",
-        "value": 2110.7413,
-        "avgPrice": 0.4992,
-        "slug": "mlb-lad-col-2026-08-18-total-11pt5"
-      },
-      "0x419b8aebc24af493100eeb4202d6df21215522643cbf37f81aaad3ea4bc33d1e|Over": {
-        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 0.5",
-        "outcome": "Over",
-        "value": 2093.805,
-        "avgPrice": 0.915,
-        "slug": "ucl-fen-lyo-2026-08-18-total-0pt5"
+        "value": 2140.5556,
+        "avgPrice": 0.619,
+        "slug": "ucl-din-vf-2026-08-18-total-4pt5"
       },
       "0xea43f4e7cd3128279734fbb9d16ab18b686cc05affb2a9e347c095a0028da161|Jan Kumstat": {
         "title": "ITF Ollersbach: Vladyslav Orlov vs Jan Kumstat",
@@ -280,6 +280,13 @@
         "value": 2085.1217,
         "avgPrice": 0.67,
         "slug": "itf-orlov-kumstat-2026-07-23"
+      },
+      "0x7481960be626be0fb68a491d6ba3e27d1b0c555fb4fa217fc15535fbb917068f|Over": {
+        "title": "Los Angeles Dodgers vs. Colorado Rockies: O/U 11.5",
+        "outcome": "Over",
+        "value": 2070.5368,
+        "avgPrice": 0.4992,
+        "slug": "mlb-lad-col-2026-08-18-total-11pt5"
       },
       "0x406ecc742d2db167e099444dae74f73298bca937ec42ed1021ac427957593f68|Bushido Wildcats": {
         "title": "LoL: Bushido Wildcats vs Team Phoenix - Game 3 Winner",
@@ -302,19 +309,33 @@
         "avgPrice": 0.6038,
         "slug": "itf-zeltina-palicov-2026-08-17"
       },
+      "0xe213ffa584187883f6f8b842a29fd98523809e12e721e14db1501d064e23a8f1|WRAITH PCIFIC": {
+        "title": "Counter-Strike: Fire Flux Esports vs WRAITH PCIFIC (BO3) - ESL Challenger League Europe Cup #4 Group A",
+        "outcome": "WRAITH PCIFIC",
+        "value": 1867.5756,
+        "avgPrice": 0.546,
+        "slug": "cs2-ff-wraith-2026-08-18"
+      },
+      "0x1d9e1e5f3124a78e53ecdf1aeecae2ce6ae97cf5021e1cfcdeca23ce02a24ad1|Over": {
+        "title": "GNK Dinamo Zagreb vs. Viking FK: O/U 3.5",
+        "outcome": "Over",
+        "value": 1809.3248,
+        "avgPrice": 0.8949,
+        "slug": "ucl-din-vf-2026-08-18-total-3pt5"
+      },
+      "0x8fa7310a657aedfbbc22d3a3be7d639f4d2330bd44fa4bf5995fe783eb51d261|Baltimore Orioles": {
+        "title": "New York Yankees vs. Baltimore Orioles",
+        "outcome": "Baltimore Orioles",
+        "value": 1800.9387,
+        "avgPrice": 0.4899,
+        "slug": "mlb-nyy-bal-2026-08-18"
+      },
       "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523|Boston Red Sox": {
         "title": "Boston Red Sox vs. New York Yankees",
         "outcome": "Boston Red Sox",
         "value": 1714.0678,
         "avgPrice": 0.49,
         "slug": "mlb-bos-nyy-2026-06-06"
-      },
-      "0x2d628e0e9abae391cbd1f6e7a7d5ebd9a5b23dcd5c0ad8908d5f169c6217eaf7|Lodis": {
-        "title": "LoL: BOMBA Team vs Lodis (BO3) - Rift Legends Regular Season",
-        "outcome": "Lodis",
-        "value": 1682.2363,
-        "avgPrice": 0.3779,
-        "slug": "lol-bombat-lds-2026-08-18"
       },
       "0xb64f0ee76137ad6424a2f2efc73d09d4fc0f2b3bb749a59e614d15d6f2627be9|Kansas City Royals": {
         "title": "Athletics vs. Kansas City Royals",
@@ -323,19 +344,12 @@
         "avgPrice": 0.5913,
         "slug": "mlb-oak-kc-2026-08-18"
       },
-      "0xbaebe7e71c9295564daa26ed90c3902f2321a79b197f0148826638938e89abfb|Over": {
-        "title": "PFK Levski Sofia vs. AEK: O/U 1.5",
-        "outcome": "Over",
-        "value": 1524.1244,
-        "avgPrice": 0.5616,
-        "slug": "ucl-pls-aek1-2026-08-18-total-1pt5"
-      },
-      "0xe213ffa584187883f6f8b842a29fd98523809e12e721e14db1501d064e23a8f1|WRAITH PCIFIC": {
-        "title": "Counter-Strike: Fire Flux Esports vs WRAITH PCIFIC (BO3) - ESL Challenger League Europe Cup #4 Group A",
-        "outcome": "WRAITH PCIFIC",
-        "value": 1488.6339,
-        "avgPrice": 0.5452,
-        "slug": "cs2-ff-wraith-2026-08-18"
+      "0x0561113058db1c23a22c01283649d11f28b647aca96bbccdbf0d93672050030c|Ann Li": {
+        "title": "Cincinnati Open: Coco Gauff vs Ann Li",
+        "outcome": "Ann Li",
+        "value": 1556.3905,
+        "avgPrice": 0.1059,
+        "slug": "wta-gauff-annli-2026-08-18"
       },
       "0xaeb6a09227074abbadbacf225f2bcf3105074d5037351690f24cc127ae7a67a4|\u2060Movistar KOI F\u00e9nix": {
         "title": "LoL: \u2060Movistar KOI F\u00e9nix vs Bar\u00e7a eSports - Game 3 Winner",
@@ -344,12 +358,12 @@
         "avgPrice": 0.8889,
         "slug": "lol-koia-bar-2026-08-18-game3"
       },
-      "0x0561113058db1c23a22c01283649d11f28b647aca96bbccdbf0d93672050030c|Ann Li": {
-        "title": "Cincinnati Open: Coco Gauff vs Ann Li",
-        "outcome": "Ann Li",
-        "value": 1340.8912,
-        "avgPrice": 0.1076,
-        "slug": "wta-gauff-annli-2026-08-18"
+      "0x7e26d351ba571a590026e2a6a72e9b3da8212bffe46f8f972aa9beed7d446701|Kjaer": {
+        "title": "Set 1 Winner: Kjaer vs Bu",
+        "outcome": "Kjaer",
+        "value": 1329.6962,
+        "avgPrice": 0.5399,
+        "slug": "atp-kjaer-bu-2026-08-18-first-set-winner-Kjaer-vs-Bu"
       },
       "0x100fc126c334eaa60632ebe683b906d42e58009d0768cecaecaa25ae3f82844f|Gianmarco Ferrari": {
         "title": "ITF Fano: Lorenzo Rottoli vs Gianmarco Ferrari",
@@ -365,13 +379,6 @@
         "avgPrice": 0.8911,
         "slug": "lol-koia-bar-2026-08-18"
       },
-      "0x0e2de6e2773f26496f7ea8307df1def6e2f14cf66d8ed6737c35252f21316ca2|Over": {
-        "title": "GNK Dinamo Zagreb vs. Viking FK: O/U 4.5",
-        "outcome": "Over",
-        "value": 1278.1764,
-        "avgPrice": 0.5616,
-        "slug": "ucl-din-vf-2026-08-18-total-4pt5"
-      },
       "0x7aa71e47536cd611c9a7567bcd45752e171da74fae7c437a8c959fce8254c2c7|Stefan Vujic": {
         "title": "ITF Hillcrest: Preston Brown vs Stefan Vujic",
         "outcome": "Stefan Vujic",
@@ -385,6 +392,13 @@
         "value": 1200.105,
         "avgPrice": 0.62,
         "slug": "wta-leama-swan-2026-07-25"
+      },
+      "0xbaebe7e71c9295564daa26ed90c3902f2321a79b197f0148826638938e89abfb|Over": {
+        "title": "PFK Levski Sofia vs. AEK: O/U 1.5",
+        "outcome": "Over",
+        "value": 1187.2172,
+        "avgPrice": 0.5264,
+        "slug": "ucl-pls-aek1-2026-08-18-total-1pt5"
       },
       "0x94bf737c50693343c58106739dc20ef5adfa6260d2d92e60bc4fc084ae793ecf|Tiago Boschmans": {
         "title": "ITF M25 Idanha-a-Nova 2 Men: Abdulhamid Mubarak vs Tiago Boschmans",
@@ -442,12 +456,12 @@
         "avgPrice": 0.49,
         "slug": "mlb-nyy-bal-2026-08-18-total-8pt5"
       },
-      "0x1d9e1e5f3124a78e53ecdf1aeecae2ce6ae97cf5021e1cfcdeca23ce02a24ad1|Over": {
-        "title": "GNK Dinamo Zagreb vs. Viking FK: O/U 3.5",
-        "outcome": "Over",
-        "value": 1139.0038,
-        "avgPrice": 0.9018,
-        "slug": "ucl-din-vf-2026-08-18-total-3pt5"
+      "0x81b7a9ad4edc26d658d0c9628a33e301b961948ecf0a2ab04e0856c1b881187a|Under": {
+        "title": "GNK Dinamo Zagreb vs. Viking FK: O/U 5.5",
+        "outcome": "Under",
+        "value": 1134.9927,
+        "avgPrice": 0.4853,
+        "slug": "ucl-din-vf-2026-08-18-total-5pt5"
       },
       "0xa34c40cca093c863c56068c791183c3c60381c3ab1ce3c7aa1655047e67e7881|Cleveland Guardians": {
         "title": "Spread: Cleveland Guardians (-1.5)",
@@ -470,26 +484,19 @@
         "avgPrice": 0.73,
         "slug": "itf-daems-granweh-2026-07-23"
       },
-      "0x2d628e0e9abae391cbd1f6e7a7d5ebd9a5b23dcd5c0ad8908d5f169c6217eaf7|BOMBA Team": {
-        "title": "LoL: BOMBA Team vs Lodis (BO3) - Rift Legends Regular Season",
-        "outcome": "BOMBA Team",
-        "value": 967.8587,
-        "avgPrice": 0.5696,
-        "slug": "lol-bombat-lds-2026-08-18"
-      },
       "0xa72ce8767179afdfd28932be62ca1e55aed95e31d599a570a35970e31a08b524|No": {
         "title": "Will Fenerbah\u00e7e SK vs. Olympique Lyonnais end in a draw?",
         "outcome": "No",
-        "value": 854.7592,
+        "value": 892.7485,
         "avgPrice": 0.73,
         "slug": "ucl-fen-lyo-2026-08-18-draw"
       },
-      "0xd58a828eed24459245f13949f43e986f174ef739a66b1bf924d93fcea00054a5|1. FC Heidenheim": {
-        "title": "Spread: Bayern Munich (-2.5)",
-        "outcome": "1. FC Heidenheim",
-        "value": 796.953,
-        "avgPrice": 0.8606,
-        "slug": "clf-fch-bmu-2026-08-18-spread-away-2pt5"
+      "0xa72ce8767179afdfd28932be62ca1e55aed95e31d599a570a35970e31a08b524|Yes": {
+        "title": "Will Fenerbah\u00e7e SK vs. Olympique Lyonnais end in a draw?",
+        "outcome": "Yes",
+        "value": 804.4443,
+        "avgPrice": 0.29,
+        "slug": "ucl-fen-lyo-2026-08-18-draw"
       },
       "0x16a4eb4f9ba2c5601406f85e5a86decb01f265adae6fd57e208085651b302a56|KT Wiz": {
         "title": "KBO: Doosan Bears vs. KT Wiz",
@@ -519,12 +526,12 @@
         "avgPrice": 0.3949,
         "slug": "mls-chi-vwh-2026-07-16-vwh"
       },
-      "0xe0cb6ca0806ab2189e6d6ee71897a945c7d2598c806485119b82ff48061f5ac9|No": {
-        "title": "PFK Levski Sofia vs. AEK: Draw at halftime?",
-        "outcome": "No",
-        "value": 684.7099,
-        "avgPrice": 0.5127,
-        "slug": "ucl-pls-aek1-2026-08-18-halftime-result-draw"
+      "0x6e97dcf30faae886335e499aeb24dbcd7cea6cafc5a494ac995662a4ef36e56f|Over": {
+        "title": "PFK Levski Sofia vs. AEK: O/U 0.5",
+        "outcome": "Over",
+        "value": 676.4017,
+        "avgPrice": 0.7542,
+        "slug": "ucl-pls-aek1-2026-08-18-total-0pt5"
       },
       "0xe3c90c8836bbdcb619f6b749e7095458baca9be96cc81f125568bea771336207|Sobolieva": {
         "title": "Set 1 Winner: Samson vs Sobolieva",
@@ -533,12 +540,19 @@
         "avgPrice": 0.5179,
         "slug": "wta-samson-sobolie-2026-07-29-first-set-winner-Samson-vs-Sobolieva"
       },
-      "0xea15257b0eb7c051e802baf467f030a51557c18998dc072d4a264b1a2d3ea033|Yes": {
-        "title": "Will AEK win on 2026-08-18?",
-        "outcome": "Yes",
-        "value": 646.669,
-        "avgPrice": 0.3988,
-        "slug": "ucl-pls-aek1-2026-08-18-aek1"
+      "0xcbd1b7b966c7a82b4896bc623d292d9934daec1c430e67edd39cd0ab76a3c756|Sloane Stephens": {
+        "title": "Cincinnati Open: Marta Kostyuk vs Sloane Stephens",
+        "outcome": "Sloane Stephens",
+        "value": 604.2197,
+        "avgPrice": 0.186,
+        "slug": "wta-kostyuk-stephen-2026-08-18"
+      },
+      "0x9f551ae0da1d6c774611e79e14d46b71ba4529b43764ff0fb8336a3d2e00ddb6|Over": {
+        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 4.5",
+        "outcome": "Over",
+        "value": 584.3233,
+        "avgPrice": 0.0747,
+        "slug": "ucl-fen-lyo-2026-08-18-total-4pt5"
       },
       "0xffcd4c59ef8d32b1cd321a4c11f0d6246f3b33dc770e6d64ea5e80356c353105|HAVU": {
         "title": "Counter-Strike: Lavked vs HAVU - Map 2 Winner",
@@ -547,12 +561,33 @@
         "avgPrice": 0.8097,
         "slug": "cs2-lavked-havu-2026-08-18-game2"
       },
+      "0x0561113058db1c23a22c01283649d11f28b647aca96bbccdbf0d93672050030c|Coco Gauff": {
+        "title": "Cincinnati Open: Coco Gauff vs Ann Li",
+        "outcome": "Coco Gauff",
+        "value": 530.1448,
+        "avgPrice": 0.9571,
+        "slug": "wta-gauff-annli-2026-08-18"
+      },
       "0x1550240199e4bcfd6c245fa977d98504beaf00f5641fbe0625dd82be09033d1f|Under": {
         "title": "St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5",
         "outcome": "Under",
         "value": 528.2245,
         "avgPrice": 0.5699,
         "slug": "mlb-stl-cin-2026-08-18-total-9pt5"
+      },
+      "0x81b7a9ad4edc26d658d0c9628a33e301b961948ecf0a2ab04e0856c1b881187a|Over": {
+        "title": "GNK Dinamo Zagreb vs. Viking FK: O/U 5.5",
+        "outcome": "Over",
+        "value": 509.1313,
+        "avgPrice": 0.4599,
+        "slug": "ucl-din-vf-2026-08-18-total-5pt5"
+      },
+      "0x2a4115e718a0b9177cc32c3a17b83c822871a36dc7ec1be056a8b664878b317c|Over": {
+        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 3.5",
+        "outcome": "Over",
+        "value": 505.0169,
+        "avgPrice": 0.247,
+        "slug": "ucl-fen-lyo-2026-08-18-total-3pt5"
       },
       "0x0cff640dbffd23a4d400757e73f15ac369ddfbc7cc27ef5cda0798f6ede3217b|Over": {
         "title": "Chicago White Sox vs. Chicago Cubs: O/U 8.5",
@@ -570,75 +605,61 @@
       }
     },
     "#2 RN1": {
-      "0xbc5488ddca3b7eeb92ac071cb2ed2ef787e729cfd283e12dfe5bbec7cdf47c37|Taro Daniel": {
-        "title": "Quebec City: Dusan Lajovic vs Taro Daniel",
-        "outcome": "Taro Daniel",
-        "value": 65619.3655,
-        "avgPrice": 0.6381,
-        "slug": "atp-lajovic-daniel-2026-08-18"
-      },
-      "0x4fe0d0f5db37f95c8c382c0409808c1e1729481cd1577f27710f6c8c6dd43787|No": {
-        "title": "Will 1. FC Heidenheim win on 2026-08-18?",
-        "outcome": "No",
-        "value": 29438.7347,
-        "avgPrice": 0.8841,
-        "slug": "clf-fch-bmu-2026-08-18-fch"
-      },
-      "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18|Brandon Nakashima": {
+      "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18|Daniil Medvedev": {
         "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
-        "outcome": "Brandon Nakashima",
-        "value": 20674.3926,
-        "avgPrice": 0.4589,
+        "outcome": "Daniil Medvedev",
+        "value": 47194.0048,
+        "avgPrice": 0.4697,
         "slug": "atp-nakashi-medvede-2026-08-18"
-      },
-      "0x4d4eee9c679fe519ffd0a8ad6667ce91d57e43a895eb48e40e016dd1fc9f6ceb|Over": {
-        "title": "1. FC Heidenheim vs. Bayern Munich: O/U 4.5",
-        "outcome": "Over",
-        "value": 19459.756,
-        "avgPrice": 0.6244,
-        "slug": "clf-fch-bmu-2026-08-18-total-4pt5"
       },
       "0xfb6aebc7096dd036681802e29b2f28ff6d6c675eda504b672966047ff41cb5c3|No": {
         "title": "Will Fenerbah\u00e7e SK win on 2026-08-18?",
         "outcome": "No",
-        "value": 18580.6667,
-        "avgPrice": 0.5186,
+        "value": 30443.2619,
+        "avgPrice": 0.526,
         "slug": "ucl-fen-lyo-2026-08-18-fen"
       },
-      "0x81c08b5c34d517c2835b1ca4c777b64223d332c48678c2f69a3e4e462ebc15cd|No": {
-        "title": "Will Olympique Lyonnais win on 2026-08-18?",
-        "outcome": "No",
-        "value": 13947.3812,
-        "avgPrice": 0.7545,
-        "slug": "ucl-fen-lyo-2026-08-18-lyo"
-      },
-      "0xfb6aebc7096dd036681802e29b2f28ff6d6c675eda504b672966047ff41cb5c3|Yes": {
-        "title": "Will Fenerbah\u00e7e SK win on 2026-08-18?",
-        "outcome": "Yes",
-        "value": 12572.1946,
-        "avgPrice": 0.4874,
-        "slug": "ucl-fen-lyo-2026-08-18-fen"
-      },
-      "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18|Daniil Medvedev": {
-        "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
-        "outcome": "Daniil Medvedev",
-        "value": 11199.3926,
-        "avgPrice": 0.4201,
-        "slug": "atp-nakashi-medvede-2026-08-18"
-      },
-      "0x3bc756248b0ccd9317d8ca66e487897258b04a3ef049550b0df7c18a1103adb6|No": {
-        "title": "Will 1. FC Heidenheim vs. Bayern Munich end in a draw?",
-        "outcome": "No",
-        "value": 9543.0966,
-        "avgPrice": 0.8693,
-        "slug": "clf-fch-bmu-2026-08-18-draw"
+      "0x457871979fd34d510133cbaf33f8508fceae492940bcb78f5a0de584d8996701|Stefanos Sakellaridis": {
+        "title": "Quebec City: Stefanos Sakellaridis vs Tristan Schoolkate",
+        "outcome": "Stefanos Sakellaridis",
+        "value": 10691.7094,
+        "avgPrice": 0.5662,
+        "slug": "atp-sakella-schoolk-2026-08-18"
       },
       "0x3190b2023e1b6e1fec3afd49f4aa45d5e159b1e477480762738e12d64886d1c6|No": {
         "title": "PFK Levski Sofia vs. AEK: Both Teams to Score",
         "outcome": "No",
-        "value": 9342.5466,
+        "value": 10359.4957,
         "avgPrice": 0.4981,
         "slug": "ucl-pls-aek1-2026-08-18-btts"
+      },
+      "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18|Brandon Nakashima": {
+        "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
+        "outcome": "Brandon Nakashima",
+        "value": 9995.1162,
+        "avgPrice": 0.4687,
+        "slug": "atp-nakashi-medvede-2026-08-18"
+      },
+      "0x81c08b5c34d517c2835b1ca4c777b64223d332c48678c2f69a3e4e462ebc15cd|No": {
+        "title": "Will Olympique Lyonnais win on 2026-08-18?",
+        "outcome": "No",
+        "value": 9104.8775,
+        "avgPrice": 0.7394,
+        "slug": "ucl-fen-lyo-2026-08-18-lyo"
+      },
+      "0x934bb5bb0887ad1e5145996e2d45f99d55a2dff24e542f90305e6ac162e0d98b|Over": {
+        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 2.5",
+        "outcome": "Over",
+        "value": 8284.1087,
+        "avgPrice": 0.4839,
+        "slug": "ucl-fen-lyo-2026-08-18-total-2pt5"
+      },
+      "0xcfab6430414accdbc9b2997a5f6c6d885b6db94a746f6f75013bb63a82fc2282|No": {
+        "title": "Will Viking FK win on 2026-08-18?",
+        "outcome": "No",
+        "value": 8108.3615,
+        "avgPrice": 0.9098,
+        "slug": "ucl-din-vf-2026-08-18-vf"
       },
       "0xa724ee728d4a085cd4e1b2d0625f6ac2a83476868f4295a8af00724cba8980a3|Yes": {
         "title": "Will Bayern Munich win on 2026-08-18?",
@@ -647,19 +668,26 @@
         "avgPrice": 0.5044,
         "slug": "clf-fch-bmu-2026-08-18-bmu"
       },
-      "0x50bcd8516ab49f06177cc23f06eb0d8ec1ce4fe4f3ff77ed0dd1ae1ed01032ff|Bayern Munich": {
-        "title": "Spread: Bayern Munich (-1.5)",
-        "outcome": "Bayern Munich",
-        "value": 5679.4974,
-        "avgPrice": 0.4974,
-        "slug": "clf-fch-bmu-2026-08-18-spread-away-1pt5"
+      "0x3ebd83bf29b49e7f701f86894c255535fd140c7c0f6eeddb7e701d9d4351fc3c|No": {
+        "title": "Will GNK Dinamo Zagreb win on 2026-08-18?",
+        "outcome": "No",
+        "value": 6364.6978,
+        "avgPrice": 0.1531,
+        "slug": "ucl-din-vf-2026-08-18-din"
       },
-      "0x5bcfd44b30868309b41b0cf19e828b4b85a8170fbf336cd6f510e8438e1595e6|Over": {
-        "title": "1. FC Heidenheim vs. Bayern Munich: O/U 5.5",
+      "0x0e2de6e2773f26496f7ea8307df1def6e2f14cf66d8ed6737c35252f21316ca2|Over": {
+        "title": "GNK Dinamo Zagreb vs. Viking FK: O/U 4.5",
         "outcome": "Over",
-        "value": 5677.5198,
-        "avgPrice": 0.2729,
-        "slug": "clf-fch-bmu-2026-08-18-total-5pt5"
+        "value": 6161.4004,
+        "avgPrice": 0.5136,
+        "slug": "ucl-din-vf-2026-08-18-total-4pt5"
+      },
+      "0xfb6aebc7096dd036681802e29b2f28ff6d6c675eda504b672966047ff41cb5c3|Yes": {
+        "title": "Will Fenerbah\u00e7e SK win on 2026-08-18?",
+        "outcome": "Yes",
+        "value": 5668.8477,
+        "avgPrice": 0.447,
+        "slug": "ucl-fen-lyo-2026-08-18-fen"
       },
       "0xb5d3c3684745bfeddbd64b7da32e05d1dd80cf694011961cf2c834754d396bad|Calvin Hemery": {
         "title": "Sion: Petr Nesterov vs Calvin Hemery",
@@ -668,27 +696,6 @@
         "avgPrice": 0.4243,
         "slug": "atp-nestero-hemery-2026-08-17"
       },
-      "0x3ebd83bf29b49e7f701f86894c255535fd140c7c0f6eeddb7e701d9d4351fc3c|Yes": {
-        "title": "Will GNK Dinamo Zagreb win on 2026-08-18?",
-        "outcome": "Yes",
-        "value": 5487.6663,
-        "avgPrice": 0.7804,
-        "slug": "ucl-din-vf-2026-08-18-din"
-      },
-      "0x457871979fd34d510133cbaf33f8508fceae492940bcb78f5a0de584d8996701|Stefanos Sakellaridis": {
-        "title": "Quebec City: Stefanos Sakellaridis vs Tristan Schoolkate",
-        "outcome": "Stefanos Sakellaridis",
-        "value": 5188.0731,
-        "avgPrice": 0.5662,
-        "slug": "atp-sakella-schoolk-2026-08-18"
-      },
-      "0x934bb5bb0887ad1e5145996e2d45f99d55a2dff24e542f90305e6ac162e0d98b|Over": {
-        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 2.5",
-        "outcome": "Over",
-        "value": 5014.6826,
-        "avgPrice": 0.484,
-        "slug": "ucl-fen-lyo-2026-08-18-total-2pt5"
-      },
       "0x645fba3cac8ca56759e0df1286eb6852369974625aab9a7ee187cd03495b6afd|Over": {
         "title": "GNK Dinamo Zagreb vs. Viking FK: O/U 2.5",
         "outcome": "Over",
@@ -696,12 +703,26 @@
         "avgPrice": 0.9195,
         "slug": "ucl-din-vf-2026-08-18-total-2pt5"
       },
-      "0xcfab6430414accdbc9b2997a5f6c6d885b6db94a746f6f75013bb63a82fc2282|No": {
-        "title": "Will Viking FK win on 2026-08-18?",
-        "outcome": "No",
-        "value": 4432.5548,
-        "avgPrice": 0.9403,
-        "slug": "ucl-din-vf-2026-08-18-vf"
+      "0xcbd1b7b966c7a82b4896bc623d292d9934daec1c430e67edd39cd0ab76a3c756|Marta Kostyuk": {
+        "title": "Cincinnati Open: Marta Kostyuk vs Sloane Stephens",
+        "outcome": "Marta Kostyuk",
+        "value": 4502.279,
+        "avgPrice": 0.8474,
+        "slug": "wta-kostyuk-stephen-2026-08-18"
+      },
+      "0x3ebd83bf29b49e7f701f86894c255535fd140c7c0f6eeddb7e701d9d4351fc3c|Yes": {
+        "title": "Will GNK Dinamo Zagreb win on 2026-08-18?",
+        "outcome": "Yes",
+        "value": 4129.3876,
+        "avgPrice": 0.7593,
+        "slug": "ucl-din-vf-2026-08-18-din"
+      },
+      "0x0561113058db1c23a22c01283649d11f28b647aca96bbccdbf0d93672050030c|Coco Gauff": {
+        "title": "Cincinnati Open: Coco Gauff vs Ann Li",
+        "outcome": "Coco Gauff",
+        "value": 4100.1145,
+        "avgPrice": 0.961,
+        "slug": "wta-gauff-annli-2026-08-18"
       },
       "0x4a9958910f8ec0f4fd003d4e12e60ba9d0cc780f6e756bf0f6520710ca6054cc|No": {
         "title": "Will CSyD Macar\u00e1 win on 2026-08-20?",
@@ -710,33 +731,26 @@
         "avgPrice": 0.595,
         "slug": "sud-mac-san-2026-08-20-mac"
       },
-      "0x0e2de6e2773f26496f7ea8307df1def6e2f14cf66d8ed6737c35252f21316ca2|Over": {
-        "title": "GNK Dinamo Zagreb vs. Viking FK: O/U 4.5",
+      "0x01901ed2c813f364bb4e432d0cd7f1a4ddca202dcaedb1666550c3e7c8dab08f|Over": {
+        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 1.5",
         "outcome": "Over",
-        "value": 3748.9775,
-        "avgPrice": 0.4336,
-        "slug": "ucl-din-vf-2026-08-18-total-4pt5"
-      },
-      "0xcfbce057a76a18c9fc12fe4a6dc9822a16e13c45891730dbfecfcf207d6a275e|Salma Djoubri": {
-        "title": "ITF W15 Wanferc\u00e9e-Baulet Women: Lea Fojcik vs Salma Djoubri",
-        "outcome": "Salma Djoubri",
-        "value": 3647.4136,
-        "avgPrice": 0.636,
-        "slug": "itf-fojcik-djoubri-2026-08-17"
-      },
-      "0xd58a828eed24459245f13949f43e986f174ef739a66b1bf924d93fcea00054a5|1. FC Heidenheim": {
-        "title": "Spread: Bayern Munich (-2.5)",
-        "outcome": "1. FC Heidenheim",
-        "value": 3592.133,
-        "avgPrice": 0.7204,
-        "slug": "clf-fch-bmu-2026-08-18-spread-away-2pt5"
+        "value": 3972.2128,
+        "avgPrice": 0.7358,
+        "slug": "ucl-fen-lyo-2026-08-18-total-1pt5"
       },
       "0xf6e4a8eb286e4ce1ff49548fd3c71d40b85dd5b59100b7ae2280ff07548a651d|No": {
         "title": "Exact Score: GNK Dinamo Zagreb 2 - 1 Viking FK?",
         "outcome": "No",
-        "value": 3421.1262,
+        "value": 3778.3598,
         "avgPrice": 0.92,
         "slug": "ucl-din-vf-2026-08-18-exact-score-2-1"
+      },
+      "0x1d9e1e5f3124a78e53ecdf1aeecae2ce6ae97cf5021e1cfcdeca23ce02a24ad1|Over": {
+        "title": "GNK Dinamo Zagreb vs. Viking FK: O/U 3.5",
+        "outcome": "Over",
+        "value": 3393.787,
+        "avgPrice": 0.7994,
+        "slug": "ucl-din-vf-2026-08-18-total-3pt5"
       },
       "0xb5d3c3684745bfeddbd64b7da32e05d1dd80cf694011961cf2c834754d396bad|Petr Nesterov": {
         "title": "Sion: Petr Nesterov vs Calvin Hemery",
@@ -745,40 +759,26 @@
         "avgPrice": 0.4951,
         "slug": "atp-nestero-hemery-2026-08-17"
       },
-      "0x3ebd83bf29b49e7f701f86894c255535fd140c7c0f6eeddb7e701d9d4351fc3c|No": {
-        "title": "Will GNK Dinamo Zagreb win on 2026-08-18?",
-        "outcome": "No",
-        "value": 3216.5677,
-        "avgPrice": 0.1531,
-        "slug": "ucl-din-vf-2026-08-18-din"
+      "0xcfab6430414accdbc9b2997a5f6c6d885b6db94a746f6f75013bb63a82fc2282|Yes": {
+        "title": "Will Viking FK win on 2026-08-18?",
+        "outcome": "Yes",
+        "value": 3183.2915,
+        "avgPrice": 0.0197,
+        "slug": "ucl-din-vf-2026-08-18-vf"
       },
-      "0x1d9e1e5f3124a78e53ecdf1aeecae2ce6ae97cf5021e1cfcdeca23ce02a24ad1|Over": {
-        "title": "GNK Dinamo Zagreb vs. Viking FK: O/U 3.5",
-        "outcome": "Over",
-        "value": 3038.9589,
-        "avgPrice": 0.7994,
-        "slug": "ucl-din-vf-2026-08-18-total-3pt5"
+      "0x44cb5d72033901c5460fdc66a93c9b548f830d0e84e97dbd2760e9cb40d804f7|No": {
+        "title": "Exact Score: Fenerbah\u00e7e SK 3 - 3 Olympique Lyonnais?",
+        "outcome": "No",
+        "value": 2883.51,
+        "avgPrice": 0.997,
+        "slug": "ucl-fen-lyo-2026-08-18-exact-score-3-3"
       },
       "0x011885a90e6402b64c242fd8b80c3a97167b87b7c2ee90d5830538b600fcda20|No": {
         "title": "Exact Score: GNK Dinamo Zagreb 2 - 3 Viking FK?",
         "outcome": "No",
-        "value": 2969.49,
+        "value": 2802.63,
         "avgPrice": 0.9855,
         "slug": "ucl-din-vf-2026-08-18-exact-score-2-3"
-      },
-      "0xc068308425e74237c593e2c2ccd51290d70ec6354e9e78e2dc851d9722bc2348|No": {
-        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: Both Teams to Score",
-        "outcome": "No",
-        "value": 2888.8351,
-        "avgPrice": 0.4876,
-        "slug": "ucl-fen-lyo-2026-08-18-btts"
-      },
-      "0x457871979fd34d510133cbaf33f8508fceae492940bcb78f5a0de584d8996701|Tristan Schoolkate": {
-        "title": "Quebec City: Stefanos Sakellaridis vs Tristan Schoolkate",
-        "outcome": "Tristan Schoolkate",
-        "value": 2721.581,
-        "avgPrice": 0.4383,
-        "slug": "atp-sakella-schoolk-2026-08-18"
       },
       "0xaedb6667cf88cade0903baee5d5f14180e0cb4c35cfb1c8c05d5f91af051ba5b|Alexander Blockx": {
         "title": "National Bank Open: Jaume Munar vs Alexander Blockx",
@@ -794,47 +794,61 @@
         "avgPrice": 0.46,
         "slug": "atp-tien-tiafoe-2026-08-18"
       },
-      "0x01901ed2c813f364bb4e432d0cd7f1a4ddca202dcaedb1666550c3e7c8dab08f|Over": {
-        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 1.5",
+      "0x6669ed351e0ad86cccb4c90abb1f0b477448dad93f1ae18c04182e54ce45a02a|Over": {
+        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: 1st Half O/U 0.5",
         "outcome": "Over",
-        "value": 1790.1,
-        "avgPrice": 0.735,
-        "slug": "ucl-fen-lyo-2026-08-18-total-1pt5"
-      },
-      "0xf240d9742c945e4491e2fedf165b82867ef3f6aef6894976419132e2564ecee9|Over": {
-        "title": "1. FC Heidenheim vs. Bayern Munich: O/U 3.5",
-        "outcome": "Over",
-        "value": 1704.289,
-        "avgPrice": 0.7401,
-        "slug": "clf-fch-bmu-2026-08-18-total-3pt5"
+        "value": 2161.4884,
+        "avgPrice": 0.3694,
+        "slug": "ucl-fen-lyo-2026-08-18-first-half-total-0pt5"
       },
       "0x322608a33fb21e3191254ba9cb71003f5c7609047b7d716b725ce38e09c2abfa|No": {
         "title": "Will PFK Levski Sofia win on 2026-08-18?",
         "outcome": "No",
-        "value": 1568.6197,
-        "avgPrice": 0.719,
+        "value": 2119.6508,
+        "avgPrice": 0.7296,
         "slug": "ucl-pls-aek1-2026-08-18-pls"
       },
-      "0x4ff2570aeffe7abfd336b17e60f7d7d29b2edc054bcbadff6da26f20afa1fa59|No": {
-        "title": "Exact Score: Fenerbah\u00e7e SK 0 - 3 Olympique Lyonnais?",
+      "0xceaf9472cda5504f5fd78a8ece88cf2c42cde2adda0e79facd88f6568ff3a60d|Rei Sakamoto": {
+        "title": "Quebec City: Jurij Rodionov vs Rei Sakamoto",
+        "outcome": "Rei Sakamoto",
+        "value": 1950.7725,
+        "avgPrice": 0.5001,
+        "slug": "atp-rodiono-sakamot-2026-08-18"
+      },
+      "0xc068308425e74237c593e2c2ccd51290d70ec6354e9e78e2dc851d9722bc2348|No": {
+        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: Both Teams to Score",
         "outcome": "No",
-        "value": 1507.374,
-        "avgPrice": 0.993,
-        "slug": "ucl-fen-lyo-2026-08-18-exact-score-0-3"
+        "value": 1859.0624,
+        "avgPrice": 0.5129,
+        "slug": "ucl-fen-lyo-2026-08-18-btts"
       },
       "0x4b64fbe9fe29471e5bd5b109cb7dd0a12917a309dd76f15eed26dcaf26ac4860|No": {
         "title": "Exact Score: Fenerbah\u00e7e SK 0 - 0 Olympique Lyonnais?",
         "outcome": "No",
-        "value": 1493.82,
+        "value": 1734.3945,
         "avgPrice": 0.93,
         "slug": "ucl-fen-lyo-2026-08-18-exact-score-0-0"
       },
-      "0xcfab6430414accdbc9b2997a5f6c6d885b6db94a746f6f75013bb63a82fc2282|Yes": {
-        "title": "Will Viking FK win on 2026-08-18?",
-        "outcome": "Yes",
-        "value": 1475.9646,
-        "avgPrice": 0.0196,
-        "slug": "ucl-din-vf-2026-08-18-vf"
+      "0x842107ebc026843fa5289957d1593426484f98a5916c6720fc6a569f35cb2c65|No": {
+        "title": "Exact Score: PFK Levski Sofia 3 - 3 AEK?",
+        "outcome": "No",
+        "value": 1535.832,
+        "avgPrice": 0.992,
+        "slug": "ucl-pls-aek1-2026-08-18-exact-score-3-3"
+      },
+      "0x4ff2570aeffe7abfd336b17e60f7d7d29b2edc054bcbadff6da26f20afa1fa59|No": {
+        "title": "Exact Score: Fenerbah\u00e7e SK 0 - 3 Olympique Lyonnais?",
+        "outcome": "No",
+        "value": 1471.701,
+        "avgPrice": 0.993,
+        "slug": "ucl-fen-lyo-2026-08-18-exact-score-0-3"
+      },
+      "0x519f91d3ce02b8a017dbc206987efb8a1e24d938b13f3981e24379a5ea5b3953|No": {
+        "title": "Exact Score: Fenerbah\u00e7e SK 2 - 1 Olympique Lyonnais?",
+        "outcome": "No",
+        "value": 1463.16,
+        "avgPrice": 0.89,
+        "slug": "ucl-fen-lyo-2026-08-18-exact-score-2-1"
       },
       "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523|New York Yankees": {
         "title": "Boston Red Sox vs. New York Yankees",
@@ -842,6 +856,13 @@
         "value": 1452.0763,
         "avgPrice": 0.4999,
         "slug": "mlb-bos-nyy-2026-06-06"
+      },
+      "0x81b7a9ad4edc26d658d0c9628a33e301b961948ecf0a2ab04e0856c1b881187a|Under": {
+        "title": "GNK Dinamo Zagreb vs. Viking FK: O/U 5.5",
+        "outcome": "Under",
+        "value": 1444.0035,
+        "avgPrice": 0.4851,
+        "slug": "ucl-din-vf-2026-08-18-total-5pt5"
       },
       "0x7453466521ed6a2ef40639e620f9c681d502ea0eb8b04600350dd22162330f6a|Under": {
         "title": "Shanghai Haigang FC vs. Dalian Yingbo FC: O/U 1.5",
@@ -853,51 +874,72 @@
       "0xe5907ee5b1cbb4a4a905e29edaf2222f46f257e3780a8572791f0546236acbd3|Over": {
         "title": "San Francisco Giants vs. Atlanta Braves: O/U 7.5",
         "outcome": "Over",
-        "value": 1408.9808,
+        "value": 1441.7478,
         "avgPrice": 0.47,
         "slug": "mlb-sf-atl-2026-06-18-total-7pt5"
       },
-      "0x842107ebc026843fa5289957d1593426484f98a5916c6720fc6a569f35cb2c65|No": {
-        "title": "Exact Score: PFK Levski Sofia 3 - 3 AEK?",
+      "0xa72ce8767179afdfd28932be62ca1e55aed95e31d599a570a35970e31a08b524|No": {
+        "title": "Will Fenerbah\u00e7e SK vs. Olympique Lyonnais end in a draw?",
         "outcome": "No",
-        "value": 1289.112,
-        "avgPrice": 0.992,
-        "slug": "ucl-pls-aek1-2026-08-18-exact-score-3-3"
+        "value": 1395.1729,
+        "avgPrice": 0.6987,
+        "slug": "ucl-fen-lyo-2026-08-18-draw"
       },
-      "0x0c5666833b9d2f6bc5856a27a7a65b112f872e96862247a7b7d74d5d237c4096|Pijus Vaitiekunas": {
-        "title": "ITF M15 Lambermont Men: Pijus Vaitiekunas vs Thomas Gerbaud",
-        "outcome": "Pijus Vaitiekunas",
-        "value": 1232.2244,
-        "avgPrice": 0.8015,
-        "slug": "itf-vaitiek-gerbaud-2026-08-18"
-      },
-      "0x1f1fd72a561c73bbd10281551e19f6d3ab4c6d6d89f71cafdf27cfabcf7ff323|Felipe de Dios": {
-        "title": "ITF M15 Asuncion 2 Men: Felipe Vazquez vs Felipe de Dios",
-        "outcome": "Felipe de Dios",
-        "value": 1221.8663,
-        "avgPrice": 0.3269,
-        "slug": "itf-vazque-dios-2026-08-18"
-      },
-      "0xaa0b69cc2c53670b5396edce306d2d18a2a5f6dae5c8c7c2c228acc1c431b166|No": {
-        "title": "Exact Score: Recoleta FC 2 - 1 CA Boca Juniors?",
-        "outcome": "No",
-        "value": 1160.39,
-        "avgPrice": 0.95,
-        "slug": "sud-rec1-boc-2026-08-18-exact-score-2-1"
+      "0x2a4115e718a0b9177cc32c3a17b83c822871a36dc7ec1be056a8b664878b317c|Under": {
+        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 3.5",
+        "outcome": "Under",
+        "value": 1346.7341,
+        "avgPrice": 0.7693,
+        "slug": "ucl-fen-lyo-2026-08-18-total-3pt5"
       },
       "0x9f551ae0da1d6c774611e79e14d46b71ba4529b43764ff0fb8336a3d2e00ddb6|Under": {
         "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 4.5",
         "outcome": "Under",
-        "value": 1122.125,
-        "avgPrice": 0.92,
+        "value": 1325.9544,
+        "avgPrice": 0.921,
         "slug": "ucl-fen-lyo-2026-08-18-total-4pt5"
       },
-      "0x934bb5bb0887ad1e5145996e2d45f99d55a2dff24e542f90305e6ac162e0d98b|Under": {
-        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 2.5",
-        "outcome": "Under",
-        "value": 1114.9219,
-        "avgPrice": 0.485,
-        "slug": "ucl-fen-lyo-2026-08-18-total-2pt5"
+      "0x0c5666833b9d2f6bc5856a27a7a65b112f872e96862247a7b7d74d5d237c4096|Pijus Vaitiekunas": {
+        "title": "ITF M15 Lambermont Men: Pijus Vaitiekunas vs Thomas Gerbaud",
+        "outcome": "Pijus Vaitiekunas",
+        "value": 1263.4199,
+        "avgPrice": 0.8015,
+        "slug": "itf-vaitiek-gerbaud-2026-08-18"
+      },
+      "0xaa0b69cc2c53670b5396edce306d2d18a2a5f6dae5c8c7c2c228acc1c431b166|No": {
+        "title": "Exact Score: Recoleta FC 2 - 1 CA Boca Juniors?",
+        "outcome": "No",
+        "value": 1160.995,
+        "avgPrice": 0.95,
+        "slug": "sud-rec1-boc-2026-08-18-exact-score-2-1"
+      },
+      "0xea15257b0eb7c051e802baf467f030a51557c18998dc072d4a264b1a2d3ea033|No": {
+        "title": "Will AEK win on 2026-08-18?",
+        "outcome": "No",
+        "value": 1138.6054,
+        "avgPrice": 0.6488,
+        "slug": "ucl-pls-aek1-2026-08-18-aek1"
+      },
+      "0x1ae508d2298e142ce6b9f4740b92e5dfa5c9ee4cdb5c0a7ee9de8b2b1698357a|Ignacio de Armas": {
+        "title": "ITF M15 Asuncion 2 Men: Ignacio de Armas vs Benjamin Perez",
+        "outcome": "Ignacio de Armas",
+        "value": 1134.2035,
+        "avgPrice": 0.4006,
+        "slug": "itf-arma-benjam-2026-08-18"
+      },
+      "0x870077cf857f64cdf218f98de890c73b683cf0b9ea3e83572944fcd99260b9c6|No": {
+        "title": "Will GNK Dinamo Zagreb vs. Viking FK end in a draw?",
+        "outcome": "No",
+        "value": 1049.4487,
+        "avgPrice": 0.7625,
+        "slug": "ucl-din-vf-2026-08-18-draw"
+      },
+      "0xc068308425e74237c593e2c2ccd51290d70ec6354e9e78e2dc851d9722bc2348|Yes": {
+        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: Both Teams to Score",
+        "outcome": "Yes",
+        "value": 1025.73,
+        "avgPrice": 0.58,
+        "slug": "ucl-fen-lyo-2026-08-18-btts"
       },
       "0xf18670ae30ac5e3e63220b1ce6a99ca1cb783ba9cbe7a379aca707a3f9fb27fc|No": {
         "title": "Exact Score: CS Independiente Rivadavia 1 - 3 Fluminense FC?",
@@ -906,26 +948,12 @@
         "avgPrice": 0.968,
         "slug": "lib-cir-flu-2026-08-18-exact-score-1-3"
       },
-      "0xea15257b0eb7c051e802baf467f030a51557c18998dc072d4a264b1a2d3ea033|No": {
-        "title": "Will AEK win on 2026-08-18?",
+      "0x532caa2e5763fbd998c4cefa49d14695bd85c5e11e42007d154b2e6ce93661d0|No": {
+        "title": "Fenerbah\u00e7e SK leading at halftime?",
         "outcome": "No",
-        "value": 1016.9334,
-        "avgPrice": 0.6493,
-        "slug": "ucl-pls-aek1-2026-08-18-aek1"
-      },
-      "0xa24edf9ea56ca06f9c21681f2244c17f6c96099cf41be01ef72bf4af5a4c3c9a|Over": {
-        "title": "1. FC Heidenheim vs. Bayern Munich: O/U 2.5",
-        "outcome": "Over",
-        "value": 1012.461,
-        "avgPrice": 0.7665,
-        "slug": "clf-fch-bmu-2026-08-18-total-2pt5"
-      },
-      "0x44cb5d72033901c5460fdc66a93c9b548f830d0e84e97dbd2760e9cb40d804f7|No": {
-        "title": "Exact Score: Fenerbah\u00e7e SK 3 - 3 Olympique Lyonnais?",
-        "outcome": "No",
-        "value": 941.1255,
-        "avgPrice": 0.998,
-        "slug": "ucl-fen-lyo-2026-08-18-exact-score-3-3"
+        "value": 915.8461,
+        "avgPrice": 0.6933,
+        "slug": "ucl-fen-lyo-2026-08-18-halftime-result-home"
       },
       "0xc2930df535462409523c4330b7bea5eca23e7b3d0df4bf36db15c9c3c73f7bd0|Jack Draper": {
         "title": "Lexus Eastbourne Open: Brandon Nakashima vs Jack Draper",
@@ -934,40 +962,33 @@
         "avgPrice": 0.44,
         "slug": "atp-nakashi-draper-2026-06-22"
       },
-      "0xcbd1b7b966c7a82b4896bc623d292d9934daec1c430e67edd39cd0ab76a3c756|Marta Kostyuk": {
-        "title": "Cincinnati Open: Marta Kostyuk vs Sloane Stephens",
-        "outcome": "Marta Kostyuk",
-        "value": 858.0394,
-        "avgPrice": 0.763,
-        "slug": "wta-kostyuk-stephen-2026-08-18"
+      "0x934bb5bb0887ad1e5145996e2d45f99d55a2dff24e542f90305e6ac162e0d98b|Under": {
+        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 2.5",
+        "outcome": "Under",
+        "value": 882.3891,
+        "avgPrice": 0.4852,
+        "slug": "ucl-fen-lyo-2026-08-18-total-2pt5"
       },
       "0xb2d6387734e42faaf2a4203e27a33f8f9b2bf4de6e0eb4e7140b4c1360631ff1|Nathan Cox": {
         "title": "ITF M15 Asuncion 2 Men: Bautista de la Pena vs Nathan Cox",
         "outcome": "Nathan Cox",
-        "value": 839.1855,
+        "value": 855.8835,
         "avgPrice": 0.9099,
         "slug": "itf-pena-cox-2026-08-18"
       },
-      "0x532caa2e5763fbd998c4cefa49d14695bd85c5e11e42007d154b2e6ce93661d0|No": {
-        "title": "Fenerbah\u00e7e SK leading at halftime?",
-        "outcome": "No",
-        "value": 742.2065,
-        "avgPrice": 0.6933,
-        "slug": "ucl-fen-lyo-2026-08-18-halftime-result-home"
-      },
-      "0x6669ed351e0ad86cccb4c90abb1f0b477448dad93f1ae18c04182e54ce45a02a|Over": {
-        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: 1st Half O/U 0.5",
-        "outcome": "Over",
-        "value": 732.7203,
-        "avgPrice": 0.3697,
-        "slug": "ucl-fen-lyo-2026-08-18-first-half-total-0pt5"
-      },
-      "0x6669ed351e0ad86cccb4c90abb1f0b477448dad93f1ae18c04182e54ce45a02a|Under": {
-        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: 1st Half O/U 0.5",
+      "0xef3f94a0cd65c6698cad94100c404c380ca9457000f8b493f4250ceca54033fc|Under": {
+        "title": "PFK Levski Sofia vs. AEK: 1st Half O/U 0.5",
         "outcome": "Under",
-        "value": 727.0904,
-        "avgPrice": 0.4321,
-        "slug": "ucl-fen-lyo-2026-08-18-first-half-total-0pt5"
+        "value": 817.7336,
+        "avgPrice": 0.9038,
+        "slug": "ucl-pls-aek1-2026-08-18-first-half-total-0pt5"
+      },
+      "0x2e30cd7bf4fd74d8b7998e9799d3a28c6ce6b8240876bef3355abd246f30f8e5|No": {
+        "title": "Exact Score: Fenerbah\u00e7e SK 2 - 2 Olympique Lyonnais?",
+        "outcome": "No",
+        "value": 680.8664,
+        "avgPrice": 0.9351,
+        "slug": "ucl-fen-lyo-2026-08-18-exact-score-2-2"
       },
       "0x19950565748c11084a720dc47a2e5e949a6cb26f26d4ecc42a81501a33cff4fd|Over": {
         "title": "GNK Dinamo Zagreb vs. Viking FK: O/U 1.5",
@@ -997,12 +1018,12 @@
         "avgPrice": 0.22,
         "slug": "wta-sramkov-wurth-2026-06-03"
       },
-      "0xa72ce8767179afdfd28932be62ca1e55aed95e31d599a570a35970e31a08b524|No": {
-        "title": "Will Fenerbah\u00e7e SK vs. Olympique Lyonnais end in a draw?",
-        "outcome": "No",
-        "value": 638.0775,
-        "avgPrice": 0.73,
-        "slug": "ucl-fen-lyo-2026-08-18-draw"
+      "0x874cc3f1cd877077be2e5bb2827d3f61016a50b9a1c41cc1a15d9e45ba442a4f|Yes": {
+        "title": "Olympique Lyonnais leading at halftime?",
+        "outcome": "Yes",
+        "value": 646.7346,
+        "avgPrice": 0.1367,
+        "slug": "ucl-fen-lyo-2026-08-18-halftime-result-away"
       },
       "0xd5775d8d33445e6f5c14b584c0f54535d4b2255b8cdfa9b69697f86969327718|Svyatoslav Gulin": {
         "title": "Prague: Marek Gengel vs Svyatoslav Gulin",
@@ -1010,13 +1031,6 @@
         "value": 607.155,
         "avgPrice": 0.5,
         "slug": "atp-gengel-gulin-2026-08-16"
-      },
-      "0xc068308425e74237c593e2c2ccd51290d70ec6354e9e78e2dc851d9722bc2348|Yes": {
-        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: Both Teams to Score",
-        "outcome": "Yes",
-        "value": 571.59,
-        "avgPrice": 0.58,
-        "slug": "ucl-fen-lyo-2026-08-18-btts"
       }
     },
     "#3 2C": {
@@ -1034,11 +1048,11 @@
         "avgPrice": 0.4999,
         "slug": "2026-balance-of-power-d-senate-d-house-949"
       },
-      "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18|Brandon Nakashima": {
+      "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18|Daniil Medvedev": {
         "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
-        "outcome": "Brandon Nakashima",
-        "value": 40423.2095,
-        "avgPrice": 0.4586,
+        "outcome": "Daniil Medvedev",
+        "value": 31093.4234,
+        "avgPrice": 0.5272,
         "slug": "atp-nakashi-medvede-2026-08-18"
       },
       "0xd7cd87e13735386f462ccda185d1ada1051d5b27f273299328c04240006f85eb|No": {
@@ -1062,19 +1076,19 @@
         "avgPrice": 0.8499,
         "slug": "will-bitcoin-dip-to-35000-by-december-31-2026-744-877-748-219-467-465-646-211-122-947-537-552-555-361-972-954-635-887-657-996-643"
       },
+      "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18|Brandon Nakashima": {
+        "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
+        "outcome": "Brandon Nakashima",
+        "value": 13258.8127,
+        "avgPrice": 0.4586,
+        "slug": "atp-nakashi-medvede-2026-08-18"
+      },
       "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523|New York Yankees": {
         "title": "Boston Red Sox vs. New York Yankees",
         "outcome": "New York Yankees",
         "value": 13164.9052,
         "avgPrice": 0.4899,
         "slug": "mlb-bos-nyy-2026-06-06"
-      },
-      "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18|Daniil Medvedev": {
-        "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
-        "outcome": "Daniil Medvedev",
-        "value": 6165.9375,
-        "avgPrice": 0.5464,
-        "slug": "atp-nakashi-medvede-2026-08-18"
       },
       "0xf44cf137562b90cf6205e0b81a03aa63001c491e4d8f04c0098bfb9233f9d04f|No": {
         "title": "Will Philadelphia 76ers win the 2027 NBA Finals?",
@@ -1086,7 +1100,7 @@
       "0xe326d1abf5fb59b82ecfdff3348e75f90561eace327ba1bdc8d38d045ddbe775|No": {
         "title": "Will Bitcoin dip to $25,000 by December 31, 2026?",
         "outcome": "No",
-        "value": 2877.5394,
+        "value": 2879.0249,
         "avgPrice": 0.92,
         "slug": "will-bitcoin-dip-to-25000-by-december-31-2026-948-243-253-666-115-787-981-282-573-719-186-417-762-754-486-851-278-145-417-178-244"
       },
@@ -1102,65 +1116,79 @@
       "0x842107ebc026843fa5289957d1593426484f98a5916c6720fc6a569f35cb2c65|No": {
         "title": "Exact Score: PFK Levski Sofia 3 - 3 AEK?",
         "outcome": "No",
-        "value": 27900.9908,
+        "value": 33245.1802,
         "avgPrice": 0.9917,
         "slug": "ucl-pls-aek1-2026-08-18-exact-score-3-3"
       },
       "0x81c08b5c34d517c2835b1ca4c777b64223d332c48678c2f69a3e4e462ebc15cd|No": {
         "title": "Will Olympique Lyonnais win on 2026-08-18?",
         "outcome": "No",
-        "value": 27456.0233,
-        "avgPrice": 0.7426,
+        "value": 16764.451,
+        "avgPrice": 0.7429,
         "slug": "ucl-fen-lyo-2026-08-18-lyo"
-      },
-      "0x3190b2023e1b6e1fec3afd49f4aa45d5e159b1e477480762738e12d64886d1c6|No": {
-        "title": "PFK Levski Sofia vs. AEK: Both Teams to Score",
-        "outcome": "No",
-        "value": 12379.6092,
-        "avgPrice": 0.5163,
-        "slug": "ucl-pls-aek1-2026-08-18-btts"
-      },
-      "0x2a4115e718a0b9177cc32c3a17b83c822871a36dc7ec1be056a8b664878b317c|Under": {
-        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 3.5",
-        "outcome": "Under",
-        "value": 12360.1532,
-        "avgPrice": 0.7192,
-        "slug": "ucl-fen-lyo-2026-08-18-total-3pt5"
-      },
-      "0x1d9e1e5f3124a78e53ecdf1aeecae2ce6ae97cf5021e1cfcdeca23ce02a24ad1|Over": {
-        "title": "GNK Dinamo Zagreb vs. Viking FK: O/U 3.5",
-        "outcome": "Over",
-        "value": 10144.1769,
-        "avgPrice": 0.8006,
-        "slug": "ucl-din-vf-2026-08-18-total-3pt5"
-      },
-      "0xd85a87558891aaf60169f6620b0df1dc7129ea44b6b5a84de82684fbff9ab8f4|Under": {
-        "title": "Arsenal FC vs. Coventry City FC: Coventry City FC O/U 2.5",
-        "outcome": "Under",
-        "value": 9958.731,
-        "avgPrice": 0.9809,
-        "slug": "epl-ars-cov-2026-08-21-team-total-away-2pt5"
-      },
-      "0x699ba580e68d2b54783ca3438159401cb667a2ebb6117b8b0f871eb463c88c61|Under": {
-        "title": "PFK Levski Sofia vs. AEK: O/U 2.5",
-        "outcome": "Under",
-        "value": 9740.2948,
-        "avgPrice": 0.6599,
-        "slug": "ucl-pls-aek1-2026-08-18-total-2pt5"
       },
       "0x44cb5d72033901c5460fdc66a93c9b548f830d0e84e97dbd2760e9cb40d804f7|No": {
         "title": "Exact Score: Fenerbah\u00e7e SK 3 - 3 Olympique Lyonnais?",
         "outcome": "No",
-        "value": 9029.0522,
+        "value": 13832.0354,
         "avgPrice": 0.9849,
         "slug": "ucl-fen-lyo-2026-08-18-exact-score-3-3"
       },
-      "0x4fe0d0f5db37f95c8c382c0409808c1e1729481cd1577f27710f6c8c6dd43787|No": {
-        "title": "Will 1. FC Heidenheim win on 2026-08-18?",
+      "0x3190b2023e1b6e1fec3afd49f4aa45d5e159b1e477480762738e12d64886d1c6|No": {
+        "title": "PFK Levski Sofia vs. AEK: Both Teams to Score",
         "outcome": "No",
-        "value": 8519.0211,
-        "avgPrice": 0.9885,
-        "slug": "clf-fch-bmu-2026-08-18-fch"
+        "value": 13786.2444,
+        "avgPrice": 0.5175,
+        "slug": "ucl-pls-aek1-2026-08-18-btts"
+      },
+      "0x699ba580e68d2b54783ca3438159401cb667a2ebb6117b8b0f871eb463c88c61|Under": {
+        "title": "PFK Levski Sofia vs. AEK: O/U 2.5",
+        "outcome": "Under",
+        "value": 11957.0502,
+        "avgPrice": 0.6831,
+        "slug": "ucl-pls-aek1-2026-08-18-total-2pt5"
+      },
+      "0x1d9e1e5f3124a78e53ecdf1aeecae2ce6ae97cf5021e1cfcdeca23ce02a24ad1|Over": {
+        "title": "GNK Dinamo Zagreb vs. Viking FK: O/U 3.5",
+        "outcome": "Over",
+        "value": 11343.5952,
+        "avgPrice": 0.8008,
+        "slug": "ucl-din-vf-2026-08-18-total-3pt5"
+      },
+      "0x2a4115e718a0b9177cc32c3a17b83c822871a36dc7ec1be056a8b664878b317c|Under": {
+        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 3.5",
+        "outcome": "Under",
+        "value": 11242.8513,
+        "avgPrice": 0.7192,
+        "slug": "ucl-fen-lyo-2026-08-18-total-3pt5"
+      },
+      "0xd85a87558891aaf60169f6620b0df1dc7129ea44b6b5a84de82684fbff9ab8f4|Under": {
+        "title": "Arsenal FC vs. Coventry City FC: Coventry City FC O/U 2.5",
+        "outcome": "Under",
+        "value": 9953.6835,
+        "avgPrice": 0.9809,
+        "slug": "epl-ars-cov-2026-08-21-team-total-away-2pt5"
+      },
+      "0xbaebe7e71c9295564daa26ed90c3902f2321a79b197f0148826638938e89abfb|Under": {
+        "title": "PFK Levski Sofia vs. AEK: O/U 1.5",
+        "outcome": "Under",
+        "value": 8346.5525,
+        "avgPrice": 0.4006,
+        "slug": "ucl-pls-aek1-2026-08-18-total-1pt5"
+      },
+      "0x3ebd83bf29b49e7f701f86894c255535fd140c7c0f6eeddb7e701d9d4351fc3c|No": {
+        "title": "Will GNK Dinamo Zagreb win on 2026-08-18?",
+        "outcome": "No",
+        "value": 8271.4717,
+        "avgPrice": 0.1395,
+        "slug": "ucl-din-vf-2026-08-18-din"
+      },
+      "0xea15257b0eb7c051e802baf467f030a51557c18998dc072d4a264b1a2d3ea033|No": {
+        "title": "Will AEK win on 2026-08-18?",
+        "outcome": "No",
+        "value": 8266.0274,
+        "avgPrice": 0.605,
+        "slug": "ucl-pls-aek1-2026-08-18-aek1"
       },
       "0x9756e41d966a0a6ce9f024d17643f21644d81c74e303289530ea040e7a2de7c8|Daniel Masur": {
         "title": "ITF M25 Ueberlingen Men: Calvin Mueller vs Daniel Masur",
@@ -1168,13 +1196,6 @@
         "value": 8231.7678,
         "avgPrice": 0.946,
         "slug": "itf-mueller-masur-2026-08-18"
-      },
-      "0x934bb5bb0887ad1e5145996e2d45f99d55a2dff24e542f90305e6ac162e0d98b|Under": {
-        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 2.5",
-        "outcome": "Under",
-        "value": 8122.6076,
-        "avgPrice": 0.5869,
-        "slug": "ucl-fen-lyo-2026-08-18-total-2pt5"
       },
       "0xddc9722bf9409b02dab4dd7b914f3f22daf4e7a1135550846e65aa3481facba5|Club Atl\u00e9tico de Madrid": {
         "title": "Spread: M\u00e1laga CF (-2.5)",
@@ -1190,33 +1211,26 @@
         "avgPrice": 0.6499,
         "slug": "epl-bre-tot-2026-08-22-tot"
       },
-      "0xc068308425e74237c593e2c2ccd51290d70ec6354e9e78e2dc851d9722bc2348|No": {
-        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: Both Teams to Score",
-        "outcome": "No",
-        "value": 7537.0173,
-        "avgPrice": 0.4233,
-        "slug": "ucl-fen-lyo-2026-08-18-btts"
-      },
       "0x7f79692b8bc603354c244ffc003125de151ff3fd91177d033371b2f1f334eaae|Under": {
         "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 5.5",
         "outcome": "Under",
-        "value": 7406.0908,
-        "avgPrice": 0.9399,
+        "value": 7641.9129,
+        "avgPrice": 0.941,
         "slug": "ucl-fen-lyo-2026-08-18-total-5pt5"
       },
-      "0xea15257b0eb7c051e802baf467f030a51557c18998dc072d4a264b1a2d3ea033|No": {
-        "title": "Will AEK win on 2026-08-18?",
-        "outcome": "No",
-        "value": 7264.7596,
-        "avgPrice": 0.6011,
-        "slug": "ucl-pls-aek1-2026-08-18-aek1"
+      "0x0e2de6e2773f26496f7ea8307df1def6e2f14cf66d8ed6737c35252f21316ca2|Over": {
+        "title": "GNK Dinamo Zagreb vs. Viking FK: O/U 4.5",
+        "outcome": "Over",
+        "value": 7443.4621,
+        "avgPrice": 0.7919,
+        "slug": "ucl-din-vf-2026-08-18-total-4pt5"
       },
-      "0xbaebe7e71c9295564daa26ed90c3902f2321a79b197f0148826638938e89abfb|Under": {
-        "title": "PFK Levski Sofia vs. AEK: O/U 1.5",
-        "outcome": "Under",
-        "value": 6554.1881,
-        "avgPrice": 0.3832,
-        "slug": "ucl-pls-aek1-2026-08-18-total-1pt5"
+      "0x01901ed2c813f364bb4e432d0cd7f1a4ddca202dcaedb1666550c3e7c8dab08f|Over": {
+        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 1.5",
+        "outcome": "Over",
+        "value": 7145.9076,
+        "avgPrice": 0.7657,
+        "slug": "ucl-fen-lyo-2026-08-18-total-1pt5"
       },
       "0x02c913fd89ec97f63af1a3b2ce975def0d13163635f451fb0c8226f867daaa00|Yes": {
         "title": "Will Club Atl\u00e9tico de Madrid win on 2026-08-19?",
@@ -1239,61 +1253,33 @@
         "avgPrice": 0.9618,
         "slug": "epl-mac-bou-2026-08-23-total-0pt5"
       },
-      "0x3ebd83bf29b49e7f701f86894c255535fd140c7c0f6eeddb7e701d9d4351fc3c|No": {
-        "title": "Will GNK Dinamo Zagreb win on 2026-08-18?",
-        "outcome": "No",
-        "value": 5506.0985,
-        "avgPrice": 0.127,
-        "slug": "ucl-din-vf-2026-08-18-din"
+      "0x1835c19600c6c495d27d150a317a9eb9797cba9c16b89007106652e095fed0bd|Olympique Lyonnais": {
+        "title": "Spread: Fenerbah\u00e7e SK (-2.5)",
+        "outcome": "Olympique Lyonnais",
+        "value": 6020.9168,
+        "avgPrice": 0.9176,
+        "slug": "ucl-fen-lyo-2026-08-18-spread-home-2pt5"
+      },
+      "0x934bb5bb0887ad1e5145996e2d45f99d55a2dff24e542f90305e6ac162e0d98b|Under": {
+        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 2.5",
+        "outcome": "Under",
+        "value": 5542.1008,
+        "avgPrice": 0.6032,
+        "slug": "ucl-fen-lyo-2026-08-18-total-2pt5"
       },
       "0x96af468d82c98f77f9e41e7affce571066fa45bce6dca9e9fab31c523ba5959c|Elina Svitolina": {
         "title": "Cincinnati Open: Xiyu Wang vs Elina Svitolina",
         "outcome": "Elina Svitolina",
-        "value": 5480.1415,
+        "value": 5535.4965,
         "avgPrice": 0.7392,
         "slug": "wta-wan-svitoli-2026-08-18"
-      },
-      "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18|Brandon Nakashima": {
-        "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
-        "outcome": "Brandon Nakashima",
-        "value": 5299.0665,
-        "avgPrice": 0.4672,
-        "slug": "atp-nakashi-medvede-2026-08-18"
-      },
-      "0xa72ce8767179afdfd28932be62ca1e55aed95e31d599a570a35970e31a08b524|Yes": {
-        "title": "Will Fenerbah\u00e7e SK vs. Olympique Lyonnais end in a draw?",
-        "outcome": "Yes",
-        "value": 5289.433,
-        "avgPrice": 0.2795,
-        "slug": "ucl-fen-lyo-2026-08-18-draw"
-      },
-      "0x61ccae016135b884cf229fe09cbc38ac195a0139167396e44ac3f39a36d8d15f|1. FC Heidenheim": {
-        "title": "Spread: Bayern Munich (-3.5)",
-        "outcome": "1. FC Heidenheim",
-        "value": 5118.15,
-        "avgPrice": 0.9755,
-        "slug": "clf-fch-bmu-2026-08-18-spread-away-3pt5"
-      },
-      "0xfb6aebc7096dd036681802e29b2f28ff6d6c675eda504b672966047ff41cb5c3|Yes": {
-        "title": "Will Fenerbah\u00e7e SK win on 2026-08-18?",
-        "outcome": "Yes",
-        "value": 4956.8517,
-        "avgPrice": 0.4703,
-        "slug": "ucl-fen-lyo-2026-08-18-fen"
       },
       "0x6d4f9a39224abab912be21db04f93064db32a58a9ea8e2a36518f3eb60054c97|PFK Levski Sofia": {
         "title": "Spread: AEK (-2.5)",
         "outcome": "PFK Levski Sofia",
-        "value": 4522.8804,
+        "value": 4695.7444,
         "avgPrice": 0.9473,
         "slug": "ucl-pls-aek1-2026-08-18-spread-away-2pt5"
-      },
-      "0xfd610a74a2315282e7a5493d590f04bb8f6014fef4c1508dd83cc6378f70016a|Fenerbah\u00e7e SK": {
-        "title": "Spread: Olympique Lyonnais (-1.5)",
-        "outcome": "Fenerbah\u00e7e SK",
-        "value": 4522.8453,
-        "avgPrice": 0.8957,
-        "slug": "ucl-fen-lyo-2026-08-18-spread-away-1pt5"
       },
       "0xd95b83e4544998f324a078d4f2a30a72374ebcf86d6c3a7534833717887dab03|Aryna Sabalenka": {
         "title": "Cincinnati Open: Aryna Sabalenka vs Xinyu Wang",
@@ -1301,6 +1287,13 @@
         "value": 4337.2906,
         "avgPrice": 0.89,
         "slug": "wta-sabalen-wa-2026-08-18"
+      },
+      "0xc068308425e74237c593e2c2ccd51290d70ec6354e9e78e2dc851d9722bc2348|No": {
+        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: Both Teams to Score",
+        "outcome": "No",
+        "value": 4188.0649,
+        "avgPrice": 0.4282,
+        "slug": "ucl-fen-lyo-2026-08-18-btts"
       },
       "0xf3d4603e3c721555207562d902dd7a023fd3d055d15cea519b9570779c7d907a|Under": {
         "title": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: O/U 2.5",
@@ -1316,12 +1309,33 @@
         "avgPrice": 0.9195,
         "slug": "lal-mad-mala-2026-08-19-mala"
       },
-      "0x1835c19600c6c495d27d150a317a9eb9797cba9c16b89007106652e095fed0bd|Olympique Lyonnais": {
-        "title": "Spread: Fenerbah\u00e7e SK (-2.5)",
-        "outcome": "Olympique Lyonnais",
-        "value": 3606.4043,
-        "avgPrice": 0.9002,
-        "slug": "ucl-fen-lyo-2026-08-18-spread-home-2pt5"
+      "0xa72ce8767179afdfd28932be62ca1e55aed95e31d599a570a35970e31a08b524|Yes": {
+        "title": "Will Fenerbah\u00e7e SK vs. Olympique Lyonnais end in a draw?",
+        "outcome": "Yes",
+        "value": 3957.8431,
+        "avgPrice": 0.2823,
+        "slug": "ucl-fen-lyo-2026-08-18-draw"
+      },
+      "0xfd610a74a2315282e7a5493d590f04bb8f6014fef4c1508dd83cc6378f70016a|Fenerbah\u00e7e SK": {
+        "title": "Spread: Olympique Lyonnais (-1.5)",
+        "outcome": "Fenerbah\u00e7e SK",
+        "value": 3948.5158,
+        "avgPrice": 0.8957,
+        "slug": "ucl-fen-lyo-2026-08-18-spread-away-1pt5"
+      },
+      "0x6669ed351e0ad86cccb4c90abb1f0b477448dad93f1ae18c04182e54ce45a02a|Over": {
+        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: 1st Half O/U 0.5",
+        "outcome": "Over",
+        "value": 3698.1667,
+        "avgPrice": 0.566,
+        "slug": "ucl-fen-lyo-2026-08-18-first-half-total-0pt5"
+      },
+      "0x61fc7c158f4bba3f094b03ac53e5acb56a4908b39777eac3e298cb3acf31a6b7|No": {
+        "title": "PFK Levski Sofia leading at halftime?",
+        "outcome": "No",
+        "value": 3374.4743,
+        "avgPrice": 0.9089,
+        "slug": "ucl-pls-aek1-2026-08-18-halftime-result-home"
       },
       "0x5f5e0fc73be59da8f170df606760b95cdb0d1c469be6b4dd27d06ab65893cd8a|Yes": {
         "title": "GNK Dinamo Zagreb vs. Viking FK: Both Teams to Score",
@@ -1344,13 +1358,6 @@
         "avgPrice": 0.1699,
         "slug": "lal-mad-mala-2026-08-19-draw"
       },
-      "0x874cc3f1cd877077be2e5bb2827d3f61016a50b9a1c41cc1a15d9e45ba442a4f|No": {
-        "title": "Olympique Lyonnais leading at halftime?",
-        "outcome": "No",
-        "value": 2951.8665,
-        "avgPrice": 0.776,
-        "slug": "ucl-fen-lyo-2026-08-18-halftime-result-away"
-      },
       "0x090308dc38ab24f7e3e2cbbe650e2080e08f2913b07c91abda973e5818d6ef4a|Yes": {
         "title": "Will Al Okhdood SC win on 2026-08-18?",
         "outcome": "Yes",
@@ -1361,16 +1368,9 @@
       "0x9f551ae0da1d6c774611e79e14d46b71ba4529b43764ff0fb8336a3d2e00ddb6|Under": {
         "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 4.5",
         "outcome": "Under",
-        "value": 2706.7298,
+        "value": 2690.8926,
         "avgPrice": 0.8645,
         "slug": "ucl-fen-lyo-2026-08-18-total-4pt5"
-      },
-      "0x01901ed2c813f364bb4e432d0cd7f1a4ddca202dcaedb1666550c3e7c8dab08f|Over": {
-        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 1.5",
-        "outcome": "Over",
-        "value": 2575.3979,
-        "avgPrice": 0.7407,
-        "slug": "ucl-fen-lyo-2026-08-18-total-1pt5"
       },
       "0xa83f940452e1f6263fe4410cc3e942f3d3a57f4a8e8451d275049334fa6517ea|Matej Dodig": {
         "title": "Hamburg: Matej Dodig vs Rudolf Molleker",
@@ -1379,12 +1379,33 @@
         "avgPrice": 0.8306,
         "slug": "atp-dodig-molleke-2026-08-13"
       },
-      "0x4d4eee9c679fe519ffd0a8ad6667ce91d57e43a895eb48e40e016dd1fc9f6ceb|Over": {
-        "title": "1. FC Heidenheim vs. Bayern Munich: O/U 4.5",
+      "0x81c08b5c34d517c2835b1ca4c777b64223d332c48678c2f69a3e4e462ebc15cd|Yes": {
+        "title": "Will Olympique Lyonnais win on 2026-08-18?",
+        "outcome": "Yes",
+        "value": 2494.9642,
+        "avgPrice": 0.3489,
+        "slug": "ucl-fen-lyo-2026-08-18-lyo"
+      },
+      "0x10891d3e64f01273bea689163a21511317ce31771cacd82613c772d7090a3b96|Viking FK": {
+        "title": "Spread: GNK Dinamo Zagreb (-2.5)",
+        "outcome": "Viking FK",
+        "value": 2399.6872,
+        "avgPrice": 0.6067,
+        "slug": "ucl-din-vf-2026-08-18-spread-home-2pt5"
+      },
+      "0x81b7a9ad4edc26d658d0c9628a33e301b961948ecf0a2ab04e0856c1b881187a|Over": {
+        "title": "GNK Dinamo Zagreb vs. Viking FK: O/U 5.5",
         "outcome": "Over",
-        "value": 2431.6619,
-        "avgPrice": 0.6631,
-        "slug": "clf-fch-bmu-2026-08-18-total-4pt5"
+        "value": 2398.5384,
+        "avgPrice": 0.3134,
+        "slug": "ucl-din-vf-2026-08-18-total-5pt5"
+      },
+      "0x81b7a9ad4edc26d658d0c9628a33e301b961948ecf0a2ab04e0856c1b881187a|Under": {
+        "title": "GNK Dinamo Zagreb vs. Viking FK: O/U 5.5",
+        "outcome": "Under",
+        "value": 2333.7239,
+        "avgPrice": 0.5248,
+        "slug": "ucl-din-vf-2026-08-18-total-5pt5"
       },
       "0x0a8299ca256752839f5d0cfdc9798bf94293654f8e59722f83289d4e98c17edb|Under": {
         "title": "Al Jabalain Saudi Club vs. Al Ettifaq Saudi Club: O/U 2.5",
@@ -1393,19 +1414,12 @@
         "avgPrice": 0.7488,
         "slug": "skc-jab-ett-2026-08-18-total-2pt5"
       },
-      "0xd58a828eed24459245f13949f43e986f174ef739a66b1bf924d93fcea00054a5|1. FC Heidenheim": {
-        "title": "Spread: Bayern Munich (-2.5)",
-        "outcome": "1. FC Heidenheim",
-        "value": 2156.3448,
-        "avgPrice": 0.8913,
-        "slug": "clf-fch-bmu-2026-08-18-spread-away-2pt5"
-      },
-      "0x45962fbdba6617d67cc703d7ab3fd36c2483673b3f98b3f4f480ed3c1907df04|Yes": {
-        "title": "Exact Score: Fenerbah\u00e7e SK 1 - 1 Olympique Lyonnais?",
-        "outcome": "Yes",
-        "value": 2095.5008,
-        "avgPrice": 0.1296,
-        "slug": "ucl-fen-lyo-2026-08-18-exact-score-1-1"
+      "0xdbdce99c7510cb4e1b2daf39a09d29b3e5a7a8f6568bb720aa8bf9a5da9aaf7c|Olympique Lyonnais": {
+        "title": "Spread: Fenerbah\u00e7e SK (-1.5)",
+        "outcome": "Olympique Lyonnais",
+        "value": 2153.4583,
+        "avgPrice": 0.7617,
+        "slug": "ucl-fen-lyo-2026-08-18-spread-home-1pt5"
       },
       "0x7367df88b3c0eb6ff01ebc8c40f6887a163fa0baf505814decc204d47ee7ea7c|No": {
         "title": "Will Real Madrid CF win on 2026-08-22?",
@@ -1421,33 +1435,26 @@
         "avgPrice": 0.3858,
         "slug": "mls-chi-vwh-2026-07-16-vwh"
       },
-      "0xe398f4fbdd08eba3059b45d85252f2621487911f98cee54ca23f304c8d5affdb|Garrett Johns": {
-        "title": "Kingston: Garrett Johns vs Paulo Dos Santos",
-        "outcome": "Garrett Johns",
-        "value": 2009.5514,
-        "avgPrice": 0.7857,
-        "slug": "atp-johns-santos-2026-08-18"
+      "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18|Brandon Nakashima": {
+        "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
+        "outcome": "Brandon Nakashima",
+        "value": 1950.5639,
+        "avgPrice": 0.4525,
+        "slug": "atp-nakashi-medvede-2026-08-18"
       },
       "0xd84bc3e253fa9623f5dba9c43d0fe579d7117863e6c6335ad37b23caed4cc5bb|No": {
         "title": "Will Al Diraiyah Saudi Club win on 2026-08-18?",
         "outcome": "No",
-        "value": 1894.6296,
+        "value": 1901.2875,
         "avgPrice": 0.9548,
         "slug": "skc-dir-nsr-2026-08-18-dir"
       },
       "0x9d5d8857e0e7d20013668f5bc1b11d8dff6073b53806a57efe16d5f711afdbd2|No": {
         "title": "Exact Score: Fenerbah\u00e7e SK 0 - 2 Olympique Lyonnais?",
         "outcome": "No",
-        "value": 1877.2154,
+        "value": 1728.0455,
         "avgPrice": 0.9599,
         "slug": "ucl-fen-lyo-2026-08-18-exact-score-0-2"
-      },
-      "0xdbdce99c7510cb4e1b2daf39a09d29b3e5a7a8f6568bb720aa8bf9a5da9aaf7c|Olympique Lyonnais": {
-        "title": "Spread: Fenerbah\u00e7e SK (-1.5)",
-        "outcome": "Olympique Lyonnais",
-        "value": 1803.6895,
-        "avgPrice": 0.7614,
-        "slug": "ucl-fen-lyo-2026-08-18-spread-home-1pt5"
       },
       "0x265a8aa9194555bfc6fa1ace5d603f6021980b6572d8f5988548b0a691224f49|Under": {
         "title": "New York Yankees vs. Baltimore Orioles: O/U 9.5",
@@ -1455,6 +1462,13 @@
         "value": 1720.1483,
         "avgPrice": 0.5899,
         "slug": "mlb-nyy-bal-2026-08-18-total-9pt5"
+      },
+      "0x1bbaae0c2951ca8b31e907deb5a7aec999b1442a35b1e4ae7b9ce31dca9cc6c0|Al Nassr Saudi Club": {
+        "title": "Spread: Al Nassr Saudi Club (-2.5)",
+        "outcome": "Al Nassr Saudi Club",
+        "value": 1718.7779,
+        "avgPrice": 0.394,
+        "slug": "skc-dir-nsr-2026-08-18-spread-away-2pt5"
       },
       "0xa26b10762096ade1fc322372d963e41ae8d1a128cf7ac430ca269ebda3788335|No": {
         "title": "Exact Score: Chicago Fire FC 1 - 2 Vancouver Whitecaps FC?",
@@ -1470,13 +1484,6 @@
         "avgPrice": 0.3899,
         "slug": "epl-ars-cov-2026-08-21-team-total-away-0pt5"
       },
-      "0x50bcd8516ab49f06177cc23f06eb0d8ec1ce4fe4f3ff77ed0dd1ae1ed01032ff|Bayern Munich": {
-        "title": "Spread: Bayern Munich (-1.5)",
-        "outcome": "Bayern Munich",
-        "value": 1671.4398,
-        "avgPrice": 0.4536,
-        "slug": "clf-fch-bmu-2026-08-18-spread-away-1pt5"
-      },
       "0x2e1729dbde87540f46fb6472e251bd071cbbf11361533fd604d19945bf854999|Yes": {
         "title": "Will FK Buxoro win on 2026-08-18?",
         "outcome": "Yes",
@@ -1490,6 +1497,13 @@
         "value": 1610.8591,
         "avgPrice": 0.5717,
         "slug": "clf-fch-bmu-2026-08-18-bmu"
+      },
+      "0xc28bb94adb921ad729e59437fc09a4ad299da32d9a692529aaf2afba1340ed65|No": {
+        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: Draw at halftime?",
+        "outcome": "No",
+        "value": 1552.2235,
+        "avgPrice": 0.3327,
+        "slug": "ucl-fen-lyo-2026-08-18-halftime-result-draw"
       },
       "0x645fba3cac8ca56759e0df1286eb6852369974625aab9a7ee187cd03495b6afd|Over": {
         "title": "GNK Dinamo Zagreb vs. Viking FK: O/U 2.5",
@@ -1505,12 +1519,19 @@
         "avgPrice": 0.1607,
         "slug": "epl-ars-cov-2026-08-21-ars"
       },
-      "0x2e30cd7bf4fd74d8b7998e9799d3a28c6ce6b8240876bef3355abd246f30f8e5|No": {
-        "title": "Exact Score: Fenerbah\u00e7e SK 2 - 2 Olympique Lyonnais?",
+      "0xcbd1b7b966c7a82b4896bc623d292d9934daec1c430e67edd39cd0ab76a3c756|Marta Kostyuk": {
+        "title": "Cincinnati Open: Marta Kostyuk vs Sloane Stephens",
+        "outcome": "Marta Kostyuk",
+        "value": 1491.7921,
+        "avgPrice": 0.8857,
+        "slug": "wta-kostyuk-stephen-2026-08-18"
+      },
+      "0x0e93fc6435e832f728e582ac08f1d337bf9c19fcec4c3a31b5190a62416ea90e|No": {
+        "title": "Will Newcastle United FC vs. Liverpool FC end in a draw?",
         "outcome": "No",
-        "value": 1475.1656,
-        "avgPrice": 0.9335,
-        "slug": "ucl-fen-lyo-2026-08-18-exact-score-2-2"
+        "value": 1473.3119,
+        "avgPrice": 0.7499,
+        "slug": "epl-new-liv-2026-08-23-draw"
       },
       "0x7367df88b3c0eb6ff01ebc8c40f6887a163fa0baf505814decc204d47ee7ea7c|Yes": {
         "title": "Will Real Madrid CF win on 2026-08-22?",
@@ -1518,6 +1539,13 @@
         "value": 1461.4943,
         "avgPrice": 0.6316,
         "slug": "lal-esp-rea-2026-08-22-rea"
+      },
+      "0x874cc3f1cd877077be2e5bb2827d3f61016a50b9a1c41cc1a15d9e45ba442a4f|Yes": {
+        "title": "Olympique Lyonnais leading at halftime?",
+        "outcome": "Yes",
+        "value": 1458.9662,
+        "avgPrice": 0.5748,
+        "slug": "ucl-fen-lyo-2026-08-18-halftime-result-away"
       },
       "0xc1128f31377e5019bb19d917cad96cc0e025ce7a4908e0a4ba6f5715fd4dbbda|Over": {
         "title": "GNK Dinamo Zagreb vs. Viking FK: 1st Half O/U 0.5",
@@ -1533,19 +1561,33 @@
         "avgPrice": 0.2079,
         "slug": "lal-get-rrc-2026-08-23-rrc"
       },
-      "0x10891d3e64f01273bea689163a21511317ce31771cacd82613c772d7090a3b96|Viking FK": {
-        "title": "Spread: GNK Dinamo Zagreb (-2.5)",
-        "outcome": "Viking FK",
-        "value": 1422.9,
-        "avgPrice": 0.51,
-        "slug": "ucl-din-vf-2026-08-18-spread-home-2pt5"
+      "0x2e30cd7bf4fd74d8b7998e9799d3a28c6ce6b8240876bef3355abd246f30f8e5|No": {
+        "title": "Exact Score: Fenerbah\u00e7e SK 2 - 2 Olympique Lyonnais?",
+        "outcome": "No",
+        "value": 1423.5386,
+        "avgPrice": 0.9335,
+        "slug": "ucl-fen-lyo-2026-08-18-exact-score-2-2"
       },
-      "0x01901ed2c813f364bb4e432d0cd7f1a4ddca202dcaedb1666550c3e7c8dab08f|Under": {
-        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 1.5",
-        "outcome": "Under",
-        "value": 1336.3551,
-        "avgPrice": 0.3302,
-        "slug": "ucl-fen-lyo-2026-08-18-total-1pt5"
+      "0x045e7b4acc77ebb654008b8956bd935debd1db85a0b9c3eccb93b96b34ee110a|Viking FK": {
+        "title": "Spread: GNK Dinamo Zagreb (-1.5)",
+        "outcome": "Viking FK",
+        "value": 1353.2561,
+        "avgPrice": 0.3217,
+        "slug": "ucl-din-vf-2026-08-18-spread-home-1pt5"
+      },
+      "0xcdb6d7d792909e7f102e354645dbc5422dd3ad99ad14fbb12fb15a28806c6a82|No": {
+        "title": "AEK leading at halftime?",
+        "outcome": "No",
+        "value": 1344.4221,
+        "avgPrice": 0.8654,
+        "slug": "ucl-pls-aek1-2026-08-18-halftime-result-away"
+      },
+      "0xac1ac0f6b05dd8fe8bb081a34c801fe3c72e2e7886e2a10faf4fdfd2304dd109|Fenerbah\u00e7e SK": {
+        "title": "Spread: Olympique Lyonnais (-2.5)",
+        "outcome": "Fenerbah\u00e7e SK",
+        "value": 1301.4575,
+        "avgPrice": 0.9781,
+        "slug": "ucl-fen-lyo-2026-08-18-spread-away-2pt5"
       },
       "0xc93a5d39eb0f5fb95b6070f1b1768d391cbfa48232a24107647b968d570e3d2f|Under": {
         "title": "Al Jabalain Saudi Club vs. Al Ettifaq Saudi Club: O/U 3.5",
@@ -1553,20 +1595,6 @@
         "value": 1295.4775,
         "avgPrice": 0.8317,
         "slug": "skc-jab-ett-2026-08-18-total-3pt5"
-      },
-      "0x81b7a9ad4edc26d658d0c9628a33e301b961948ecf0a2ab04e0856c1b881187a|Over": {
-        "title": "GNK Dinamo Zagreb vs. Viking FK: O/U 5.5",
-        "outcome": "Over",
-        "value": 1293.7931,
-        "avgPrice": 0.2342,
-        "slug": "ucl-din-vf-2026-08-18-total-5pt5"
-      },
-      "0x0e2de6e2773f26496f7ea8307df1def6e2f14cf66d8ed6737c35252f21316ca2|Over": {
-        "title": "GNK Dinamo Zagreb vs. Viking FK: O/U 4.5",
-        "outcome": "Over",
-        "value": 1286.412,
-        "avgPrice": 0.5944,
-        "slug": "ucl-din-vf-2026-08-18-total-4pt5"
       },
       "0xd98adead3d4814e29054adb7913452be29df760b9bf13828f0c7ad64ad45ab7d|No": {
         "title": "Will Al Ettifaq Saudi Club win on 2026-08-18?",
@@ -1589,33 +1617,26 @@
         "avgPrice": 0.4299,
         "slug": "epl-new-liv-2026-08-23-total-3pt5"
       },
-      "0x934bb5bb0887ad1e5145996e2d45f99d55a2dff24e542f90305e6ac162e0d98b|Over": {
-        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 2.5",
-        "outcome": "Over",
-        "value": 1181.1631,
-        "avgPrice": 0.5194,
-        "slug": "ucl-fen-lyo-2026-08-18-total-2pt5"
-      },
-      "0xcebee590a535bb33c849bd5575458e52f430250602bd84e6bf8916f02b7a5ffd|Yes": {
-        "title": "Exact Score: Fenerbah\u00e7e SK 1 - 0 Olympique Lyonnais?",
+      "0xea15257b0eb7c051e802baf467f030a51557c18998dc072d4a264b1a2d3ea033|Yes": {
+        "title": "Will AEK win on 2026-08-18?",
         "outcome": "Yes",
-        "value": 1163.712,
-        "avgPrice": 0.1,
-        "slug": "ucl-fen-lyo-2026-08-18-exact-score-1-0"
+        "value": 1171.4629,
+        "avgPrice": 0.368,
+        "slug": "ucl-pls-aek1-2026-08-18-aek1"
       },
-      "0x0e93fc6435e832f728e582ac08f1d337bf9c19fcec4c3a31b5190a62416ea90e|No": {
-        "title": "Will Newcastle United FC vs. Liverpool FC end in a draw?",
-        "outcome": "No",
-        "value": 1156.6869,
-        "avgPrice": 0.7499,
-        "slug": "epl-new-liv-2026-08-23-draw"
-      },
-      "0x3ebd83bf29b49e7f701f86894c255535fd140c7c0f6eeddb7e701d9d4351fc3c|Yes": {
-        "title": "Will GNK Dinamo Zagreb win on 2026-08-18?",
+      "0x45962fbdba6617d67cc703d7ab3fd36c2483673b3f98b3f4f480ed3c1907df04|Yes": {
+        "title": "Exact Score: Fenerbah\u00e7e SK 1 - 1 Olympique Lyonnais?",
         "outcome": "Yes",
-        "value": 1149.3503,
-        "avgPrice": 0.5878,
-        "slug": "ucl-din-vf-2026-08-18-din"
+        "value": 1147.5361,
+        "avgPrice": 0.1296,
+        "slug": "ucl-fen-lyo-2026-08-18-exact-score-1-1"
+      },
+      "0xe0cb6ca0806ab2189e6d6ee71897a945c7d2598c806485119b82ff48061f5ac9|Yes": {
+        "title": "PFK Levski Sofia vs. AEK: Draw at halftime?",
+        "outcome": "Yes",
+        "value": 1135.9707,
+        "avgPrice": 0.7113,
+        "slug": "ucl-pls-aek1-2026-08-18-halftime-result-draw"
       },
       "0xc5425991bf611abc3fd663ff37d39c294a60ee473c79f78be2e434625bf1f3a4|No": {
         "title": "Will Seattle Sounders FC win on 2026-08-19?",
@@ -1624,33 +1645,26 @@
         "avgPrice": 0.4021,
         "slug": "mls-sea-aus-2026-08-19-sea"
       },
-      "0xac1ac0f6b05dd8fe8bb081a34c801fe3c72e2e7886e2a10faf4fdfd2304dd109|Fenerbah\u00e7e SK": {
-        "title": "Spread: Olympique Lyonnais (-2.5)",
-        "outcome": "Fenerbah\u00e7e SK",
-        "value": 1097.7798,
-        "avgPrice": 0.9826,
-        "slug": "ucl-fen-lyo-2026-08-18-spread-away-2pt5"
-      },
       "0x7beb03b48f520e43ae2e217fefe3a48f6948018d3da07678e22708463789afa0|No": {
         "title": "Exact Score: Chicago Fire FC 3 - 2 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 1097.3471,
+        "value": 1099.1904,
         "avgPrice": 0.9583,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-3-2"
-      },
-      "0xe19ddd7a87ad62801fdd2387d8c1056a7521e11110af4fc009b9189924a01760|Cleveland Guardians": {
-        "title": "Spread: Cleveland Guardians (-1.5)",
-        "outcome": "Cleveland Guardians",
-        "value": 1084.923,
-        "avgPrice": 0.3426,
-        "slug": "mlb-det-cle-2026-06-14-spread-home-1pt5"
       },
       "0xe87a792c72358d8a0d4d157087e9123bc823ce6874417d836f1a207a16c77056|No": {
         "title": "Will Al Diraiyah Saudi Club vs. Al Nassr Saudi Club end in a draw?",
         "outcome": "No",
-        "value": 1072.3017,
+        "value": 1077.6929,
         "avgPrice": 0.9705,
         "slug": "skc-dir-nsr-2026-08-18-draw"
+      },
+      "0xe19ddd7a87ad62801fdd2387d8c1056a7521e11110af4fc009b9189924a01760|Cleveland Guardians": {
+        "title": "Spread: Cleveland Guardians (-1.5)",
+        "outcome": "Cleveland Guardians",
+        "value": 1070.6477,
+        "avgPrice": 0.3426,
+        "slug": "mlb-det-cle-2026-06-14-spread-home-1pt5"
       },
       "0xbfd94ffa16b7cfea450b128e883dd7119a634a2a9a8f7ed39002ba7989b3ccbf|Over": {
         "title": "Al Diraiyah Saudi Club vs. Al Nassr Saudi Club: O/U 3.5",
@@ -1666,6 +1680,13 @@
         "avgPrice": 0.5393,
         "slug": "lal-get-rrc-2026-08-23-get"
       },
+      "0xef3f94a0cd65c6698cad94100c404c380ca9457000f8b493f4250ceca54033fc|Under": {
+        "title": "PFK Levski Sofia vs. AEK: 1st Half O/U 0.5",
+        "outcome": "Under",
+        "value": 1040.8845,
+        "avgPrice": 0.7829,
+        "slug": "ucl-pls-aek1-2026-08-18-first-half-total-0pt5"
+      },
       "0xe3d75d32f6f024cbf2f009b836ca933e936614af45aaf1f60beeb082435725dc|Over": {
         "title": "Manchester City FC vs. AFC Bournemouth: O/U 3.5",
         "outcome": "Over",
@@ -1680,6 +1701,20 @@
         "avgPrice": 0.2529,
         "slug": "lal-mad-mala-2026-08-19-mad"
       },
+      "0xbec5fe3efdaf26b4108fbe17c68568c3deec95423728835b5971fcc481b46acb|Under": {
+        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: Fenerbah\u00e7e SK O/U 2.5",
+        "outcome": "Under",
+        "value": 1021.2,
+        "avgPrice": 0.852,
+        "slug": "ucl-fen-lyo-2026-08-18-team-total-home-2pt5"
+      },
+      "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18|Daniil Medvedev": {
+        "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
+        "outcome": "Daniil Medvedev",
+        "value": 1014.8643,
+        "avgPrice": 0.3989,
+        "slug": "atp-nakashi-medvede-2026-08-18"
+      },
       "0x38eeb37e724f27c738c2ee9335e4ac3950861d24802235a71fb17810e90b5910|Over": {
         "title": "GNK Dinamo Zagreb vs. Viking FK: 1st Half O/U 2.5",
         "outcome": "Over",
@@ -1687,26 +1722,19 @@
         "avgPrice": 0.9989,
         "slug": "ucl-din-vf-2026-08-18-first-half-total-2pt5"
       },
-      "0xbec5fe3efdaf26b4108fbe17c68568c3deec95423728835b5971fcc481b46acb|Under": {
-        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: Fenerbah\u00e7e SK O/U 2.5",
-        "outcome": "Under",
-        "value": 987.9,
-        "avgPrice": 0.852,
-        "slug": "ucl-fen-lyo-2026-08-18-team-total-home-2pt5"
+      "0x322608a33fb21e3191254ba9cb71003f5c7609047b7d716b725ce38e09c2abfa|No": {
+        "title": "Will PFK Levski Sofia win on 2026-08-18?",
+        "outcome": "No",
+        "value": 941.2066,
+        "avgPrice": 0.7323,
+        "slug": "ucl-pls-aek1-2026-08-18-pls"
       },
-      "0x6669ed351e0ad86cccb4c90abb1f0b477448dad93f1ae18c04182e54ce45a02a|Over": {
-        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: 1st Half O/U 0.5",
-        "outcome": "Over",
-        "value": 914.5784,
-        "avgPrice": 0.4034,
-        "slug": "ucl-fen-lyo-2026-08-18-first-half-total-0pt5"
-      },
-      "0x6669ed351e0ad86cccb4c90abb1f0b477448dad93f1ae18c04182e54ce45a02a|Under": {
-        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: 1st Half O/U 0.5",
+      "0xaf71beeda455b9d136d408256c15369e1080bd305b26fa4115dd46686cba1ca4|Under": {
+        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: Fenerbah\u00e7e SK O/U 1.5",
         "outcome": "Under",
-        "value": 894.4336,
-        "avgPrice": 0.4775,
-        "slug": "ucl-fen-lyo-2026-08-18-first-half-total-0pt5"
+        "value": 878.3127,
+        "avgPrice": 0.5836,
+        "slug": "ucl-fen-lyo-2026-08-18-team-total-home-1pt5"
       },
       "0x2307c8dd123f120f7d8a890646229f3b0211e182534e925e9604942317b7eddd|No": {
         "title": "Exact Score: Chicago Fire FC 3 - 3 Vancouver Whitecaps FC?",
@@ -1715,6 +1743,13 @@
         "avgPrice": 0.9739,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-3-3"
       },
+      "0x01901ed2c813f364bb4e432d0cd7f1a4ddca202dcaedb1666550c3e7c8dab08f|Under": {
+        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 1.5",
+        "outcome": "Under",
+        "value": 834.175,
+        "avgPrice": 0.3013,
+        "slug": "ucl-fen-lyo-2026-08-18-total-1pt5"
+      },
       "0xb3e5edce33e98cd46d4bf091e16ce35642ccbfe9174068fbf635a77a5d288189|Under": {
         "title": "Al Jabalain Saudi Club vs. Al Ettifaq Saudi Club: O/U 1.5",
         "outcome": "Under",
@@ -1722,40 +1757,47 @@
         "avgPrice": 0.4281,
         "slug": "skc-jab-ett-2026-08-18-total-1pt5"
       },
-      "0x61fc7c158f4bba3f094b03ac53e5acb56a4908b39777eac3e298cb3acf31a6b7|No": {
-        "title": "PFK Levski Sofia leading at halftime?",
-        "outcome": "No",
-        "value": 794.764,
-        "avgPrice": 0.789,
-        "slug": "ucl-pls-aek1-2026-08-18-halftime-result-home"
+      "0x2a4115e718a0b9177cc32c3a17b83c822871a36dc7ec1be056a8b664878b317c|Over": {
+        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 3.5",
+        "outcome": "Over",
+        "value": 807.3811,
+        "avgPrice": 0.2726,
+        "slug": "ucl-fen-lyo-2026-08-18-total-3pt5"
       },
-      "0xaf71beeda455b9d136d408256c15369e1080bd305b26fa4115dd46686cba1ca4|Under": {
-        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: Fenerbah\u00e7e SK O/U 1.5",
+      "0x0a1c3f72ad6ce5e47b0ac1be659c9f5cb0b2ec2bf38d9cc28d5fe172632f85f2|Under": {
+        "title": "APO Levadeiak\u00f3s vs. AGS Ast\u00e9ras Tr\u00edpolis: O/U 2.5",
         "outcome": "Under",
-        "value": 794.6639,
-        "avgPrice": 0.5836,
-        "slug": "ucl-fen-lyo-2026-08-18-team-total-home-1pt5"
+        "value": 795.8643,
+        "avgPrice": 0.681,
+        "slug": "grc-lev-ast-2026-08-18-total-2pt5"
+      },
+      "0xc575c893d068f889d7332db95f3e698d2840ceeec6b34993ace0b58a017d8e4c|Over": {
+        "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: Olympique Lyonnais 1st Half O/U 0.5",
+        "outcome": "Over",
+        "value": 791.1182,
+        "avgPrice": 0.4075,
+        "slug": "ucl-fen-lyo-2026-08-18-first-half-team-total-away-0pt5"
       },
       "0x6f08f5499b2441a8d525961988d5f1fe65b318cc52e34eb8dd72f9d09c6a8d70|Over": {
         "title": "Detroit Tigers vs. Cleveland Guardians: O/U 4.5",
         "outcome": "Over",
-        "value": 773.09,
+        "value": 772.12,
         "avgPrice": 0.81,
         "slug": "mlb-det-cle-2026-06-14-total-4pt5"
       },
-      "0x1bbaae0c2951ca8b31e907deb5a7aec999b1442a35b1e4ae7b9ce31dca9cc6c0|Al Nassr Saudi Club": {
-        "title": "Spread: Al Nassr Saudi Club (-2.5)",
-        "outcome": "Al Nassr Saudi Club",
-        "value": 765.2388,
-        "avgPrice": 0.394,
-        "slug": "skc-dir-nsr-2026-08-18-spread-away-2pt5"
-      },
-      "0x81b7a9ad4edc26d658d0c9628a33e301b961948ecf0a2ab04e0856c1b881187a|Under": {
-        "title": "GNK Dinamo Zagreb vs. Viking FK: O/U 5.5",
+      "0xb44a9f8f7263be1072af15679a13114105b81dd831ce08826a1c70a68bebf771|Under": {
+        "title": "PFK Levski Sofia vs. AEK: PFK Levski Sofia O/U 0.5",
         "outcome": "Under",
-        "value": 749.6046,
-        "avgPrice": 0.6155,
-        "slug": "ucl-din-vf-2026-08-18-total-5pt5"
+        "value": 767.1781,
+        "avgPrice": 0.5984,
+        "slug": "ucl-pls-aek1-2026-08-18-team-total-home-0pt5"
+      },
+      "0x82d2731418db02bd1f31300906e4fe1ad4af374db6866c4e7edc4c8120b940f9|APO Levadeiak\u00f3s": {
+        "title": "Spread: APO Levadeiak\u00f3s (-1.5)",
+        "outcome": "APO Levadeiak\u00f3s",
+        "value": 753.354,
+        "avgPrice": 0.9299,
+        "slug": "grc-lev-ast-2026-08-18-spread-home-1pt5"
       },
       "0xe945f7138a82949a0cfa2afdfa4a52f935fb7960c294cdcd13b427ca2ec92357|No": {
         "title": "Will Chelsea FC win on 2026-08-24?",
@@ -1764,13 +1806,6 @@
         "avgPrice": 0.5099,
         "slug": "epl-ful-che-2026-08-24-che"
       },
-      "0xea15257b0eb7c051e802baf467f030a51557c18998dc072d4a264b1a2d3ea033|Yes": {
-        "title": "Will AEK win on 2026-08-18?",
-        "outcome": "Yes",
-        "value": 731.3,
-        "avgPrice": 0.3911,
-        "slug": "ucl-pls-aek1-2026-08-18-aek1"
-      },
       "0x6163b3dd12b00ac435a9a7bb095599106c53e32caeb80e29797c69aa158a8cc4|No": {
         "title": "Exact Score: Club Atl\u00e9tico de Madrid 3 - 0 M\u00e1laga CF?",
         "outcome": "No",
@@ -1778,19 +1813,19 @@
         "avgPrice": 0.8899,
         "slug": "lal-mad-mala-2026-08-19-exact-score-3-0"
       },
-      "0xcdb6d7d792909e7f102e354645dbc5422dd3ad99ad14fbb12fb15a28806c6a82|No": {
-        "title": "AEK leading at halftime?",
-        "outcome": "No",
-        "value": 720.6449,
-        "avgPrice": 0.814,
-        "slug": "ucl-pls-aek1-2026-08-18-halftime-result-away"
-      },
       "0x0f192859708c2610423e9566e6970830f88898b47dcf6b953acfa868fe7d1507|Yes": {
         "title": "Will APO Levadeiak\u00f3s win on 2026-08-18?",
         "outcome": "Yes",
-        "value": 713.5903,
+        "value": 717.8998,
         "avgPrice": 0.7446,
         "slug": "grc-lev-ast-2026-08-18-lev"
+      },
+      "0x6e97dcf30faae886335e499aeb24dbcd7cea6cafc5a494ac995662a4ef36e56f|Under": {
+        "title": "PFK Levski Sofia vs. AEK: O/U 0.5",
+        "outcome": "Under",
+        "value": 704.8704,
+        "avgPrice": 0.3133,
+        "slug": "ucl-pls-aek1-2026-08-18-total-0pt5"
       },
       "0x91d9274c9ae48c1da144fe369edf65041d9fe2c0577e6f66a5fbf17c1df79380|Hull City AFC": {
         "title": "Spread: Manchester United FC (-1.5)",
@@ -1799,13 +1834,6 @@
         "avgPrice": 0.5299,
         "slug": "epl-hul-mun-2026-08-22-spread-away-1pt5"
       },
-      "0x322608a33fb21e3191254ba9cb71003f5c7609047b7d716b725ce38e09c2abfa|No": {
-        "title": "Will PFK Levski Sofia win on 2026-08-18?",
-        "outcome": "No",
-        "value": 692.335,
-        "avgPrice": 0.7201,
-        "slug": "ucl-pls-aek1-2026-08-18-pls"
-      },
       "0xa5798ecd19cb7fd68742928d0301835f13e99c87be14a6f2b7cc29fea0db9e50|Al Jabalain Saudi Club": {
         "title": "Spread: Al Ettifaq Saudi Club (-1.5)",
         "outcome": "Al Jabalain Saudi Club",
@@ -1813,12 +1841,12 @@
         "avgPrice": 0.7557,
         "slug": "skc-jab-ett-2026-08-18-spread-away-1pt5"
       },
-      "0x045e7b4acc77ebb654008b8956bd935debd1db85a0b9c3eccb93b96b34ee110a|Viking FK": {
-        "title": "Spread: GNK Dinamo Zagreb (-1.5)",
-        "outcome": "Viking FK",
-        "value": 687.0465,
-        "avgPrice": 0.2591,
-        "slug": "ucl-din-vf-2026-08-18-spread-home-1pt5"
+      "0xd5e6500f857743e8fdb1bfe4a3d448cc2f84f689d15830f4bbec68f573add871|Under": {
+        "title": "APO Levadeiak\u00f3s vs. AGS Ast\u00e9ras Tr\u00edpolis: O/U 3.5",
+        "outcome": "Under",
+        "value": 685.549,
+        "avgPrice": 0.8622,
+        "slug": "grc-lev-ast-2026-08-18-total-3pt5"
       },
       "0x6ae54b57f576915b00f24e95c48c5f49fa7a40247caed58746654e7bfce4613a|No": {
         "title": "Will Liverpool FC win on 2026-08-23?",
@@ -1840,6 +1868,20 @@
         "value": 652.0075,
         "avgPrice": 0.507,
         "slug": "kbo-han-lg-2026-07-05"
+      },
+      "0xcfab6430414accdbc9b2997a5f6c6d885b6db94a746f6f75013bb63a82fc2282|No": {
+        "title": "Will Viking FK win on 2026-08-18?",
+        "outcome": "No",
+        "value": 632.7639,
+        "avgPrice": 0.8863,
+        "slug": "ucl-din-vf-2026-08-18-vf"
+      },
+      "0x532caa2e5763fbd998c4cefa49d14695bd85c5e11e42007d154b2e6ce93661d0|No": {
+        "title": "Fenerbah\u00e7e SK leading at halftime?",
+        "outcome": "No",
+        "value": 630.4848,
+        "avgPrice": 0.7086,
+        "slug": "ucl-fen-lyo-2026-08-18-halftime-result-home"
       },
       "0x841fb7a9055ca17285ff76a882274972b072eda7569d4fe6daef56fa29a8ee6b|No": {
         "title": "Exact Score: Chicago Fire FC 0 - 0 Vancouver Whitecaps FC?",
@@ -1869,6 +1911,13 @@
         "avgPrice": 0.4799,
         "slug": "lal-mad-vil-2026-08-23-mad"
       },
+      "0x870077cf857f64cdf218f98de890c73b683cf0b9ea3e83572944fcd99260b9c6|Yes": {
+        "title": "Will GNK Dinamo Zagreb vs. Viking FK end in a draw?",
+        "outcome": "Yes",
+        "value": 614.4547,
+        "avgPrice": 0.0696,
+        "slug": "ucl-din-vf-2026-08-18-draw"
+      },
       "0x309ac23ca12b14722221f8f7904fcb2de62e9fe56469ae9e01b76e469c210495|Under": {
         "title": "Al Okhdood SC vs. Al Khaleej Saudi Club: O/U 2.5",
         "outcome": "Under",
@@ -1876,12 +1925,12 @@
         "avgPrice": 0.6291,
         "slug": "skc-okh-kha-2026-08-18-total-2pt5"
       },
-      "0xd5e6500f857743e8fdb1bfe4a3d448cc2f84f689d15830f4bbec68f573add871|Under": {
-        "title": "APO Levadeiak\u00f3s vs. AGS Ast\u00e9ras Tr\u00edpolis: O/U 3.5",
-        "outcome": "Under",
-        "value": 606.7807,
-        "avgPrice": 0.8607,
-        "slug": "grc-lev-ast-2026-08-18-total-3pt5"
+      "0x6e97dcf30faae886335e499aeb24dbcd7cea6cafc5a494ac995662a4ef36e56f|Over": {
+        "title": "PFK Levski Sofia vs. AEK: O/U 0.5",
+        "outcome": "Over",
+        "value": 603.9013,
+        "avgPrice": 0.6621,
+        "slug": "ucl-pls-aek1-2026-08-18-total-0pt5"
       },
       "0x2288239a97dc0de4a526fe6a0f1398fe20c6b1a234c09697a6d60f415f78f4cc|No": {
         "title": "Will Al Okhdood SC vs. Al Khaleej Saudi Club end in a draw?",
@@ -1896,13 +1945,6 @@
         "value": 592.515,
         "avgPrice": 0.91,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-2-2"
-      },
-      "0x9fb6f2edbfac8d97979b275d8002329fb374122d0841de2fce2782893697cfef|Luis Guto Miguel": {
-        "title": "Kingston: Valentin Royer vs Luis Guto Miguel",
-        "outcome": "Luis Guto Miguel",
-        "value": 575.9515,
-        "avgPrice": 0.0534,
-        "slug": "atp-royer-miguel-2026-08-17"
       },
       "0x0dbe4208556fc78f2b65c012e0fbfe8e4a42998611ff80bf677399ae57cca896|No": {
         "title": "Exact Score: Portland Timbers 0 - 1 San Diego FC?",
@@ -1939,26 +1981,12 @@
         "avgPrice": 0.8799,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-1-1"
       },
-      "0x8e6fd1a73e4e6f6972c21a4b065bb4f5a3811f2049ca67433402caaeddd8bd30|Over": {
-        "title": "Al Diraiyah Saudi Club vs. Al Nassr Saudi Club: O/U 5.5",
-        "outcome": "Over",
-        "value": 540.0946,
-        "avgPrice": 0.3323,
-        "slug": "skc-dir-nsr-2026-08-18-total-5pt5"
-      },
-      "0x48db7dda4eaeee357f51cae53537d36cca3f22151d515cf0dc74b5b890d3e947|No": {
-        "title": "Exact Score: GNK Dinamo Zagreb 2 - 2 Viking FK?",
+      "0x870077cf857f64cdf218f98de890c73b683cf0b9ea3e83572944fcd99260b9c6|No": {
+        "title": "Will GNK Dinamo Zagreb vs. Viking FK end in a draw?",
         "outcome": "No",
-        "value": 522.2895,
-        "avgPrice": 0.933,
-        "slug": "ucl-din-vf-2026-08-18-exact-score-2-2"
-      },
-      "0xf240d9742c945e4491e2fedf165b82867ef3f6aef6894976419132e2564ecee9|Over": {
-        "title": "1. FC Heidenheim vs. Bayern Munich: O/U 3.5",
-        "outcome": "Over",
-        "value": 518.1263,
-        "avgPrice": 0.7987,
-        "slug": "clf-fch-bmu-2026-08-18-total-3pt5"
+        "value": 529.9517,
+        "avgPrice": 0.6851,
+        "slug": "ucl-din-vf-2026-08-18-draw"
       },
       "0xaa5acbe55ca54bc911153c9893b9759e81a7a0c9c628bef8dbecbebb4e9cd876|No": {
         "title": "Exact Score: Real Salt Lake 0 - 0 FC Dallas?",
@@ -1977,18 +2005,18 @@
       "0x8b72f354eb85c848bf73853d7c0d0306b1d34ae93ea84ac976e06a78ca39fbd7|No": {
         "title": "Exact Score: Toronto FC 0 - 0 Charlotte FC?",
         "outcome": "No",
-        "value": 502.7299,
+        "value": 502.4639,
         "avgPrice": 0.9401,
         "slug": "mls-tor-clt-2026-08-19-exact-score-0-0"
       }
     },
     "#5 HomeRunHazard": {
-      "0xbc5488ddca3b7eeb92ac071cb2ed2ef787e729cfd283e12dfe5bbec7cdf47c37|Taro Daniel": {
-        "title": "Quebec City: Dusan Lajovic vs Taro Daniel",
-        "outcome": "Taro Daniel",
-        "value": 8990.9212,
-        "avgPrice": 0.6773,
-        "slug": "atp-lajovic-daniel-2026-08-18"
+      "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18|Daniil Medvedev": {
+        "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
+        "outcome": "Daniil Medvedev",
+        "value": 16431.6892,
+        "avgPrice": 0.4689,
+        "slug": "atp-nakashi-medvede-2026-08-18"
       },
       "0xbabc896225844371b57a54468c5e2638a47fc64039765fb61c68d10f23885331|Atlanta Braves": {
         "title": "Atlanta Braves vs. Chicago White Sox",
@@ -1996,6 +2024,20 @@
         "value": 8600.2493,
         "avgPrice": 0.51,
         "slug": "mlb-atl-cws-2026-06-11"
+      },
+      "0xcbd1b7b966c7a82b4896bc623d292d9934daec1c430e67edd39cd0ab76a3c756|Marta Kostyuk": {
+        "title": "Cincinnati Open: Marta Kostyuk vs Sloane Stephens",
+        "outcome": "Marta Kostyuk",
+        "value": 7424.2602,
+        "avgPrice": 0.8653,
+        "slug": "wta-kostyuk-stephen-2026-08-18"
+      },
+      "0xebd7653a13838fa5838537370b9b09fe91169e02171b8c62f7ff4018ebee59c7|Atlanta Braves": {
+        "title": "Atlanta Braves vs. Minnesota Twins",
+        "outcome": "Atlanta Braves",
+        "value": 6002.2757,
+        "avgPrice": 0.5383,
+        "slug": "mlb-atl-min-2026-08-18"
       },
       "0x096c600e8c0ca9c1c5bce5d0bca0f9a99484524423a1f90f28db50ae63530895|Under": {
         "title": "Washington Nationals vs. Texas Rangers: O/U 8.5",
@@ -2007,7 +2049,7 @@
       "0xe1b460e8426fdb8ae3f0c78d88d5c0ef649abf56b47fe8432b565debe1a91dca|Under": {
         "title": "Atlanta Dream vs. Las Vegas Aces: O/U 178.5",
         "outcome": "Under",
-        "value": 4366.2839,
+        "value": 4199.9492,
         "avgPrice": 0.5066,
         "slug": "wnba-atl-las-2026-08-18-total-178pt5"
       },
@@ -2021,9 +2063,16 @@
       "0xaa3b169bd140086ad4f94f907b166065a81f02e26de13c577a55542f2038ccb5|Under": {
         "title": "Atlanta Dream vs. Las Vegas Aces: O/U 177.5",
         "outcome": "Under",
-        "value": 4002.5837,
-        "avgPrice": 0.5031,
+        "value": 4033.2879,
+        "avgPrice": 0.5029,
         "slug": "wnba-atl-las-2026-08-18-total-177pt5"
+      },
+      "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18|Brandon Nakashima": {
+        "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
+        "outcome": "Brandon Nakashima",
+        "value": 3907.8853,
+        "avgPrice": 0.4727,
+        "slug": "atp-nakashi-medvede-2026-08-18"
       },
       "0xc53b6056373f3659365afa094b4ba9af14f540b576a8ca0347309be8b4ed3228|Over": {
         "title": "Boston Red Sox vs. New York Yankees: O/U 7.5",
@@ -2056,7 +2105,7 @@
       "0x2dd5431d3f0a9dfb0ea1e3781354293b502713207cecc8bc378883fefbdad9d0|Under": {
         "title": "Indiana Fever vs. Toronto Tempo: O/U 191.5",
         "outcome": "Under",
-        "value": 3414.942,
+        "value": 3477.6015,
         "avgPrice": 0.5251,
         "slug": "wnba-ind-tor-2026-08-18-total-191pt5"
       },
@@ -2077,9 +2126,16 @@
       "0x812ff3f47ed035fff0f8bb6102cb8c1dd907a5e56fe7f1e903744559d1b4a334|Las Vegas Aces": {
         "title": "Spread: Las Vegas Aces (-3.5)",
         "outcome": "Las Vegas Aces",
-        "value": 3081.3743,
+        "value": 3143.6243,
         "avgPrice": 0.4804,
         "slug": "wnba-atl-las-2026-08-18-spread-home-3pt5"
+      },
+      "0x7481960be626be0fb68a491d6ba3e27d1b0c555fb4fa217fc15535fbb917068f|Over": {
+        "title": "Los Angeles Dodgers vs. Colorado Rockies: O/U 11.5",
+        "outcome": "Over",
+        "value": 3096.1903,
+        "avgPrice": 0.4979,
+        "slug": "mlb-lad-col-2026-08-18-total-11pt5"
       },
       "0x9e162a83c2d7fc45a16bbe23801a60eb9cd589e4450195bc0659a7053fc0e8e7|Under": {
         "title": "St. Louis Cardinals vs. Cincinnati Reds: O/U 8.5",
@@ -2088,19 +2144,19 @@
         "avgPrice": 0.4701,
         "slug": "mlb-stl-cin-2026-08-18-total-8pt5"
       },
+      "0x457871979fd34d510133cbaf33f8508fceae492940bcb78f5a0de584d8996701|Stefanos Sakellaridis": {
+        "title": "Quebec City: Stefanos Sakellaridis vs Tristan Schoolkate",
+        "outcome": "Stefanos Sakellaridis",
+        "value": 2970.9146,
+        "avgPrice": 0.7788,
+        "slug": "atp-sakella-schoolk-2026-08-18"
+      },
       "0x984b2e55d1737c1c7de9469e509c01addc7a93c8b435459186e8f30d25b31716|Over": {
         "title": "New York Liberty vs. Chicago Sky: O/U 179.5",
         "outcome": "Over",
         "value": 2906.0162,
         "avgPrice": 0.4883,
         "slug": "wnba-nyl-chi-2026-08-18-total-179pt5"
-      },
-      "0xcbd1b7b966c7a82b4896bc623d292d9934daec1c430e67edd39cd0ab76a3c756|Marta Kostyuk": {
-        "title": "Cincinnati Open: Marta Kostyuk vs Sloane Stephens",
-        "outcome": "Marta Kostyuk",
-        "value": 2900.73,
-        "avgPrice": 0.8599,
-        "slug": "wta-kostyuk-stephen-2026-08-18"
       },
       "0xb02fe0513e9d9cc7f8e790b030f700521e72ff45a37251350d0570585fcb6f57|Los Angeles Angels": {
         "title": "Los Angeles Angels vs. Houston Astros",
@@ -2123,12 +2179,12 @@
         "avgPrice": 0.5599,
         "slug": "mlb-mia-phi-2026-08-18-total-7pt5"
       },
-      "0xe5907ee5b1cbb4a4a905e29edaf2222f46f257e3780a8572791f0546236acbd3|Under": {
-        "title": "San Francisco Giants vs. Atlanta Braves: O/U 7.5",
-        "outcome": "Under",
-        "value": 2618.8382,
-        "avgPrice": 0.4791,
-        "slug": "mlb-sf-atl-2026-06-18-total-7pt5"
+      "0x9aa8c870e4f2e9f4e2864a82849adc54de43244fe8823bbce9ccc2f51e1346f5|Los Angeles Sparks": {
+        "title": "Spread: Los Angeles Sparks (-1.5)",
+        "outcome": "Los Angeles Sparks",
+        "value": 2556.9449,
+        "avgPrice": 0.5013,
+        "slug": "wnba-la-conn-2026-08-18-spread-away-1pt5"
       },
       "0xeffcde2d72c799e8e8899b92312edc7716d6b475614f727f12c80ffc30d297f4|San Francisco Giants": {
         "title": "Spread: Cleveland Guardians (-2.5)",
@@ -2137,12 +2193,12 @@
         "avgPrice": 0.66,
         "slug": "mlb-sf-cle-2026-08-18-spread-home-2pt5"
       },
-      "0x7481960be626be0fb68a491d6ba3e27d1b0c555fb4fa217fc15535fbb917068f|Over": {
-        "title": "Los Angeles Dodgers vs. Colorado Rockies: O/U 11.5",
-        "outcome": "Over",
-        "value": 2517.6007,
-        "avgPrice": 0.4948,
-        "slug": "mlb-lad-col-2026-08-18-total-11pt5"
+      "0xe5907ee5b1cbb4a4a905e29edaf2222f46f257e3780a8572791f0546236acbd3|Under": {
+        "title": "San Francisco Giants vs. Atlanta Braves: O/U 7.5",
+        "outcome": "Under",
+        "value": 2508.183,
+        "avgPrice": 0.4791,
+        "slug": "mlb-sf-atl-2026-06-18-total-7pt5"
       },
       "0xaf41231c2b4ed8c8f29266c623d050cb2e1e53e4441e6ae39976d791cfe8ff50|Under": {
         "title": "New York Yankees vs. Baltimore Orioles: O/U 8.5",
@@ -2150,13 +2206,6 @@
         "value": 2436.4222,
         "avgPrice": 0.495,
         "slug": "mlb-nyy-bal-2026-08-18-total-8pt5"
-      },
-      "0x9aa8c870e4f2e9f4e2864a82849adc54de43244fe8823bbce9ccc2f51e1346f5|Los Angeles Sparks": {
-        "title": "Spread: Los Angeles Sparks (-1.5)",
-        "outcome": "Los Angeles Sparks",
-        "value": 2396.7215,
-        "avgPrice": 0.4997,
-        "slug": "wnba-la-conn-2026-08-18-spread-away-1pt5"
       },
       "0x0080d713f1f5a0fb730e7a2cf7e64d583594a35ef95bdab366cb14fff3a3cd1f|Indiana Fever": {
         "title": "Indiana Fever vs. Toronto Tempo",
@@ -2172,13 +2221,6 @@
         "avgPrice": 0.49,
         "slug": "mlb-tor-tb-2026-08-18-total-7pt5"
       },
-      "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18|Brandon Nakashima": {
-        "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
-        "outcome": "Brandon Nakashima",
-        "value": 2241.518,
-        "avgPrice": 0.4853,
-        "slug": "atp-nakashi-medvede-2026-08-18"
-      },
       "0x717c526bb6a5946f75423352cdbd0d92ab87651710a7740997126d58b3a7925d|Over": {
         "title": "Boston Red Sox vs. New York Yankees: O/U 8.5",
         "outcome": "Over",
@@ -2189,7 +2231,7 @@
       "0x4bf039b5b4f7e713ae6adaa5d3a04b321490607689b4d1eed98b01e541157962|Under": {
         "title": "Los Angeles Sparks vs. Connecticut Sun: O/U 169.5",
         "outcome": "Under",
-        "value": 2208.0292,
+        "value": 2232.0295,
         "avgPrice": 0.4547,
         "slug": "wnba-la-conn-2026-08-18-total-169pt5"
       },
@@ -2213,13 +2255,6 @@
         "value": 2098.6629,
         "avgPrice": 0.4908,
         "slug": "wnba-la-conn-2026-08-18-total-170pt5"
-      },
-      "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18|Daniil Medvedev": {
-        "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
-        "outcome": "Daniil Medvedev",
-        "value": 2041.444,
-        "avgPrice": 0.3329,
-        "slug": "atp-nakashi-medvede-2026-08-18"
       },
       "0x2dcb820bd62140902999067ccac825612e7761cf25205fafe9460a5b93024338|Over": {
         "title": "Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5",
@@ -2305,19 +2340,19 @@
         "avgPrice": 0.4019,
         "slug": "mlb-nyy-bal-2026-08-18-total-9pt5"
       },
+      "0xe1b460e8426fdb8ae3f0c78d88d5c0ef649abf56b47fe8432b565debe1a91dca|Over": {
+        "title": "Atlanta Dream vs. Las Vegas Aces: O/U 178.5",
+        "outcome": "Over",
+        "value": 1553.5248,
+        "avgPrice": 0.4829,
+        "slug": "wnba-atl-las-2026-08-18-total-178pt5"
+      },
       "0x058c32f6a3495bcf863c4e313e0b51e020b40c4f1abd092199c540126b15d87b|Athletics": {
         "title": "Spread: Kansas City Royals (-1.5)",
         "outcome": "Athletics",
         "value": 1536.3944,
         "avgPrice": 0.58,
         "slug": "mlb-oak-kc-2026-08-18-spread-home-1pt5"
-      },
-      "0x2dd5431d3f0a9dfb0ea1e3781354293b502713207cecc8bc378883fefbdad9d0|Over": {
-        "title": "Indiana Fever vs. Toronto Tempo: O/U 191.5",
-        "outcome": "Over",
-        "value": 1528.7939,
-        "avgPrice": 0.4841,
-        "slug": "wnba-ind-tor-2026-08-18-total-191pt5"
       },
       "0x6a89ef076fdec138148eb83fe3355da65d3efc3416906717ba291e6a19ee7005|Over": {
         "title": "Los Angeles Sparks vs. Connecticut Sun: O/U 172.5",
@@ -2326,12 +2361,12 @@
         "avgPrice": 0.471,
         "slug": "wnba-la-conn-2026-08-18-total-172pt5"
       },
-      "0xe1b460e8426fdb8ae3f0c78d88d5c0ef649abf56b47fe8432b565debe1a91dca|Over": {
-        "title": "Atlanta Dream vs. Las Vegas Aces: O/U 178.5",
+      "0x2dd5431d3f0a9dfb0ea1e3781354293b502713207cecc8bc378883fefbdad9d0|Over": {
+        "title": "Indiana Fever vs. Toronto Tempo: O/U 191.5",
         "outcome": "Over",
-        "value": 1490.7562,
-        "avgPrice": 0.4829,
-        "slug": "wnba-atl-las-2026-08-18-total-178pt5"
+        "value": 1495.194,
+        "avgPrice": 0.4841,
+        "slug": "wnba-ind-tor-2026-08-18-total-191pt5"
       },
       "0x9fc34adb9b6dad51077f22d18fe9a3df38c50f4800294ecf06c08c98814690f1|Over": {
         "title": "Athletics vs. Kansas City Royals: O/U 9.5",
@@ -2368,12 +2403,12 @@
         "avgPrice": 0.5298,
         "slug": "mlb-bos-nyy-2026-06-06"
       },
-      "0x457871979fd34d510133cbaf33f8508fceae492940bcb78f5a0de584d8996701|Stefanos Sakellaridis": {
-        "title": "Quebec City: Stefanos Sakellaridis vs Tristan Schoolkate",
-        "outcome": "Stefanos Sakellaridis",
-        "value": 1097.0898,
-        "avgPrice": 0.8036,
-        "slug": "atp-sakella-schoolk-2026-08-18"
+      "0x95cfd737e6138fc583b75396282d70d773c18789294a7b92b4daf91dd5771dee|Nishesh Basavareddy": {
+        "title": "Quebec City: Andrea Pellegrino vs Nishesh Basavareddy",
+        "outcome": "Nishesh Basavareddy",
+        "value": 1107.8964,
+        "avgPrice": 0.823,
+        "slug": "atp-pellegr-basavar-2026-08-18"
       },
       "0x16f6e64651755f4692533c69d846d5d0b1295e1f1cb27b912a6563a4b06e0233|Over": {
         "title": "Miami Marlins vs. Philadelphia Phillies: O/U 8.5",
@@ -2392,7 +2427,7 @@
       "0x4bf039b5b4f7e713ae6adaa5d3a04b321490607689b4d1eed98b01e541157962|Over": {
         "title": "Los Angeles Sparks vs. Connecticut Sun: O/U 169.5",
         "outcome": "Over",
-        "value": 1059.4044,
+        "value": 1049.5951,
         "avgPrice": 0.5233,
         "slug": "wnba-la-conn-2026-08-18-total-169pt5"
       },
@@ -2417,19 +2452,19 @@
         "avgPrice": 0.56,
         "slug": "mlb-sf-atl-2026-06-18"
       },
-      "0xebd7653a13838fa5838537370b9b09fe91169e02171b8c62f7ff4018ebee59c7|Atlanta Braves": {
-        "title": "Atlanta Braves vs. Minnesota Twins",
-        "outcome": "Atlanta Braves",
-        "value": 991.9381,
-        "avgPrice": 0.53,
-        "slug": "mlb-atl-min-2026-08-18"
-      },
       "0xe19ddd7a87ad62801fdd2387d8c1056a7521e11110af4fc009b9189924a01760|Detroit Tigers": {
         "title": "Spread: Cleveland Guardians (-1.5)",
         "outcome": "Detroit Tigers",
-        "value": 988.5811,
+        "value": 996.5535,
         "avgPrice": 0.6547,
         "slug": "mlb-det-cle-2026-06-14-spread-home-1pt5"
+      },
+      "0x0561113058db1c23a22c01283649d11f28b647aca96bbccdbf0d93672050030c|Ann Li": {
+        "title": "Cincinnati Open: Coco Gauff vs Ann Li",
+        "outcome": "Ann Li",
+        "value": 995.3122,
+        "avgPrice": 0.0992,
+        "slug": "wta-gauff-annli-2026-08-18"
       },
       "0x5f004a892396304a9bc9f33b2d08e98dfc31aeeccd112161199f14a72f09f625|Over": {
         "title": "Chicago White Sox vs. Chicago Cubs: O/U 9.5",
@@ -2465,6 +2500,13 @@
         "value": 839.475,
         "avgPrice": 0.57,
         "slug": "atp-michels-gea-2026-07-20-match-total-23pt5"
+      },
+      "0x2594d3d18b718ed9afa3903cf37d2380d0a33c33cbdefd6831deeff43d019b82|Nicolai Budkov Kjaer": {
+        "title": "Quebec City: Nicolai Budkov Kjaer vs Yunchaokete Bu",
+        "outcome": "Nicolai Budkov Kjaer",
+        "value": 830.8896,
+        "avgPrice": 0.4426,
+        "slug": "atp-kjaer-bu-2026-08-18"
       },
       "0x2dcb820bd62140902999067ccac825612e7761cf25205fafe9460a5b93024338|Under": {
         "title": "Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5",
@@ -2508,12 +2550,12 @@
         "avgPrice": 0.5095,
         "slug": "mlb-nyy-bal-2026-08-18-total-8pt5"
       },
-      "0x7ed34c8f081b11a807819ab363fea2ce5130c9b7c232f7f3cdf5d164171d68ca|Under": {
-        "title": "Arizona Diamondbacks vs. Boston Red Sox: O/U 9.5",
-        "outcome": "Under",
-        "value": 619.647,
-        "avgPrice": 0.6183,
-        "slug": "mlb-ari-bos-2026-08-18-total-9pt5"
+      "0x2594d3d18b718ed9afa3903cf37d2380d0a33c33cbdefd6831deeff43d019b82|Yunchaokete Bu": {
+        "title": "Quebec City: Nicolai Budkov Kjaer vs Yunchaokete Bu",
+        "outcome": "Yunchaokete Bu",
+        "value": 623.2705,
+        "avgPrice": 0.6045,
+        "slug": "atp-kjaer-bu-2026-08-18"
       },
       "0x80a986e6af0326937a1609e84910f64ebbb94703b9b44600d84354bacb83c7d0|Indiana Fever": {
         "title": "Spread: Indiana Fever (-9.5)",
@@ -2522,6 +2564,13 @@
         "avgPrice": 0.54,
         "slug": "wnba-ind-tor-2026-08-18-spread-away-9pt5"
       },
+      "0x7ed34c8f081b11a807819ab363fea2ce5130c9b7c232f7f3cdf5d164171d68ca|Under": {
+        "title": "Arizona Diamondbacks vs. Boston Red Sox: O/U 9.5",
+        "outcome": "Under",
+        "value": 610.329,
+        "avgPrice": 0.6183,
+        "slug": "mlb-ari-bos-2026-08-18-total-9pt5"
+      },
       "0x717c526bb6a5946f75423352cdbd0d92ab87651710a7740997126d58b3a7925d|Under": {
         "title": "Boston Red Sox vs. New York Yankees: O/U 8.5",
         "outcome": "Under",
@@ -2529,12 +2578,12 @@
         "avgPrice": 0.5,
         "slug": "mlb-bos-nyy-2026-06-06-total-8pt5"
       },
-      "0x0561113058db1c23a22c01283649d11f28b647aca96bbccdbf0d93672050030c|Ann Li": {
-        "title": "Cincinnati Open: Coco Gauff vs Ann Li",
-        "outcome": "Ann Li",
-        "value": 564.4529,
-        "avgPrice": 0.1105,
-        "slug": "wta-gauff-annli-2026-08-18"
+      "0x812ff3f47ed035fff0f8bb6102cb8c1dd907a5e56fe7f1e903744559d1b4a334|Atlanta Dream": {
+        "title": "Spread: Las Vegas Aces (-3.5)",
+        "outcome": "Atlanta Dream",
+        "value": 569.1738,
+        "avgPrice": 0.4977,
+        "slug": "wnba-atl-las-2026-08-18-spread-home-3pt5"
       },
       "0xb4528250bfbecacd1da31cd9dac28d32077c66cc921a8598da6b8e4265144507|Detroit Tigers": {
         "title": "Detroit Tigers vs. Cleveland Guardians",
@@ -2553,14 +2602,14 @@
     }
   },
   "announced": {
+    "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18|Daniil Medvedev": 5,
     "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18|Brandon Nakashima": 5,
     "0x81c08b5c34d517c2835b1ca4c777b64223d332c48678c2f69a3e4e462ebc15cd|No": 3,
-    "0xfb6aebc7096dd036681802e29b2f28ff6d6c675eda504b672966047ff41cb5c3|Yes": 3,
-    "0x934bb5bb0887ad1e5145996e2d45f99d55a2dff24e542f90305e6ac162e0d98b|Over": 3,
-    "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18|Daniil Medvedev": 4,
+    "0x01901ed2c813f364bb4e432d0cd7f1a4ddca202dcaedb1666550c3e7c8dab08f|Over": 3,
     "0x0e2de6e2773f26496f7ea8307df1def6e2f14cf66d8ed6737c35252f21316ca2|Over": 3,
     "0x1d9e1e5f3124a78e53ecdf1aeecae2ce6ae97cf5021e1cfcdeca23ce02a24ad1|Over": 3,
-    "0xd58a828eed24459245f13949f43e986f174ef739a66b1bf924d93fcea00054a5|1. FC Heidenheim": 3,
+    "0x81b7a9ad4edc26d658d0c9628a33e301b961948ecf0a2ab04e0856c1b881187a|Under": 3,
+    "0xcbd1b7b966c7a82b4896bc623d292d9934daec1c430e67edd39cd0ab76a3c756|Marta Kostyuk": 3,
     "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523|New York Yankees": 3
   }
 }
