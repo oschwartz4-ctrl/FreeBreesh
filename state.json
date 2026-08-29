@@ -15,13 +15,6 @@
         "avgPrice": 0.5071,
         "slug": "bun-dor-hsv-2026-08-29-spread-home-1pt5"
       },
-      "0x1874be94756099de4f58c9898296cd9c800b986322cb292244f5f78efcf82abe|Liverpool FC": {
-        "title": "Spread: Liverpool FC (-1.5)",
-        "outcome": "Liverpool FC",
-        "value": 9633.7226,
-        "avgPrice": 0.4199,
-        "slug": "epl-liv-not-2026-08-29-spread-home-1pt5"
-      },
       "0xd2dd1841548c5add17ec120d870d373b7487a165fa2e7a6444050c7e96a382ae|Over": {
         "title": "Qingdao Hainiu FC vs. Wuhan San Zhen FC: O/U 3.5",
         "outcome": "Over",
@@ -39,7 +32,7 @@
       "0x7e4eb975bc2a3d14e879f57f8d8274e7cb79c2b3c847c0902aa483c73cbc12a8|Over": {
         "title": "Liverpool FC vs. Nottingham Forest FC: O/U 3.5",
         "outcome": "Over",
-        "value": 6804.8829,
+        "value": 6399.8303,
         "avgPrice": 0.3931,
         "slug": "epl-liv-not-2026-08-29-total-3pt5"
       },
@@ -50,12 +43,12 @@
         "avgPrice": 0.5899,
         "slug": "epl-tot-new-2026-08-29-total-2pt5"
       },
-      "0x314230b6e002480b41e22088f5a46c4c3ca1bf425decb284a5721b1890f52cce|Under": {
-        "title": "Liverpool FC vs. Nottingham Forest FC: O/U 2.5",
-        "outcome": "Under",
-        "value": 5361.6773,
-        "avgPrice": 0.3599,
-        "slug": "epl-liv-not-2026-08-29-total-2pt5"
+      "0x1874be94756099de4f58c9898296cd9c800b986322cb292244f5f78efcf82abe|Liverpool FC": {
+        "title": "Spread: Liverpool FC (-1.5)",
+        "outcome": "Liverpool FC",
+        "value": 4026.0333,
+        "avgPrice": 0.4199,
+        "slug": "epl-liv-not-2026-08-29-spread-home-1pt5"
       },
       "0xfebe43795a0b4d857649907b0c5439b874f7a19aa4634f6a342564580b8a30de|Under": {
         "title": "BV Borussia 09 Dortmund vs. Hamburger SV: O/U 3.5",
@@ -64,12 +57,26 @@
         "avgPrice": 0.5899,
         "slug": "bun-dor-hsv-2026-08-29-total-3pt5"
       },
+      "0x314230b6e002480b41e22088f5a46c4c3ca1bf425decb284a5721b1890f52cce|Under": {
+        "title": "Liverpool FC vs. Nottingham Forest FC: O/U 2.5",
+        "outcome": "Under",
+        "value": 3556.7562,
+        "avgPrice": 0.3599,
+        "slug": "epl-liv-not-2026-08-29-total-2pt5"
+      },
       "0x3a5736b4d3b777663ab3b24aedb50f092bd96b50d154a9fc89388314f1ecaca2|Elsa Bonelli": {
         "title": "ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Sarina Schnyder vs Elsa Bonelli",
         "outcome": "Elsa Bonelli",
         "value": 3501.09,
         "avgPrice": 0.5765,
         "slug": "itf-schnyde-bonelli-2026-08-26"
+      },
+      "0x7e9a11b6eb4cbeb32961b04853e7cfed65c05cedd38d9a04df51b46592a0a6e5|No": {
+        "title": "Will Liverpool FC win on 2026-08-29?",
+        "outcome": "No",
+        "value": 3399.7995,
+        "avgPrice": 0.31,
+        "slug": "epl-liv-not-2026-08-29-liv"
       },
       "0xbda920ec8f2d4b81f5dd49722ddc8761e9b4c1d7921f46da4e6ebc63cb6e2ef8|BNK FEARX": {
         "title": "Game Handicap: T1 (-2.5) vs BNK FEARX (+2.5)",
@@ -99,6 +106,27 @@
         "avgPrice": 0.3699,
         "slug": "epl-tot-new-2026-08-29-total-3pt5"
       },
+      "0xfa98ce27b43ea9f7de172335fbbef1695b5dfcea9807a6da8bc7509009a70929|Valentina Ryser": {
+        "title": "ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Valentina Ryser vs Angella Okutoyi",
+        "outcome": "Valentina Ryser",
+        "value": 2700.0046,
+        "avgPrice": 0.3738,
+        "slug": "itf-ryser-okutoyi-2026-08-29"
+      },
+      "0xf111c12a7de640698f75f6140c4596b21063dddb7fc653e6074934703ddb5459|No": {
+        "title": "Will Urawa Red Diamonds vs. Yokohama F\u00b7Marinos end in a draw?",
+        "outcome": "No",
+        "value": 2622.0285,
+        "avgPrice": 0.6066,
+        "slug": "jap-ura-yom-2026-08-29-draw"
+      },
+      "0x9b35422c6ddd8db28ee5ce08bb466bd180c46e0c9ccd8244fb08645c58795428|Yes": {
+        "title": "Will Urawa Red Diamonds win on 2026-08-29?",
+        "outcome": "Yes",
+        "value": 2457.2371,
+        "avgPrice": 0.454,
+        "slug": "jap-ura-yom-2026-08-29-ura"
+      },
       "0x2ec1e72f08be3e12d1922bb0fce07cc41ef8ffbe5b5a6067705127b960245711|Over": {
         "title": "Games Total: O/U 3.5",
         "outcome": "Over",
@@ -106,10 +134,17 @@
         "avgPrice": 0.8473,
         "slug": "lol-tes-lgd-2026-08-29-total-games-3pt5"
       },
+      "0x35d93c08a84f2a86ee87535b768d99b4059bebca21bab1d46d5670d299c0af69|Over": {
+        "title": "1. FC Heidenheim 1846 vs. SG Dynamo Dresden: O/U 1.5",
+        "outcome": "Over",
+        "value": 2398.3226,
+        "avgPrice": 0.78,
+        "slug": "bl2-hei-dyn-2026-08-29-total-1pt5"
+      },
       "0xe37b3ab474f79dfaac2480da5c61a3c81c279c7bf1718b85db4880f0398e712c|BNK FEARX": {
         "title": "LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs",
         "outcome": "BNK FEARX",
-        "value": 2338.4265,
+        "value": 2346.2438,
         "avgPrice": 0.503,
         "slug": "lol-t1-fox1-2026-08-29"
       },
@@ -120,26 +155,19 @@
         "avgPrice": 0.6414,
         "slug": "itf-navarr-fullana-2026-08-26"
       },
+      "0x90b8353420c39178734dd4b342a8efb1aef1e4fbc90e8c73cd465f82c1a6f698|Charles Broom": {
+        "title": "Roehampton 2: Charles Broom vs George Loffhagen",
+        "outcome": "Charles Broom",
+        "value": 2296.9678,
+        "avgPrice": 0.4547,
+        "slug": "atp-broom-loffhag-2026-08-29"
+      },
       "0xef219c9251e06e40322c6b5bf29ec9fe8b8d47463f983570acad629e48d4fd21|Over": {
         "title": "Nagoya Grampus vs. Fagiano Okayama: O/U 1.5",
         "outcome": "Over",
         "value": 2256.1299,
         "avgPrice": 0.6854,
         "slug": "jap-ngr-fag-2026-08-29-total-1pt5"
-      },
-      "0xa580c761a9340ac7442491384deeaad235aed713cb7185714005dbcaca0c47e8|Facundo Mena": {
-        "title": "Augsburg: Facundo Mena vs Cezar Cretu",
-        "outcome": "Facundo Mena",
-        "value": 2235.7066,
-        "avgPrice": 0.3411,
-        "slug": "atp-mena-cretu-2026-08-29"
-      },
-      "0x7e9a11b6eb4cbeb32961b04853e7cfed65c05cedd38d9a04df51b46592a0a6e5|No": {
-        "title": "Will Liverpool FC win on 2026-08-29?",
-        "outcome": "No",
-        "value": 2190.9819,
-        "avgPrice": 0.31,
-        "slug": "epl-liv-not-2026-08-29-liv"
       },
       "0x4add5d6c538a3231c493ea5ed350177e0aefd8b434918a3f1fe450a4bc8d205b|Julieta Pareja": {
         "title": "ITF Dallas: Dana Guzman vs Julieta Pareja",
@@ -176,13 +204,6 @@
         "avgPrice": 0.2847,
         "slug": "jap-kaw-jef-2026-08-29-total-4pt5"
       },
-      "0x9b35422c6ddd8db28ee5ce08bb466bd180c46e0c9ccd8244fb08645c58795428|Yes": {
-        "title": "Will Urawa Red Diamonds win on 2026-08-29?",
-        "outcome": "Yes",
-        "value": 2052.8194,
-        "avgPrice": 0.454,
-        "slug": "jap-ura-yom-2026-08-29-ura"
-      },
       "0x4c7b0e07dfb705ca8004abf7dd591e62a35dae69c7b27de634b7aed4573c8483|Tereza Valentova": {
         "title": "Livesport Prague Open: Eva Lys vs Tereza Valentova",
         "outcome": "Tereza Valentova",
@@ -211,19 +232,12 @@
         "avgPrice": 0.4299,
         "slug": "bun-lei-moe-2026-08-29-total-3pt5"
       },
-      "0xf111c12a7de640698f75f6140c4596b21063dddb7fc653e6074934703ddb5459|No": {
-        "title": "Will Urawa Red Diamonds vs. Yokohama F\u00b7Marinos end in a draw?",
-        "outcome": "No",
-        "value": 1639.5876,
-        "avgPrice": 0.6066,
-        "slug": "jap-ura-yom-2026-08-29-draw"
-      },
-      "0x35d93c08a84f2a86ee87535b768d99b4059bebca21bab1d46d5670d299c0af69|Over": {
-        "title": "1. FC Heidenheim 1846 vs. SG Dynamo Dresden: O/U 1.5",
-        "outcome": "Over",
-        "value": 1556.3734,
-        "avgPrice": 0.7584,
-        "slug": "bl2-hei-dyn-2026-08-29-total-1pt5"
+      "0x589f66a9937e6d141030dffd4955e79abd0494ac893d1b527fe7520e8510899e|Yes": {
+        "title": "Will Nagoya Grampus win on 2026-08-29?",
+        "outcome": "Yes",
+        "value": 1654.8121,
+        "avgPrice": 0.2859,
+        "slug": "jap-ngr-fag-2026-08-29-ngr"
       },
       "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523|Boston Red Sox": {
         "title": "Boston Red Sox vs. New York Yankees",
@@ -239,6 +253,13 @@
         "avgPrice": 0.716,
         "slug": "jap-vis-cer-2026-08-29-total-0pt5"
       },
+      "0xdf772d2f6462efbcd724805d9f17d8dbc81c57079f99d51df3d37e4d61979b89|No": {
+        "title": "Will Kawasaki Frontale vs. JEF United Ichihara Chiba end in a draw?",
+        "outcome": "No",
+        "value": 1370.1745,
+        "avgPrice": 0.8381,
+        "slug": "jap-kaw-jef-2026-08-29-draw"
+      },
       "0xa5b5a2d00cfaa7c7ec06b8ee7eda763245447437ccf560fab7fceb550c1c3ba0|Umar Nurmagomedov": {
         "title": "UFC Fight Night: Song Yadong vs. Umar Nurmagomedov (Bantamweight, Main Card)",
         "outcome": "Umar Nurmagomedov",
@@ -246,12 +267,19 @@
         "avgPrice": 0.82,
         "slug": "ufc-son-uma-2026-08-29"
       },
-      "0xdf772d2f6462efbcd724805d9f17d8dbc81c57079f99d51df3d37e4d61979b89|No": {
-        "title": "Will Kawasaki Frontale vs. JEF United Ichihara Chiba end in a draw?",
-        "outcome": "No",
-        "value": 1342.7573,
-        "avgPrice": 0.8381,
-        "slug": "jap-kaw-jef-2026-08-29-draw"
+      "0xfb4bc7f2518eef71f472f3bed3d32f58e211e48bea81dd9e1346085e17adca3e|Kawasaki Frontale": {
+        "title": "Spread: Kawasaki Frontale (-1.5)",
+        "outcome": "Kawasaki Frontale",
+        "value": 1314.6223,
+        "avgPrice": 0.4123,
+        "slug": "jap-kaw-jef-2026-08-29-spread-home-1pt5"
+      },
+      "0xb197ae17a968187d7cdc4f796907dad53c9ad16390ecfd3a9d72af3a99708fda|Over": {
+        "title": "Karlsruher SC vs. VfL Wolfsburg: O/U 5.5",
+        "outcome": "Over",
+        "value": 1290.3552,
+        "avgPrice": 0.641,
+        "slug": "bl2-ksc-wob-2026-08-29-total-5pt5"
       },
       "0x6531a3a25ed4b0fa9bd0b6dabad3bfced0b949ce0b4e5f778f690fd4d40b72bb|Over": {
         "title": "Kawasaki Frontale vs. JEF United Ichihara Chiba: O/U 5.5",
@@ -266,13 +294,6 @@
         "value": 1282.225,
         "avgPrice": 0.5886,
         "slug": "itf-rottoli-ferrar-2026-08-04"
-      },
-      "0xd740458b4d6da28c7cea7f0863bb4125895c9288075b46b4bc749522d2762733|Over": {
-        "title": "V-Varen Nagasaki vs. FC T\u014dky\u014d: O/U 1.5",
-        "outcome": "Over",
-        "value": 1275.5357,
-        "avgPrice": 0.6842,
-        "slug": "jap-vva-fct-2026-08-29-total-1pt5"
       },
       "0xed223d975cc572422db2e170be1f33cb47feda00f82203b1912fedf5729e952c|Over": {
         "title": "Ky\u014dto Sanga FC vs. Avispa Fukuoka: O/U 1.5",
@@ -294,6 +315,13 @@
         "value": 1217.465,
         "avgPrice": 0.52,
         "slug": "atp-neumaye-crawfor-2026-08-24"
+      },
+      "0x223ee65815fc4e5ededbd66fdae68288bfebeb8fa3bfa51f850adf35c86ed7b8|No": {
+        "title": "Will Vissel K\u014dbe vs. Cerezo \u014csaka end in a draw?",
+        "outcome": "No",
+        "value": 1209.9192,
+        "avgPrice": 0.6999,
+        "slug": "jap-vis-cer-2026-08-29-draw"
       },
       "0xb3557d1368422933aef5227e1a440c8f96381278abb2698c83fe9f869ed44c3f|Grigor Dimitrov": {
         "title": "US Open, Qualification ATP: Otto Virtanen vs Grigor Dimitrov",
@@ -354,8 +382,8 @@
       "0x85d258bc964cd0298b22dadeeae9c7a51d576421d7e027dbc7d46605844fa323|No": {
         "title": "Will SG Dynamo Dresden win on 2026-08-29?",
         "outcome": "No",
-        "value": 1116.1773,
-        "avgPrice": 0.6276,
+        "value": 1092.6119,
+        "avgPrice": 0.5696,
         "slug": "bl2-hei-dyn-2026-08-29-dyn"
       },
       "0x89da9c97d605be3c28fdd3be5b77a1d411919e8aa6adde4a7dea63ced2889f6b|Over": {
@@ -364,13 +392,6 @@
         "value": 1091.9891,
         "avgPrice": 0.4665,
         "slug": "jap-ura-yom-2026-08-29-total-3pt5"
-      },
-      "0x375e14ff6fad27d109523e3d6302ed8e2f2125cdc4213af0edb956e87b52beaf|Lorenzo Carboni": {
-        "title": "ITF MEN - SINGLES: M25 Lausanne (Switzerland), clay: Andrey Chepelev vs Lorenzo Carboni",
-        "outcome": "Lorenzo Carboni",
-        "value": 1091.7133,
-        "avgPrice": 0.5094,
-        "slug": "itf-chepele-carboni-2026-08-29"
       },
       "0x5cb7eee46ad9417b4541a12f08d5aa8c33dfa2db6ad541f7f95b0bccb57a3961|CTBC Flying Oyster": {
         "title": "LoL: CTBC Flying Oyster vs MVK Esports (BO5) - LCP Playoffs",
@@ -393,27 +414,6 @@
         "avgPrice": 0.73,
         "slug": "itf-daems-granweh-2026-07-23"
       },
-      "0xfb4bc7f2518eef71f472f3bed3d32f58e211e48bea81dd9e1346085e17adca3e|Kawasaki Frontale": {
-        "title": "Spread: Kawasaki Frontale (-1.5)",
-        "outcome": "Kawasaki Frontale",
-        "value": 1052.224,
-        "avgPrice": 0.4123,
-        "slug": "jap-kaw-jef-2026-08-29-spread-home-1pt5"
-      },
-      "0x223ee65815fc4e5ededbd66fdae68288bfebeb8fa3bfa51f850adf35c86ed7b8|No": {
-        "title": "Will Vissel K\u014dbe vs. Cerezo \u014csaka end in a draw?",
-        "outcome": "No",
-        "value": 1047.1036,
-        "avgPrice": 0.6999,
-        "slug": "jap-vis-cer-2026-08-29-draw"
-      },
-      "0xb31a5eae966c97d649e145b71fe8aebb0488c0c8a16c3516ccc514499ef99223|Over": {
-        "title": "V-Varen Nagasaki vs. FC T\u014dky\u014d: O/U 2.5",
-        "outcome": "Over",
-        "value": 1038.3144,
-        "avgPrice": 0.6344,
-        "slug": "jap-vva-fct-2026-08-29-total-2pt5"
-      },
       "0x76db7acbb5b1b200cc699e9bc269dfc29f5384b14f2b1d4f23de7e39d5814652|Over": {
         "title": "T\u014dky\u014d Verdy vs. Kashima Antlers: O/U 0.5",
         "outcome": "Over",
@@ -421,40 +421,26 @@
         "avgPrice": 0.8401,
         "slug": "jap-fct1-kas-2026-08-29-total-0pt5"
       },
-      "0x6cf6484d62c3b91f2e9d5911b403861b6b98015aa56494e5efdce698da59c8f8|Over": {
-        "title": "V-Varen Nagasaki vs. FC T\u014dky\u014d: O/U 0.5",
-        "outcome": "Over",
-        "value": 962.7983,
-        "avgPrice": 0.9069,
-        "slug": "jap-vva-fct-2026-08-29-total-0pt5"
+      "0xb49b11f76431803c0d7b3903f900d19f5db710493a7d4ce5ad8d4b4c2770a482|Yes": {
+        "title": "Will Nottingham Forest FC win on 2026-08-29?",
+        "outcome": "Yes",
+        "value": 961.4796,
+        "avgPrice": 0.14,
+        "slug": "epl-liv-not-2026-08-29-not"
       },
-      "0xb197ae17a968187d7cdc4f796907dad53c9ad16390ecfd3a9d72af3a99708fda|Over": {
-        "title": "Karlsruher SC vs. VfL Wolfsburg: O/U 5.5",
-        "outcome": "Over",
-        "value": 955.0339,
-        "avgPrice": 0.5571,
-        "slug": "bl2-ksc-wob-2026-08-29-total-5pt5"
+      "0x51d8398f03ae5cd95012427d074fc460748276213e1d3db44b43f8cb40176917|Stoke City FC": {
+        "title": "Spread: Wolverhampton Wanderers FC (-1.5)",
+        "outcome": "Stoke City FC",
+        "value": 940.5,
+        "avgPrice": 0.63,
+        "slug": "elc-wol-sto-2026-08-29-spread-home-1pt5"
       },
       "0x86b8e99f13d4875bf16d05ff664e1ed98a68e3909c8ffd4f41ee6f6707cecfc4|No": {
         "title": "Will 1. FC Heidenheim 1846 win on 2026-08-29?",
         "outcome": "No",
-        "value": 904.9987,
+        "value": 889.4844,
         "avgPrice": 0.8593,
         "slug": "bl2-hei-dyn-2026-08-29-hei"
-      },
-      "0x89a420778c79f6437538be44a0388c94065a07f9649b2f3f11d2033d6274c942|LG Twins": {
-        "title": "KBO: LG Twins vs. Lotte Giants",
-        "outcome": "LG Twins",
-        "value": 896.9119,
-        "avgPrice": 0.7789,
-        "slug": "kbo-lg-lot-2026-08-29"
-      },
-      "0x41441441f7f447da384039518284204c393c00f5237a7c78ffff3252e8955fc8|Over": {
-        "title": "Vissel K\u014dbe vs. Cerezo \u014csaka: O/U 1.5",
-        "outcome": "Over",
-        "value": 871.9524,
-        "avgPrice": 0.5434,
-        "slug": "jap-vis-cer-2026-08-29-total-1pt5"
       },
       "0xcc14b915a78cec9356036c07ea43b1a18ed156d95446ed700b7b531129fb4a8a|No": {
         "title": "Will RB Leipzig win on 2026-08-29?",
@@ -463,6 +449,13 @@
         "avgPrice": 0.38,
         "slug": "bun-lei-moe-2026-08-29-lei"
       },
+      "0xcbe17f56591fb2571c8c2f6098fc17a730a60632fbdeb3b058386e761f99cfa3|Yes": {
+        "title": "Will Ulsan HD FC win on 2026-08-29?",
+        "outcome": "Yes",
+        "value": 858.8801,
+        "avgPrice": 0.7439,
+        "slug": "kor-uls-san-2026-08-29-uls"
+      },
       "0xf98906458045ba38ce7552bfa05de44fd4213d110a498eebaf6b297e5616844a|Over": {
         "title": "Urawa Red Diamonds vs. Yokohama F\u00b7Marinos: O/U 4.5",
         "outcome": "Over",
@@ -470,19 +463,26 @@
         "avgPrice": 0.17,
         "slug": "jap-ura-yom-2026-08-29-total-4pt5"
       },
+      "0x4bfe5cf39ea7a8a172ab6177f6232220c9501f763febde4c056358b43c21e89b|Over": {
+        "title": "FC Energie Cottbus vs. SpVgg Greuther F\u00fcrth: O/U 2.5",
+        "outcome": "Over",
+        "value": 808.338,
+        "avgPrice": 0.6547,
+        "slug": "bl2-fce-fur-2026-08-29-total-2pt5"
+      },
       "0x5adef03382778a74d02dd68c5940261ebe002385c2339c453bd977fd7f1f518f|No": {
         "title": "Will JEF United Ichihara Chiba win on 2026-08-29?",
         "outcome": "No",
-        "value": 804.364,
+        "value": 805.9768,
         "avgPrice": 0.987,
         "slug": "jap-kaw-jef-2026-08-29-jef"
       },
-      "0x51d8398f03ae5cd95012427d074fc460748276213e1d3db44b43f8cb40176917|Stoke City FC": {
-        "title": "Spread: Wolverhampton Wanderers FC (-1.5)",
-        "outcome": "Stoke City FC",
-        "value": 800.25,
-        "avgPrice": 0.63,
-        "slug": "elc-wol-sto-2026-08-29-spread-home-1pt5"
+      "0xea8527c4c5081248e98b2399c9d42dfb750df143d4e013c8709d5f227018179f|Daniel Michalski": {
+        "title": "ITF MEN - SINGLES: M25 Poznan (Poland), clay: Daniel Michalski vs Nikita Mashtakov",
+        "outcome": "Daniel Michalski",
+        "value": 793.2028,
+        "avgPrice": 0.7495,
+        "slug": "itf-michals-mashtak-2026-08-29"
       },
       "0x16a4eb4f9ba2c5601406f85e5a86decb01f265adae6fd57e208085651b302a56|KT Wiz": {
         "title": "KBO: Doosan Bears vs. KT Wiz",
@@ -491,19 +491,12 @@
         "avgPrice": 0.5688,
         "slug": "kbo-doo-kt-2026-07-21"
       },
-      "0xf3da12f03b24f97761dad687a2b371bb020d1a2e2cb9ce53d55176efe60c1946|FC T\u014dky\u014d": {
-        "title": "Spread: FC T\u014dky\u014d (-2.5)",
-        "outcome": "FC T\u014dky\u014d",
-        "value": 757.9475,
-        "avgPrice": 0.2293,
-        "slug": "jap-vva-fct-2026-08-29-spread-away-2pt5"
-      },
-      "0xea8527c4c5081248e98b2399c9d42dfb750df143d4e013c8709d5f227018179f|Daniel Michalski": {
-        "title": "ITF MEN - SINGLES: M25 Poznan (Poland), clay: Daniel Michalski vs Nikita Mashtakov",
-        "outcome": "Daniel Michalski",
-        "value": 740.6147,
-        "avgPrice": 0.7495,
-        "slug": "itf-michals-mashtak-2026-08-29"
+      "0xd6cc66d967509d3de85c04e07986dc7857c559e60bda1c1033d58ee487be8988|Yes": {
+        "title": "Will Kawasaki Frontale win on 2026-08-29?",
+        "outcome": "Yes",
+        "value": 742.2791,
+        "avgPrice": 0.7218,
+        "slug": "jap-kaw-jef-2026-08-29-kaw"
       },
       "0x84ed0eea4e7c92fd0f3d9134c955584a7ebfdaef14283892b47513d4b77a568d|Alexandre Reco": {
         "title": "ITF Rognac: Loic Namigandet Tenguere vs Alexandre Reco",
@@ -512,26 +505,12 @@
         "avgPrice": 0.6982,
         "slug": "itf-tenguer-reco-2026-07-23"
       },
-      "0xd6cc66d967509d3de85c04e07986dc7857c559e60bda1c1033d58ee487be8988|Yes": {
-        "title": "Will Kawasaki Frontale win on 2026-08-29?",
-        "outcome": "Yes",
-        "value": 735.9666,
-        "avgPrice": 0.7218,
-        "slug": "jap-kaw-jef-2026-08-29-kaw"
-      },
       "0x14d1c27319c93afa3877167164bb117438a1958ec45103b331c2bbc33ebf821f|Yes": {
         "title": "Will Kashiwa Reysol win on 2026-08-29?",
         "outcome": "Yes",
         "value": 722.1866,
         "avgPrice": 0.3843,
         "slug": "jap-ssp-rey-2026-08-29-rey"
-      },
-      "0xff358eb4fb41330df0aca2037c92face9a3e36bcd9ec6133bc0a7b16164fb704|Sergi Perez Contri": {
-        "title": "ITF MEN - SINGLES: M25 Oviedo (Spain), clay: Alexander Ritschard vs Sergi Perez Contri",
-        "outcome": "Sergi Perez Contri",
-        "value": 704.1206,
-        "avgPrice": 0.2262,
-        "slug": "itf-ritscha-contri-2026-08-29"
       },
       "0xd73b81755d573d5abb591ab049ef6a5c535833296e8b1d3573558b6d12d686fe|Yes": {
         "title": "Will Vancouver Whitecaps FC win on 2026-07-16?",
@@ -547,19 +526,26 @@
         "avgPrice": 0.6518,
         "slug": "jap-ura-yom-2026-08-29-total-1pt5"
       },
-      "0x4bfe5cf39ea7a8a172ab6177f6232220c9501f763febde4c056358b43c21e89b|Over": {
-        "title": "FC Energie Cottbus vs. SpVgg Greuther F\u00fcrth: O/U 2.5",
-        "outcome": "Over",
-        "value": 682.416,
-        "avgPrice": 0.6547,
-        "slug": "bl2-fce-fur-2026-08-29-total-2pt5"
-      },
       "0xa79c618a9114320d9675d73a77df424b90f375cd949c86775b02a3cf94f8ad6c|Over": {
         "title": "T\u014dky\u014d Verdy vs. Kashima Antlers: O/U 1.5",
         "outcome": "Over",
         "value": 670.7087,
         "avgPrice": 0.7476,
         "slug": "jap-fct1-kas-2026-08-29-total-1pt5"
+      },
+      "0x89a420778c79f6437538be44a0388c94065a07f9649b2f3f11d2033d6274c942|LG Twins": {
+        "title": "KBO: LG Twins vs. Lotte Giants",
+        "outcome": "LG Twins",
+        "value": 664.3792,
+        "avgPrice": 0.7789,
+        "slug": "kbo-lg-lot-2026-08-29"
+      },
+      "0x82a67dc6ae0101bf0d9c5fa4b2eb3e0249b01b5d8192aa87439fe33582e21de9|1. FC Heidenheim 1846": {
+        "title": "Spread: SG Dynamo Dresden (-1.5)",
+        "outcome": "1. FC Heidenheim 1846",
+        "value": 657.9837,
+        "avgPrice": 0.7116,
+        "slug": "bl2-hei-dyn-2026-08-29-spread-away-1pt5"
       },
       "0xe3c90c8836bbdcb619f6b749e7095458baca9be96cc81f125568bea771336207|Sobolieva": {
         "title": "Set 1 Winner: Samson vs Sobolieva",
@@ -568,54 +554,12 @@
         "avgPrice": 0.5179,
         "slug": "wta-samson-sobolie-2026-07-29-first-set-winner-Samson-vs-Sobolieva"
       },
-      "0x1617d3f450a19aff91f53b0715678314bc28bc92cf466c2d40e1befe47f17cb8|Kashiwa Reysol": {
-        "title": "Spread: Shimizu S-Pulse (-1.5)",
-        "outcome": "Kashiwa Reysol",
-        "value": 625.3471,
-        "avgPrice": 0.94,
-        "slug": "jap-ssp-rey-2026-08-29-spread-home-1pt5"
-      },
-      "0x7df1d4ec251ba238a5578afbaf4a83e5650c69d2b92d59a0629fc3d67cbcb05f|Top Esports": {
-        "title": "LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs",
-        "outcome": "Top Esports",
-        "value": 622.8029,
-        "avgPrice": 0.3872,
-        "slug": "lol-tes-lgd-2026-08-29"
-      },
-      "0x994e59f13a62fd6ead48d73fbb4419b8642b3ed9d007d00a7e2e8d83fd32ef6d|Anas Mazdrashki": {
-        "title": "ITF MEN - SINGLES: M15 Bucharest 3 (Romania), clay: Gabriel Ghetu vs Anas Mazdrashki",
-        "outcome": "Anas Mazdrashki",
-        "value": 617.3316,
-        "avgPrice": 0.7311,
-        "slug": "itf-ghetu-mazdras-2026-08-29"
-      },
-      "0x47a0e8ec270b112460cf0eb50fa821eb2396f535f28f9f78a65736c0aeb924c2|Vissel K\u014dbe": {
-        "title": "Spread: Vissel K\u014dbe (-1.5)",
-        "outcome": "Vissel K\u014dbe",
-        "value": 610.7506,
-        "avgPrice": 0.0856,
-        "slug": "jap-vis-cer-2026-08-29-spread-home-1pt5"
-      },
       "0xdf2ed6111da1216c1083dd82612b588be4bd3ee20c75e8f8c41b6311b10e327e|Chongqing Tonglianglong FC": {
         "title": "Spread: Henan FC (-1.5)",
         "outcome": "Chongqing Tonglianglong FC",
-        "value": 601.4893,
+        "value": 619.7163,
         "avgPrice": 0.5937,
         "slug": "chi-hen-ton-2026-08-29-spread-home-1pt5"
-      },
-      "0xe33434e292bbafec7ae585f40339cf059a112013ab275758efa22c661c33b528|FK Fakel Voronezh": {
-        "title": "Spread: FK Zenit (-1.5)",
-        "outcome": "FK Fakel Voronezh",
-        "value": 582.9,
-        "avgPrice": 0.67,
-        "slug": "rus-fak-zen-2026-08-29-spread-away-1pt5"
-      },
-      "0xfe9d667edb2dad8280f3a4dfe4ec52a1ed5902cfdd6b171bb078d634531f72c4|Nauhany Vitoria Leme Da Silva": {
-        "title": "ITF WOMEN - SINGLES: W35 Barueri (Brazil), hard: Nauhany Vitoria Leme Da Silva vs Cadence Brace",
-        "outcome": "Nauhany Vitoria Leme Da Silva",
-        "value": 579.1632,
-        "avgPrice": 0.35,
-        "slug": "itf-nauhany-brace-2026-08-29"
       },
       "0x29e9249592b3c39d86e355dae7df58750304a82cce65cc92074706af44bc1ae8|Over": {
         "title": "Urawa Red Diamonds vs. Yokohama F\u00b7Marinos: O/U 2.5",
@@ -624,12 +568,12 @@
         "avgPrice": 0.35,
         "slug": "jap-ura-yom-2026-08-29-total-2pt5"
       },
-      "0x96a2c8527a8a72bff2becbd36d90d380c8089ef676bbd6fe216a81529aafa654|Ignacio Monzon": {
-        "title": "ITF MEN - SINGLES: M15 Pecs (Hungary), clay: John Hallquist Lithen vs Ignacio Monzon",
-        "outcome": "Ignacio Monzon",
-        "value": 543.6401,
-        "avgPrice": 0.6383,
-        "slug": "itf-lithen-monzon-2026-08-29"
+      "0x5afce4be6e3b23873a4e6b5b84d7dfe2b8009c49b06b60a44b847aa961ef35f1|Over": {
+        "title": "FC Energie Cottbus vs. SpVgg Greuther F\u00fcrth: O/U 5.5",
+        "outcome": "Over",
+        "value": 575.3987,
+        "avgPrice": 0.0815,
+        "slug": "bl2-fce-fur-2026-08-29-total-5pt5"
       },
       "0x7453afa0c750de6c08b362d0813e2ed01a28a3c8fdbdb47f219f351935cf93fd|Over": {
         "title": "Kawasaki Frontale vs. JEF United Ichihara Chiba: O/U 1.5",
@@ -654,17 +598,24 @@
       }
     },
     "#2 RN1": {
+      "0x7e9a11b6eb4cbeb32961b04853e7cfed65c05cedd38d9a04df51b46592a0a6e5|No": {
+        "title": "Will Liverpool FC win on 2026-08-29?",
+        "outcome": "No",
+        "value": 27455.4002,
+        "avgPrice": 0.4809,
+        "slug": "epl-liv-not-2026-08-29-liv"
+      },
       "0x8a627f67190bb5cd622cb58411a2b4db65a9e90ac402fa912d6ce657993a731f|Nottingham Forest FC": {
         "title": "Spread: Liverpool FC (-2.5)",
         "outcome": "Nottingham Forest FC",
-        "value": 22155.0429,
+        "value": 24319.6161,
         "avgPrice": 0.7681,
         "slug": "epl-liv-not-2026-08-29-spread-home-2pt5"
       },
       "0xacc98e1eae1bf5feb70af0b4ea0e23d574dffdad8e3b833c04faa5054d54d17a|Anja Stankovic": {
         "title": "ITF WOMEN - SINGLES: W50 Kursumlijska Banja (Serbia), clay: Rositsa Dencheva vs Anja Stankovic",
         "outcome": "Anja Stankovic",
-        "value": 13791.18,
+        "value": 14065.5964,
         "avgPrice": 0.4961,
         "slug": "itf-denchev-stanko-2026-08-29"
       },
@@ -675,81 +626,95 @@
         "avgPrice": 0.5437,
         "slug": "bra3-ita-bot-2026-08-29-ita"
       },
-      "0x7e9a11b6eb4cbeb32961b04853e7cfed65c05cedd38d9a04df51b46592a0a6e5|No": {
-        "title": "Will Liverpool FC win on 2026-08-29?",
-        "outcome": "No",
-        "value": 10226.2412,
-        "avgPrice": 0.3498,
-        "slug": "epl-liv-not-2026-08-29-liv"
-      },
-      "0xd6610e656f1627099a40d44b2b40ee97b0991750af36e80d0ca73533cb3efff1|No": {
-        "title": "Will Liverpool FC vs. Nottingham Forest FC end in a draw?",
-        "outcome": "No",
-        "value": 9053.8114,
-        "avgPrice": 0.7677,
-        "slug": "epl-liv-not-2026-08-29-draw"
-      },
-      "0x96a2c8527a8a72bff2becbd36d90d380c8089ef676bbd6fe216a81529aafa654|Ignacio Monzon": {
-        "title": "ITF MEN - SINGLES: M15 Pecs (Hungary), clay: John Hallquist Lithen vs Ignacio Monzon",
-        "outcome": "Ignacio Monzon",
-        "value": 8051.3579,
-        "avgPrice": 0.613,
-        "slug": "itf-lithen-monzon-2026-08-29"
+      "0x6827c82d3d586cd2263cf29c1269dfc51ad30cfe9ef5b7200abcb88035164c37|Gabriela Ce": {
+        "title": "ITF WOMEN - SINGLES: W35 Trieste (Italy), clay: Gabriela Ce vs Pia Lovric",
+        "outcome": "Gabriela Ce",
+        "value": 9132.3283,
+        "avgPrice": 0.5388,
+        "slug": "itf-ce-lovric-2026-08-29"
       },
       "0xb49b11f76431803c0d7b3903f900d19f5db710493a7d4ce5ad8d4b4c2770a482|No": {
         "title": "Will Nottingham Forest FC win on 2026-08-29?",
         "outcome": "No",
-        "value": 6784.8915,
-        "avgPrice": 0.8402,
+        "value": 8733.0439,
+        "avgPrice": 0.7481,
         "slug": "epl-liv-not-2026-08-29-not"
       },
-      "0x6827c82d3d586cd2263cf29c1269dfc51ad30cfe9ef5b7200abcb88035164c37|Gabriela Ce": {
-        "title": "ITF WOMEN - SINGLES: W35 Trieste (Italy), clay: Gabriela Ce vs Pia Lovric",
-        "outcome": "Gabriela Ce",
-        "value": 6693.4646,
-        "avgPrice": 0.5289,
-        "slug": "itf-ce-lovric-2026-08-29"
+      "0xfa98ce27b43ea9f7de172335fbbef1695b5dfcea9807a6da8bc7509009a70929|Angella Okutoyi": {
+        "title": "ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Valentina Ryser vs Angella Okutoyi",
+        "outcome": "Angella Okutoyi",
+        "value": 8478.4896,
+        "avgPrice": 0.5784,
+        "slug": "itf-ryser-okutoyi-2026-08-29"
       },
-      "0x84469c1d9b9ffebd1121540c7769ff45b226eda4417cb940deaab794d97f451b|Yes": {
-        "title": "Will Milton Keynes Dons FC win on 2026-08-29?",
+      "0xd6610e656f1627099a40d44b2b40ee97b0991750af36e80d0ca73533cb3efff1|No": {
+        "title": "Will Liverpool FC vs. Nottingham Forest FC end in a draw?",
+        "outcome": "No",
+        "value": 8462.059,
+        "avgPrice": 0.7677,
+        "slug": "epl-liv-not-2026-08-29-draw"
+      },
+      "0xb49b11f76431803c0d7b3903f900d19f5db710493a7d4ce5ad8d4b4c2770a482|Yes": {
+        "title": "Will Nottingham Forest FC win on 2026-08-29?",
         "outcome": "Yes",
-        "value": 5175.0,
-        "avgPrice": 0.4133,
-        "slug": "el1-mkd-lei-2026-08-29-mkd"
+        "value": 7280.155,
+        "avgPrice": 0.2965,
+        "slug": "epl-liv-not-2026-08-29-not"
       },
-      "0x3f6ddf32239a643d9d8c8d3b0a962693c2495d17f2a05bc05ea3613ba9b1a5c2|Denisa Zoldakova": {
-        "title": "ITF WOMEN - SINGLES: W75 Bytom (Poland), clay: Denisa Zoldakova vs Justina Mikulskyte",
-        "outcome": "Denisa Zoldakova",
-        "value": 4376.919,
-        "avgPrice": 0.8391,
-        "slug": "itf-zoldako-mikulsk-2026-08-29"
+      "0x7e9a11b6eb4cbeb32961b04853e7cfed65c05cedd38d9a04df51b46592a0a6e5|Yes": {
+        "title": "Will Liverpool FC win on 2026-08-29?",
+        "outcome": "Yes",
+        "value": 6525.5006,
+        "avgPrice": 0.3891,
+        "slug": "epl-liv-not-2026-08-29-liv"
       },
       "0x316753d3ce2c56476283eda189cc418087cf2b76a6115d8198b5fcecf2d754bc|No": {
         "title": "Exact Score: Liverpool FC 0 - 1 Nottingham Forest FC?",
         "outcome": "No",
-        "value": 4327.344,
-        "avgPrice": 0.9543,
+        "value": 6097.7686,
+        "avgPrice": 0.9472,
         "slug": "epl-liv-not-2026-08-29-exact-score-0-1"
       },
       "0xff358eb4fb41330df0aca2037c92face9a3e36bcd9ec6133bc0a7b16164fb704|Alexander Ritschard": {
         "title": "ITF MEN - SINGLES: M25 Oviedo (Spain), clay: Alexander Ritschard vs Sergi Perez Contri",
         "outcome": "Alexander Ritschard",
-        "value": 3625.4376,
-        "avgPrice": 0.572,
+        "value": 6027.7445,
+        "avgPrice": 0.6166,
         "slug": "itf-ritscha-contri-2026-08-29"
       },
-      "0x1874be94756099de4f58c9898296cd9c800b986322cb292244f5f78efcf82abe|Liverpool FC": {
-        "title": "Spread: Liverpool FC (-1.5)",
-        "outcome": "Liverpool FC",
-        "value": 3399.9999,
-        "avgPrice": 0.4186,
-        "slug": "epl-liv-not-2026-08-29-spread-home-1pt5"
+      "0x3f6ddf32239a643d9d8c8d3b0a962693c2495d17f2a05bc05ea3613ba9b1a5c2|Denisa Zoldakova": {
+        "title": "ITF WOMEN - SINGLES: W75 Bytom (Poland), clay: Denisa Zoldakova vs Justina Mikulskyte",
+        "outcome": "Denisa Zoldakova",
+        "value": 5834.1654,
+        "avgPrice": 0.8481,
+        "slug": "itf-zoldako-mikulsk-2026-08-29"
+      },
+      "0xc8853da9308b2690b23279604e9fb0f57ba0970408c0df7292ac4a7901d4d5ce|Over": {
+        "title": "Liverpool FC vs. Nottingham Forest FC: O/U 1.5",
+        "outcome": "Over",
+        "value": 5084.963,
+        "avgPrice": 0.9174,
+        "slug": "epl-liv-not-2026-08-29-total-1pt5"
+      },
+      "0x375e14ff6fad27d109523e3d6302ed8e2f2125cdc4213af0edb956e87b52beaf|Andrey Chepelev": {
+        "title": "ITF MEN - SINGLES: M25 Lausanne (Switzerland), clay: Andrey Chepelev vs Lorenzo Carboni",
+        "outcome": "Andrey Chepelev",
+        "value": 4908.9168,
+        "avgPrice": 0.6412,
+        "slug": "itf-chepele-carboni-2026-08-29"
+      },
+      "0x84469c1d9b9ffebd1121540c7769ff45b226eda4417cb940deaab794d97f451b|Yes": {
+        "title": "Will Milton Keynes Dons FC win on 2026-08-29?",
+        "outcome": "Yes",
+        "value": 4425.0,
+        "avgPrice": 0.4133,
+        "slug": "el1-mkd-lei-2026-08-29-mkd"
       },
       "0x1874be94756099de4f58c9898296cd9c800b986322cb292244f5f78efcf82abe|Nottingham Forest FC": {
         "title": "Spread: Liverpool FC (-1.5)",
         "outcome": "Nottingham Forest FC",
-        "value": 3105.7647,
-        "avgPrice": 0.6861,
+        "value": 4047.2599,
+        "avgPrice": 0.6874,
         "slug": "epl-liv-not-2026-08-29-spread-home-1pt5"
       },
       "0x2b1871562184e2ae38ad020a2e616c697d11323b1ff2e092f61b9ed259cf2857|No": {
@@ -759,19 +724,19 @@
         "avgPrice": 0.3052,
         "slug": "hr1-ist-din-2026-08-29-din"
       },
-      "0x375e14ff6fad27d109523e3d6302ed8e2f2125cdc4213af0edb956e87b52beaf|Andrey Chepelev": {
-        "title": "ITF MEN - SINGLES: M25 Lausanne (Switzerland), clay: Andrey Chepelev vs Lorenzo Carboni",
-        "outcome": "Andrey Chepelev",
-        "value": 3064.408,
-        "avgPrice": 0.6297,
-        "slug": "itf-chepele-carboni-2026-08-29"
-      },
       "0xef8da3a8204e7e8c4def3a51f9c470d2857bc36c154ff187d95c1086b029d08f|Falkirk FC": {
         "title": "Spread: Celtic FC (-2.5)",
         "outcome": "Falkirk FC",
-        "value": 3025.0,
+        "value": 3075.0,
         "avgPrice": 0.58,
         "slug": "scop-cel-fal-2026-08-29-spread-home-2pt5"
+      },
+      "0x56b53f2bcc21f6c81f0f66834d05102eff93d0f54070edc9f234f6c4561ca1da|No": {
+        "title": "Exact Score: Liverpool FC 0 - 2 Nottingham Forest FC?",
+        "outcome": "No",
+        "value": 2907.171,
+        "avgPrice": 0.958,
+        "slug": "epl-liv-not-2026-08-29-exact-score-0-2"
       },
       "0xaedb6667cf88cade0903baee5d5f14180e0cb4c35cfb1c8c05d5f91af051ba5b|Alexander Blockx": {
         "title": "National Bank Open: Jaume Munar vs Alexander Blockx",
@@ -780,24 +745,17 @@
         "avgPrice": 0.5,
         "slug": "atp-munar-blockx-2026-08-04"
       },
-      "0x5ee3589a1b96b0058a6bc692c981ec62070d06a25a72684e4b1deb7632e8a1d5|No": {
-        "title": "Will Wolverhampton Wanderers FC win on 2026-08-29?",
-        "outcome": "No",
-        "value": 2485.72,
-        "avgPrice": 0.3832,
-        "slug": "elc-wol-sto-2026-08-29-wol"
-      },
-      "0xf1b4b6e835927b42c56cb8d3d95a9178623a8215341b6db6b2bd56b4629d5bd1|No": {
-        "title": "Will VfL Wolfsburg win on 2026-08-29?",
-        "outcome": "No",
-        "value": 2465.258,
-        "avgPrice": 0.6227,
-        "slug": "bl2-ksc-wob-2026-08-29-wob"
+      "0xf8b36947bd3bd878511d10605aed865f704450af04fccb4b6cc6573a8cf5fdcd|Under": {
+        "title": "Liverpool FC vs. Nottingham Forest FC: 1st Half O/U 2.5",
+        "outcome": "Under",
+        "value": 2489.8978,
+        "avgPrice": 0.8599,
+        "slug": "epl-liv-not-2026-08-29-first-half-total-2pt5"
       },
       "0xb197ae17a968187d7cdc4f796907dad53c9ad16390ecfd3a9d72af3a99708fda|Over": {
         "title": "Karlsruher SC vs. VfL Wolfsburg: O/U 5.5",
         "outcome": "Over",
-        "value": 2458.8592,
+        "value": 2444.7278,
         "avgPrice": 0.6929,
         "slug": "bl2-ksc-wob-2026-08-29-total-5pt5"
       },
@@ -808,12 +766,26 @@
         "avgPrice": 0.45,
         "slug": "atp-fery-buse-2026-08-29"
       },
-      "0x375e14ff6fad27d109523e3d6302ed8e2f2125cdc4213af0edb956e87b52beaf|Lorenzo Carboni": {
-        "title": "ITF MEN - SINGLES: M25 Lausanne (Switzerland), clay: Andrey Chepelev vs Lorenzo Carboni",
-        "outcome": "Lorenzo Carboni",
-        "value": 2106.0962,
-        "avgPrice": 0.3227,
-        "slug": "itf-chepele-carboni-2026-08-29"
+      "0xf1b4b6e835927b42c56cb8d3d95a9178623a8215341b6db6b2bd56b4629d5bd1|No": {
+        "title": "Will VfL Wolfsburg win on 2026-08-29?",
+        "outcome": "No",
+        "value": 2161.3221,
+        "avgPrice": 0.6227,
+        "slug": "bl2-ksc-wob-2026-08-29-wob"
+      },
+      "0x7e4eb975bc2a3d14e879f57f8d8274e7cb79c2b3c847c0902aa483c73cbc12a8|Over": {
+        "title": "Liverpool FC vs. Nottingham Forest FC: O/U 3.5",
+        "outcome": "Over",
+        "value": 2057.95,
+        "avgPrice": 0.4193,
+        "slug": "epl-liv-not-2026-08-29-total-3pt5"
+      },
+      "0xaab84c39a962c5749a9719382726e64d93d22681e15c99ae75b5b68d6999af61|VfL Wolfsburg": {
+        "title": "Spread: Karlsruher SC (-2.5)",
+        "outcome": "VfL Wolfsburg",
+        "value": 1920.35,
+        "avgPrice": 0.9,
+        "slug": "bl2-ksc-wob-2026-08-29-spread-home-2pt5"
       },
       "0x534bbc26312c90eef3eedf9d4dce2cfd63f9806569f11d31e05f312534d36a4d|Over": {
         "title": "Al Kholood Saudi Club vs. Al Ahli Saudi Club: O/U 2.5",
@@ -822,40 +794,33 @@
         "avgPrice": 0.53,
         "slug": "spl-kho-ahl-2026-08-29-total-2pt5"
       },
-      "0x2e2a3d416ac193264939e2d6e35b735ff41c91a754bee81f7abd1811c80497c4|VfL Wolfsburg": {
-        "title": "Spread: Karlsruher SC (-1.5)",
-        "outcome": "VfL Wolfsburg",
-        "value": 1902.4414,
-        "avgPrice": 0.7299,
-        "slug": "bl2-ksc-wob-2026-08-29-spread-home-1pt5"
+      "0x555dcdb0f47854dc1a7cf6f5f4749eeaa5f8d8b02703d99dada8bc17318da2a2|No": {
+        "title": "Exact Score: Red Star FC 0 - 0 Stade de Reims?",
+        "outcome": "No",
+        "value": 1847.225,
+        "avgPrice": 0.9299,
+        "slug": "fr2-rst-rei-2026-08-29-exact-score-0-0"
       },
-      "0x7e9a11b6eb4cbeb32961b04853e7cfed65c05cedd38d9a04df51b46592a0a6e5|Yes": {
-        "title": "Will Liverpool FC win on 2026-08-29?",
-        "outcome": "Yes",
-        "value": 1824.0048,
-        "avgPrice": 0.6169,
-        "slug": "epl-liv-not-2026-08-29-liv"
-      },
-      "0xaab84c39a962c5749a9719382726e64d93d22681e15c99ae75b5b68d6999af61|VfL Wolfsburg": {
-        "title": "Spread: Karlsruher SC (-2.5)",
-        "outcome": "VfL Wolfsburg",
-        "value": 1754.37,
-        "avgPrice": 0.9,
-        "slug": "bl2-ksc-wob-2026-08-29-spread-home-2pt5"
-      },
-      "0xff358eb4fb41330df0aca2037c92face9a3e36bcd9ec6133bc0a7b16164fb704|Sergi Perez Contri": {
-        "title": "ITF MEN - SINGLES: M25 Oviedo (Spain), clay: Alexander Ritschard vs Sergi Perez Contri",
-        "outcome": "Sergi Perez Contri",
-        "value": 1700.9784,
-        "avgPrice": 0.2195,
-        "slug": "itf-ritscha-contri-2026-08-29"
+      "0x5ee3589a1b96b0058a6bc692c981ec62070d06a25a72684e4b1deb7632e8a1d5|No": {
+        "title": "Will Wolverhampton Wanderers FC win on 2026-08-29?",
+        "outcome": "No",
+        "value": 1712.8317,
+        "avgPrice": 0.3654,
+        "slug": "elc-wol-sto-2026-08-29-wol"
       },
       "0x204643b0afda4dd0a291052a8061622f2a30b37aa2114c30ddcb1ec18a17def6|Falkirk FC": {
         "title": "Spread: Celtic FC (-1.5)",
         "outcome": "Falkirk FC",
-        "value": 1649.4435,
+        "value": 1670.8648,
         "avgPrice": 0.36,
         "slug": "scop-cel-fal-2026-08-29-spread-home-1pt5"
+      },
+      "0x8048c9ec83e3e24f94460d571321137d72a0918d248c9a3f240716fbc6742324|No": {
+        "title": "Liverpool FC leading at halftime?",
+        "outcome": "No",
+        "value": 1618.6741,
+        "avgPrice": 0.537,
+        "slug": "epl-liv-not-2026-08-29-halftime-result-home"
       },
       "0x0bbc63372aaf0867db23fc361b4e37f7d3125c7acef6cc8e2d5ce40f65b7e523|New York Yankees": {
         "title": "Boston Red Sox vs. New York Yankees",
@@ -864,33 +829,12 @@
         "avgPrice": 0.4999,
         "slug": "mlb-bos-nyy-2026-06-06"
       },
-      "0xfa98ce27b43ea9f7de172335fbbef1695b5dfcea9807a6da8bc7509009a70929|Angella Okutoyi": {
-        "title": "ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Valentina Ryser vs Angella Okutoyi",
-        "outcome": "Angella Okutoyi",
-        "value": 1600.9993,
-        "avgPrice": 0.4347,
-        "slug": "itf-ryser-okutoyi-2026-08-29"
-      },
-      "0x994e59f13a62fd6ead48d73fbb4419b8642b3ed9d007d00a7e2e8d83fd32ef6d|Anas Mazdrashki": {
-        "title": "ITF MEN - SINGLES: M15 Bucharest 3 (Romania), clay: Gabriel Ghetu vs Anas Mazdrashki",
-        "outcome": "Anas Mazdrashki",
-        "value": 1570.1039,
-        "avgPrice": 0.6613,
-        "slug": "itf-ghetu-mazdras-2026-08-29"
-      },
       "0xc072be286307ec721532d5d5eafb87de7f1fdd306050d606d9480b1b0e98b157|Over": {
         "title": "1. FC Heidenheim 1846 vs. SG Dynamo Dresden: 1st Half O/U 0.5",
         "outcome": "Over",
-        "value": 1552.329,
+        "value": 1556.2215,
         "avgPrice": 0.71,
         "slug": "bl2-hei-dyn-2026-08-29-first-half-total-0pt5"
-      },
-      "0x56b53f2bcc21f6c81f0f66834d05102eff93d0f54070edc9f234f6c4561ca1da|No": {
-        "title": "Exact Score: Liverpool FC 0 - 2 Nottingham Forest FC?",
-        "outcome": "No",
-        "value": 1462.05,
-        "avgPrice": 0.974,
-        "slug": "epl-liv-not-2026-08-29-exact-score-0-2"
       },
       "0xe5907ee5b1cbb4a4a905e29edaf2222f46f257e3780a8572791f0546236acbd3|Over": {
         "title": "San Francisco Giants vs. Atlanta Braves: O/U 7.5",
@@ -899,12 +843,47 @@
         "avgPrice": 0.47,
         "slug": "mlb-sf-atl-2026-06-18-total-7pt5"
       },
+      "0x1874be94756099de4f58c9898296cd9c800b986322cb292244f5f78efcf82abe|Liverpool FC": {
+        "title": "Spread: Liverpool FC (-1.5)",
+        "outcome": "Liverpool FC",
+        "value": 1425.8473,
+        "avgPrice": 0.4176,
+        "slug": "epl-liv-not-2026-08-29-spread-home-1pt5"
+      },
+      "0x82019090383b36bde29245370a8ca2ff2fd1a2f3fdc715a25bcc4e112f9e7830|VfL Wolfsburg": {
+        "title": "Spread: VfL Wolfsburg (-1.5)",
+        "outcome": "VfL Wolfsburg",
+        "value": 1424.7227,
+        "avgPrice": 0.0951,
+        "slug": "bl2-ksc-wob-2026-08-29-spread-away-1pt5"
+      },
+      "0x994e59f13a62fd6ead48d73fbb4419b8642b3ed9d007d00a7e2e8d83fd32ef6d|Gabriel Ghetu": {
+        "title": "ITF MEN - SINGLES: M15 Bucharest 3 (Romania), clay: Gabriel Ghetu vs Anas Mazdrashki",
+        "outcome": "Gabriel Ghetu",
+        "value": 1386.5786,
+        "avgPrice": 0.2748,
+        "slug": "itf-ghetu-mazdras-2026-08-29"
+      },
+      "0xf1b4b6e835927b42c56cb8d3d95a9178623a8215341b6db6b2bd56b4629d5bd1|Yes": {
+        "title": "Will VfL Wolfsburg win on 2026-08-29?",
+        "outcome": "Yes",
+        "value": 1349.8,
+        "avgPrice": 0.3877,
+        "slug": "bl2-ksc-wob-2026-08-29-wob"
+      },
       "0x2abc918d7096417b18da54ae5f86ac4cd79cafa1bdb0867b03ea83a14068a5ff|Over": {
         "title": "RKS Radomiak Radom vs. KS Cracovia Krakow: O/U 1.5",
         "outcome": "Over",
         "value": 1323.258,
         "avgPrice": 0.7489,
         "slug": "pol-rad-cra-2026-08-29-total-1pt5"
+      },
+      "0xb55b50a7baf99a339d6f96b3fbcc7551c8235345e32ac232db0bb302554c675d|Under": {
+        "title": "Liverpool FC vs. Nottingham Forest FC: 1st Half O/U 1.5",
+        "outcome": "Under",
+        "value": 1309.331,
+        "avgPrice": 0.6044,
+        "slug": "epl-liv-not-2026-08-29-first-half-total-1pt5"
       },
       "0xb851e31b037ec6fe2ac4d40b5f65521f07315e59a7e77ed9eb4253e254e1dd0e|Over": {
         "title": "Karlsruher SC vs. VfL Wolfsburg: O/U 3.5",
@@ -913,26 +892,33 @@
         "avgPrice": 0.7285,
         "slug": "bl2-ksc-wob-2026-08-29-total-3pt5"
       },
-      "0x82019090383b36bde29245370a8ca2ff2fd1a2f3fdc715a25bcc4e112f9e7830|VfL Wolfsburg": {
-        "title": "Spread: VfL Wolfsburg (-1.5)",
+      "0x2e2a3d416ac193264939e2d6e35b735ff41c91a754bee81f7abd1811c80497c4|VfL Wolfsburg": {
+        "title": "Spread: Karlsruher SC (-1.5)",
         "outcome": "VfL Wolfsburg",
-        "value": 1288.1055,
-        "avgPrice": 0.0951,
-        "slug": "bl2-ksc-wob-2026-08-29-spread-away-1pt5"
-      },
-      "0xf1b4b6e835927b42c56cb8d3d95a9178623a8215341b6db6b2bd56b4629d5bd1|Yes": {
-        "title": "Will VfL Wolfsburg win on 2026-08-29?",
-        "outcome": "Yes",
-        "value": 1260.475,
-        "avgPrice": 0.3877,
-        "slug": "bl2-ksc-wob-2026-08-29-wob"
+        "value": 1267.6412,
+        "avgPrice": 0.7299,
+        "slug": "bl2-ksc-wob-2026-08-29-spread-home-1pt5"
       },
       "0xaf818fc7235286dec75b23dab204b1b283cc2250f990cb2f0171cd5ae4025498|Under": {
         "title": "Liverpool FC vs. Nottingham Forest FC: O/U 4.5",
         "outcome": "Under",
-        "value": 1238.676,
-        "avgPrice": 0.8173,
+        "value": 1256.5923,
+        "avgPrice": 0.8135,
         "slug": "epl-liv-not-2026-08-29-total-4pt5"
+      },
+      "0x433e0fa51bb384a7e31d7a4762057ab5132fb63d6c09d28393a6111fd36d7d6b|Yes": {
+        "title": "Liverpool FC vs. Nottingham Forest FC: Both Teams to Score",
+        "outcome": "Yes",
+        "value": 1125.6114,
+        "avgPrice": 0.6073,
+        "slug": "epl-liv-not-2026-08-29-btts"
+      },
+      "0x5ee3589a1b96b0058a6bc692c981ec62070d06a25a72684e4b1deb7632e8a1d5|Yes": {
+        "title": "Will Wolverhampton Wanderers FC win on 2026-08-29?",
+        "outcome": "Yes",
+        "value": 1120.42,
+        "avgPrice": 0.75,
+        "slug": "elc-wol-sto-2026-08-29-wol"
       },
       "0xeffff19cd9fc3a4c4adc53da37636bb82cf9e09a8111efd183300900617080cc|Doosan Bears": {
         "title": "KBO: Kiwoom Heroes vs. Doosan Bears",
@@ -948,26 +934,33 @@
         "avgPrice": 0.81,
         "slug": "scop-cel-fal-2026-08-29-cel"
       },
-      "0xb49b11f76431803c0d7b3903f900d19f5db710493a7d4ce5ad8d4b4c2770a482|Yes": {
-        "title": "Will Nottingham Forest FC win on 2026-08-29?",
-        "outcome": "Yes",
-        "value": 1097.6969,
-        "avgPrice": 0.1724,
-        "slug": "epl-liv-not-2026-08-29-not"
-      },
-      "0xb45544a63005124b9e43b8c5538ade7de57fb6d645d4d6af601193630275349c|Over": {
-        "title": "Blackpool FC vs. Peterborough United FC: O/U 3.5",
-        "outcome": "Over",
-        "value": 1093.54,
-        "avgPrice": 0.29,
-        "slug": "el1-bla-pet-2026-08-29-total-3pt5"
-      },
       "0xc3b1329a1c017be9d96e684433c5208e5653cc925ce0ee6369e21dc9213a4eee|No": {
         "title": "Exact Score: Liverpool FC 0 - 0 Nottingham Forest FC?",
         "outcome": "No",
-        "value": 1021.8795,
+        "value": 1058.9617,
         "avgPrice": 0.9384,
         "slug": "epl-liv-not-2026-08-29-exact-score-0-0"
+      },
+      "0xc021d4ddd2458199f5bdc345fc7472196cfa6936d0ad81448869210f2e28cca7|Yes": {
+        "title": "Exact Score: Liverpool FC 3 - 3 Nottingham Forest FC?",
+        "outcome": "Yes",
+        "value": 1044.1147,
+        "avgPrice": 0.011,
+        "slug": "epl-liv-not-2026-08-29-exact-score-3-3"
+      },
+      "0xe71074196d6c1e1a46d53bd594d91de5f3a94fc44fe470d89ecec42f042e3236|No": {
+        "title": "Will RKS Radomiak Radom vs. KS Cracovia Krakow end in a draw?",
+        "outcome": "No",
+        "value": 904.0656,
+        "avgPrice": 0.9,
+        "slug": "pol-rad-cra-2026-08-29-draw"
+      },
+      "0xb2d355c7f38a0674fa1c1684ff77593d9a9b7c2718f244c074fad9b9b6597ede|No": {
+        "title": "Will FC Energie Cottbus win on 2026-08-29?",
+        "outcome": "No",
+        "value": 900.8495,
+        "avgPrice": 0.3604,
+        "slug": "bl2-fce-fur-2026-08-29-fce"
       },
       "0xc2930df535462409523c4330b7bea5eca23e7b3d0df4bf36db15c9c3c73f7bd0|Jack Draper": {
         "title": "Lexus Eastbourne Open: Brandon Nakashima vs Jack Draper",
@@ -976,19 +969,19 @@
         "avgPrice": 0.44,
         "slug": "atp-nakashi-draper-2026-06-22"
       },
-      "0x433e0fa51bb384a7e31d7a4762057ab5132fb63d6c09d28393a6111fd36d7d6b|No": {
-        "title": "Liverpool FC vs. Nottingham Forest FC: Both Teams to Score",
-        "outcome": "No",
-        "value": 863.2685,
-        "avgPrice": 0.451,
-        "slug": "epl-liv-not-2026-08-29-btts"
-      },
       "0x5aec346533806cf593eed1854721596f53971461d3e8991212da1cc8332fb62b|No": {
         "title": "Exact Score: Liverpool FC 3 - 0 Nottingham Forest FC?",
         "outcome": "No",
-        "value": 813.905,
+        "value": 889.555,
         "avgPrice": 0.941,
         "slug": "epl-liv-not-2026-08-29-exact-score-3-0"
+      },
+      "0xb45544a63005124b9e43b8c5538ade7de57fb6d645d4d6af601193630275349c|Over": {
+        "title": "Blackpool FC vs. Peterborough United FC: O/U 3.5",
+        "outcome": "Over",
+        "value": 883.82,
+        "avgPrice": 0.29,
+        "slug": "el1-bla-pet-2026-08-29-total-3pt5"
       },
       "0xabf26f2e50e94945102319a56582c75c34f5f52e8cfe1a7a6edfe895ee2775a9|Soon-Woo Kwon": {
         "title": "Quebec City: Benjamin Bonzi vs Soon-Woo Kwon",
@@ -997,26 +990,26 @@
         "avgPrice": 0.49,
         "slug": "atp-bonzi-kwon-2026-08-20"
       },
+      "0x7f670345652b1108e7fb80cc7aadae87714fc8190a3e0116bf6215442f558ab5|No": {
+        "title": "Will Wuxi Wugou win on 2026-08-29?",
+        "outcome": "No",
+        "value": 720.0,
+        "avgPrice": 0.63,
+        "slug": "chi2-shi-wux-2026-08-29-wux"
+      },
+      "0x3c47615185c85944019b2f3e0a0813a2e7fa9a015e7eb0dc895c2eba4195dd0d|No": {
+        "title": "Exact Score: Liverpool FC 3 - 2 Nottingham Forest FC?",
+        "outcome": "No",
+        "value": 699.9999,
+        "avgPrice": 0.966,
+        "slug": "epl-liv-not-2026-08-29-exact-score-3-2"
+      },
       "0xd2dd1841548c5add17ec120d870d373b7487a165fa2e7a6444050c7e96a382ae|Over": {
         "title": "Qingdao Hainiu FC vs. Wuhan San Zhen FC: O/U 3.5",
         "outcome": "Over",
         "value": 683.1309,
         "avgPrice": 0.5767,
         "slug": "chi-hai-wsz-2026-08-29-total-3pt5"
-      },
-      "0x3c47615185c85944019b2f3e0a0813a2e7fa9a015e7eb0dc895c2eba4195dd0d|No": {
-        "title": "Exact Score: Liverpool FC 3 - 2 Nottingham Forest FC?",
-        "outcome": "No",
-        "value": 680.5147,
-        "avgPrice": 0.966,
-        "slug": "epl-liv-not-2026-08-29-exact-score-3-2"
-      },
-      "0xb2d355c7f38a0674fa1c1684ff77593d9a9b7c2718f244c074fad9b9b6597ede|No": {
-        "title": "Will FC Energie Cottbus win on 2026-08-29?",
-        "outcome": "No",
-        "value": 679.5882,
-        "avgPrice": 0.3604,
-        "slug": "bl2-fce-fur-2026-08-29-fce"
       },
       "0x2a6e431d9c6d91853bc9c1f345fa7498f615fba2e362644fbb7015f28e9da3db|Yes": {
         "title": "Will CA Penarol Montevideo win on 2026-08-08?",
@@ -1028,7 +1021,7 @@
       "0x53ab35b72690b251699606498bb2bf29bb013524fc39d44acd72f7d475629325|No": {
         "title": "Exact Score: Karlsruher SC 3 - 3 VfL Wolfsburg?",
         "outcome": "No",
-        "value": 663.601,
+        "value": 660.1042,
         "avgPrice": 0.861,
         "slug": "bl2-ksc-wob-2026-08-29-exact-score-3-3"
       },
@@ -1039,19 +1032,19 @@
         "avgPrice": 0.22,
         "slug": "wta-sramkov-wurth-2026-06-03"
       },
-      "0x8048c9ec83e3e24f94460d571321137d72a0918d248c9a3f240716fbc6742324|No": {
-        "title": "Liverpool FC leading at halftime?",
-        "outcome": "No",
-        "value": 629.6884,
-        "avgPrice": 0.5,
-        "slug": "epl-liv-not-2026-08-29-halftime-result-home"
-      },
       "0xc133482d19ef3092d91c90c6e9261e8ffd141870608a3549bbffe31c6ac506f8|Lotte Giants": {
         "title": "KBO: LG Twins vs. Lotte Giants",
         "outcome": "Lotte Giants",
         "value": 623.8266,
         "avgPrice": 0.3865,
         "slug": "kbo-lg-lot-2026-08-28"
+      },
+      "0x314230b6e002480b41e22088f5a46c4c3ca1bf425decb284a5721b1890f52cce|Over": {
+        "title": "Liverpool FC vs. Nottingham Forest FC: O/U 2.5",
+        "outcome": "Over",
+        "value": 618.9161,
+        "avgPrice": 0.6576,
+        "slug": "epl-liv-not-2026-08-29-total-2pt5"
       },
       "0xd5775d8d33445e6f5c14b584c0f54535d4b2255b8cdfa9b69697f86969327718|Svyatoslav Gulin": {
         "title": "Prague: Marek Gengel vs Svyatoslav Gulin",
@@ -1060,54 +1053,26 @@
         "avgPrice": 0.5,
         "slug": "atp-gengel-gulin-2026-08-16"
       },
+      "0x2f10f99760b6c8aeb88de5c0fd6efd6e62c36732f031798b72cc2016408347cb|No": {
+        "title": "Will Karlsruher SC vs. VfL Wolfsburg end in a draw?",
+        "outcome": "No",
+        "value": 553.757,
+        "avgPrice": 0.7692,
+        "slug": "bl2-ksc-wob-2026-08-29-draw"
+      },
       "0x3835759ef4a26c26c1a60c41143910596813f5c510488ebb18276255f1203e80|No": {
         "title": "Will Swansea City AFC win on 2026-08-29?",
         "outcome": "No",
-        "value": 606.72,
+        "value": 545.28,
         "avgPrice": 0.46,
         "slug": "elc-der-swa-2026-08-29-swa"
-      },
-      "0x433e0fa51bb384a7e31d7a4762057ab5132fb63d6c09d28393a6111fd36d7d6b|Yes": {
-        "title": "Liverpool FC vs. Nottingham Forest FC: Both Teams to Score",
-        "outcome": "Yes",
-        "value": 574.5655,
-        "avgPrice": 0.5477,
-        "slug": "epl-liv-not-2026-08-29-btts"
-      },
-      "0x8ce54bbe2e1d7de1efb167a8fffdf4ad120a2166050851fac53ae1184c6db421|Yes": {
-        "title": "Will Karlsruher SC win on 2026-08-29?",
-        "outcome": "Yes",
-        "value": 574.4478,
-        "avgPrice": 0.3352,
-        "slug": "bl2-ksc-wob-2026-08-29-ksc"
       },
       "0xac381630f1de8f7c0148059583ae5c1ab566ca05b6f87eb5802f345505457abb|Over": {
         "title": "1. FC Heidenheim 1846 vs. SG Dynamo Dresden: O/U 2.5",
         "outcome": "Over",
-        "value": 572.8467,
+        "value": 538.8162,
         "avgPrice": 0.35,
         "slug": "bl2-hei-dyn-2026-08-29-total-2pt5"
-      },
-      "0xb2d355c7f38a0674fa1c1684ff77593d9a9b7c2718f244c074fad9b9b6597ede|Yes": {
-        "title": "Will FC Energie Cottbus win on 2026-08-29?",
-        "outcome": "Yes",
-        "value": 568.7915,
-        "avgPrice": 0.5694,
-        "slug": "bl2-fce-fur-2026-08-29-fce"
-      },
-      "0x7f670345652b1108e7fb80cc7aadae87714fc8190a3e0116bf6215442f558ab5|No": {
-        "title": "Will Wuxi Wugou win on 2026-08-29?",
-        "outcome": "No",
-        "value": 560.0,
-        "avgPrice": 0.63,
-        "slug": "chi2-shi-wux-2026-08-29-wux"
-      },
-      "0x2f10f99760b6c8aeb88de5c0fd6efd6e62c36732f031798b72cc2016408347cb|No": {
-        "title": "Will Karlsruher SC vs. VfL Wolfsburg end in a draw?",
-        "outcome": "No",
-        "value": 544.3167,
-        "avgPrice": 0.7692,
-        "slug": "bl2-ksc-wob-2026-08-29-draw"
       },
       "0x942bb77a754705e45c0a342843e064a0ae394059c1bea46fa73c8666468be41b|Over": {
         "title": "Qingdao Hainiu FC vs. Wuhan San Zhen FC: O/U 2.5",
@@ -1116,19 +1081,40 @@
         "avgPrice": 0.5142,
         "slug": "chi-hai-wsz-2026-08-29-total-2pt5"
       },
-      "0x0e6450d1f873537c02ddc94e361cc14ccf1c0c4af1b6662ebb8f73a71bad616a|No": {
-        "title": "Exact Score: Liverpool FC 1 - 1 Nottingham Forest FC?",
-        "outcome": "No",
-        "value": 514.7323,
-        "avgPrice": 0.87,
-        "slug": "epl-liv-not-2026-08-29-exact-score-1-1"
+      "0x994e59f13a62fd6ead48d73fbb4419b8642b3ed9d007d00a7e2e8d83fd32ef6d|Anas Mazdrashki": {
+        "title": "ITF MEN - SINGLES: M15 Bucharest 3 (Romania), clay: Gabriel Ghetu vs Anas Mazdrashki",
+        "outcome": "Anas Mazdrashki",
+        "value": 530.6575,
+        "avgPrice": 0.6591,
+        "slug": "itf-ghetu-mazdras-2026-08-29"
       },
-      "0xfa98ce27b43ea9f7de172335fbbef1695b5dfcea9807a6da8bc7509009a70929|Valentina Ryser": {
-        "title": "ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Valentina Ryser vs Angella Okutoyi",
-        "outcome": "Valentina Ryser",
-        "value": 503.5338,
-        "avgPrice": 0.716,
-        "slug": "itf-ryser-okutoyi-2026-08-29"
+      "0x62157dfc896554951dd64ec8083bbad3a2c121e8ca86918ab066c4559a303a9f|Over": {
+        "title": "Wolverhampton Wanderers FC vs. Stoke City FC: O/U 4.5",
+        "outcome": "Over",
+        "value": 529.6462,
+        "avgPrice": 0.6,
+        "slug": "elc-wol-sto-2026-08-29-total-4pt5"
+      },
+      "0x7e4eb975bc2a3d14e879f57f8d8274e7cb79c2b3c847c0902aa483c73cbc12a8|Under": {
+        "title": "Liverpool FC vs. Nottingham Forest FC: O/U 3.5",
+        "outcome": "Under",
+        "value": 529.1693,
+        "avgPrice": 0.5918,
+        "slug": "epl-liv-not-2026-08-29-total-3pt5"
+      },
+      "0x3d92e7c2d4cfb07f80053ec261dd9890333b156357efbeba093f8d65b28bb211|Calvin Mueller": {
+        "title": "ITF MEN - SINGLES: M15 Allershausen (Germany), clay: Jakub Filip vs Calvin Mueller",
+        "outcome": "Calvin Mueller",
+        "value": 526.5548,
+        "avgPrice": 0.6572,
+        "slug": "itf-filip-mueller-2026-08-29"
+      },
+      "0x5af57580625e1111e191a1e2e1ad6fec4c5725985d27e329231fe84a2ff1da01|Over": {
+        "title": "Liverpool FC vs. Nottingham Forest FC: 1st Half O/U 0.5",
+        "outcome": "Over",
+        "value": 513.1915,
+        "avgPrice": 0.7695,
+        "slug": "epl-liv-not-2026-08-29-first-half-total-0pt5"
       }
     },
     "#3 2C": {
@@ -1160,6 +1146,13 @@
         "avgPrice": 0.56,
         "slug": "epl-tot-new-2026-08-29-tot"
       },
+      "0x7e9a11b6eb4cbeb32961b04853e7cfed65c05cedd38d9a04df51b46592a0a6e5|No": {
+        "title": "Will Liverpool FC win on 2026-08-29?",
+        "outcome": "No",
+        "value": 65825.5716,
+        "avgPrice": 0.451,
+        "slug": "epl-liv-not-2026-08-29-liv"
+      },
       "0x9023707a37d834eac5b71c585abe3ae428f1baa67eb2569b13d134d4bdeb994c|No": {
         "title": "Will Newcastle United FC win on 2026-08-29?",
         "outcome": "No",
@@ -1167,26 +1160,19 @@
         "avgPrice": 0.6799,
         "slug": "epl-tot-new-2026-08-29-new"
       },
-      "0xd6610e656f1627099a40d44b2b40ee97b0991750af36e80d0ca73533cb3efff1|No": {
-        "title": "Will Liverpool FC vs. Nottingham Forest FC end in a draw?",
-        "outcome": "No",
-        "value": 30600.0,
-        "avgPrice": 0.77,
-        "slug": "epl-liv-not-2026-08-29-draw"
-      },
       "0xe37b3ab474f79dfaac2480da5c61a3c81c279c7bf1718b85db4880f0398e712c|T1": {
         "title": "LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs",
         "outcome": "T1",
-        "value": 30453.2161,
+        "value": 29537.3299,
         "avgPrice": 0.2901,
         "slug": "lol-t1-fox1-2026-08-29"
       },
-      "0x7e9a11b6eb4cbeb32961b04853e7cfed65c05cedd38d9a04df51b46592a0a6e5|No": {
-        "title": "Will Liverpool FC win on 2026-08-29?",
+      "0xd6610e656f1627099a40d44b2b40ee97b0991750af36e80d0ca73533cb3efff1|No": {
+        "title": "Will Liverpool FC vs. Nottingham Forest FC end in a draw?",
         "outcome": "No",
-        "value": 24805.1152,
-        "avgPrice": 0.31,
-        "slug": "epl-liv-not-2026-08-29-liv"
+        "value": 28600.0,
+        "avgPrice": 0.77,
+        "slug": "epl-liv-not-2026-08-29-draw"
       },
       "0x220a396cb0518cffc9fcc78263bd89f295c1a52f365a789d74ab5f5ae7b58f6f|No": {
         "title": "Will Galatasaray SK win on 2026-08-29?",
@@ -1212,8 +1198,8 @@
       "0xb49b11f76431803c0d7b3903f900d19f5db710493a7d4ce5ad8d4b4c2770a482|No": {
         "title": "Will Nottingham Forest FC win on 2026-08-29?",
         "outcome": "No",
-        "value": 11515.9969,
-        "avgPrice": 0.83,
+        "value": 14141.7083,
+        "avgPrice": 0.7451,
         "slug": "epl-liv-not-2026-08-29-not"
       },
       "0xc6db751f827c061c385ba5ec3afe9d92d6d2bf951e6eda3ee862aed1cc11ea4d|LGD Gaming": {
@@ -1223,19 +1209,26 @@
         "avgPrice": 0.8488,
         "slug": "lol-tes-lgd-2026-08-29-game2"
       },
+      "0x7df1d4ec251ba238a5578afbaf4a83e5650c69d2b92d59a0629fc3d67cbcb05f|LGD Gaming": {
+        "title": "LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs",
+        "outcome": "LGD Gaming",
+        "value": 7246.5548,
+        "avgPrice": 0.5648,
+        "slug": "lol-tes-lgd-2026-08-29"
+      },
+      "0x7df1d4ec251ba238a5578afbaf4a83e5650c69d2b92d59a0629fc3d67cbcb05f|Top Esports": {
+        "title": "LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs",
+        "outcome": "Top Esports",
+        "value": 5278.6404,
+        "avgPrice": 0.633,
+        "slug": "lol-tes-lgd-2026-08-29"
+      },
       "0xf44cf137562b90cf6205e0b81a03aa63001c491e4d8f04c0098bfb9233f9d04f|No": {
         "title": "Will Philadelphia 76ers win the 2027 NBA Finals?",
         "outcome": "No",
         "value": 4503.6969,
         "avgPrice": 0.8604,
         "slug": "will-philadelphia-76ers-win-the-2027-nba-finals"
-      },
-      "0x7df1d4ec251ba238a5578afbaf4a83e5650c69d2b92d59a0629fc3d67cbcb05f|Top Esports": {
-        "title": "LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs",
-        "outcome": "Top Esports",
-        "value": 3567.9699,
-        "avgPrice": 0.633,
-        "slug": "lol-tes-lgd-2026-08-29"
       },
       "0xaea50c46b138456d358138b2c1737f22cc692ac199e2cfa0c1e86e2babf9e37b|FUT Esports": {
         "title": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs",
@@ -1258,19 +1251,19 @@
         "avgPrice": 0.3599,
         "slug": "nfl-sea-kc-2026-08-29"
       },
-      "0x7df1d4ec251ba238a5578afbaf4a83e5650c69d2b92d59a0629fc3d67cbcb05f|LGD Gaming": {
-        "title": "LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs",
-        "outcome": "LGD Gaming",
-        "value": 1895.856,
-        "avgPrice": 0.5,
-        "slug": "lol-tes-lgd-2026-08-29"
+      "0x7e9a11b6eb4cbeb32961b04853e7cfed65c05cedd38d9a04df51b46592a0a6e5|Yes": {
+        "title": "Will Liverpool FC win on 2026-08-29?",
+        "outcome": "Yes",
+        "value": 2485.717,
+        "avgPrice": 0.3399,
+        "slug": "epl-liv-not-2026-08-29-liv"
       },
-      "0xb45544a63005124b9e43b8c5538ade7de57fb6d645d4d6af601193630275349c|Over": {
-        "title": "Blackpool FC vs. Peterborough United FC: O/U 3.5",
-        "outcome": "Over",
-        "value": 503.2912,
-        "avgPrice": 0.35,
-        "slug": "el1-bla-pet-2026-08-29-total-3pt5"
+      "0xe37b3ab474f79dfaac2480da5c61a3c81c279c7bf1718b85db4880f0398e712c|BNK FEARX": {
+        "title": "LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs",
+        "outcome": "BNK FEARX",
+        "value": 806.3186,
+        "avgPrice": 0.3461,
+        "slug": "lol-t1-fox1-2026-08-29"
       }
     },
     "#4 SwissTony": {
@@ -1347,7 +1340,7 @@
       "0x7beb03b48f520e43ae2e217fefe3a48f6948018d3da07678e22708463789afa0|No": {
         "title": "Exact Score: Chicago Fire FC 3 - 2 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 1095.5039,
+        "value": 1099.1904,
         "avgPrice": 0.9583,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-3-2"
       },
@@ -1389,14 +1382,14 @@
       "0x6f08f5499b2441a8d525961988d5f1fe65b318cc52e34eb8dd72f9d09c6a8d70|Over": {
         "title": "Detroit Tigers vs. Cleveland Guardians: O/U 4.5",
         "outcome": "Over",
-        "value": 778.91,
+        "value": 782.305,
         "avgPrice": 0.81,
         "slug": "mlb-det-cle-2026-06-14-total-4pt5"
       },
       "0xc3b1329a1c017be9d96e684433c5208e5653cc925ce0ee6369e21dc9213a4eee|No": {
         "title": "Exact Score: Liverpool FC 0 - 0 Nottingham Forest FC?",
         "outcome": "No",
-        "value": 658.5702,
+        "value": 682.4685,
         "avgPrice": 0.9499,
         "slug": "epl-liv-not-2026-08-29-exact-score-0-0"
       },
@@ -1410,7 +1403,7 @@
       "0xbaaebdf982b987694de4f2dbf4605eead94012ada2c5507167a72102484bbedb|No": {
         "title": "Exact Score: Chicago Fire FC 2 - 2 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 589.38,
+        "value": 592.515,
         "avgPrice": 0.91,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-2-2"
       },
@@ -1435,19 +1428,26 @@
         "avgPrice": 0.9467,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-1-3"
       },
+      "0x5aec346533806cf593eed1854721596f53971461d3e8991212da1cc8332fb62b|No": {
+        "title": "Exact Score: Liverpool FC 3 - 0 Nottingham Forest FC?",
+        "outcome": "No",
+        "value": 543.2282,
+        "avgPrice": 0.9199,
+        "slug": "epl-liv-not-2026-08-29-exact-score-3-0"
+      },
+      "0xe2855c225cdbd59ac38c229526541b9afcd71b50c64c0a19635bd076fd92bcef|Leeds United FC": {
+        "title": "Spread: Leeds United FC (-1.5)",
+        "outcome": "Leeds United FC",
+        "value": 534.8969,
+        "avgPrice": 0.1499,
+        "slug": "epl-lee-bre-2026-08-30-spread-home-1pt5"
+      },
       "0x4aa3bbbfcca55802fe284e7f4fd47543832ed089d612311e3f643a6f6f57ff2e|No": {
         "title": "Exact Score: Chicago Fire FC 1 - 1 Vancouver Whitecaps FC?",
         "outcome": "No",
         "value": 534.8437,
         "avgPrice": 0.8799,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-1-1"
-      },
-      "0xe2855c225cdbd59ac38c229526541b9afcd71b50c64c0a19635bd076fd92bcef|Leeds United FC": {
-        "title": "Spread: Leeds United FC (-1.5)",
-        "outcome": "Leeds United FC",
-        "value": 518.6879,
-        "avgPrice": 0.1499,
-        "slug": "epl-lee-bre-2026-08-30-spread-home-1pt5"
       },
       "0x0a455f560b3ae3047132a10749cbda3d3181c43b0ffa7dbab200bc90c809f139|No": {
         "title": "Exact Score: Aston Villa FC 0 - 3 Arsenal FC?",
@@ -1468,7 +1468,7 @@
       "0xc53b6056373f3659365afa094b4ba9af14f540b576a8ca0347309be8b4ed3228|Over": {
         "title": "Boston Red Sox vs. New York Yankees: O/U 7.5",
         "outcome": "Over",
-        "value": 3540.0707,
+        "value": 3536.7592,
         "avgPrice": 0.5609,
         "slug": "mlb-bos-nyy-2026-06-06-total-7pt5"
       },
@@ -1503,7 +1503,7 @@
       "0x717c526bb6a5946f75423352cdbd0d92ab87651710a7740997126d58b3a7925d|Over": {
         "title": "Boston Red Sox vs. New York Yankees: O/U 8.5",
         "outcome": "Over",
-        "value": 2165.0701,
+        "value": 2189.1264,
         "avgPrice": 0.4861,
         "slug": "mlb-bos-nyy-2026-06-06-total-8pt5"
       },
@@ -1524,7 +1524,7 @@
       "0x638502648a958ef0b5fc65f2f93b1f066a64116371209a215d372cbf118977ca|Samsung Lions": {
         "title": "KBO: KT Wiz vs. Samsung Lions",
         "outcome": "Samsung Lions",
-        "value": 1830.764,
+        "value": 1850.0352,
         "avgPrice": 0.5899,
         "slug": "kbo-kt-sam-2026-08-29"
       },
@@ -1605,6 +1605,20 @@
         "avgPrice": 0.57,
         "slug": "atp-michels-gea-2026-07-20-match-total-23pt5"
       },
+      "0x554d5bbc1e3bfa273ac681df83aa65bccf366f97a6f62b2cae16b90c857b03de|Baltimore Orioles": {
+        "title": "Baltimore Orioles vs. Athletics",
+        "outcome": "Baltimore Orioles",
+        "value": 794.0635,
+        "avgPrice": 0.5699,
+        "slug": "mlb-bal-oak-2026-08-29"
+      },
+      "0x717c526bb6a5946f75423352cdbd0d92ab87651710a7740997126d58b3a7925d|Under": {
+        "title": "Boston Red Sox vs. New York Yankees: O/U 8.5",
+        "outcome": "Under",
+        "value": 771.7436,
+        "avgPrice": 0.509,
+        "slug": "mlb-bos-nyy-2026-06-06-total-8pt5"
+      },
       "0x2cc6fcf6d3ee19d7c682b6bf9c89872003016b658d57a436470cdc0195ef91d8|Over": {
         "title": "Chicago Sky vs. New York Liberty: O/U 179.5",
         "outcome": "Over",
@@ -1615,7 +1629,7 @@
       "0x2a34443a75f390096ef5f57be03574c54b878b250e2facd56ab6d192035a8350|Kia Tigers": {
         "title": "KBO: SSG Landers vs. Kia Tigers",
         "outcome": "Kia Tigers",
-        "value": 708.9034,
+        "value": 714.5297,
         "avgPrice": 0.6841,
         "slug": "kbo-ssg-kia-2026-08-28"
       },
@@ -1632,13 +1646,6 @@
         "value": 610.7938,
         "avgPrice": 0.4813,
         "slug": "wnba-chi-nyl-2026-08-29-total-179pt5"
-      },
-      "0x717c526bb6a5946f75423352cdbd0d92ab87651710a7740997126d58b3a7925d|Under": {
-        "title": "Boston Red Sox vs. New York Yankees: O/U 8.5",
-        "outcome": "Under",
-        "value": 602.25,
-        "avgPrice": 0.5,
-        "slug": "mlb-bos-nyy-2026-06-06-total-8pt5"
       },
       "0x4f221fb9dd918b2fa7d8c4fa78a1eb23e30af86a6d262422a7859669393fe565|Chicago Sky": {
         "title": "Spread: New York Liberty (-9.5)",
