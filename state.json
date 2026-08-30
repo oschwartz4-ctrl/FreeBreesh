@@ -4,16 +4,9 @@
       "0x6c472ca756b73f5b3803df3f30734054d8a70f79d04730c01e13407177f40e95|Philadelphia Phillies": {
         "title": "Philadelphia Phillies vs. Los Angeles Angels",
         "outcome": "Philadelphia Phillies",
-        "value": 50590.3729,
+        "value": 63331.652,
         "avgPrice": 0.68,
         "slug": "mlb-phi-laa-2026-08-29"
-      },
-      "0x554d5bbc1e3bfa273ac681df83aa65bccf366f97a6f62b2cae16b90c857b03de|Athletics": {
-        "title": "Baltimore Orioles vs. Athletics",
-        "outcome": "Athletics",
-        "value": 26888.0155,
-        "avgPrice": 0.4453,
-        "slug": "mlb-bal-oak-2026-08-29"
       },
       "0x1f8d995c49e6794c58dcd187b413a66c625bc5296e95f22844e300da7e4a66b4|Ann Li": {
         "title": "Monterrey Open: Maria Timofeeva vs Ann Li",
@@ -21,6 +14,13 @@
         "value": 26857.8802,
         "avgPrice": 0.5156,
         "slug": "wta-timofee-annli-2026-08-26"
+      },
+      "0x554d5bbc1e3bfa273ac681df83aa65bccf366f97a6f62b2cae16b90c857b03de|Athletics": {
+        "title": "Baltimore Orioles vs. Athletics",
+        "outcome": "Athletics",
+        "value": 23353.7319,
+        "avgPrice": 0.4453,
+        "slug": "mlb-bal-oak-2026-08-29"
       },
       "0xeef04a24987593cf21397c2ee92b8e82a58d43e2e5f7dde9bd3ebddda8377dbf|Diane Parry": {
         "title": "Monterrey Open: Diane Parry vs Elise Mertens",
@@ -32,23 +32,16 @@
       "0xdd0438166da885be5f62c067054dbeb39754982d1b835ad9a5e7256123d19fcb|Under": {
         "title": "Philadelphia Phillies vs. Los Angeles Angels: O/U 8.5",
         "outcome": "Under",
-        "value": 10337.8004,
+        "value": 7029.7043,
         "avgPrice": 0.5199,
         "slug": "mlb-phi-laa-2026-08-29-total-8pt5"
       },
       "0xbe06a3f00c2159b973e50043a869fcef132d917f8b79093a0a9642002722d1ac|Under": {
         "title": "Toronto Tempo vs. Phoenix Mercury: O/U 172.5",
         "outcome": "Under",
-        "value": 8706.1711,
+        "value": 6720.5531,
         "avgPrice": 0.5161,
         "slug": "wnba-tor-phx-2026-08-29-total-172pt5"
-      },
-      "0x7d9a581d4a62059674d2980be651b738148fc82545ff683e5a02a35246d2b22d|Los Angeles Angels": {
-        "title": "Spread: Philadelphia Phillies (-2.5)",
-        "outcome": "Los Angeles Angels",
-        "value": 7688.6606,
-        "avgPrice": 0.58,
-        "slug": "mlb-phi-laa-2026-08-29-spread-away-2pt5"
       },
       "0x662b9158d597728046d09df8986fb219069e7b45b4a3a1f35d535b59213d0ffb|Over": {
         "title": "Minnesota United FC vs. Orlando City SC: O/U 4.5",
@@ -64,19 +57,26 @@
         "avgPrice": 0.6218,
         "slug": "es2-gir-lpm-2026-08-29-gir"
       },
-      "0xfc9ea15f75b2489912fd825e4c7082c770656450bac594177c939bc90bd622c2|Under": {
-        "title": "Arizona Diamondbacks vs. San Francisco Giants: O/U 8.5",
-        "outcome": "Under",
-        "value": 3812.4626,
-        "avgPrice": 0.5308,
-        "slug": "mlb-ari-sf-2026-08-29-total-8pt5"
-      },
       "0xb62770904f8a5ece95554085a38d6a937ad93dcfc5f6b5f22aa81b4976867e1a|Phoenix Mercury": {
         "title": "Spread: Phoenix Mercury (-9.5)",
         "outcome": "Phoenix Mercury",
-        "value": 3652.417,
-        "avgPrice": 0.4599,
+        "value": 4663.0095,
+        "avgPrice": 0.4628,
         "slug": "wnba-tor-phx-2026-08-29-spread-home-9pt5"
+      },
+      "0x7d9a581d4a62059674d2980be651b738148fc82545ff683e5a02a35246d2b22d|Los Angeles Angels": {
+        "title": "Spread: Philadelphia Phillies (-2.5)",
+        "outcome": "Los Angeles Angels",
+        "value": 4295.9371,
+        "avgPrice": 0.5798,
+        "slug": "mlb-phi-laa-2026-08-29-spread-away-2pt5"
+      },
+      "0xfe1373daea394fa7556566290f0ea65c83047e6315432d019ca7a4488d72b34e|Under": {
+        "title": "Arizona Diamondbacks vs. San Francisco Giants: O/U 7.5",
+        "outcome": "Under",
+        "value": 3865.46,
+        "avgPrice": 0.5898,
+        "slug": "mlb-ari-sf-2026-08-29-total-7pt5"
       },
       "0x3d40812637539b1aa235de9d4c583d114d8cd49ef08eda2c4d57231f32b4c88b|Over": {
         "title": "Atlas FC vs. Quer\u00e9taro FC: O/U 3.5",
@@ -92,6 +92,20 @@
         "avgPrice": 0.5765,
         "slug": "itf-schnyde-bonelli-2026-08-26"
       },
+      "0xb6d562e7df8dec9d677dd4a6a3ce088c71aad454023a1cff1af3c93cdf1f312a|Over": {
+        "title": "Minnesota United FC vs. Orlando City SC: O/U 5.5",
+        "outcome": "Over",
+        "value": 3288.2246,
+        "avgPrice": 0.4573,
+        "slug": "mls-min-orl-2026-08-29-total-5pt5"
+      },
+      "0xfc9ea15f75b2489912fd825e4c7082c770656450bac594177c939bc90bd622c2|Under": {
+        "title": "Arizona Diamondbacks vs. San Francisco Giants: O/U 8.5",
+        "outcome": "Under",
+        "value": 3277.3802,
+        "avgPrice": 0.5308,
+        "slug": "mlb-ari-sf-2026-08-29-total-8pt5"
+      },
       "0x35047f32dca115493d0b50426aa53e06bdc72ca1dda2513abd8f856c5b82f15f|Arthur Rinderknech": {
         "title": "US Open ATP: Sho Shimabukuro vs Arthur Rinderknech",
         "outcome": "Arthur Rinderknech",
@@ -99,19 +113,26 @@
         "avgPrice": 0.75,
         "slug": "atp-shimabu-rinderk-2026-08-30"
       },
+      "0xafdd0ccde36f9dacfb8b55769c5ebb89d613fc3f3d969ec3604d3c20420f5c2b|Austin FC": {
+        "title": "Spread: Portland Timbers (-1.5)",
+        "outcome": "Austin FC",
+        "value": 2528.1324,
+        "avgPrice": 0.6512,
+        "slug": "mls-por-aus-2026-08-29-spread-home-1pt5"
+      },
+      "0xaec7c0dd75d1f99e0637be80724ab6e26cb73ad180e5bc56746e16567e31a655|No": {
+        "title": "Will Colorado Rapids SC win on 2026-08-29?",
+        "outcome": "No",
+        "value": 2506.0646,
+        "avgPrice": 0.5027,
+        "slug": "mls-col-rsl-2026-08-29-col"
+      },
       "0x33daa1a56fc34d6a3422a8d979d9dff022131c2ea59a3e1ef217f3b3b2b70dee|Yes": {
         "title": "Will Angers SCO win on 2026-08-29?",
         "outcome": "Yes",
         "value": 2424.5437,
         "avgPrice": 0.4121,
         "slug": "fl1-aja-ang-2026-08-29-ang"
-      },
-      "0xafdd0ccde36f9dacfb8b55769c5ebb89d613fc3f3d969ec3604d3c20420f5c2b|Austin FC": {
-        "title": "Spread: Portland Timbers (-1.5)",
-        "outcome": "Austin FC",
-        "value": 2367.7042,
-        "avgPrice": 0.6499,
-        "slug": "mls-por-aus-2026-08-29-spread-home-1pt5"
       },
       "0x9af167ed361bdc016577401cd59cc05fee72a7aaf70b4a28616f8c6acca2b920|Luiza Fullana": {
         "title": "ITF WOMEN - SINGLES: W35 Barueri (Brazil), hard: Maria Fernanda Navarro vs Luiza Fullana",
@@ -123,7 +144,7 @@
       "0xd90971067a383e2e4d9b51cf1795bc9977632b8000768c1f39eb188f4c5db115|Minnesota United FC": {
         "title": "Spread: Orlando City SC (-1.5)",
         "outcome": "Minnesota United FC",
-        "value": 2193.5994,
+        "value": 2181.4983,
         "avgPrice": 0.8071,
         "slug": "mls-min-orl-2026-08-29-spread-away-1pt5"
       },
@@ -141,13 +162,6 @@
         "avgPrice": 0.5834,
         "slug": "wta-kuderme-korneev-2026-07-20"
       },
-      "0xaec7c0dd75d1f99e0637be80724ab6e26cb73ad180e5bc56746e16567e31a655|No": {
-        "title": "Will Colorado Rapids SC win on 2026-08-29?",
-        "outcome": "No",
-        "value": 2104.4032,
-        "avgPrice": 0.4988,
-        "slug": "mls-col-rsl-2026-08-29-col"
-      },
       "0xea43f4e7cd3128279734fbb9d16ab18b686cc05affb2a9e347c095a0028da161|Jan Kumstat": {
         "title": "ITF Ollersbach: Vladyslav Orlov vs Jan Kumstat",
         "outcome": "Jan Kumstat",
@@ -158,7 +172,7 @@
       "0xe2a1993598ab17315f7bac104aa41d026079efa23807e82458701e9f2e2ea5eb|No": {
         "title": "Will Orlando City SC win on 2026-08-29?",
         "outcome": "No",
-        "value": 2044.4295,
+        "value": 2019.2544,
         "avgPrice": 0.2546,
         "slug": "mls-min-orl-2026-08-29-orl"
       },
@@ -193,7 +207,7 @@
       "0x08f611485b5b3e35e0749321c52d16d3f48ebb98fe1dacc8cccf369fe8210d9f|No": {
         "title": "Will San Jose Earthquakes win on 2026-08-29?",
         "outcome": "No",
-        "value": 1667.3525,
+        "value": 1809.4564,
         "avgPrice": 0.7647,
         "slug": "mls-hou-sje-2026-08-29-sje"
       },
@@ -203,13 +217,6 @@
         "value": 1635.0177,
         "avgPrice": 0.0778,
         "slug": "mex-atl-que-2026-08-29-spread-away-1pt5"
-      },
-      "0xb6d562e7df8dec9d677dd4a6a3ce088c71aad454023a1cff1af3c93cdf1f312a|Over": {
-        "title": "Minnesota United FC vs. Orlando City SC: O/U 5.5",
-        "outcome": "Over",
-        "value": 1592.2968,
-        "avgPrice": 0.4573,
-        "slug": "mls-min-orl-2026-08-29-total-5pt5"
       },
       "0x6ccd8510e3fee08fb8a63ce22d4cf6c14721c58dd9c431bc259f0365837ec06d|Over": {
         "title": "Atlas FC vs. Quer\u00e9taro FC: O/U 1.5",
@@ -225,6 +232,20 @@
         "avgPrice": 0.2699,
         "slug": "mls-min-orl-2026-08-29-total-3pt5"
       },
+      "0x70f6e32b55bf982a5598f6af94eccd1b3542acc41909265239f4510e7e2dc39c|Over": {
+        "title": "Colorado Rapids SC vs. Real Salt Lake: O/U 1.5",
+        "outcome": "Over",
+        "value": 1414.5423,
+        "avgPrice": 0.5589,
+        "slug": "mls-col-rsl-2026-08-29-total-1pt5"
+      },
+      "0x70f625bdcda8765b9895029d4820dd3218c6d06516050e06e284515eff8095e2|Baltimore Orioles": {
+        "title": "Spread: Baltimore Orioles (-1.5)",
+        "outcome": "Baltimore Orioles",
+        "value": 1383.9457,
+        "avgPrice": 0.4599,
+        "slug": "mlb-bal-oak-2026-08-29-spread-away-1pt5"
+      },
       "0x674b507227a0f16dde9e2953fab94dee255ac3ea425384df401923635a70dd32|Yes": {
         "title": "Will Olympique Lyonnais vs. Le Havre AC end in a draw?",
         "outcome": "Yes",
@@ -239,12 +260,12 @@
         "avgPrice": 0.79,
         "slug": "bl2-fcn-bie-2026-08-29-draw"
       },
-      "0x70f625bdcda8765b9895029d4820dd3218c6d06516050e06e284515eff8095e2|Baltimore Orioles": {
-        "title": "Spread: Baltimore Orioles (-1.5)",
-        "outcome": "Baltimore Orioles",
-        "value": 1328.0287,
-        "avgPrice": 0.4599,
-        "slug": "mlb-bal-oak-2026-08-29-spread-away-1pt5"
+      "0xdf18717ce16cd31e03adf898de542f7c73cff556524d08d6a34698ea7d07749c|Arizona Diamondbacks": {
+        "title": "Arizona Diamondbacks vs. San Francisco Giants",
+        "outcome": "Arizona Diamondbacks",
+        "value": 1307.9773,
+        "avgPrice": 0.4051,
+        "slug": "mlb-ari-sf-2026-08-29"
       },
       "0x100fc126c334eaa60632ebe683b906d42e58009d0768cecaecaa25ae3f82844f|Gianmarco Ferrari": {
         "title": "ITF Fano: Lorenzo Rottoli vs Gianmarco Ferrari",
@@ -252,13 +273,6 @@
         "value": 1282.225,
         "avgPrice": 0.5886,
         "slug": "itf-rottoli-ferrar-2026-08-04"
-      },
-      "0x70f6e32b55bf982a5598f6af94eccd1b3542acc41909265239f4510e7e2dc39c|Over": {
-        "title": "Colorado Rapids SC vs. Real Salt Lake: O/U 1.5",
-        "outcome": "Over",
-        "value": 1241.9183,
-        "avgPrice": 0.5866,
-        "slug": "mls-col-rsl-2026-08-29-total-1pt5"
       },
       "0x7aa71e47536cd611c9a7567bcd45752e171da74fae7c437a8c959fce8254c2c7|Stefan Vujic": {
         "title": "ITF Hillcrest: Preston Brown vs Stefan Vujic",
@@ -309,6 +323,13 @@
         "avgPrice": 0.85,
         "slug": "atp-habi-weightm-2026-08-16"
       },
+      "0x755c36868fe652fecfbad52be6192b06c50dcb69f074253d4cea4e2fbf345b1a|No": {
+        "title": "Will Minnesota United FC win on 2026-08-29?",
+        "outcome": "No",
+        "value": 1156.5616,
+        "avgPrice": 0.7503,
+        "slug": "mls-min-orl-2026-08-29-min"
+      },
       "0xac7ade8bec3790e4393ad4655206ddd05a1f8fce9a2570df69a10bcdce04f1a1|Toby Samuel": {
         "title": "Cincinnati Open, Qualification: J.J. Wolf vs Toby Samuel",
         "outcome": "Toby Samuel",
@@ -337,6 +358,13 @@
         "avgPrice": 0.48,
         "slug": "wta-vandewi-pliskov-2026-08-30"
       },
+      "0x7747bb8c526fc6808899de575a04e61290f3cced4976bd6f8872f589696cdc7c|MIBR": {
+        "title": "Valorant: MIBR vs Evil Geniuses (BO3) - VCT Americas Stage 2 Playoffs",
+        "outcome": "MIBR",
+        "value": 1088.1963,
+        "avgPrice": 0.5971,
+        "slug": "val-mibr-eg2-2026-08-29"
+      },
       "0xd5775d8d33445e6f5c14b584c0f54535d4b2255b8cdfa9b69697f86969327718|Svyatoslav Gulin": {
         "title": "Prague: Marek Gengel vs Svyatoslav Gulin",
         "outcome": "Svyatoslav Gulin",
@@ -351,12 +379,19 @@
         "avgPrice": 0.73,
         "slug": "itf-daems-granweh-2026-07-23"
       },
-      "0xadcef845b517664f56415bcb99acea6b43ecfed41c10eb9c6f4eb5d507a9b4ec|Under": {
-        "title": "CF Am\u00e9rica vs. Club Puebla: O/U 2.5",
-        "outcome": "Under",
-        "value": 889.1523,
-        "avgPrice": 0.4197,
-        "slug": "mex-ame-pue-2026-08-29-total-2pt5"
+      "0x5c1b328066fd9dc608c9f966c8f49ac3528f9a7520f8ad8ac5cbe3da4c570848|Phoenix Mercury": {
+        "title": "Toronto Tempo vs. Phoenix Mercury",
+        "outcome": "Phoenix Mercury",
+        "value": 981.2122,
+        "avgPrice": 0.8299,
+        "slug": "wnba-tor-phx-2026-08-29"
+      },
+      "0x4714d00fdf0b2e5572a7079920d9fe7cd62ea1fc887d471906574b5a0e810130|Yes": {
+        "title": "Will Minnesota United FC vs. Orlando City SC end in a draw?",
+        "outcome": "Yes",
+        "value": 953.083,
+        "avgPrice": 0.2319,
+        "slug": "mls-min-orl-2026-08-29-draw"
       },
       "0x07b1bec1c04c83ba898048378e713a26a510bb04eabc635dea5ea22eeba9c22d|Sofia Kenin": {
         "title": "US Open WTA: Venus Williams vs Sofia Kenin",
@@ -379,6 +414,13 @@
         "avgPrice": 0.5271,
         "slug": "mex-atl-que-2026-08-29-draw"
       },
+      "0x54527df324aed877a55873736e3318553ec3862508596cee44c0222c5a397a9e|Over": {
+        "title": "CF Am\u00e9rica vs. Club Puebla: O/U 1.5",
+        "outcome": "Over",
+        "value": 775.7158,
+        "avgPrice": 0.7137,
+        "slug": "mex-ame-pue-2026-08-29-total-1pt5"
+      },
       "0x8198bf9b2a7676552a2b28d6e228e4385a4202c7c39aa758e4fc7d744e671b45|Yes": {
         "title": "D.C. United SC vs. Los Angeles FC: Draw at halftime?",
         "outcome": "Yes",
@@ -392,6 +434,13 @@
         "value": 758.6495,
         "avgPrice": 0.7425,
         "slug": "mls-nas-fcc-2026-08-29-total-1pt5"
+      },
+      "0xd9a75d137c7877f23b79828bf3d95fbc2bdd5c47efbf0fdf24699010239f8cdf|Yes": {
+        "title": "Will Houston Dynamo vs. San Jose Earthquakes end in a draw?",
+        "outcome": "Yes",
+        "value": 745.1701,
+        "avgPrice": 0.4867,
+        "slug": "mls-hou-sje-2026-08-29-draw"
       },
       "0xd73b81755d573d5abb591ab049ef6a5c535833296e8b1d3573558b6d12d686fe|Yes": {
         "title": "Will Vancouver Whitecaps FC win on 2026-07-16?",
@@ -407,19 +456,19 @@
         "avgPrice": 0.6982,
         "slug": "itf-tenguer-reco-2026-07-23"
       },
-      "0x7459ceb3931cb0b88cfc3bdeb0f2d11a0fb82b879b1c701a5ef195cb628eec56|No": {
-        "title": "Will CF Am\u00e9rica win on 2026-08-29?",
-        "outcome": "No",
-        "value": 731.8119,
-        "avgPrice": 0.2826,
-        "slug": "mex-ame-pue-2026-08-29-ame"
+      "0xf51ff0aa824ba2e19ab8d64c73d82a2c65d08324c1d680429c12aa3ab11addca|Sporting Kansas City": {
+        "title": "Spread: Vancouver Whitecaps FC (-1.5)",
+        "outcome": "Sporting Kansas City",
+        "value": 715.9081,
+        "avgPrice": 0.4722,
+        "slug": "mls-skc-vwh-2026-08-29-spread-away-1pt5"
       },
-      "0x54527df324aed877a55873736e3318553ec3862508596cee44c0222c5a397a9e|Over": {
-        "title": "CF Am\u00e9rica vs. Club Puebla: O/U 1.5",
-        "outcome": "Over",
-        "value": 669.7147,
-        "avgPrice": 0.7934,
-        "slug": "mex-ame-pue-2026-08-29-total-1pt5"
+      "0x7b7463301e781bb7c6d7c17f9d26ceff7058a134a44712131a4e0f7602aa9211|Yes": {
+        "title": "Will CF Am\u00e9rica vs. Club Puebla end in a draw?",
+        "outcome": "Yes",
+        "value": 715.6629,
+        "avgPrice": 0.1841,
+        "slug": "mex-ame-pue-2026-08-29-draw"
       },
       "0xe3c90c8836bbdcb619f6b749e7095458baca9be96cc81f125568bea771336207|Sobolieva": {
         "title": "Set 1 Winner: Samson vs Sobolieva",
@@ -428,13 +477,6 @@
         "avgPrice": 0.5179,
         "slug": "wta-samson-sobolie-2026-07-29-first-set-winner-Samson-vs-Sobolieva"
       },
-      "0xdf18717ce16cd31e03adf898de542f7c73cff556524d08d6a34698ea7d07749c|Arizona Diamondbacks": {
-        "title": "Arizona Diamondbacks vs. San Francisco Giants",
-        "outcome": "Arizona Diamondbacks",
-        "value": 643.6767,
-        "avgPrice": 0.4,
-        "slug": "mlb-ari-sf-2026-08-29"
-      },
       "0xea84a05873190e07d2ae386ed2cbd16a2791d11de1d7fbe6638c7503865e9a80|No": {
         "title": "Will FC Cincinnati win on 2026-08-29?",
         "outcome": "No",
@@ -442,19 +484,12 @@
         "avgPrice": 0.7788,
         "slug": "mls-nas-fcc-2026-08-29-fcc"
       },
-      "0xae31b3404288ee9dd41a7cfddea18ff9188982f5ae8197374629f8e9ac5e97f0|Under": {
-        "title": "Colorado Rapids SC vs. Real Salt Lake: O/U 3.5",
-        "outcome": "Under",
-        "value": 598.1066,
-        "avgPrice": 0.905,
-        "slug": "mls-col-rsl-2026-08-29-total-3pt5"
-      },
-      "0xd9a75d137c7877f23b79828bf3d95fbc2bdd5c47efbf0fdf24699010239f8cdf|Yes": {
-        "title": "Will Houston Dynamo vs. San Jose Earthquakes end in a draw?",
-        "outcome": "Yes",
-        "value": 559.9544,
-        "avgPrice": 0.4867,
-        "slug": "mls-hou-sje-2026-08-29-draw"
+      "0x7459ceb3931cb0b88cfc3bdeb0f2d11a0fb82b879b1c701a5ef195cb628eec56|No": {
+        "title": "Will CF Am\u00e9rica win on 2026-08-29?",
+        "outcome": "No",
+        "value": 564.4338,
+        "avgPrice": 0.2516,
+        "slug": "mex-ame-pue-2026-08-29-ame"
       },
       "0xcba78f02cd07d809471ee9b21813b430d360262db259917a6709806d69e159ea|Dzumhur": {
         "title": "Set 1 Winner: Gaston vs Dzumhur",
@@ -489,14 +524,14 @@
       "0x7459ceb3931cb0b88cfc3bdeb0f2d11a0fb82b879b1c701a5ef195cb628eec56|Yes": {
         "title": "Will CF Am\u00e9rica win on 2026-08-29?",
         "outcome": "Yes",
-        "value": 23754.913,
+        "value": 21272.1639,
         "avgPrice": 0.5548,
         "slug": "mex-ame-pue-2026-08-29-ame"
       },
       "0xfe33ac1db1ae190d435f5a5f50a6277845a4a41e83535a2e3688c4cb46e7a6bb|New York Yankees": {
         "title": "Spread: New York Yankees (-2.5)",
         "outcome": "New York Yankees",
-        "value": 19446.8285,
+        "value": 19743.1235,
         "avgPrice": 0.32,
         "slug": "mlb-bos-nyy-2026-08-29-spread-home-2pt5"
       },
@@ -507,26 +542,12 @@
         "avgPrice": 0.3553,
         "slug": "mex-atl-que-2026-08-29-que"
       },
-      "0x291857dc9eb2eef8700fddf63ad3c024fd2e7af1ce906767e566c24981287910|No": {
-        "title": "Will CA Central C\u00f3rdoba win on 2026-08-29?",
-        "outcome": "No",
-        "value": 10418.788,
-        "avgPrice": 0.8236,
-        "slug": "arg-tal-cac-2026-08-29-cac"
-      },
       "0xe5c7629fd5cb15f1281010d05698eb22578c28a6748aaaa33fb45531fad185fc|New York Yankees": {
         "title": "Boston Red Sox vs. New York Yankees",
         "outcome": "New York Yankees",
         "value": 10218.8468,
         "avgPrice": 0.8375,
         "slug": "mlb-bos-nyy-2026-08-29"
-      },
-      "0x284a560ef43e39a7af9a8b8cd5016d8dd6ad7c3248c6febccd654428bc645882|Florida State": {
-        "title": "New Mexico State vs. Florida State",
-        "outcome": "Florida State",
-        "value": 9411.3251,
-        "avgPrice": 0.9612,
-        "slug": "cfb-nmxst-flst-2026-08-29"
       },
       "0xca4f6aeb8352e1148c15af026bfcd460f92816a0faef7c7cb7466e9613624104|Yes": {
         "title": "Will Al Kholood Saudi Club win on 2026-08-29?",
@@ -549,19 +570,12 @@
         "avgPrice": 0.4271,
         "slug": "mex-pac-gua-2026-08-29-gua"
       },
-      "0xcca3db3298f85348f52f6053fbaf9e95a5a232f88ef541af7f1013bc8fb7e82a|Over": {
-        "title": "Boston Red Sox vs. New York Yankees: O/U 9.5",
-        "outcome": "Over",
-        "value": 6466.765,
-        "avgPrice": 0.6837,
-        "slug": "mlb-bos-nyy-2026-08-29-total-9pt5"
-      },
-      "0x49423bbbe8baf57106a7a91093f1d22c21c1f962f064a7bd6d680302ac1015ac|Over": {
-        "title": "Boston Red Sox vs. New York Yankees: O/U 8.5",
-        "outcome": "Over",
-        "value": 6353.3368,
-        "avgPrice": 0.4892,
-        "slug": "mlb-bos-nyy-2026-08-29-total-8pt5"
+      "0xc5938dc2da17f93c25159c8e1a45499f4ec64d26e98e981acf384b37e598c53e|Stanford": {
+        "title": "Hawaii vs. Stanford",
+        "outcome": "Stanford",
+        "value": 7455.4574,
+        "avgPrice": 0.5457,
+        "slug": "cfb-hawaii-stan-2026-08-29"
       },
       "0x7f41665e145ae94f2998b94e2be51e68a35ff14d4351f7d24d561adb8cb2d733|Over": {
         "title": "S\u00e3o Paulo FC vs. Red Bull Bragantino: O/U 2.5",
@@ -577,19 +591,12 @@
         "avgPrice": 0.8577,
         "slug": "col1-jdc-ad1-2026-08-29-jdc"
       },
-      "0xa516a069fe56fce392b7ea145939e2bc2ad1f5baa0c15cc8fc41c2939a923c3d|No": {
-        "title": "Will CA Talleres win on 2026-08-29?",
-        "outcome": "No",
-        "value": 5343.8839,
-        "avgPrice": 0.6234,
-        "slug": "arg-tal-cac-2026-08-29-tal"
-      },
-      "0xf82d502ba29ee154988abadceb56c3b001dba3a2997b444a3dadb0ea9d705ca8|Hawaii": {
-        "title": "Spread: Stanford (-4.5)",
-        "outcome": "Hawaii",
-        "value": 4601.8328,
-        "avgPrice": 0.4809,
-        "slug": "cfb-hawaii-stan-2026-08-29-spread-home-4pt5"
+      "0xe5788934409e2d1f69ebe5448d69c81d823ee6433c26213de009aa04a3fe98a1|Kuan Shou Chen": {
+        "title": "ITF MEN - SINGLES: M25 Taipei 2 (Taiwan), hard: Kuan Shou Chen vs Matthew Dellavedova",
+        "outcome": "Kuan Shou Chen",
+        "value": 4576.501,
+        "avgPrice": 0.3608,
+        "slug": "itf-kuansho-dellave-2026-08-30"
       },
       "0x3427b7125d758bb6ed7e21f0b0c5fb95b6fe24504755058bf43d34a50fad7dae|Yes": {
         "title": "Will Girona FC win on 2026-08-29?",
@@ -598,19 +605,19 @@
         "avgPrice": 0.5602,
         "slug": "es2-gir-lpm-2026-08-29-gir"
       },
+      "0xf82d502ba29ee154988abadceb56c3b001dba3a2997b444a3dadb0ea9d705ca8|Hawaii": {
+        "title": "Spread: Stanford (-4.5)",
+        "outcome": "Hawaii",
+        "value": 4382.4605,
+        "avgPrice": 0.4809,
+        "slug": "cfb-hawaii-stan-2026-08-29-spread-home-4pt5"
+      },
       "0x272aff20f655667bd94a0e9a13c4cfe0fba86338fecb3127395dd2cbfec6a64e|No": {
         "title": "Will Cruzeiro EC win on 2026-08-29?",
         "outcome": "No",
         "value": 3912.4547,
         "avgPrice": 0.8853,
         "slug": "bra-vas-cru-2026-08-29-cru"
-      },
-      "0xc5938dc2da17f93c25159c8e1a45499f4ec64d26e98e981acf384b37e598c53e|Hawaii": {
-        "title": "Hawaii vs. Stanford",
-        "outcome": "Hawaii",
-        "value": 3733.4935,
-        "avgPrice": 0.292,
-        "slug": "cfb-hawaii-stan-2026-08-29"
       },
       "0x6b664e316ead0629b10917ecfd57da6322ce44e4391c6e83947218b15c0ea69c|Yes": {
         "title": "Will En Avant Guingamp vs. FC Nantes end in a draw?",
@@ -640,12 +647,12 @@
         "avgPrice": 0.4469,
         "slug": "es2-leg-eld-2026-08-29-leg"
       },
-      "0xc5938dc2da17f93c25159c8e1a45499f4ec64d26e98e981acf384b37e598c53e|Stanford": {
-        "title": "Hawaii vs. Stanford",
-        "outcome": "Stanford",
-        "value": 3022.7944,
-        "avgPrice": 0.4551,
-        "slug": "cfb-hawaii-stan-2026-08-29"
+      "0xdf18717ce16cd31e03adf898de542f7c73cff556524d08d6a34698ea7d07749c|San Francisco Giants": {
+        "title": "Arizona Diamondbacks vs. San Francisco Giants",
+        "outcome": "San Francisco Giants",
+        "value": 3096.8065,
+        "avgPrice": 0.5486,
+        "slug": "mlb-ari-sf-2026-08-29"
       },
       "0x0bf4f6a315f5c71410890c72a16b320170cb3bd16ae4180076ca345cc964075f|Yes": {
         "title": "Will \u00c7aykur Rizespor win on 2026-08-29?",
@@ -653,6 +660,13 @@
         "value": 3016.9074,
         "avgPrice": 0.593,
         "slug": "tur-gfk-riz-2026-08-29-riz"
+      },
+      "0x7459ceb3931cb0b88cfc3bdeb0f2d11a0fb82b879b1c701a5ef195cb628eec56|No": {
+        "title": "Will CF Am\u00e9rica win on 2026-08-29?",
+        "outcome": "No",
+        "value": 2770.3383,
+        "avgPrice": 0.3712,
+        "slug": "mex-ame-pue-2026-08-29-ame"
       },
       "0x508642394ff9cc39dc87b52c69f862c10fc3bbd993f25b06443696b2a073731e|Yes": {
         "title": "Will NEC win on 2026-08-29?",
@@ -675,20 +689,6 @@
         "avgPrice": 0.5,
         "slug": "atp-munar-blockx-2026-08-04"
       },
-      "0x220a396cb0518cffc9fcc78263bd89f295c1a52f365a789d74ab5f5ae7b58f6f|Yes": {
-        "title": "Will Galatasaray SK win on 2026-08-29?",
-        "outcome": "Yes",
-        "value": 2616.7909,
-        "avgPrice": 0.5686,
-        "slug": "tur-gal-goz-2026-08-29-gal"
-      },
-      "0x172524280b01f93db79ebeddef560c093ae41018d65685d0a115fe8ed05f45bb|Under": {
-        "title": "CA Talleres vs. CA Central C\u00f3rdoba: O/U 2.5",
-        "outcome": "Under",
-        "value": 2591.4422,
-        "avgPrice": 0.55,
-        "slug": "arg-tal-cac-2026-08-29-total-2pt5"
-      },
       "0xf1085089202c02fd5e1b51ba44dc0dee15056ab48eca1e2fa5aa3a524ce850fc|No": {
         "title": "Will CDP Junior FC win on 2026-08-29?",
         "outcome": "No",
@@ -699,7 +699,7 @@
       "0xcaf66fcf5def3a3d1a5d977cf13299087c78858f5acd49fa6d947c2342b78156|New York Yankees": {
         "title": "Spread: New York Yankees (-1.5)",
         "outcome": "New York Yankees",
-        "value": 2527.9343,
+        "value": 2565.1475,
         "avgPrice": 0.3579,
         "slug": "mlb-bos-nyy-2026-08-29-spread-home-1pt5"
       },
@@ -717,26 +717,40 @@
         "avgPrice": 0.4889,
         "slug": "fl1-lyo-hac-2026-08-29-draw"
       },
-      "0xf5126605532baa69892251709bf7e165c66416e65d3a176af9b0397b085d3c54|Hawaii": {
-        "title": "Spread: Stanford (-6.5)",
-        "outcome": "Hawaii",
-        "value": 2329.6126,
-        "avgPrice": 0.5289,
-        "slug": "cfb-hawaii-stan-2026-08-29-spread-home-6pt5"
+      "0x5c1b328066fd9dc608c9f966c8f49ac3528f9a7520f8ad8ac5cbe3da4c570848|Phoenix Mercury": {
+        "title": "Toronto Tempo vs. Phoenix Mercury",
+        "outcome": "Phoenix Mercury",
+        "value": 2270.495,
+        "avgPrice": 0.8257,
+        "slug": "wnba-tor-phx-2026-08-29"
+      },
+      "0x554d5bbc1e3bfa273ac681df83aa65bccf366f97a6f62b2cae16b90c857b03de|Athletics": {
+        "title": "Baltimore Orioles vs. Athletics",
+        "outcome": "Athletics",
+        "value": 2233.5894,
+        "avgPrice": 0.4575,
+        "slug": "mlb-bal-oak-2026-08-29"
       },
       "0x4625fdee14960b924534ab921c47f33e0bdea7f4bd92c8ed4f220c9407f5cee5|Over": {
         "title": "O/U 49.5",
         "outcome": "Over",
-        "value": 2185.4,
+        "value": 2218.85,
         "avgPrice": 0.65,
         "slug": "cfb-hawaii-stan-2026-08-29-total-49pt5"
       },
-      "0xe5788934409e2d1f69ebe5448d69c81d823ee6433c26213de009aa04a3fe98a1|Kuan Shou Chen": {
-        "title": "ITF MEN - SINGLES: M25 Taipei 2 (Taiwan), hard: Kuan Shou Chen vs Matthew Dellavedova",
-        "outcome": "Kuan Shou Chen",
-        "value": 2122.3343,
-        "avgPrice": 0.3389,
-        "slug": "itf-kuansho-dellave-2026-08-30"
+      "0x554d5bbc1e3bfa273ac681df83aa65bccf366f97a6f62b2cae16b90c857b03de|Baltimore Orioles": {
+        "title": "Baltimore Orioles vs. Athletics",
+        "outcome": "Baltimore Orioles",
+        "value": 2191.558,
+        "avgPrice": 0.5634,
+        "slug": "mlb-bal-oak-2026-08-29"
+      },
+      "0xc5938dc2da17f93c25159c8e1a45499f4ec64d26e98e981acf384b37e598c53e|Hawaii": {
+        "title": "Hawaii vs. Stanford",
+        "outcome": "Hawaii",
+        "value": 2179.4064,
+        "avgPrice": 0.2759,
+        "slug": "cfb-hawaii-stan-2026-08-29"
       },
       "0x04c0413ec07abe07e05299e1d7e656e0c35fa7b3fd7fcc0dc9f76d6ef75c83eb|Yes": {
         "title": "Jaguares de C\u00f3rdoba FC leading at halftime?",
@@ -744,6 +758,13 @@
         "value": 2103.9475,
         "avgPrice": 0.5804,
         "slug": "col1-jdc-ad1-2026-08-29-halftime-result-home"
+      },
+      "0xc8695c5abc4807fb8ac041cf652da45278ad581ca7fc7d7571307bc864232f69|Club Puebla": {
+        "title": "Spread: CF Am\u00e9rica (-1.5)",
+        "outcome": "Club Puebla",
+        "value": 2011.518,
+        "avgPrice": 0.6036,
+        "slug": "mex-ame-pue-2026-08-29-spread-home-1pt5"
       },
       "0xdc09083bbe8251b7f7f5bf6656be6ebd9d7f58e9249248403134179096bb427f|Under": {
         "title": "CF Am\u00e9rica vs. Club Puebla: 1st Half O/U 1.5",
@@ -766,20 +787,6 @@
         "avgPrice": 0.861,
         "slug": "fl1-sbr-tou-2026-08-29-draw"
       },
-      "0xdf18717ce16cd31e03adf898de542f7c73cff556524d08d6a34698ea7d07749c|San Francisco Giants": {
-        "title": "Arizona Diamondbacks vs. San Francisco Giants",
-        "outcome": "San Francisco Giants",
-        "value": 1897.6019,
-        "avgPrice": 0.5357,
-        "slug": "mlb-ari-sf-2026-08-29"
-      },
-      "0x7459ceb3931cb0b88cfc3bdeb0f2d11a0fb82b879b1c701a5ef195cb628eec56|No": {
-        "title": "Will CF Am\u00e9rica win on 2026-08-29?",
-        "outcome": "No",
-        "value": 1890.0403,
-        "avgPrice": 0.3844,
-        "slug": "mex-ame-pue-2026-08-29-ame"
-      },
       "0xd13cd3628cb9b05a689bc233cfa08c6e7fc92a8671f10c7394f90aa8066f6d82|Yes": {
         "title": "Will CF Pachuca vs. CD Guadalajara end in a draw?",
         "outcome": "Yes",
@@ -801,13 +808,6 @@
         "avgPrice": 0.9,
         "slug": "col1-jdc-ad1-2026-08-29-halftime-result-away"
       },
-      "0x375c201aad3d661a0e2b3f3c649bd47e41b45a6cbeef5f84b8ee89580ed63856|New Mexico State": {
-        "title": "Spread: Florida State (-21.5)",
-        "outcome": "New Mexico State",
-        "value": 1611.194,
-        "avgPrice": 0.49,
-        "slug": "cfb-nmxst-flst-2026-08-29-spread-home-21pt5"
-      },
       "0xc5109f951db0d07928ac4ea5cd943a8e39e560ee77138e7688165dffdd38cf8a|Yes": {
         "title": "Will Batman Petrolspor win on 2026-08-29?",
         "outcome": "Yes",
@@ -821,6 +821,13 @@
         "value": 1558.2205,
         "avgPrice": 0.68,
         "slug": "itsb-asc-car-2026-08-29-draw"
+      },
+      "0xf5126605532baa69892251709bf7e165c66416e65d3a176af9b0397b085d3c54|Hawaii": {
+        "title": "Spread: Stanford (-6.5)",
+        "outcome": "Hawaii",
+        "value": 1555.8915,
+        "avgPrice": 0.5289,
+        "slug": "cfb-hawaii-stan-2026-08-29-spread-home-6pt5"
       },
       "0xfe7459bb027827202508ce2499dc2096ce1780dcb3f519e3a4ee6617e0cffb61|Under": {
         "title": "Bears vs. Titans: O/U 43.5",
@@ -836,6 +843,13 @@
         "avgPrice": 0.9749,
         "slug": "bra-sao-bra-2026-08-29-total-4pt5"
       },
+      "0xe5907ee5b1cbb4a4a905e29edaf2222f46f257e3780a8572791f0546236acbd3|Over": {
+        "title": "San Francisco Giants vs. Atlanta Braves: O/U 7.5",
+        "outcome": "Over",
+        "value": 1485.4371,
+        "avgPrice": 0.47,
+        "slug": "mlb-sf-atl-2026-06-18-total-7pt5"
+      },
       "0x7f957952d7d281568a8f6709d6a2744959f87e65834ff99f4ef9c05215daaeeb|Over": {
         "title": "CR Vasco da Gama vs. Cruzeiro EC: O/U 3.5",
         "outcome": "Over",
@@ -843,40 +857,12 @@
         "avgPrice": 0.175,
         "slug": "bra-vas-cru-2026-08-29-total-3pt5"
       },
-      "0xe5907ee5b1cbb4a4a905e29edaf2222f46f257e3780a8572791f0546236acbd3|Over": {
-        "title": "San Francisco Giants vs. Atlanta Braves: O/U 7.5",
-        "outcome": "Over",
-        "value": 1452.6701,
-        "avgPrice": 0.47,
-        "slug": "mlb-sf-atl-2026-06-18-total-7pt5"
-      },
       "0x49c500fe1e2631b8fd30934d81a6b823381b64fd3cc3b037f8c98c0aa910c7d9|Yes": {
         "title": "Will Al Fateh Saudi Club vs. Al Ittihad Saudi Club end in a draw?",
         "outcome": "Yes",
         "value": 1409.295,
         "avgPrice": 0.3067,
         "slug": "spl-fat-ith-2026-08-29-draw"
-      },
-      "0xc8695c5abc4807fb8ac041cf652da45278ad581ca7fc7d7571307bc864232f69|Club Puebla": {
-        "title": "Spread: CF Am\u00e9rica (-1.5)",
-        "outcome": "Club Puebla",
-        "value": 1363.3622,
-        "avgPrice": 0.6036,
-        "slug": "mex-ame-pue-2026-08-29-spread-home-1pt5"
-      },
-      "0x554d5bbc1e3bfa273ac681df83aa65bccf366f97a6f62b2cae16b90c857b03de|Athletics": {
-        "title": "Baltimore Orioles vs. Athletics",
-        "outcome": "Athletics",
-        "value": 1349.6321,
-        "avgPrice": 0.4501,
-        "slug": "mlb-bal-oak-2026-08-29"
-      },
-      "0x7d9a581d4a62059674d2980be651b738148fc82545ff683e5a02a35246d2b22d|Los Angeles Angels": {
-        "title": "Spread: Philadelphia Phillies (-2.5)",
-        "outcome": "Los Angeles Angels",
-        "value": 1334.2638,
-        "avgPrice": 0.5823,
-        "slug": "mlb-phi-laa-2026-08-29-spread-away-2pt5"
       },
       "0x98c25e6e803e0d018eb8d2cdbfb92d1a75143dcc4a5116807a7cc03d8e87a356|Yes": {
         "title": "Will NK Istra 1961 vs. GNK Dinamo Zagreb end in a draw?",
@@ -916,9 +902,16 @@
       "0x095f4e2abef70cbfff931217f5897054d984029b75460444cc47c3f3ec157957|No": {
         "title": "Exact Score: Club Alianza Lima 1 - 0 CD Garcilaso?",
         "outcome": "No",
-        "value": 1074.227,
+        "value": 1077.461,
         "avgPrice": 0.84,
         "slug": "per1-cal-cdg-2026-08-29-exact-score-1-0"
+      },
+      "0x7be65ddc93496dc47531dee8f5ded9b6bd2dd2b5a157fbdfad0e462cd817086b|Tarleton State": {
+        "title": "Prairie View A&M vs. Tarleton State",
+        "outcome": "Tarleton State",
+        "value": 1046.5875,
+        "avgPrice": 0.862,
+        "slug": "cfb-pvam-tarl-2026-08-29"
       },
       "0x4f4f516b4e0c2b523055f9eca1c8cef260d5784f5da1769b5753b9f553a5ddbc|DET": {
         "title": "Spread: IND (-3.5)",
@@ -927,6 +920,13 @@
         "avgPrice": 0.38,
         "slug": "nfl-det-ind-2026-08-29-spread-home-3pt5"
       },
+      "0xadc0597a43b6ef61faeb3ee0951dbf0cdfc59d20a87f422a386a4ce21ab6cff5|Yes": {
+        "title": "Will CA Tucum\u00e1n vs. CA Belgrano end in a draw?",
+        "outcome": "Yes",
+        "value": 989.8126,
+        "avgPrice": 0.9671,
+        "slug": "arg-cat-bel-2026-08-29-draw"
+      },
       "0x3f6508292d3d87e7b039dd8c666cb2afefae452f57dea67e30b39bcca134fb57|Yes": {
         "title": "Will Gimnasia y Esgrima de La Plata win on 2026-08-29?",
         "outcome": "Yes",
@@ -934,33 +934,12 @@
         "avgPrice": 0.739,
         "slug": "arg-ros-gim-2026-08-29-gim"
       },
-      "0x7be65ddc93496dc47531dee8f5ded9b6bd2dd2b5a157fbdfad0e462cd817086b|Tarleton State": {
-        "title": "Prairie View A&M vs. Tarleton State",
-        "outcome": "Tarleton State",
-        "value": 973.7,
-        "avgPrice": 0.86,
-        "slug": "cfb-pvam-tarl-2026-08-29"
-      },
-      "0xe9dd1c1906d3719710e8771ee499a1ffef7354a60c2138881b109bff69a035ce|Under": {
-        "title": "CA Talleres vs. CA Central C\u00f3rdoba: O/U 1.5",
-        "outcome": "Under",
-        "value": 973.4612,
-        "avgPrice": 0.8299,
-        "slug": "arg-tal-cac-2026-08-29-total-1pt5"
-      },
       "0x1536a8722a864a510abeb59a3954d9f1839f5776b122afdd5540b243a7ffaf98|No": {
         "title": "Will Am\u00e9rica de Cali win on 2026-08-29?",
         "outcome": "No",
         "value": 971.8751,
         "avgPrice": 0.7315,
         "slug": "col1-jdc-ad1-2026-08-29-ad1"
-      },
-      "0xadc0597a43b6ef61faeb3ee0951dbf0cdfc59d20a87f422a386a4ce21ab6cff5|Yes": {
-        "title": "Will CA Tucum\u00e1n vs. CA Belgrano end in a draw?",
-        "outcome": "Yes",
-        "value": 940.7924,
-        "avgPrice": 0.9671,
-        "slug": "arg-cat-bel-2026-08-29-draw"
       },
       "0x74b114dd8b60b41d21546e2a58d1ea43f5e2800ab65ef71000d37b11f1360281|Over": {
         "title": "S\u00e3o Paulo FC vs. Red Bull Bragantino: 1st Half O/U 1.5",
@@ -979,16 +958,9 @@
       "0xdf18717ce16cd31e03adf898de542f7c73cff556524d08d6a34698ea7d07749c|Arizona Diamondbacks": {
         "title": "Arizona Diamondbacks vs. San Francisco Giants",
         "outcome": "Arizona Diamondbacks",
-        "value": 820.3074,
+        "value": 800.2999,
         "avgPrice": 0.4496,
         "slug": "mlb-ari-sf-2026-08-29"
-      },
-      "0xc52573ce84fdf8bd697b53dd4e71d26ada7a43ab0f629ce435b13726e6b6104e|Under": {
-        "title": "Hawaii vs. Stanford: O/U 51.5",
-        "outcome": "Under",
-        "value": 789.75,
-        "avgPrice": 0.56,
-        "slug": "cfb-hawaii-stan-2026-08-29-total-51pt5"
       },
       "0xac2bf22ec57f409131490d0929937a57212a4ece4a22c9a4249c1be6f35156b4|No": {
         "title": "Will Red Bull Bragantino win on 2026-08-29?",
@@ -1004,12 +976,33 @@
         "avgPrice": 0.49,
         "slug": "atp-bonzi-kwon-2026-08-20"
       },
+      "0xadcef845b517664f56415bcb99acea6b43ecfed41c10eb9c6f4eb5d507a9b4ec|Under": {
+        "title": "CF Am\u00e9rica vs. Club Puebla: O/U 2.5",
+        "outcome": "Under",
+        "value": 777.5593,
+        "avgPrice": 0.4968,
+        "slug": "mex-ame-pue-2026-08-29-total-2pt5"
+      },
       "0xb43866ea65076406640542ed9c80c126bea28fb5094d3694e93d8793ecabcb2d|CR Vasco da Gama": {
         "title": "Spread: CR Vasco da Gama (-1.5)",
         "outcome": "CR Vasco da Gama",
         "value": 773.613,
         "avgPrice": 0.23,
         "slug": "bra-vas-cru-2026-08-29-spread-home-1pt5"
+      },
+      "0x9d7608c26db1c8c0eaab0702c9dfd07962128a0c9cbc2cb73db0c24dfee9153b|Texas Southern": {
+        "title": "North Carolina Central vs. Texas Southern",
+        "outcome": "Texas Southern",
+        "value": 770.28,
+        "avgPrice": 0.73,
+        "slug": "cfb-ncc-txs-2026-08-29"
+      },
+      "0x7d9a581d4a62059674d2980be651b738148fc82545ff683e5a02a35246d2b22d|Los Angeles Angels": {
+        "title": "Spread: Philadelphia Phillies (-2.5)",
+        "outcome": "Los Angeles Angels",
+        "value": 760.8612,
+        "avgPrice": 0.5823,
+        "slug": "mlb-phi-laa-2026-08-29-spread-away-2pt5"
       },
       "0x18fdb9eec66daa10db18da18abdff196beeabf7cabc959be76c207fda7a3469b|Under": {
         "title": "CR Vasco da Gama vs. Cruzeiro EC: O/U 5.5",
@@ -1018,19 +1011,19 @@
         "avgPrice": 0.99,
         "slug": "bra-vas-cru-2026-08-29-total-5pt5"
       },
-      "0xadcef845b517664f56415bcb99acea6b43ecfed41c10eb9c6f4eb5d507a9b4ec|Under": {
-        "title": "CF Am\u00e9rica vs. Club Puebla: O/U 2.5",
-        "outcome": "Under",
-        "value": 758.5944,
-        "avgPrice": 0.4968,
-        "slug": "mex-ame-pue-2026-08-29-total-2pt5"
-      },
       "0x2d43bc00f8b8881697532a9bf8af94b2ae7332529fd663f6b4845d2497fe3bca|Under": {
         "title": "S\u00e3o Paulo FC vs. Red Bull Bragantino: O/U 3.5",
         "outcome": "Under",
         "value": 750.6245,
         "avgPrice": 0.58,
         "slug": "bra-sao-bra-2026-08-29-total-3pt5"
+      },
+      "0x86b9674b723a4589231ba7fa0ea9e8eab676933378a7daacd937d4fd314c6a8f|No": {
+        "title": "Will CA Belgrano win on 2026-08-29?",
+        "outcome": "No",
+        "value": 746.5819,
+        "avgPrice": 0.84,
+        "slug": "arg-cat-bel-2026-08-29-bel"
       },
       "0xe6309976255492e717aa2d765d030e55c1325ff0b2ec24533abb9e2467fac3c1|Over": {
         "title": "CF Pachuca vs. CD Guadalajara: O/U 1.5",
@@ -1039,12 +1032,12 @@
         "avgPrice": 0.87,
         "slug": "mex-pac-gua-2026-08-29-total-1pt5"
       },
-      "0x86b9674b723a4589231ba7fa0ea9e8eab676933378a7daacd937d4fd314c6a8f|No": {
-        "title": "Will CA Belgrano win on 2026-08-29?",
-        "outcome": "No",
-        "value": 728.2815,
-        "avgPrice": 0.84,
-        "slug": "arg-cat-bel-2026-08-29-bel"
+      "0x38f09b0475531813a6d7f43d49c5f773b009d6155057d12e7c2e6049fd06be66|Stanford": {
+        "title": "Spread: Stanford (-7.5)",
+        "outcome": "Stanford",
+        "value": 721.8512,
+        "avgPrice": 0.5657,
+        "slug": "cfb-hawaii-stan-2026-08-29-spread-home-7pt5"
       },
       "0x5d81f154f5bf3e18a8bfe8b6f0adea12f5a4e81842caa1dcb0fc753dbdb48364|Yes": {
         "title": "Will CA Hurac\u00e1n vs. AA Estudiantes end in a draw?",
@@ -1053,19 +1046,19 @@
         "avgPrice": 0.779,
         "slug": "arg-cah-aae-2026-08-28-draw"
       },
+      "0x97007756060dae4d80bf7d8bee3b6d4a544b5aba0ce527a5031ccc02bb382ba3|Under": {
+        "title": "Toronto Tempo vs. Phoenix Mercury: O/U 173.5",
+        "outcome": "Under",
+        "value": 693.8981,
+        "avgPrice": 0.5663,
+        "slug": "wnba-tor-phx-2026-08-29-total-173pt5"
+      },
       "0x2a6e431d9c6d91853bc9c1f345fa7498f615fba2e362644fbb7015f28e9da3db|Yes": {
         "title": "Will CA Penarol Montevideo win on 2026-08-08?",
         "outcome": "Yes",
         "value": 676.8,
         "avgPrice": 0.46,
         "slug": "uru1-tor-pen-2026-08-08-pen"
-      },
-      "0x5d5f2742a3127125e9003b7a9a46ede702e9b404ab608c017b62f5b0c78a499f|Under": {
-        "title": "AD Municipal P\u00e9rez Zeled\u00f3n vs. LD Alajuelense: 1st Half O/U 2.5",
-        "outcome": "Under",
-        "value": 652.58,
-        "avgPrice": 0.85,
-        "slug": "fpd-per-ala-2026-08-29-first-half-total-2pt5"
       },
       "0x6e52e45529e66a5422eb427624a7bff1a53071edeadecb098931575f4953b4bc|Tara Wurth": {
         "title": "Makarska: Rebecca Sramkova vs Tara Wurth",
@@ -1080,6 +1073,13 @@
         "value": 607.155,
         "avgPrice": 0.5,
         "slug": "atp-gengel-gulin-2026-08-16"
+      },
+      "0xf5126605532baa69892251709bf7e165c66416e65d3a176af9b0397b085d3c54|Stanford": {
+        "title": "Spread: Stanford (-6.5)",
+        "outcome": "Stanford",
+        "value": 602.608,
+        "avgPrice": 0.8859,
+        "slug": "cfb-hawaii-stan-2026-08-29-spread-home-6pt5"
       },
       "0x92b9389c67086dccf7e3c6ec6ab91192658b867a84ba0bac93fadbaf0c215445|Over": {
         "title": "CR Vasco da Gama vs. Cruzeiro EC: O/U 1.5",
@@ -1163,7 +1163,7 @@
       "0x1f833d7d364f9194714feca1953f1791901832c37ecac419c4fa42989029de8c|Under": {
         "title": "Philadelphia Phillies vs. Los Angeles Angels: O/U 7.5",
         "outcome": "Under",
-        "value": 16095.0728,
+        "value": 12781.3813,
         "avgPrice": 0.4436,
         "slug": "mlb-phi-laa-2026-08-29-total-7pt5"
       },
@@ -1188,12 +1188,12 @@
         "avgPrice": 0.3799,
         "slug": "nfl-det-ind-2026-08-29-spread-home-3pt5"
       },
-      "0xfa52bee03d4b02b62386eb0834f9a2730b5223a7786a48bc0fec2067c9d654b0|New Mexico State": {
-        "title": "Spread: Florida State (-31.5)",
-        "outcome": "New Mexico State",
-        "value": 4778.6095,
-        "avgPrice": 0.5,
-        "slug": "cfb-nmxst-flst-2026-08-29-spread-home-31pt5"
+      "0x554d5bbc1e3bfa273ac681df83aa65bccf366f97a6f62b2cae16b90c857b03de|Baltimore Orioles": {
+        "title": "Baltimore Orioles vs. Athletics",
+        "outcome": "Baltimore Orioles",
+        "value": 5038.4158,
+        "avgPrice": 0.6099,
+        "slug": "mlb-bal-oak-2026-08-29"
       },
       "0xf44cf137562b90cf6205e0b81a03aa63001c491e4d8f04c0098bfb9233f9d04f|No": {
         "title": "Will Philadelphia 76ers win the 2027 NBA Finals?",
@@ -1223,24 +1223,31 @@
         "avgPrice": 0.3599,
         "slug": "nfl-sea-kc-2026-08-29"
       },
-      "0x5c1b328066fd9dc608c9f966c8f49ac3528f9a7520f8ad8ac5cbe3da4c570848|Phoenix Mercury": {
-        "title": "Toronto Tempo vs. Phoenix Mercury",
-        "outcome": "Phoenix Mercury",
-        "value": 1762.0704,
-        "avgPrice": 0.7399,
-        "slug": "wnba-tor-phx-2026-08-29"
+      "0xdf18717ce16cd31e03adf898de542f7c73cff556524d08d6a34698ea7d07749c|Arizona Diamondbacks": {
+        "title": "Arizona Diamondbacks vs. San Francisco Giants",
+        "outcome": "Arizona Diamondbacks",
+        "value": 2145.752,
+        "avgPrice": 0.4099,
+        "slug": "mlb-ari-sf-2026-08-29"
       },
       "0xfc9ea15f75b2489912fd825e4c7082c770656450bac594177c939bc90bd622c2|Over": {
         "title": "Arizona Diamondbacks vs. San Francisco Giants: O/U 8.5",
         "outcome": "Over",
-        "value": 1714.6766,
+        "value": 2033.6862,
         "avgPrice": 0.4399,
         "slug": "mlb-ari-sf-2026-08-29-total-8pt5"
+      },
+      "0x5c1b328066fd9dc608c9f966c8f49ac3528f9a7520f8ad8ac5cbe3da4c570848|Phoenix Mercury": {
+        "title": "Toronto Tempo vs. Phoenix Mercury",
+        "outcome": "Phoenix Mercury",
+        "value": 1821.8016,
+        "avgPrice": 0.7399,
+        "slug": "wnba-tor-phx-2026-08-29"
       },
       "0xfe1373daea394fa7556566290f0ea65c83047e6315432d019ca7a4488d72b34e|Over": {
         "title": "Arizona Diamondbacks vs. San Francisco Giants: O/U 7.5",
         "outcome": "Over",
-        "value": 1311.2661,
+        "value": 1156.9995,
         "avgPrice": 0.5199,
         "slug": "mlb-ari-sf-2026-08-29-total-7pt5"
       },
@@ -1258,17 +1265,10 @@
         "avgPrice": 0.4299,
         "slug": "atp-kecmano-shapova-2026-08-30"
       },
-      "0xc5938dc2da17f93c25159c8e1a45499f4ec64d26e98e981acf384b37e598c53e|Hawaii": {
-        "title": "Hawaii vs. Stanford",
-        "outcome": "Hawaii",
-        "value": 770.6211,
-        "avgPrice": 0.2199,
-        "slug": "cfb-hawaii-stan-2026-08-29"
-      },
       "0x75a3963654099107996316b11f2555a4542e6d99ce66bb75a1e92c39b1f36506|Over": {
         "title": "Arizona Diamondbacks vs. San Francisco Giants: O/U 6.5",
         "outcome": "Over",
-        "value": 582.4832,
+        "value": 532.426,
         "avgPrice": 0.6399,
         "slug": "mlb-ari-sf-2026-08-29-total-6pt5"
       }
@@ -1333,14 +1333,14 @@
       "0x7beb03b48f520e43ae2e217fefe3a48f6948018d3da07678e22708463789afa0|No": {
         "title": "Exact Score: Chicago Fire FC 3 - 2 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 1094.8895,
+        "value": 1093.6607,
         "avgPrice": 0.9583,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-3-2"
       },
       "0xe19ddd7a87ad62801fdd2387d8c1056a7521e11110af4fc009b9189924a01760|Cleveland Guardians": {
         "title": "Spread: Cleveland Guardians (-1.5)",
         "outcome": "Cleveland Guardians",
-        "value": 1056.3724,
+        "value": 1027.8218,
         "avgPrice": 0.3426,
         "slug": "mlb-det-cle-2026-06-14-spread-home-1pt5"
       },
@@ -1382,7 +1382,7 @@
       "0x6f08f5499b2441a8d525961988d5f1fe65b318cc52e34eb8dd72f9d09c6a8d70|Over": {
         "title": "Detroit Tigers vs. Cleveland Guardians: O/U 4.5",
         "outcome": "Over",
-        "value": 770.18,
+        "value": 785.7,
         "avgPrice": 0.81,
         "slug": "mlb-det-cle-2026-06-14-total-4pt5"
       },
@@ -1458,201 +1458,152 @@
         "avgPrice": 0.7767,
         "slug": "mlb-bos-nyy-2026-08-29"
       },
-      "0xb0d2823f7a448401350d8e6672bdbbb712f8892d74a8e977395aa1aae29d06bc|Over": {
-        "title": "Boston Red Sox vs. New York Yankees: O/U 7.5",
-        "outcome": "Over",
-        "value": 19383.5396,
-        "avgPrice": 0.4463,
-        "slug": "mlb-bos-nyy-2026-08-29-total-7pt5"
+      "0xc5938dc2da17f93c25159c8e1a45499f4ec64d26e98e981acf384b37e598c53e|Stanford": {
+        "title": "Hawaii vs. Stanford",
+        "outcome": "Stanford",
+        "value": 17800.0035,
+        "avgPrice": 0.7133,
+        "slug": "cfb-hawaii-stan-2026-08-29"
       },
       "0xf82d502ba29ee154988abadceb56c3b001dba3a2997b444a3dadb0ea9d705ca8|Hawaii": {
         "title": "Spread: Stanford (-4.5)",
         "outcome": "Hawaii",
-        "value": 17345.226,
+        "value": 16518.3679,
         "avgPrice": 0.5066,
         "slug": "cfb-hawaii-stan-2026-08-29-spread-home-4pt5"
       },
       "0xfe1373daea394fa7556566290f0ea65c83047e6315432d019ca7a4488d72b34e|Under": {
         "title": "Arizona Diamondbacks vs. San Francisco Giants: O/U 7.5",
         "outcome": "Under",
-        "value": 11202.8478,
+        "value": 12574.6251,
         "avgPrice": 0.4625,
         "slug": "mlb-ari-sf-2026-08-29-total-7pt5"
-      },
-      "0x97007756060dae4d80bf7d8bee3b6d4a544b5aba0ce527a5031ccc02bb382ba3|Under": {
-        "title": "Toronto Tempo vs. Phoenix Mercury: O/U 173.5",
-        "outcome": "Under",
-        "value": 10944.3705,
-        "avgPrice": 0.5273,
-        "slug": "wnba-tor-phx-2026-08-29-total-173pt5"
-      },
-      "0xdc607c31fe6880486d28bb3e47f06eb21142a4aeed8f94944260839c6b6150aa|Over": {
-        "title": "Baltimore Orioles vs. Athletics: O/U 8.5",
-        "outcome": "Over",
-        "value": 10027.613,
-        "avgPrice": 0.6199,
-        "slug": "mlb-bal-oak-2026-08-29-total-8pt5"
-      },
-      "0xcca3db3298f85348f52f6053fbaf9e95a5a232f88ef541af7f1013bc8fb7e82a|Over": {
-        "title": "Boston Red Sox vs. New York Yankees: O/U 9.5",
-        "outcome": "Over",
-        "value": 9828.4738,
-        "avgPrice": 0.6073,
-        "slug": "mlb-bos-nyy-2026-08-29-total-9pt5"
       },
       "0xcaf66fcf5def3a3d1a5d977cf13299087c78858f5acd49fa6d947c2342b78156|New York Yankees": {
         "title": "Spread: New York Yankees (-1.5)",
         "outcome": "New York Yankees",
-        "value": 9750.6529,
+        "value": 9894.1905,
         "avgPrice": 0.5205,
         "slug": "mlb-bos-nyy-2026-08-29-spread-home-1pt5"
       },
-      "0xfa52bee03d4b02b62386eb0834f9a2730b5223a7786a48bc0fec2067c9d654b0|New Mexico State": {
-        "title": "Spread: Florida State (-31.5)",
-        "outcome": "New Mexico State",
-        "value": 8874.0584,
-        "avgPrice": 0.4999,
-        "slug": "cfb-nmxst-flst-2026-08-29-spread-home-31pt5"
-      },
-      "0xfc9ea15f75b2489912fd825e4c7082c770656450bac594177c939bc90bd622c2|Under": {
-        "title": "Arizona Diamondbacks vs. San Francisco Giants: O/U 8.5",
-        "outcome": "Under",
-        "value": 7883.0289,
-        "avgPrice": 0.5368,
-        "slug": "mlb-ari-sf-2026-08-29-total-8pt5"
-      },
-      "0xc5938dc2da17f93c25159c8e1a45499f4ec64d26e98e981acf384b37e598c53e|Hawaii": {
-        "title": "Hawaii vs. Stanford",
-        "outcome": "Hawaii",
-        "value": 7821.4322,
-        "avgPrice": 0.4329,
-        "slug": "cfb-hawaii-stan-2026-08-29"
+      "0xdc607c31fe6880486d28bb3e47f06eb21142a4aeed8f94944260839c6b6150aa|Over": {
+        "title": "Baltimore Orioles vs. Athletics: O/U 8.5",
+        "outcome": "Over",
+        "value": 9035.8711,
+        "avgPrice": 0.6199,
+        "slug": "mlb-bal-oak-2026-08-29-total-8pt5"
       },
       "0x1f8d7d7a1a8334c9c72100d75b9b5e42ad399d0a7f973c85a9e9ca215083e4fc|Under": {
         "title": "Memphis vs. UNLV Runnin': O/U 58.5",
         "outcome": "Under",
-        "value": 7381.1063,
+        "value": 8775.9611,
         "avgPrice": 0.5799,
         "slug": "cfb-mphs-unlv-2026-08-30-total-58pt5"
-      },
-      "0xbe06a3f00c2159b973e50043a869fcef132d917f8b79093a0a9642002722d1ac|Under": {
-        "title": "Toronto Tempo vs. Phoenix Mercury: O/U 172.5",
-        "outcome": "Under",
-        "value": 6411.8208,
-        "avgPrice": 0.5117,
-        "slug": "wnba-tor-phx-2026-08-29-total-172pt5"
       },
       "0x93d3082df151d343b1d4f16caa6adad8d06714d404365742b2cd2ef2effbf0db|Under": {
         "title": "Memphis vs. UNLV Runnin': O/U 55.5",
         "outcome": "Under",
-        "value": 6270.1204,
+        "value": 8629.1756,
         "avgPrice": 0.4899,
         "slug": "cfb-mphs-unlv-2026-08-30-total-55pt5"
       },
-      "0xdd0438166da885be5f62c067054dbeb39754982d1b835ad9a5e7256123d19fcb|Under": {
-        "title": "Philadelphia Phillies vs. Los Angeles Angels: O/U 8.5",
+      "0x97007756060dae4d80bf7d8bee3b6d4a544b5aba0ce527a5031ccc02bb382ba3|Under": {
+        "title": "Toronto Tempo vs. Phoenix Mercury: O/U 173.5",
         "outcome": "Under",
-        "value": 6042.0687,
-        "avgPrice": 0.5199,
-        "slug": "mlb-phi-laa-2026-08-29-total-8pt5"
+        "value": 8411.7889,
+        "avgPrice": 0.5273,
+        "slug": "wnba-tor-phx-2026-08-29-total-173pt5"
       },
-      "0xc5938dc2da17f93c25159c8e1a45499f4ec64d26e98e981acf384b37e598c53e|Stanford": {
-        "title": "Hawaii vs. Stanford",
-        "outcome": "Stanford",
-        "value": 5814.763,
-        "avgPrice": 0.687,
-        "slug": "cfb-hawaii-stan-2026-08-29"
+      "0xfc9ea15f75b2489912fd825e4c7082c770656450bac594177c939bc90bd622c2|Under": {
+        "title": "Arizona Diamondbacks vs. San Francisco Giants: O/U 8.5",
+        "outcome": "Under",
+        "value": 6776.6388,
+        "avgPrice": 0.5368,
+        "slug": "mlb-ari-sf-2026-08-29-total-8pt5"
       },
-      "0x49423bbbe8baf57106a7a91093f1d22c21c1f962f064a7bd6d680302ac1015ac|Over": {
-        "title": "Boston Red Sox vs. New York Yankees: O/U 8.5",
-        "outcome": "Over",
-        "value": 5174.6834,
-        "avgPrice": 0.394,
-        "slug": "mlb-bos-nyy-2026-08-29-total-8pt5"
+      "0x7d9a581d4a62059674d2980be651b738148fc82545ff683e5a02a35246d2b22d|Philadelphia Phillies": {
+        "title": "Spread: Philadelphia Phillies (-2.5)",
+        "outcome": "Philadelphia Phillies",
+        "value": 6414.8342,
+        "avgPrice": 0.44,
+        "slug": "mlb-phi-laa-2026-08-29-spread-away-2pt5"
       },
       "0xb62770904f8a5ece95554085a38d6a937ad93dcfc5f6b5f22aa81b4976867e1a|Phoenix Mercury": {
         "title": "Spread: Phoenix Mercury (-9.5)",
         "outcome": "Phoenix Mercury",
-        "value": 4799.7921,
-        "avgPrice": 0.4828,
+        "value": 6332.8811,
+        "avgPrice": 0.4852,
         "slug": "wnba-tor-phx-2026-08-29-spread-home-9pt5"
       },
       "0x1f833d7d364f9194714feca1953f1791901832c37ecac419c4fa42989029de8c|Over": {
         "title": "Philadelphia Phillies vs. Los Angeles Angels: O/U 7.5",
         "outcome": "Over",
-        "value": 4744.0918,
+        "value": 5760.6829,
         "avgPrice": 0.5499,
         "slug": "mlb-phi-laa-2026-08-29-total-7pt5"
       },
-      "0x284a560ef43e39a7af9a8b8cd5016d8dd6ad7c3248c6febccd654428bc645882|Florida State": {
-        "title": "New Mexico State vs. Florida State",
-        "outcome": "Florida State",
-        "value": 4567.525,
-        "avgPrice": 0.948,
-        "slug": "cfb-nmxst-flst-2026-08-29"
+      "0x9f037d0fbe048eb5ececc028902f33188642e7d5fc7f9bf924f6586db532b251|Memphis": {
+        "title": "Spread: UNLV Runnin' (-3.5)",
+        "outcome": "Memphis",
+        "value": 5674.3706,
+        "avgPrice": 0.4714,
+        "slug": "cfb-mphs-unlv-2026-08-30-spread-home-3pt5"
+      },
+      "0xbe06a3f00c2159b973e50043a869fcef132d917f8b79093a0a9642002722d1ac|Under": {
+        "title": "Toronto Tempo vs. Phoenix Mercury: O/U 172.5",
+        "outcome": "Under",
+        "value": 4949.4757,
+        "avgPrice": 0.5117,
+        "slug": "wnba-tor-phx-2026-08-29-total-172pt5"
+      },
+      "0xc5938dc2da17f93c25159c8e1a45499f4ec64d26e98e981acf384b37e598c53e|Hawaii": {
+        "title": "Hawaii vs. Stanford",
+        "outcome": "Hawaii",
+        "value": 4789.8397,
+        "avgPrice": 0.383,
+        "slug": "cfb-hawaii-stan-2026-08-29"
       },
       "0x38f09b0475531813a6d7f43d49c5f773b009d6155057d12e7c2e6049fd06be66|Hawaii": {
         "title": "Spread: Stanford (-7.5)",
         "outcome": "Hawaii",
-        "value": 4343.1168,
+        "value": 4130.6818,
         "avgPrice": 0.4104,
         "slug": "cfb-hawaii-stan-2026-08-29-spread-home-7pt5"
       },
-      "0x7d9a581d4a62059674d2980be651b738148fc82545ff683e5a02a35246d2b22d|Philadelphia Phillies": {
-        "title": "Spread: Philadelphia Phillies (-2.5)",
-        "outcome": "Philadelphia Phillies",
-        "value": 3866.5128,
-        "avgPrice": 0.44,
-        "slug": "mlb-phi-laa-2026-08-29-spread-away-2pt5"
+      "0xdd0438166da885be5f62c067054dbeb39754982d1b835ad9a5e7256123d19fcb|Under": {
+        "title": "Philadelphia Phillies vs. Los Angeles Angels: O/U 8.5",
+        "outcome": "Under",
+        "value": 4108.6067,
+        "avgPrice": 0.5199,
+        "slug": "mlb-phi-laa-2026-08-29-total-8pt5"
       },
       "0xdc195b061c24e47770faaa0a018c9bb57c06eb4002fc5aca5020230ecc1a6340|Over": {
         "title": "Baltimore Orioles vs. Athletics: O/U 9.5",
         "outcome": "Over",
-        "value": 3683.098,
+        "value": 4098.095,
         "avgPrice": 0.5189,
         "slug": "mlb-bal-oak-2026-08-29-total-9pt5"
       },
       "0xbc8257606aa74eb46ee14d0e899b67c3eb2b15c2996a7a3c8410c1adc5291343|Hawaii": {
         "title": "Spread: Stanford (-10.5)",
         "outcome": "Hawaii",
-        "value": 3630.9496,
+        "value": 3691.497,
         "avgPrice": 0.5298,
         "slug": "cfb-hawaii-stan-2026-08-29-spread-home-10pt5"
-      },
-      "0xae3f00c6a8bc15917f4fc92facd12f44a300b95ef605ddc40f5e51e72f020fdb|New Mexico State": {
-        "title": "Spread: Florida State (-30.5)",
-        "outcome": "New Mexico State",
-        "value": 3326.0027,
-        "avgPrice": 0.4793,
-        "slug": "cfb-nmxst-flst-2026-08-29-spread-home-30pt5"
-      },
-      "0x9f037d0fbe048eb5ececc028902f33188642e7d5fc7f9bf924f6586db532b251|Memphis": {
-        "title": "Spread: UNLV Runnin' (-3.5)",
-        "outcome": "Memphis",
-        "value": 3267.2283,
-        "avgPrice": 0.4539,
-        "slug": "cfb-mphs-unlv-2026-08-30-spread-home-3pt5"
-      },
-      "0x48afc6cd3dddbaf48391143278a4bf0b53aa95eda460bb941f4a5a167ee88293|Hawaii": {
-        "title": "Spread: Stanford (-16.5)",
-        "outcome": "Hawaii",
-        "value": 3253.7645,
-        "avgPrice": 0.5289,
-        "slug": "cfb-hawaii-stan-2026-08-29-spread-home-16pt5"
-      },
-      "0xbe8370599be599185242abe34f8e0462ebeed4ba0e4995ed1a28387b30b1275b|Over": {
-        "title": "Hawaii vs. Stanford: O/U 43.5",
-        "outcome": "Over",
-        "value": 3118.4884,
-        "avgPrice": 0.5199,
-        "slug": "cfb-hawaii-stan-2026-08-29-total-43pt5"
       },
       "0x15696af9788b0ced51fe4982e135e54e0f25e40e0116be99f5f1e0f54b130a6d|Under": {
         "title": "O/U 56.5",
         "outcome": "Under",
-        "value": 2905.04,
+        "value": 3481.0393,
         "avgPrice": 0.5297,
         "slug": "cfb-mphs-unlv-2026-08-30-total-56pt5"
+      },
+      "0x48afc6cd3dddbaf48391143278a4bf0b53aa95eda460bb941f4a5a167ee88293|Hawaii": {
+        "title": "Spread: Stanford (-16.5)",
+        "outcome": "Hawaii",
+        "value": 3268.7053,
+        "avgPrice": 0.5289,
+        "slug": "cfb-hawaii-stan-2026-08-29-spread-home-16pt5"
       },
       "0x3d9d0207053488ae83508487e7ddc5015002d0261b1b9d492f5eb2cd5cd391ad|Over": {
         "title": "CHI vs. TEN: O/U 37.5",
@@ -1671,51 +1622,65 @@
       "0x279a15cd35d049841d48de29042aba7721cd8cf945e1ee743027beec27034c3c|Over": {
         "title": "Baltimore Orioles vs. Athletics: O/U 10.5",
         "outcome": "Over",
-        "value": 2862.5679,
+        "value": 2770.227,
         "avgPrice": 0.44,
         "slug": "mlb-bal-oak-2026-08-29-total-10pt5"
+      },
+      "0xd74cb13f9c7e493d92e64a0b3683e36a41141ddc636414a6205630733eb942fe|Over": {
+        "title": "Hawaii vs. Stanford: O/U 45.5",
+        "outcome": "Over",
+        "value": 2587.8619,
+        "avgPrice": 0.52,
+        "slug": "cfb-hawaii-stan-2026-08-29-total-45pt5"
       },
       "0xdf18717ce16cd31e03adf898de542f7c73cff556524d08d6a34698ea7d07749c|Arizona Diamondbacks": {
         "title": "Arizona Diamondbacks vs. San Francisco Giants",
         "outcome": "Arizona Diamondbacks",
-        "value": 2595.3186,
-        "avgPrice": 0.5095,
+        "value": 2552.4182,
+        "avgPrice": 0.5098,
         "slug": "mlb-ari-sf-2026-08-29"
       },
       "0xe5907ee5b1cbb4a4a905e29edaf2222f46f257e3780a8572791f0546236acbd3|Under": {
         "title": "San Francisco Giants vs. Atlanta Braves: O/U 7.5",
         "outcome": "Under",
-        "value": 2471.298,
+        "value": 2360.6429,
         "avgPrice": 0.4791,
         "slug": "mlb-sf-atl-2026-06-18-total-7pt5"
-      },
-      "0xfe1373daea394fa7556566290f0ea65c83047e6315432d019ca7a4488d72b34e|Over": {
-        "title": "Arizona Diamondbacks vs. San Francisco Giants: O/U 7.5",
-        "outcome": "Over",
-        "value": 2331.334,
-        "avgPrice": 0.5199,
-        "slug": "mlb-ari-sf-2026-08-29-total-7pt5"
-      },
-      "0x3ea37bc3d39b728f44c093f555fcfc964ea2a38e31426740002f139aa83572ef|Under": {
-        "title": "Toronto Tempo vs. Phoenix Mercury: O/U 174.5",
-        "outcome": "Under",
-        "value": 2234.8968,
-        "avgPrice": 0.4936,
-        "slug": "wnba-tor-phx-2026-08-29-total-174pt5"
       },
       "0x430907ef02f7fd129c81f2b7698612bfd8a414d8a0663181160145bcc3a0585c|Over": {
         "title": "Hawaii vs. Stanford: O/U 47.5",
         "outcome": "Over",
-        "value": 2168.4639,
+        "value": 2191.5795,
         "avgPrice": 0.49,
         "slug": "cfb-hawaii-stan-2026-08-29-total-47pt5"
+      },
+      "0xfe1373daea394fa7556566290f0ea65c83047e6315432d019ca7a4488d72b34e|Over": {
+        "title": "Arizona Diamondbacks vs. San Francisco Giants: O/U 7.5",
+        "outcome": "Over",
+        "value": 2057.0684,
+        "avgPrice": 0.5199,
+        "slug": "mlb-ari-sf-2026-08-29-total-7pt5"
+      },
+      "0xdd0438166da885be5f62c067054dbeb39754982d1b835ad9a5e7256123d19fcb|Over": {
+        "title": "Philadelphia Phillies vs. Los Angeles Angels: O/U 8.5",
+        "outcome": "Over",
+        "value": 2047.0881,
+        "avgPrice": 0.4669,
+        "slug": "mlb-phi-laa-2026-08-29-total-8pt5"
       },
       "0xfe33ac1db1ae190d435f5a5f50a6277845a4a41e83535a2e3688c4cb46e7a6bb|New York Yankees": {
         "title": "Spread: New York Yankees (-2.5)",
         "outcome": "New York Yankees",
-        "value": 1949.31,
+        "value": 1979.01,
         "avgPrice": 0.4308,
         "slug": "mlb-bos-nyy-2026-08-29-spread-home-2pt5"
+      },
+      "0xc52573ce84fdf8bd697b53dd4e71d26ada7a43ab0f629ce435b13726e6b6104e|Over": {
+        "title": "Hawaii vs. Stanford: O/U 51.5",
+        "outcome": "Over",
+        "value": 1939.275,
+        "avgPrice": 0.44,
+        "slug": "cfb-hawaii-stan-2026-08-29-total-51pt5"
       },
       "0x7c51ca4fa62fa356430f6aaaad839888a475c9a791b089fb3e5c7717c6a39342|Barbora Palicova": {
         "title": "Makarska: Petra Marcinko vs Barbora Palicova",
@@ -1724,61 +1689,54 @@
         "avgPrice": 0.3625,
         "slug": "wta-marcink-palicov-2026-06-04"
       },
-      "0xf5126605532baa69892251709bf7e165c66416e65d3a176af9b0397b085d3c54|Hawaii": {
-        "title": "Spread: Stanford (-6.5)",
-        "outcome": "Hawaii",
-        "value": 1930.0,
-        "avgPrice": 0.56,
-        "slug": "cfb-hawaii-stan-2026-08-29-spread-home-6pt5"
-      },
-      "0x15696af9788b0ced51fe4982e135e54e0f25e40e0116be99f5f1e0f54b130a6d|Over": {
-        "title": "O/U 56.5",
-        "outcome": "Over",
-        "value": 1777.2762,
-        "avgPrice": 0.4772,
-        "slug": "cfb-mphs-unlv-2026-08-30-total-56pt5"
-      },
-      "0x79e656ecb471c185bd3c2a70ccb709e296c79e6e41082f15583c54b384024bd7|Stanford": {
-        "title": "Spread: Stanford (-8.5)",
-        "outcome": "Stanford",
-        "value": 1661.11,
-        "avgPrice": 0.5299,
-        "slug": "cfb-hawaii-stan-2026-08-29-spread-home-8pt5"
-      },
-      "0xb62770904f8a5ece95554085a38d6a937ad93dcfc5f6b5f22aa81b4976867e1a|Toronto Tempo": {
-        "title": "Spread: Phoenix Mercury (-9.5)",
-        "outcome": "Toronto Tempo",
-        "value": 1515.5473,
-        "avgPrice": 0.5147,
-        "slug": "wnba-tor-phx-2026-08-29-spread-home-9pt5"
-      },
-      "0x375c201aad3d661a0e2b3f3c649bd47e41b45a6cbeef5f84b8ee89580ed63856|New Mexico State": {
-        "title": "Spread: Florida State (-21.5)",
-        "outcome": "New Mexico State",
-        "value": 1408.9366,
-        "avgPrice": 0.4898,
-        "slug": "cfb-nmxst-flst-2026-08-29-spread-home-21pt5"
-      },
-      "0xd74cb13f9c7e493d92e64a0b3683e36a41141ddc636414a6205630733eb942fe|Over": {
-        "title": "Hawaii vs. Stanford: O/U 45.5",
-        "outcome": "Over",
-        "value": 1390.7646,
-        "avgPrice": 0.52,
-        "slug": "cfb-hawaii-stan-2026-08-29-total-45pt5"
-      },
-      "0xdd0438166da885be5f62c067054dbeb39754982d1b835ad9a5e7256123d19fcb|Over": {
-        "title": "Philadelphia Phillies vs. Los Angeles Angels: O/U 8.5",
-        "outcome": "Over",
-        "value": 1335.0575,
-        "avgPrice": 0.4669,
-        "slug": "mlb-phi-laa-2026-08-29-total-8pt5"
+      "0x3ea37bc3d39b728f44c093f555fcfc964ea2a38e31426740002f139aa83572ef|Under": {
+        "title": "Toronto Tempo vs. Phoenix Mercury: O/U 174.5",
+        "outcome": "Under",
+        "value": 1712.6343,
+        "avgPrice": 0.4933,
+        "slug": "wnba-tor-phx-2026-08-29-total-174pt5"
       },
       "0xbe06a3f00c2159b973e50043a869fcef132d917f8b79093a0a9642002722d1ac|Over": {
         "title": "Toronto Tempo vs. Phoenix Mercury: O/U 172.5",
         "outcome": "Over",
-        "value": 1247.5872,
+        "value": 1624.7647,
         "avgPrice": 0.4779,
         "slug": "wnba-tor-phx-2026-08-29-total-172pt5"
+      },
+      "0x79e656ecb471c185bd3c2a70ccb709e296c79e6e41082f15583c54b384024bd7|Stanford": {
+        "title": "Spread: Stanford (-8.5)",
+        "outcome": "Stanford",
+        "value": 1578.0545,
+        "avgPrice": 0.5299,
+        "slug": "cfb-hawaii-stan-2026-08-29-spread-home-8pt5"
+      },
+      "0x5c1b328066fd9dc608c9f966c8f49ac3528f9a7520f8ad8ac5cbe3da4c570848|Phoenix Mercury": {
+        "title": "Toronto Tempo vs. Phoenix Mercury",
+        "outcome": "Phoenix Mercury",
+        "value": 1521.1081,
+        "avgPrice": 0.8103,
+        "slug": "wnba-tor-phx-2026-08-29"
+      },
+      "0xf82d502ba29ee154988abadceb56c3b001dba3a2997b444a3dadb0ea9d705ca8|Stanford": {
+        "title": "Spread: Stanford (-4.5)",
+        "outcome": "Stanford",
+        "value": 1427.3869,
+        "avgPrice": 0.4899,
+        "slug": "cfb-hawaii-stan-2026-08-29-spread-home-4pt5"
+      },
+      "0x15696af9788b0ced51fe4982e135e54e0f25e40e0116be99f5f1e0f54b130a6d|Over": {
+        "title": "O/U 56.5",
+        "outcome": "Over",
+        "value": 1290.641,
+        "avgPrice": 0.4772,
+        "slug": "cfb-mphs-unlv-2026-08-30-total-56pt5"
+      },
+      "0xf5126605532baa69892251709bf7e165c66416e65d3a176af9b0397b085d3c54|Hawaii": {
+        "title": "Spread: Stanford (-6.5)",
+        "outcome": "Hawaii",
+        "value": 1289.0,
+        "avgPrice": 0.56,
+        "slug": "cfb-hawaii-stan-2026-08-29-spread-home-6pt5"
       },
       "0x873c16717fef843256324ffd5d8b6a5f6745bc0c67f3ea412cd66682af7810b8|Under": {
         "title": "Masarova vs. Ryser: Match O/U 23.5",
@@ -1787,6 +1745,13 @@
         "avgPrice": 0.6104,
         "slug": "wta-masarov-ryser-2026-07-18-match-total-23pt5"
       },
+      "0x554d5bbc1e3bfa273ac681df83aa65bccf366f97a6f62b2cae16b90c857b03de|Baltimore Orioles": {
+        "title": "Baltimore Orioles vs. Athletics",
+        "outcome": "Baltimore Orioles",
+        "value": 1205.8013,
+        "avgPrice": 0.573,
+        "slug": "mlb-bal-oak-2026-08-29"
+      },
       "0x396db3f179166e3e33446ef0bb3fb92caa3c81e6e1b10d919595cf545b955f41|Under": {
         "title": "Boston Red Sox vs. New York Yankees: O/U 7.5",
         "outcome": "Under",
@@ -1794,17 +1759,10 @@
         "avgPrice": 0.4691,
         "slug": "mlb-bos-nyy-2026-08-30-total-7pt5"
       },
-      "0xc52573ce84fdf8bd697b53dd4e71d26ada7a43ab0f629ce435b13726e6b6104e|Over": {
-        "title": "Hawaii vs. Stanford: O/U 51.5",
-        "outcome": "Over",
-        "value": 1160.25,
-        "avgPrice": 0.44,
-        "slug": "cfb-hawaii-stan-2026-08-29-total-51pt5"
-      },
       "0x7200b66fb23793c75cc63ed78cb10cdcb00cb507ecb1751cfee5e395e556a37e|Over": {
         "title": "Detroit Tigers vs. Cleveland Guardians: O/U 7.5",
         "outcome": "Over",
-        "value": 1098.3212,
+        "value": 1116.0361,
         "avgPrice": 0.4641,
         "slug": "mlb-det-cle-2026-06-14-total-7pt5"
       },
@@ -1815,19 +1773,26 @@
         "avgPrice": 0.56,
         "slug": "mlb-sf-atl-2026-06-18"
       },
-      "0x554d5bbc1e3bfa273ac681df83aa65bccf366f97a6f62b2cae16b90c857b03de|Baltimore Orioles": {
-        "title": "Baltimore Orioles vs. Athletics",
-        "outcome": "Baltimore Orioles",
-        "value": 1086.2177,
-        "avgPrice": 0.573,
-        "slug": "mlb-bal-oak-2026-08-29"
+      "0xb62770904f8a5ece95554085a38d6a937ad93dcfc5f6b5f22aa81b4976867e1a|Toronto Tempo": {
+        "title": "Spread: Phoenix Mercury (-9.5)",
+        "outcome": "Toronto Tempo",
+        "value": 1071.9725,
+        "avgPrice": 0.5147,
+        "slug": "wnba-tor-phx-2026-08-29-spread-home-9pt5"
       },
       "0xe19ddd7a87ad62801fdd2387d8c1056a7521e11110af4fc009b9189924a01760|Detroit Tigers": {
         "title": "Spread: Cleveland Guardians (-1.5)",
         "outcome": "Detroit Tigers",
-        "value": 1004.5259,
+        "value": 1020.4708,
         "avgPrice": 0.6547,
         "slug": "mlb-det-cle-2026-06-14-spread-home-1pt5"
+      },
+      "0x6c472ca756b73f5b3803df3f30734054d8a70f79d04730c01e13407177f40e95|Philadelphia Phillies": {
+        "title": "Philadelphia Phillies vs. Los Angeles Angels",
+        "outcome": "Philadelphia Phillies",
+        "value": 975.4595,
+        "avgPrice": 0.8401,
+        "slug": "mlb-phi-laa-2026-08-29"
       },
       "0x86c907a23c9449356fe63dcbe666a10734967afce8c5cf133705f4e8a1017a5f|Lions": {
         "title": "Spread: Colts (-6.5)",
@@ -1836,38 +1801,17 @@
         "avgPrice": 0.5296,
         "slug": "nfl-det-ind-2026-08-29-spread-home-6pt5"
       },
-      "0xf82d502ba29ee154988abadceb56c3b001dba3a2997b444a3dadb0ea9d705ca8|Stanford": {
-        "title": "Spread: Stanford (-4.5)",
-        "outcome": "Stanford",
-        "value": 908.3371,
-        "avgPrice": 0.4899,
-        "slug": "cfb-hawaii-stan-2026-08-29-spread-home-4pt5"
-      },
-      "0x672e991bb0b541a5d63cd9c3c74542916cbae900ad0b7d9b76714a5fc6cd9a2c|Hawaii": {
-        "title": "Spread: Stanford (-5.5)",
-        "outcome": "Hawaii",
-        "value": 880.718,
-        "avgPrice": 0.53,
-        "slug": "cfb-hawaii-stan-2026-08-29-spread-home-5pt5"
-      },
       "0xdf18717ce16cd31e03adf898de542f7c73cff556524d08d6a34698ea7d07749c|San Francisco Giants": {
         "title": "Arizona Diamondbacks vs. San Francisco Giants",
         "outcome": "San Francisco Giants",
-        "value": 860.7515,
+        "value": 875.3405,
         "avgPrice": 0.4552,
         "slug": "mlb-ari-sf-2026-08-29"
-      },
-      "0x3c7de584bdd599d9feb1668d6466737e4ce0b82d947e382ae399e9acd49e328f|Toronto Tempo": {
-        "title": "Spread: Phoenix Mercury (-8.5)",
-        "outcome": "Toronto Tempo",
-        "value": 857.8549,
-        "avgPrice": 0.4883,
-        "slug": "wnba-tor-phx-2026-08-29-spread-home-8pt5"
       },
       "0xdd37e4ffeaa0e1d54f0e4081e518714fd414afad5c07c93763439f196c3de82e|Memphis": {
         "title": "Spread: UNLV Runnin' (-5.5)",
         "outcome": "Memphis",
-        "value": 852.9147,
+        "value": 860.3314,
         "avgPrice": 0.4799,
         "slug": "cfb-mphs-unlv-2026-08-30-spread-home-5pt5"
       },
@@ -1878,12 +1822,33 @@
         "avgPrice": 0.57,
         "slug": "atp-michels-gea-2026-07-20-match-total-23pt5"
       },
-      "0x5c1b328066fd9dc608c9f966c8f49ac3528f9a7520f8ad8ac5cbe3da4c570848|Phoenix Mercury": {
-        "title": "Toronto Tempo vs. Phoenix Mercury",
-        "outcome": "Phoenix Mercury",
-        "value": 787.8447,
-        "avgPrice": 0.7928,
-        "slug": "wnba-tor-phx-2026-08-29"
+      "0x648372009a7dd9f7507ebe098d8c4e940234da0db606d3a351eb9abd4fd4e386|Memphis": {
+        "title": "Memphis vs. UNLV Runnin'",
+        "outcome": "Memphis",
+        "value": 837.2096,
+        "avgPrice": 0.3699,
+        "slug": "cfb-mphs-unlv-2026-08-30"
+      },
+      "0x3c7de584bdd599d9feb1668d6466737e4ce0b82d947e382ae399e9acd49e328f|Toronto Tempo": {
+        "title": "Spread: Phoenix Mercury (-8.5)",
+        "outcome": "Toronto Tempo",
+        "value": 788.2991,
+        "avgPrice": 0.4883,
+        "slug": "wnba-tor-phx-2026-08-29-spread-home-8pt5"
+      },
+      "0x672e991bb0b541a5d63cd9c3c74542916cbae900ad0b7d9b76714a5fc6cd9a2c|Hawaii": {
+        "title": "Spread: Stanford (-5.5)",
+        "outcome": "Hawaii",
+        "value": 780.7446,
+        "avgPrice": 0.53,
+        "slug": "cfb-hawaii-stan-2026-08-29-spread-home-5pt5"
+      },
+      "0x2a34443a75f390096ef5f57be03574c54b878b250e2facd56ab6d192035a8350|Kia Tigers": {
+        "title": "KBO: SSG Landers vs. Kia Tigers",
+        "outcome": "Kia Tigers",
+        "value": 708.9034,
+        "avgPrice": 0.6841,
+        "slug": "kbo-ssg-kia-2026-08-28"
       },
       "0x5133cafb72351380f1dddc58a70cbd4acf3e1527d987db0f6f820532f1f5483f|Over": {
         "title": "Minnesota Lynx vs. Atlanta Dream: O/U 178.5",
@@ -1892,26 +1857,12 @@
         "avgPrice": 0.4749,
         "slug": "wnba-min-atl-2026-08-30-total-178pt5"
       },
-      "0x2a34443a75f390096ef5f57be03574c54b878b250e2facd56ab6d192035a8350|Kia Tigers": {
-        "title": "KBO: SSG Landers vs. Kia Tigers",
-        "outcome": "Kia Tigers",
-        "value": 607.6315,
-        "avgPrice": 0.6841,
-        "slug": "kbo-ssg-kia-2026-08-28"
-      },
-      "0xcbd4c9658ddbdf13830a533bfa2455049414c0c770e6cfc7c97bd5176724318c|Under": {
-        "title": "Toronto Tempo vs. Phoenix Mercury: O/U 171.5",
-        "outcome": "Under",
-        "value": 580.0262,
-        "avgPrice": 0.511,
-        "slug": "wnba-tor-phx-2026-08-29-total-171pt5"
-      },
-      "0xa5036ca7f6682d00ef4b77b3438a3f9d657bec7d68c262dc2267b8d8cf4cf518|Doosan Bears": {
-        "title": "KBO: Kiwoom Heroes vs. Doosan Bears",
-        "outcome": "Doosan Bears",
-        "value": 566.6006,
-        "avgPrice": 0.4999,
-        "slug": "kbo-kiw-doo-2026-08-28"
+      "0x38f09b0475531813a6d7f43d49c5f773b009d6155057d12e7c2e6049fd06be66|Stanford": {
+        "title": "Spread: Stanford (-7.5)",
+        "outcome": "Stanford",
+        "value": 571.5,
+        "avgPrice": 0.5,
+        "slug": "cfb-hawaii-stan-2026-08-29-spread-home-7pt5"
       },
       "0xb4528250bfbecacd1da31cd9dac28d32077c66cc921a8598da6b8e4265144507|Detroit Tigers": {
         "title": "Detroit Tigers vs. Cleveland Guardians",
@@ -1927,6 +1878,13 @@
         "avgPrice": 0.475,
         "slug": "cfb-abchr-lamar-2026-08-29-total-49pt5"
       },
+      "0xcbd4c9658ddbdf13830a533bfa2455049414c0c770e6cfc7c97bd5176724318c|Under": {
+        "title": "Toronto Tempo vs. Phoenix Mercury: O/U 171.5",
+        "outcome": "Under",
+        "value": 514.3628,
+        "avgPrice": 0.511,
+        "slug": "wnba-tor-phx-2026-08-29-total-171pt5"
+      },
       "0xf7c0216e2d9a8bb408954df0fbc147cb2cf399e619a5bafe29965a7198fd78c2|Under": {
         "title": "Bears vs. Titans: O/U 41.5",
         "outcome": "Under",
@@ -1939,7 +1897,8 @@
   "announced": {
     "0xeef04a24987593cf21397c2ee92b8e82a58d43e2e5f7dde9bd3ebddda8377dbf|Diane Parry": 4,
     "0x33daa1a56fc34d6a3422a8d979d9dff022131c2ea59a3e1ef217f3b3b2b70dee|Yes": 3,
-    "0xdf18717ce16cd31e03adf898de542f7c73cff556524d08d6a34698ea7d07749c|Arizona Diamondbacks": 3,
-    "0xc5938dc2da17f93c25159c8e1a45499f4ec64d26e98e981acf384b37e598c53e|Hawaii": 3
+    "0xdf18717ce16cd31e03adf898de542f7c73cff556524d08d6a34698ea7d07749c|Arizona Diamondbacks": 4,
+    "0x5c1b328066fd9dc608c9f966c8f49ac3528f9a7520f8ad8ac5cbe3da4c570848|Phoenix Mercury": 4,
+    "0x554d5bbc1e3bfa273ac681df83aa65bccf366f97a6f62b2cae16b90c857b03de|Baltimore Orioles": 3
   }
 }
