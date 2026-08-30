@@ -8,24 +8,24 @@
         "avgPrice": 0.5156,
         "slug": "wta-timofee-annli-2026-08-26"
       },
-      "0x881f66a279316cc04db69feaa807098e22b85e0c3c37988e3854757d0945d625|Jasmine Paolini": {
-        "title": "US Open WTA: Jasmine Paolini vs Veronika Erjavec",
-        "outcome": "Jasmine Paolini",
-        "value": 17908.017,
-        "avgPrice": 0.8699,
-        "slug": "wta-paolini-erjavec-2026-08-30"
-      },
       "0x75cb232fe7ae33e935f2ee879e1153247ad7e239e03caf24214d3230d4cbcba8|Rosenborg BK": {
         "title": "Spread: FK Bod\u00f8/Glimt (-1.5)",
         "outcome": "Rosenborg BK",
-        "value": 16240.1474,
+        "value": 18142.1466,
         "avgPrice": 0.4899,
         "slug": "nor-bog-rbk-2026-08-30-spread-home-1pt5"
+      },
+      "0x881f66a279316cc04db69feaa807098e22b85e0c3c37988e3854757d0945d625|Jasmine Paolini": {
+        "title": "US Open WTA: Jasmine Paolini vs Veronika Erjavec",
+        "outcome": "Jasmine Paolini",
+        "value": 17599.2581,
+        "avgPrice": 0.8699,
+        "slug": "wta-paolini-erjavec-2026-08-30"
       },
       "0x59e27c304ce8cd38613106af640ea0155a463d2a3599ae067fa2e650f8498e00|Daniel Merida Aguilar": {
         "title": "US Open ATP: Daniel Merida Aguilar vs Marton Fucsovics",
         "outcome": "Daniel Merida Aguilar",
-        "value": 14162.5143,
+        "value": 13988.7412,
         "avgPrice": 0.8099,
         "slug": "atp-aguilar-fucsovi-2026-08-30"
       },
@@ -78,19 +78,19 @@
         "avgPrice": 0.7254,
         "slug": "lol-jdg-we-2026-08-30"
       },
+      "0x2bf51fc8c2b979e9e31830105f8982b67d0d66562e22b657926602355cc6234c|Under": {
+        "title": "Paris FC vs. OGC Nice: O/U 2.5",
+        "outcome": "Under",
+        "value": 5660.2095,
+        "avgPrice": 0.5299,
+        "slug": "fl1-pfc-ogc-2026-08-30-total-2pt5"
+      },
       "0x3a62a2042116c9136d18c800f578047d396591be0f9282c5745376f75d1a820a|Philadelphia Phillies": {
         "title": "Spread: Philadelphia Phillies (-1.5)",
         "outcome": "Philadelphia Phillies",
         "value": 5634.387,
         "avgPrice": 0.5,
         "slug": "mlb-phi-laa-2026-08-30-spread-away-1pt5"
-      },
-      "0x2bf51fc8c2b979e9e31830105f8982b67d0d66562e22b657926602355cc6234c|Under": {
-        "title": "Paris FC vs. OGC Nice: O/U 2.5",
-        "outcome": "Under",
-        "value": 5259.4867,
-        "avgPrice": 0.5299,
-        "slug": "fl1-pfc-ogc-2026-08-30-total-2pt5"
       },
       "0x7cda3b9fd4aec6e3c56cb52451f4eb7ec479801fa018dcaea53e532044b10dd7|Talia Gibson": {
         "title": "US Open WTA: Talia Gibson vs Donna Vekic",
@@ -113,12 +113,12 @@
         "avgPrice": 0.5499,
         "slug": "atp-wu-walton-2026-08-30"
       },
-      "0xed12e47c4817bfa64584855372d175c7d18557c5819be121b745ac1669d79bc2|Under": {
-        "title": "Chelsea FC vs. Brighton & Hove Albion FC: O/U 2.5",
-        "outcome": "Under",
-        "value": 3783.6181,
-        "avgPrice": 0.4199,
-        "slug": "epl-che-bri-2026-08-30-total-2pt5"
+      "0xd3ae5ac086956c24422d92cd57d6e254df108ea7e404424018f87012db8e5fc1|Tiago Cacao": {
+        "title": "Porto: Rodrigo Duarte vs Tiago Cacao",
+        "outcome": "Tiago Cacao",
+        "value": 4358.6524,
+        "avgPrice": 0.9299,
+        "slug": "atp-duarte-cacao-2026-08-30"
       },
       "0xebcc753aa61c0ed5da1a64f2a25a60bc028bdaf954ced2d15acbbc478fa2864f|Jenson Brooksby": {
         "title": "US Open ATP: Jaime Faria vs Jenson Brooksby",
@@ -126,13 +126,6 @@
         "value": 3685.7664,
         "avgPrice": 0.5299,
         "slug": "atp-faria-brooksb-2026-08-30"
-      },
-      "0x5e056b4393af7991b7812cad3a73d0710092ef9f199801518a991820b4f58e7d|Andrea Colombo": {
-        "title": "Como: Andrea Colombo vs Gianmarco Ferrari",
-        "outcome": "Andrea Colombo",
-        "value": 3682.4227,
-        "avgPrice": 0.6201,
-        "slug": "atp-colombo-ferrari-2026-08-30"
       },
       "0xa4cb604b3eae7b0c68ffb16e30c3b8dd4cf6a0a3d7d0140b9ee5fb003ad8e27a|Karolina Pliskova": {
         "title": "US Open WTA: Hanne Vandewinkel vs Karolina Pliskova",
@@ -172,16 +165,9 @@
       "0x758920aa6be8acc6fa33e32d2f05354504bee9cf5852b268798f4bc689a9fa47|Over": {
         "title": "Feyenoord Rotterdam vs. ADO Den Haag: O/U 3.5",
         "outcome": "Over",
-        "value": 3026.875,
+        "value": 2421.5,
         "avgPrice": 0.5899,
         "slug": "ere-fey-ado-2026-08-30-total-3pt5"
-      },
-      "0x5e056b4393af7991b7812cad3a73d0710092ef9f199801518a991820b4f58e7d|Gianmarco Ferrari": {
-        "title": "Como: Andrea Colombo vs Gianmarco Ferrari",
-        "outcome": "Gianmarco Ferrari",
-        "value": 2552.103,
-        "avgPrice": 0.3999,
-        "slug": "atp-colombo-ferrari-2026-08-30"
       },
       "0x9af167ed361bdc016577401cd59cc05fee72a7aaf70b4a28616f8c6acca2b920|Luiza Fullana": {
         "title": "ITF WOMEN - SINGLES: W35 Barueri (Brazil), hard: Maria Fernanda Navarro vs Luiza Fullana",
@@ -189,6 +175,13 @@
         "value": 2334.4456,
         "avgPrice": 0.6414,
         "slug": "itf-navarr-fullana-2026-08-26"
+      },
+      "0x3c37f2f03a14d25d77e49ace4f6a64111bf540d2d25b04f8f7e84e879576d6b9|Over": {
+        "title": "SV Darmstadt 98 vs. Hannover 96: O/U 1.5",
+        "outcome": "Over",
+        "value": 2321.3649,
+        "avgPrice": 0.6957,
+        "slug": "bl2-svd-h96-2026-08-30-total-1pt5"
       },
       "0x4add5d6c538a3231c493ea5ed350177e0aefd8b434918a3f1fe450a4bc8d205b|Julieta Pareja": {
         "title": "ITF Dallas: Dana Guzman vs Julieta Pareja",
@@ -204,13 +197,6 @@
         "avgPrice": 0.5834,
         "slug": "wta-kuderme-korneev-2026-07-20"
       },
-      "0x3c37f2f03a14d25d77e49ace4f6a64111bf540d2d25b04f8f7e84e879576d6b9|Over": {
-        "title": "SV Darmstadt 98 vs. Hannover 96: O/U 1.5",
-        "outcome": "Over",
-        "value": 2137.5705,
-        "avgPrice": 0.6941,
-        "slug": "bl2-svd-h96-2026-08-30-total-1pt5"
-      },
       "0xfb778ab1d4a4503d9364b3c06cbbd3786d89beeb43d42bb9ff6c7d10c27b2911|Toronto Blue Jays": {
         "title": "Seattle Mariners vs. Toronto Blue Jays",
         "outcome": "Toronto Blue Jays",
@@ -225,12 +211,19 @@
         "avgPrice": 0.67,
         "slug": "itf-orlov-kumstat-2026-07-23"
       },
-      "0xc456b8bfb166c1cb69e87095248c5a3fd33f1d56768a783816c3cca3ed36c79d|Hamad Medjedovic": {
+      "0xc456b8bfb166c1cb69e87095248c5a3fd33f1d56768a783816c3cca3ed36c79d|Kamil Majchrzak": {
         "title": "US Open ATP: Kamil Majchrzak vs Hamad Medjedovic",
-        "outcome": "Hamad Medjedovic",
-        "value": 2004.2709,
-        "avgPrice": 0.4599,
+        "outcome": "Kamil Majchrzak",
+        "value": 2038.3545,
+        "avgPrice": 0.5399,
         "slug": "atp-majchrz-medjedo-2026-08-30"
+      },
+      "0xed12e47c4817bfa64584855372d175c7d18557c5819be121b745ac1669d79bc2|Under": {
+        "title": "Chelsea FC vs. Brighton & Hove Albion FC: O/U 2.5",
+        "outcome": "Under",
+        "value": 1915.756,
+        "avgPrice": 0.4199,
+        "slug": "epl-che-bri-2026-08-30-total-2pt5"
       },
       "0x4c7b0e07dfb705ca8004abf7dd591e62a35dae69c7b27de634b7aed4573c8483|Tereza Valentova": {
         "title": "Livesport Prague Open: Eva Lys vs Tereza Valentova",
@@ -239,19 +232,19 @@
         "avgPrice": 0.5926,
         "slug": "wta-lys-valento-2026-07-20"
       },
+      "0x88d1d306d03fb46d7dada3f112eb24eaadb212fdfd0cb3736a825c5ff84f3cce|FC Midtjylland": {
+        "title": "Spread: FC Midtjylland (-1.5)",
+        "outcome": "FC Midtjylland",
+        "value": 1896.3935,
+        "avgPrice": 0.449,
+        "slug": "den-sif-mid-2026-08-30-spread-away-1pt5"
+      },
       "0x1c917d89327de535d28d85d2fa1709e1dc449748d26597df101f814e6aeb1e88|Barbora Palicova": {
         "title": "ITF W50 Prague Women: Beatrise Zeltina vs Barbora Palicova",
         "outcome": "Barbora Palicova",
         "value": 1895.7518,
         "avgPrice": 0.6038,
         "slug": "itf-zeltina-palicov-2026-08-17"
-      },
-      "0x3f54e9f99d26e063c5f468ac266c90a2f8d7e78beacc632e6425ba30f162e622|Team WE": {
-        "title": "LoL: JD Gaming vs Team WE - Game 2 Winner",
-        "outcome": "Team WE",
-        "value": 1772.8814,
-        "avgPrice": 0.2383,
-        "slug": "lol-jdg-we-2026-08-30-game2"
       },
       "0x6b1bcc19e6bfee65d5298e276cf583461e40dbf31e832b3ac96951ae8cfd8169|Dayana Yastremska": {
         "title": "US Open WTA: Lucrezia Stefanini vs Dayana Yastremska",
@@ -260,19 +253,19 @@
         "avgPrice": 0.54,
         "slug": "wta-stefani-yastrem-2026-08-30"
       },
+      "0xb0a027726773127fce3b9d9851c59d3623887e664d0ffa0f9922d612fca8578b|FC St. Pauli 1910": {
+        "title": "Spread: FC St. Pauli 1910 (-2.5)",
+        "outcome": "FC St. Pauli 1910",
+        "value": 1373.689,
+        "avgPrice": 0.1307,
+        "slug": "bl2-stp-fck-2026-08-30-spread-home-2pt5"
+      },
       "0x100fc126c334eaa60632ebe683b906d42e58009d0768cecaecaa25ae3f82844f|Gianmarco Ferrari": {
         "title": "ITF Fano: Lorenzo Rottoli vs Gianmarco Ferrari",
         "outcome": "Gianmarco Ferrari",
         "value": 1282.225,
         "avgPrice": 0.5886,
         "slug": "itf-rottoli-ferrar-2026-08-04"
-      },
-      "0xb0a027726773127fce3b9d9851c59d3623887e664d0ffa0f9922d612fca8578b|FC St. Pauli 1910": {
-        "title": "Spread: FC St. Pauli 1910 (-2.5)",
-        "outcome": "FC St. Pauli 1910",
-        "value": 1247.5194,
-        "avgPrice": 0.1307,
-        "slug": "bl2-stp-fck-2026-08-30-spread-home-2pt5"
       },
       "0x7aa71e47536cd611c9a7567bcd45752e171da74fae7c437a8c959fce8254c2c7|Stefan Vujic": {
         "title": "ITF Hillcrest: Preston Brown vs Stefan Vujic",
@@ -344,17 +337,10 @@
         "avgPrice": 0.55,
         "slug": "atp-munar-blockx-2026-08-04"
       },
-      "0x0c4226a387ffb09dbfe3bc859ea09b5a2d223a8f21f3f8300a2dd9aeb872291b|No": {
-        "title": "Will FC St. Pauli 1910 win on 2026-08-30?",
-        "outcome": "No",
-        "value": 1116.833,
-        "avgPrice": 0.4665,
-        "slug": "bl2-stp-fck-2026-08-30-stp"
-      },
       "0x4b515913e00fbc2e4254a8dcf7e58272a50e52d652a0ee4879aa0980ea73e9ad|Over": {
         "title": "SC Freiburg vs. SV Werder Bremen: O/U 2.5",
         "outcome": "Over",
-        "value": 1109.7843,
+        "value": 1129.4265,
         "avgPrice": 0.5599,
         "slug": "bun-fre-wer-2026-08-30-total-2pt5"
       },
@@ -372,13 +358,6 @@
         "avgPrice": 0.73,
         "slug": "atp-gengel-gulin-2026-08-16"
       },
-      "0x18b13c577530fbeb42f1e2c0812601335fd4d2a5cd0fbeee8378dfd2e2c088fa|Yes": {
-        "title": "Will 1. FC Kaiserslautern win on 2026-08-30?",
-        "outcome": "Yes",
-        "value": 1067.1413,
-        "avgPrice": 0.4132,
-        "slug": "bl2-stp-fck-2026-08-30-fck"
-      },
       "0x6897f719c981a18322ae21c33c8c269b4f121d2c7ea13a1bc6db9df7e3ab650d|Alina Granwehr": {
         "title": "ITF Horb: Josy Daems vs Alina Granwehr",
         "outcome": "Alina Granwehr",
@@ -393,12 +372,26 @@
         "avgPrice": 0.9332,
         "slug": "atp-aguiard-delane-2026-08-30"
       },
+      "0x5e056b4393af7991b7812cad3a73d0710092ef9f199801518a991820b4f58e7d|Gianmarco Ferrari": {
+        "title": "Como: Andrea Colombo vs Gianmarco Ferrari",
+        "outcome": "Gianmarco Ferrari",
+        "value": 1015.0337,
+        "avgPrice": 0.3892,
+        "slug": "atp-colombo-ferrari-2026-08-30"
+      },
       "0xbb3c1e3f719299ba2641efe2c5769c2a2ac613a4454a7c20abbf0cba10cb6cdb|Under": {
         "title": "FC Augsburg vs. FC Schalke 04: O/U 2.5",
         "outcome": "Under",
         "value": 928.0225,
         "avgPrice": 0.4499,
         "slug": "bun-aug-s04-2026-08-30-total-2pt5"
+      },
+      "0x5b41110fc769fc31df53e8c9e5f66963d199e609153c286cda400d990e216259|Over": {
+        "title": "SV Darmstadt 98 vs. Hannover 96: O/U 4.5",
+        "outcome": "Over",
+        "value": 886.709,
+        "avgPrice": 0.1185,
+        "slug": "bl2-svd-h96-2026-08-30-total-4pt5"
       },
       "0x07b1bec1c04c83ba898048378e713a26a510bb04eabc635dea5ea22eeba9c22d|Sofia Kenin": {
         "title": "US Open WTA: Venus Williams vs Sofia Kenin",
@@ -407,19 +400,19 @@
         "avgPrice": 0.8599,
         "slug": "wta-william-kenin-2026-08-30"
       },
+      "0x6cb6bb1a334d2983ef8f3c55fe2a2a5cd9e5b3dab32a20b8365253468ff2eb74|M80": {
+        "title": "Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
+        "outcome": "M80",
+        "value": 822.9844,
+        "avgPrice": 0.1306,
+        "slug": "cs2-m80-aur1-2026-08-30"
+      },
       "0x16a4eb4f9ba2c5601406f85e5a86decb01f265adae6fd57e208085651b302a56|KT Wiz": {
         "title": "KBO: Doosan Bears vs. KT Wiz",
         "outcome": "KT Wiz",
         "value": 790.6373,
         "avgPrice": 0.5688,
         "slug": "kbo-doo-kt-2026-07-21"
-      },
-      "0xd73b81755d573d5abb591ab049ef6a5c535833296e8b1d3573558b6d12d686fe|Yes": {
-        "title": "Will Vancouver Whitecaps FC win on 2026-07-16?",
-        "outcome": "Yes",
-        "value": 775.0679,
-        "avgPrice": 0.3949,
-        "slug": "mls-chi-vwh-2026-07-16-vwh"
       },
       "0xf0c9b97befc7314ea938626295edb4101731a4ef01908bb097f168518fbb54f6|Over": {
         "title": "Gwangju FC vs. FC Seoul: O/U 2.5",
@@ -428,19 +421,12 @@
         "avgPrice": 0.5499,
         "slug": "kor-gwa-seo-2026-08-30-total-2pt5"
       },
-      "0x6cb6bb1a334d2983ef8f3c55fe2a2a5cd9e5b3dab32a20b8365253468ff2eb74|M80": {
-        "title": "Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
-        "outcome": "M80",
-        "value": 756.0468,
-        "avgPrice": 0.1377,
-        "slug": "cs2-m80-aur1-2026-08-30"
-      },
-      "0x88d1d306d03fb46d7dada3f112eb24eaadb212fdfd0cb3736a825c5ff84f3cce|FC Midtjylland": {
-        "title": "Spread: FC Midtjylland (-1.5)",
-        "outcome": "FC Midtjylland",
-        "value": 740.056,
-        "avgPrice": 0.449,
-        "slug": "den-sif-mid-2026-08-30-spread-away-1pt5"
+      "0xd73b81755d573d5abb591ab049ef6a5c535833296e8b1d3573558b6d12d686fe|Yes": {
+        "title": "Will Vancouver Whitecaps FC win on 2026-07-16?",
+        "outcome": "Yes",
+        "value": 742.3186,
+        "avgPrice": 0.3949,
+        "slug": "mls-chi-vwh-2026-07-16-vwh"
       },
       "0x84ed0eea4e7c92fd0f3d9134c955584a7ebfdaef14283892b47513d4b77a568d|Alexandre Reco": {
         "title": "ITF Rognac: Loic Namigandet Tenguere vs Alexandre Reco",
@@ -449,6 +435,20 @@
         "avgPrice": 0.6982,
         "slug": "itf-tenguer-reco-2026-07-23"
       },
+      "0x2d6bf14fe41613cfb8f86e0b7c9cc2c283b6e251e2b6a285220d3d0357186808|Over": {
+        "title": "1. FC Magdeburg vs. Holstein Kiel: O/U 1.5",
+        "outcome": "Over",
+        "value": 722.6296,
+        "avgPrice": 0.3739,
+        "slug": "bl2-fcm-ksv-2026-08-30-total-1pt5"
+      },
+      "0x3bcd1da34d5eaacd553277d94cf785eb42c9ba55492e4b17158ddcb63ebde5f2|Under": {
+        "title": "Games Total: O/U 2.5",
+        "outcome": "Under",
+        "value": 688.6902,
+        "avgPrice": 0.5682,
+        "slug": "cs2-m80-aur1-2026-08-30-total-games-2pt5"
+      },
       "0x3f63966fb08b71f81e8678d6560f563617d1e0c0f31fa3e7edeefbaf8056a11d|Renata Zarazua": {
         "title": "US Open WTA: Renata Zarazua vs Polina Iatcenko",
         "outcome": "Renata Zarazua",
@@ -456,26 +456,12 @@
         "avgPrice": 0.5499,
         "slug": "wta-zarazua-iatcenk-2026-08-30"
       },
-      "0x3bcd1da34d5eaacd553277d94cf785eb42c9ba55492e4b17158ddcb63ebde5f2|Under": {
-        "title": "Games Total: O/U 2.5",
-        "outcome": "Under",
-        "value": 652.7139,
-        "avgPrice": 0.5682,
-        "slug": "cs2-m80-aur1-2026-08-30-total-games-2pt5"
-      },
       "0x22d50fca75af9516e0cdd90c1c1e375e44d7014294884d53f461869e26f7ead7|Over": {
         "title": "FC St. Pauli 1910 vs. 1. FC Kaiserslautern: O/U 1.5",
         "outcome": "Over",
         "value": 650.3546,
         "avgPrice": 0.7779,
         "slug": "bl2-stp-fck-2026-08-30-total-1pt5"
-      },
-      "0x2ff7218a98caa4c31d20a886d48aa9786ef11bd55feed2437833e986605dfb5d|Under": {
-        "title": "Lyngby BK vs. Odense BK: O/U 2.5",
-        "outcome": "Under",
-        "value": 648.9527,
-        "avgPrice": 0.3799,
-        "slug": "den-lyn-ode-2026-08-30-total-2pt5"
       },
       "0xe3c90c8836bbdcb619f6b749e7095458baca9be96cc81f125568bea771336207|Sobolieva": {
         "title": "Set 1 Winner: Samson vs Sobolieva",
@@ -487,16 +473,37 @@
       "0xdb4707f183cb033c703e325bf18ab562a6c654f70a955a8acee4b5b797af1351|Yes": {
         "title": "Will FC Midtjylland win on 2026-08-30?",
         "outcome": "Yes",
-        "value": 634.875,
+        "value": 643.34,
         "avgPrice": 0.4099,
         "slug": "den-sif-mid-2026-08-30-mid"
       },
       "0x85f05109cf1bcfd6368cf1baf52c7cd277e8d8953ef24e9812b78e418b93e6a9|Under": {
         "title": "Minnesota Lynx vs. Atlanta Dream: O/U 176.5",
         "outcome": "Under",
-        "value": 623.0882,
+        "value": 635.187,
         "avgPrice": 0.5099,
         "slug": "wnba-min-atl-2026-08-30-total-176pt5"
+      },
+      "0x70ffd447f8d4cc3fd060bf2fe547666c8844779fcc630b962ba6b66225b569c8|Over": {
+        "title": "1. FC Magdeburg vs. Holstein Kiel: O/U 0.5",
+        "outcome": "Over",
+        "value": 568.6626,
+        "avgPrice": 0.6576,
+        "slug": "bl2-fcm-ksv-2026-08-30-total-0pt5"
+      },
+      "0x0aabc4c53a0fbbcb9409487b118f65d02403531b74b31491c6cd5af1388958aa|Hannover 96": {
+        "title": "Spread: Hannover 96 (-2.5)",
+        "outcome": "Hannover 96",
+        "value": 536.506,
+        "avgPrice": 0.1113,
+        "slug": "bl2-svd-h96-2026-08-30-spread-away-2pt5"
+      },
+      "0x2ff7218a98caa4c31d20a886d48aa9786ef11bd55feed2437833e986605dfb5d|Under": {
+        "title": "Lyngby BK vs. Odense BK: O/U 2.5",
+        "outcome": "Under",
+        "value": 520.0217,
+        "avgPrice": 0.3799,
+        "slug": "den-lyn-ode-2026-08-30-total-2pt5"
       },
       "0xb4aeb3715bcae59ea25e66bc38b58c28771adddcc5b2755959ed881973522fa7|Over": {
         "title": "Manchester United FC vs. Ipswich Town FC: O/U 3.5",
@@ -524,7 +531,7 @@
       "0xbd51786c8c433665667d069be326cba7e0365056a0f271c87dddbc26e21f7326|Over": {
         "title": "AIK vs. Hammarby IF: O/U 2.5",
         "outcome": "Over",
-        "value": 25775.1466,
+        "value": 25891.7176,
         "avgPrice": 0.7782,
         "slug": "swe-aik-hif-2026-08-30-total-2pt5"
       },
@@ -538,9 +545,16 @@
       "0xe2bc8c5ee961fc416c28594c65bca8adf98b90bd520a05645739bc60d0d6509e|NC Dinos": {
         "title": "KBO: NC Dinos vs. Hanwha Eagles",
         "outcome": "NC Dinos",
-        "value": 18616.7008,
+        "value": 19900.9545,
         "avgPrice": 0.4492,
         "slug": "kbo-nc-han-2026-08-30"
+      },
+      "0x45620c206ccf23b261cc5924a0b52825a9850529c3f51cb80a4d50adee529f77|Over": {
+        "title": "AIK vs. Hammarby IF: O/U 3.5",
+        "outcome": "Over",
+        "value": 15071.94,
+        "avgPrice": 0.8391,
+        "slug": "swe-aik-hif-2026-08-30-total-3pt5"
       },
       "0x5c3edc826bdd35f54c6619de6d3e2da770ea84102293678ba19388719250dcb5|Over": {
         "title": "FC Utrecht vs. PSV: O/U 5.5",
@@ -552,14 +566,14 @@
       "0xadfc2da601deda5a9941408aba3d5c847cae3f094173b80aab87e6b28ea4d559|No": {
         "title": "Will Ningbo Professional FC win on 2026-08-30?",
         "outcome": "No",
-        "value": 9658.1013,
+        "value": 10269.4386,
         "avgPrice": 0.4335,
         "slug": "chi2-nip-mei-2026-08-30-nip"
       },
       "0xcd78480d34e51a295814af1cdb95a9ff10c0e97f2822e371e57b0acc4a923b11|No": {
         "title": "Will SV Darmstadt 98 win on 2026-08-30?",
         "outcome": "No",
-        "value": 8983.2945,
+        "value": 9282.2705,
         "avgPrice": 0.71,
         "slug": "bl2-svd-h96-2026-08-30-svd"
       },
@@ -570,12 +584,26 @@
         "avgPrice": 0.5044,
         "slug": "ere-utr-psv-2026-08-30-total-4pt5"
       },
-      "0x45620c206ccf23b261cc5924a0b52825a9850529c3f51cb80a4d50adee529f77|Over": {
-        "title": "AIK vs. Hammarby IF: O/U 3.5",
-        "outcome": "Over",
-        "value": 7491.9,
-        "avgPrice": 0.84,
-        "slug": "swe-aik-hif-2026-08-30-total-3pt5"
+      "0x84a5651b1ae299ff02ca90077de8272e28390760c073ef6e49685945d2de0cfb|Under": {
+        "title": "Aberdeen FC vs. Rangers FC: O/U 1.5",
+        "outcome": "Under",
+        "value": 6358.2776,
+        "avgPrice": 0.5574,
+        "slug": "scop-abe-ran-2026-08-30-total-1pt5"
+      },
+      "0x5e056b4393af7991b7812cad3a73d0710092ef9f199801518a991820b4f58e7d|Andrea Colombo": {
+        "title": "Como: Andrea Colombo vs Gianmarco Ferrari",
+        "outcome": "Andrea Colombo",
+        "value": 6146.3789,
+        "avgPrice": 0.6318,
+        "slug": "atp-colombo-ferrari-2026-08-30"
+      },
+      "0xbda55447846e75c3e1ed2ad9773e368395c21f0c745ff16304919adad564a2f2|Olle Wallin": {
+        "title": "Como: Olle Wallin vs Niccolo Catini",
+        "outcome": "Olle Wallin",
+        "value": 6120.6316,
+        "avgPrice": 0.7176,
+        "slug": "atp-wallin-catini-2026-08-30"
       },
       "0xee45bb478025b70cd4be316815d5558688ab006a3ef803aaba0cef11e358e1c4|Branko Djuric": {
         "title": "ITF MEN - SINGLES: M15 Kursumlijska Banja 13 (Serbia), clay: Branko Djuric vs Dmitry Popko",
@@ -584,26 +612,12 @@
         "avgPrice": 0.7403,
         "slug": "itf-djuric-popko-2026-08-30"
       },
-      "0xbda55447846e75c3e1ed2ad9773e368395c21f0c745ff16304919adad564a2f2|Olle Wallin": {
-        "title": "Como: Olle Wallin vs Niccolo Catini",
-        "outcome": "Olle Wallin",
-        "value": 5913.1526,
-        "avgPrice": 0.7106,
-        "slug": "atp-wallin-catini-2026-08-30"
-      },
       "0xb0721d36564bb80173bc9399acf89fd43ee6f0b4417c1ce38686c55670d3e1b0|No": {
         "title": "Will Sunderland AFC win on 2026-08-30?",
         "outcome": "No",
-        "value": 5750.0,
+        "value": 5650.0,
         "avgPrice": 0.59,
         "slug": "epl-sun-ful-2026-08-30-sun"
-      },
-      "0x84a5651b1ae299ff02ca90077de8272e28390760c073ef6e49685945d2de0cfb|Under": {
-        "title": "Aberdeen FC vs. Rangers FC: O/U 1.5",
-        "outcome": "Under",
-        "value": 5725.3125,
-        "avgPrice": 0.5574,
-        "slug": "scop-abe-ran-2026-08-30-total-1pt5"
       },
       "0x15827ef290788b1629671a5d30bf4be43939c82c33faf497becb05c997fd10e7|No": {
         "title": "Will FC Utrecht win on 2026-08-30?",
@@ -615,9 +629,16 @@
       "0xd593b85c27795d0b94b561bdf41667f4944fb6037249caaa67c023998b17a23d|AIK": {
         "title": "Spread: Hammarby IF (-1.5)",
         "outcome": "AIK",
-        "value": 5063.1538,
+        "value": 5123.4294,
         "avgPrice": 0.5395,
         "slug": "swe-aik-hif-2026-08-30-spread-away-1pt5"
+      },
+      "0xe082a0a37af169e74302b7383b022fc0d8b413aaae48b50c8d4f03b4d38f99f3|Yes": {
+        "title": "Will Chelsea FC win on 2026-08-30?",
+        "outcome": "Yes",
+        "value": 4989.1306,
+        "avgPrice": 0.638,
+        "slug": "epl-che-bri-2026-08-30-che"
       },
       "0xb29ddac3a11332b343a6418bc3eb6cf137f9b21b3c83b869d6515dd8a7f4063d|Yes": {
         "title": "Will PSV win on 2026-08-30?",
@@ -629,14 +650,14 @@
       "0x445bb6f8dd8e2dc2cdc0aae36f9418c1e03266e858971e8d8d480bd9532db5d3|Under": {
         "title": "AIK vs. Hammarby IF: O/U 4.5",
         "outcome": "Under",
-        "value": 4552.68,
+        "value": 4604.415,
         "avgPrice": 0.5041,
         "slug": "swe-aik-hif-2026-08-30-total-4pt5"
       },
       "0x88e0606e76b6930dba171384f3a1389e37aef41c29a7c2ecccad4fe499ef3b15|Over": {
         "title": "FK Bod\u00f8/Glimt vs. Rosenborg BK: O/U 0.5",
         "outcome": "Over",
-        "value": 4436.78,
+        "value": 4313.282,
         "avgPrice": 0.9734,
         "slug": "nor-bog-rbk-2026-08-30-total-0pt5"
       },
@@ -647,40 +668,75 @@
         "avgPrice": 0.425,
         "slug": "arg-ban-riv-2026-08-30-riv"
       },
-      "0xd4a48ceae4177101de71b085edd588ee6b8038af9644d134b079eca66c5406fb|No": {
-        "title": "Chelsea FC vs. Brighton & Hove Albion FC: Both Teams to Score",
-        "outcome": "No",
-        "value": 3750.0,
-        "avgPrice": 0.37,
-        "slug": "epl-che-bri-2026-08-30-btts"
-      },
-      "0x39a50f5e5b904bc96ea6dc9aa81af77ac52a869c06c060a0223dbc9ce317c336|Yes": {
-        "title": "Will Hammarby IF win on 2026-08-30?",
-        "outcome": "Yes",
-        "value": 3391.84,
-        "avgPrice": 0.6989,
-        "slug": "swe-aik-hif-2026-08-30-hif"
-      },
-      "0x2ed03aab493299b41416db64512f3625cd8f729361800981f0ed092d2f595691|Yes": {
-        "title": "Will FC Boto\u015fani win on 2026-08-30?",
-        "outcome": "Yes",
-        "value": 3246.5074,
-        "avgPrice": 0.2752,
-        "slug": "rou1-ffc-fcb-2026-08-30-fcb"
+      "0x4ff2c3121242094a9ba428f153e9318bd8d454703cf85413c2bea0f10f825640|Over": {
+        "title": "Chelsea FC vs. Brighton & Hove Albion FC: O/U 3.5",
+        "outcome": "Over",
+        "value": 3504.05,
+        "avgPrice": 0.5325,
+        "slug": "epl-che-bri-2026-08-30-total-3pt5"
       },
       "0x99f7a558397157f0bb9482d4e7d78c0f837969296d53a8de25e9854f4496d267|Yes": {
         "title": "Will Hannover 96 win on 2026-08-30?",
         "outcome": "Yes",
-        "value": 3198.72,
+        "value": 3465.28,
         "avgPrice": 0.43,
         "slug": "bl2-svd-h96-2026-08-30-h96"
+      },
+      "0x39a50f5e5b904bc96ea6dc9aa81af77ac52a869c06c060a0223dbc9ce317c336|Yes": {
+        "title": "Will Hammarby IF win on 2026-08-30?",
+        "outcome": "Yes",
+        "value": 3431.28,
+        "avgPrice": 0.6989,
+        "slug": "swe-aik-hif-2026-08-30-hif"
+      },
+      "0x2e85db8d00035c1c18c69fb386172763faab02188c982c8e6daf4066917994ca|No": {
+        "title": "Will Silkeborg IF win on 2026-08-30?",
+        "outcome": "No",
+        "value": 3393.9587,
+        "avgPrice": 0.698,
+        "slug": "den-sif-mid-2026-08-30-sif"
+      },
+      "0x2ed03aab493299b41416db64512f3625cd8f729361800981f0ed092d2f595691|Yes": {
+        "title": "Will FC Boto\u015fani win on 2026-08-30?",
+        "outcome": "Yes",
+        "value": 3136.4563,
+        "avgPrice": 0.2752,
+        "slug": "rou1-ffc-fcb-2026-08-30-fcb"
+      },
+      "0x18b13c577530fbeb42f1e2c0812601335fd4d2a5cd0fbeee8378dfd2e2c088fa|Yes": {
+        "title": "Will 1. FC Kaiserslautern win on 2026-08-30?",
+        "outcome": "Yes",
+        "value": 3035.8991,
+        "avgPrice": 0.6172,
+        "slug": "bl2-stp-fck-2026-08-30-fck"
       },
       "0x4a42c7ed224498dc4d487451355bce9fecaee2f12a5636c3326f71c50cbea90b|No": {
         "title": "Will Feyenoord Rotterdam win on 2026-08-30?",
         "outcome": "No",
-        "value": 2862.6745,
-        "avgPrice": 0.2759,
+        "value": 3017.9058,
+        "avgPrice": 0.2825,
         "slug": "ere-fey-ado-2026-08-30-fey"
+      },
+      "0x3c37f2f03a14d25d77e49ace4f6a64111bf540d2d25b04f8f7e84e879576d6b9|Over": {
+        "title": "SV Darmstadt 98 vs. Hannover 96: O/U 1.5",
+        "outcome": "Over",
+        "value": 2943.4642,
+        "avgPrice": 0.7114,
+        "slug": "bl2-svd-h96-2026-08-30-total-1pt5"
+      },
+      "0x0c4226a387ffb09dbfe3bc859ea09b5a2d223a8f21f3f8300a2dd9aeb872291b|No": {
+        "title": "Will FC St. Pauli 1910 win on 2026-08-30?",
+        "outcome": "No",
+        "value": 2942.5205,
+        "avgPrice": 0.73,
+        "slug": "bl2-stp-fck-2026-08-30-stp"
+      },
+      "0xd4a48ceae4177101de71b085edd588ee6b8038af9644d134b079eca66c5406fb|No": {
+        "title": "Chelsea FC vs. Brighton & Hove Albion FC: Both Teams to Score",
+        "outcome": "No",
+        "value": 2919.7086,
+        "avgPrice": 0.3698,
+        "slug": "epl-che-bri-2026-08-30-btts"
       },
       "0x478d94a4e4030af2a9fe3d21fbe05aeda96628c45e16ba0e7e53b3597bd50834|Over": {
         "title": "Aberdeen FC vs. Rangers FC: O/U 0.5",
@@ -689,19 +745,12 @@
         "avgPrice": 0.831,
         "slug": "scop-abe-ran-2026-08-30-total-0pt5"
       },
-      "0x0c4226a387ffb09dbfe3bc859ea09b5a2d223a8f21f3f8300a2dd9aeb872291b|No": {
-        "title": "Will FC St. Pauli 1910 win on 2026-08-30?",
-        "outcome": "No",
-        "value": 2741.1902,
-        "avgPrice": 0.73,
-        "slug": "bl2-stp-fck-2026-08-30-stp"
-      },
-      "0x4ec46504cea74548ae7e4fc6b154456a6db271483164466ff46ff532e3339ef9|Under": {
-        "title": "1. FC Magdeburg vs. Holstein Kiel: O/U 2.5",
-        "outcome": "Under",
-        "value": 2711.0352,
-        "avgPrice": 0.6341,
-        "slug": "bl2-fcm-ksv-2026-08-30-total-2pt5"
+      "0x88f71c0fd20140ebabe2b0568e91afd4db3e3a5446fea942cf92b3a70cb52672|Yes": {
+        "title": "Will Aarhus GF win on 2026-08-30?",
+        "outcome": "Yes",
+        "value": 2762.5,
+        "avgPrice": 0.4099,
+        "slug": "den-ran-agf-2026-08-30-agf"
       },
       "0xaedb6667cf88cade0903baee5d5f14180e0cb4c35cfb1c8c05d5f91af051ba5b|Alexander Blockx": {
         "title": "National Bank Open: Jaume Munar vs Alexander Blockx",
@@ -710,19 +759,33 @@
         "avgPrice": 0.5,
         "slug": "atp-munar-blockx-2026-08-04"
       },
+      "0x4ec46504cea74548ae7e4fc6b154456a6db271483164466ff46ff532e3339ef9|Under": {
+        "title": "1. FC Magdeburg vs. Holstein Kiel: O/U 2.5",
+        "outcome": "Under",
+        "value": 2591.2104,
+        "avgPrice": 0.6341,
+        "slug": "bl2-fcm-ksv-2026-08-30-total-2pt5"
+      },
       "0x2c72d290d7af0deea7c0fe0a059ff96dd6bce7dca6e1a1528e845d1443151c4f|Yes": {
         "title": "Will Rangers FC win on 2026-08-30?",
         "outcome": "Yes",
-        "value": 2491.2577,
+        "value": 2502.5247,
         "avgPrice": 0.596,
         "slug": "scop-abe-ran-2026-08-30-ran"
       },
-      "0x18b13c577530fbeb42f1e2c0812601335fd4d2a5cd0fbeee8378dfd2e2c088fa|Yes": {
-        "title": "Will 1. FC Kaiserslautern win on 2026-08-30?",
-        "outcome": "Yes",
-        "value": 2465.3946,
-        "avgPrice": 0.6172,
-        "slug": "bl2-stp-fck-2026-08-30-fck"
+      "0x56a35dcc1116606d80d817d7c7722831a8c5a4e1077322c1e7bcc0d19bceefb3|No": {
+        "title": "Will ADO Den Haag win on 2026-08-30?",
+        "outcome": "No",
+        "value": 2467.4598,
+        "avgPrice": 0.8427,
+        "slug": "ere-fey-ado-2026-08-30-ado"
+      },
+      "0x57eeadae29b3dcec76c71f0c47f50d60bf74fa5b85dde4649a20d7f51c025444|Over": {
+        "title": "SV Darmstadt 98 vs. Hannover 96: O/U 2.5",
+        "outcome": "Over",
+        "value": 2354.4773,
+        "avgPrice": 0.3524,
+        "slug": "bl2-svd-h96-2026-08-30-total-2pt5"
       },
       "0x18ba7e5d579d179183b773e1dc1cb6d3912e8970307c702e0daca01cbed8c73f|Hannover 96": {
         "title": "Spread: Hannover 96 (-1.5)",
@@ -738,33 +801,40 @@
         "avgPrice": 0.9472,
         "slug": "scop-abe-ran-2026-08-30-exact-score-0-0"
       },
+      "0x1f0efe1704b6e42350e1d8f2db2fc5f6a302c0dbdff08af60aa2aeb5f4101e80|No": {
+        "title": "Will KAA Gent win on 2026-08-30?",
+        "outcome": "No",
+        "value": 2143.3501,
+        "avgPrice": 0.7569,
+        "slug": "bel1-kaa-bru-2026-08-30-kaa"
+      },
       "0x940818dac1257a5706320696ca5babcbf72f212aadb60dee1bfbdf0e1d86a7bc|Over": {
         "title": "FC Sion vs. FC Lugano: O/U 1.5",
         "outcome": "Over",
-        "value": 2044.08,
+        "value": 2105.28,
         "avgPrice": 0.8361,
         "slug": "sui-sio-lug-2026-08-30-total-1pt5"
       },
-      "0x3c37f2f03a14d25d77e49ace4f6a64111bf540d2d25b04f8f7e84e879576d6b9|Over": {
-        "title": "SV Darmstadt 98 vs. Hannover 96: O/U 1.5",
-        "outcome": "Over",
-        "value": 2029.1232,
-        "avgPrice": 0.7181,
-        "slug": "bl2-svd-h96-2026-08-30-total-1pt5"
+      "0x1f74de9ed43470e54dcbec3ba85ef19e85152a9a21b28e44139f228fff992928|Under": {
+        "title": "FK Bod\u00f8/Glimt vs. Rosenborg BK: 1st Half O/U 1.5",
+        "outcome": "Under",
+        "value": 1933.0239,
+        "avgPrice": 0.641,
+        "slug": "nor-bog-rbk-2026-08-30-first-half-total-1pt5"
       },
-      "0xe2bc8c5ee961fc416c28594c65bca8adf98b90bd520a05645739bc60d0d6509e|Hanwha Eagles": {
-        "title": "KBO: NC Dinos vs. Hanwha Eagles",
-        "outcome": "Hanwha Eagles",
-        "value": 1954.9908,
-        "avgPrice": 0.6112,
-        "slug": "kbo-nc-han-2026-08-30"
+      "0x53c568940c1f24afda99c8bda2d1435ec78b5182584ef5a76d40d84db8963aff|No": {
+        "title": "Will Club Brugge win on 2026-08-30?",
+        "outcome": "No",
+        "value": 1797.2603,
+        "avgPrice": 0.4732,
+        "slug": "bel1-kaa-bru-2026-08-30-bru"
       },
-      "0x7e152b6dc1e054477f8547b81521ab81bcfdb3f965d44400ea9993f6a85d1422|Over": {
-        "title": "FK Bod\u00f8/Glimt vs. Rosenborg BK: O/U 4.5",
-        "outcome": "Over",
-        "value": 1700.0,
-        "avgPrice": 0.34,
-        "slug": "nor-bog-rbk-2026-08-30-total-4pt5"
+      "0x2d6bf14fe41613cfb8f86e0b7c9cc2c283b6e251e2b6a285220d3d0357186808|Under": {
+        "title": "1. FC Magdeburg vs. Holstein Kiel: O/U 1.5",
+        "outcome": "Under",
+        "value": 1702.6853,
+        "avgPrice": 0.4741,
+        "slug": "bl2-fcm-ksv-2026-08-30-total-1pt5"
       },
       "0xe56fc8a5144b1846b59e0681f251a670f758edc2b7251b058f9bc911dfca33f1|SS Lazio": {
         "title": "Spread: SS Lazio (-1.5)",
@@ -773,12 +843,26 @@
         "avgPrice": 0.15,
         "slug": "sea-laz-gen-2026-08-30-spread-home-1pt5"
       },
+      "0xe4a2b6a725826cf3815881bc8b8c28967af3aac986dc9a51c8958e19966d749d|Under": {
+        "title": "Feyenoord Rotterdam vs. ADO Den Haag: 1st Half O/U 1.5",
+        "outcome": "Under",
+        "value": 1613.3702,
+        "avgPrice": 0.4786,
+        "slug": "ere-fey-ado-2026-08-30-first-half-total-1pt5"
+      },
       "0xbc44d50a2e0a9d2e47df48205ee6e3495bfa3cff514fb3ebcbfc38d69a411b1c|No": {
         "title": "Will Aberdeen FC win on 2026-08-30?",
         "outcome": "No",
-        "value": 1593.4418,
+        "value": 1597.4374,
         "avgPrice": 0.7963,
         "slug": "scop-abe-ran-2026-08-30-abe"
+      },
+      "0x0788d4283cf69dc595d61c0bd0b769be770c08ec1ee54222d159fdfc00a7f179|Under": {
+        "title": "Aberdeen FC vs. Rangers FC: O/U 2.5",
+        "outcome": "Under",
+        "value": 1557.0807,
+        "avgPrice": 0.6972,
+        "slug": "scop-abe-ran-2026-08-30-total-2pt5"
       },
       "0x95e7f7ac5c1eb69da6021cb353590b662512bfe8e8eb3a9fc022430f3e4df2e4|Under": {
         "title": "FC Eindhoven vs. Heracles Almelo: O/U 4.5",
@@ -787,26 +871,26 @@
         "avgPrice": 0.807,
         "slug": "ned2-ein-her-2026-08-30-total-4pt5"
       },
-      "0x0788d4283cf69dc595d61c0bd0b769be770c08ec1ee54222d159fdfc00a7f179|Under": {
-        "title": "Aberdeen FC vs. Rangers FC: O/U 2.5",
-        "outcome": "Under",
-        "value": 1549.2914,
-        "avgPrice": 0.6972,
-        "slug": "scop-abe-ran-2026-08-30-total-2pt5"
-      },
       "0x9fe35813e5f32a7f61b86571dd01c12d0d009ae12abb2e9c53c61f1fcb50e10f|No": {
         "title": "Exact Score: Ningbo Professional FC 0 - 0 Meizhou Hakka?",
         "outcome": "No",
-        "value": 1516.0116,
+        "value": 1521.3389,
         "avgPrice": 0.9,
         "slug": "chi2-nip-mei-2026-08-30-exact-score-0-0"
       },
-      "0x1f74de9ed43470e54dcbec3ba85ef19e85152a9a21b28e44139f228fff992928|Under": {
-        "title": "FK Bod\u00f8/Glimt vs. Rosenborg BK: 1st Half O/U 1.5",
-        "outcome": "Under",
-        "value": 1486.9414,
-        "avgPrice": 0.641,
-        "slug": "nor-bog-rbk-2026-08-30-first-half-total-1pt5"
+      "0x2d6bf14fe41613cfb8f86e0b7c9cc2c283b6e251e2b6a285220d3d0357186808|Over": {
+        "title": "1. FC Magdeburg vs. Holstein Kiel: O/U 1.5",
+        "outcome": "Over",
+        "value": 1494.7082,
+        "avgPrice": 0.4872,
+        "slug": "bl2-fcm-ksv-2026-08-30-total-1pt5"
+      },
+      "0xf036e86da1c8754815f11173b2bed6356f03beae5ebe474df96d0799e5fe2594|Over": {
+        "title": "Chelsea FC vs. Brighton & Hove Albion FC: O/U 1.5",
+        "outcome": "Over",
+        "value": 1493.8,
+        "avgPrice": 0.82,
+        "slug": "epl-che-bri-2026-08-30-total-1pt5"
       },
       "0xe5907ee5b1cbb4a4a905e29edaf2222f46f257e3780a8572791f0546236acbd3|Over": {
         "title": "San Francisco Giants vs. Atlanta Braves: O/U 7.5",
@@ -818,23 +902,9 @@
       "0x8c52099b34fc3376d60c5b1109dd030d9e5b47dec3c568f3a3a6dc2c8ed271ba|No": {
         "title": "Exact Score: Ningbo Professional FC 0 - 1 Meizhou Hakka?",
         "outcome": "No",
-        "value": 1403.655,
+        "value": 1409.295,
         "avgPrice": 0.9269,
         "slug": "chi2-nip-mei-2026-08-30-exact-score-0-1"
-      },
-      "0x57eeadae29b3dcec76c71f0c47f50d60bf74fa5b85dde4649a20d7f51c025444|Over": {
-        "title": "SV Darmstadt 98 vs. Hannover 96: O/U 2.5",
-        "outcome": "Over",
-        "value": 1384.5852,
-        "avgPrice": 0.4495,
-        "slug": "bl2-svd-h96-2026-08-30-total-2pt5"
-      },
-      "0x2e85db8d00035c1c18c69fb386172763faab02188c982c8e6daf4066917994ca|No": {
-        "title": "Will Silkeborg IF win on 2026-08-30?",
-        "outcome": "No",
-        "value": 1335.8992,
-        "avgPrice": 0.7838,
-        "slug": "den-sif-mid-2026-08-30-sif"
       },
       "0xead85f3e1a00c152170d0979cef4bd11893868093472d018a794ecbe2afd445e|Over": {
         "title": "FC Eindhoven vs. Heracles Almelo: O/U 3.5",
@@ -843,19 +913,19 @@
         "avgPrice": 0.2684,
         "slug": "ned2-ein-her-2026-08-30-total-3pt5"
       },
-      "0x5e056b4393af7991b7812cad3a73d0710092ef9f199801518a991820b4f58e7d|Gianmarco Ferrari": {
-        "title": "Como: Andrea Colombo vs Gianmarco Ferrari",
-        "outcome": "Gianmarco Ferrari",
-        "value": 1222.3272,
-        "avgPrice": 0.6871,
-        "slug": "atp-colombo-ferrari-2026-08-30"
+      "0x4a42c7ed224498dc4d487451355bce9fecaee2f12a5636c3326f71c50cbea90b|Yes": {
+        "title": "Will Feyenoord Rotterdam win on 2026-08-30?",
+        "outcome": "Yes",
+        "value": 1260.3717,
+        "avgPrice": 0.6313,
+        "slug": "ere-fey-ado-2026-08-30-fey"
       },
-      "0x88d1d306d03fb46d7dada3f112eb24eaadb212fdfd0cb3736a825c5ff84f3cce|Silkeborg IF": {
-        "title": "Spread: FC Midtjylland (-1.5)",
-        "outcome": "Silkeborg IF",
-        "value": 1154.1684,
-        "avgPrice": 0.6506,
-        "slug": "den-sif-mid-2026-08-30-spread-away-1pt5"
+      "0xf29fdeb66bb5f1df4f3a14d862c0fb47eab488e8913027e0d8c21e13aff869d0|No": {
+        "title": "Will Rosenborg BK win on 2026-08-30?",
+        "outcome": "No",
+        "value": 1223.7875,
+        "avgPrice": 0.8529,
+        "slug": "nor-bog-rbk-2026-08-30-rbk"
       },
       "0x9b47a0b0d17671d450fd6abdc83ecdc2df483e726f37f2db5496e6058e9d3a4f|Over": {
         "title": "KAA Gent vs. Club Brugge: 1st Half O/U 0.5",
@@ -864,19 +934,47 @@
         "avgPrice": 0.25,
         "slug": "bel1-kaa-bru-2026-08-30-first-half-total-0pt5"
       },
-      "0x53c568940c1f24afda99c8bda2d1435ec78b5182584ef5a76d40d84db8963aff|No": {
-        "title": "Will Club Brugge win on 2026-08-30?",
+      "0xce82a88d0f1b6f5d314788735c1f0a703ab9ee3da4553db7dad6a73e881d8432|No": {
+        "title": "Sunderland AFC vs. Fulham FC: Both Teams to Score",
         "outcome": "No",
-        "value": 1080.4339,
-        "avgPrice": 0.4732,
-        "slug": "bel1-kaa-bru-2026-08-30-bru"
+        "value": 1067.2285,
+        "avgPrice": 0.4372,
+        "slug": "epl-sun-ful-2026-08-30-btts"
       },
-      "0xf29fdeb66bb5f1df4f3a14d862c0fb47eab488e8913027e0d8c21e13aff869d0|No": {
-        "title": "Will Rosenborg BK win on 2026-08-30?",
-        "outcome": "No",
-        "value": 979.125,
-        "avgPrice": 0.8566,
-        "slug": "nor-bog-rbk-2026-08-30-rbk"
+      "0xda0103480a6d7d45445e579b267aa251c9f559895438d61c55d8106d615b8b96|Yes": {
+        "title": "Will Silkeborg IF vs. FC Midtjylland end in a draw?",
+        "outcome": "Yes",
+        "value": 1003.5516,
+        "avgPrice": 0.2233,
+        "slug": "den-sif-mid-2026-08-30-draw"
+      },
+      "0xed12e47c4817bfa64584855372d175c7d18557c5819be121b745ac1669d79bc2|Under": {
+        "title": "Chelsea FC vs. Brighton & Hove Albion FC: O/U 2.5",
+        "outcome": "Under",
+        "value": 999.5986,
+        "avgPrice": 0.3668,
+        "slug": "epl-che-bri-2026-08-30-total-2pt5"
+      },
+      "0x5b41110fc769fc31df53e8c9e5f66963d199e609153c286cda400d990e216259|Over": {
+        "title": "SV Darmstadt 98 vs. Hannover 96: O/U 4.5",
+        "outcome": "Over",
+        "value": 998.096,
+        "avgPrice": 0.1149,
+        "slug": "bl2-svd-h96-2026-08-30-total-4pt5"
+      },
+      "0x5e056b4393af7991b7812cad3a73d0710092ef9f199801518a991820b4f58e7d|Gianmarco Ferrari": {
+        "title": "Como: Andrea Colombo vs Gianmarco Ferrari",
+        "outcome": "Gianmarco Ferrari",
+        "value": 996.2917,
+        "avgPrice": 0.6643,
+        "slug": "atp-colombo-ferrari-2026-08-30"
+      },
+      "0x207809cf58c6e21665a44299db3db82ea98281b0e987b26c5a2ca9011a636107|ADO Den Haag": {
+        "title": "Spread: Feyenoord Rotterdam (-2.5)",
+        "outcome": "ADO Den Haag",
+        "value": 940.5,
+        "avgPrice": 0.57,
+        "slug": "ere-fey-ado-2026-08-30-spread-home-2pt5"
       },
       "0x9e115c60a4fe42b35b9b7457b8d65445fe20083333c653f240014f5ffdd658cf|No": {
         "title": "Will AIK win on 2026-08-30?",
@@ -884,13 +982,6 @@
         "value": 913.9064,
         "avgPrice": 0.9412,
         "slug": "swe-aik-hif-2026-08-30-aik"
-      },
-      "0x695a2d4505844ca63ff50a09b93c5a9a2876236f22fee4202ef8402173d33a23|Yes": {
-        "title": "Will Lyngby BK win on 2026-08-30?",
-        "outcome": "Yes",
-        "value": 891.8582,
-        "avgPrice": 0.4597,
-        "slug": "den-lyn-ode-2026-08-30-lyn"
       },
       "0xc2930df535462409523c4330b7bea5eca23e7b3d0df4bf36db15c9c3c73f7bd0|Jack Draper": {
         "title": "Lexus Eastbourne Open: Brandon Nakashima vs Jack Draper",
@@ -906,6 +997,13 @@
         "avgPrice": 0.6061,
         "slug": "ere-utr-psv-2026-08-30-first-half-total-2pt5"
       },
+      "0x531e07f1a2b3d9e71e9b6ff01400cc98ddd767d48537153d7a6c1a83857fd885|No": {
+        "title": "Will Brighton & Hove Albion FC win on 2026-08-30?",
+        "outcome": "No",
+        "value": 882.873,
+        "avgPrice": 0.9,
+        "slug": "epl-che-bri-2026-08-30-bri"
+      },
       "0xdeb37b13083cc7432d3f0b586cf8bbe5632fd79b693d660dab993542fce7ea50|Under": {
         "title": "SV Darmstadt 98 vs. Hannover 96: 1st Half O/U 0.5",
         "outcome": "Under",
@@ -913,19 +1011,26 @@
         "avgPrice": 0.405,
         "slug": "bl2-svd-h96-2026-08-30-first-half-total-0pt5"
       },
-      "0x2d6bf14fe41613cfb8f86e0b7c9cc2c283b6e251e2b6a285220d3d0357186808|Under": {
-        "title": "1. FC Magdeburg vs. Holstein Kiel: O/U 1.5",
-        "outcome": "Under",
-        "value": 862.2673,
-        "avgPrice": 0.493,
-        "slug": "bl2-fcm-ksv-2026-08-30-total-1pt5"
+      "0x4ec46504cea74548ae7e4fc6b154456a6db271483164466ff46ff532e3339ef9|Over": {
+        "title": "1. FC Magdeburg vs. Holstein Kiel: O/U 2.5",
+        "outcome": "Over",
+        "value": 825.3535,
+        "avgPrice": 0.4271,
+        "slug": "bl2-fcm-ksv-2026-08-30-total-2pt5"
       },
-      "0x2cf391d2e3dea47f6bf3a8247377e383abfe43c39e30a013dbca2291f902b339|No": {
-        "title": "Will KAA Gent vs. Club Brugge end in a draw?",
-        "outcome": "No",
-        "value": 813.55,
-        "avgPrice": 0.72,
-        "slug": "bel1-kaa-bru-2026-08-30-draw"
+      "0x445bb6f8dd8e2dc2cdc0aae36f9418c1e03266e858971e8d8d480bd9532db5d3|Over": {
+        "title": "AIK vs. Hammarby IF: O/U 4.5",
+        "outcome": "Over",
+        "value": 819.9662,
+        "avgPrice": 0.539,
+        "slug": "swe-aik-hif-2026-08-30-total-4pt5"
+      },
+      "0x88d1d306d03fb46d7dada3f112eb24eaadb212fdfd0cb3736a825c5ff84f3cce|Silkeborg IF": {
+        "title": "Spread: FC Midtjylland (-1.5)",
+        "outcome": "Silkeborg IF",
+        "value": 810.6659,
+        "avgPrice": 0.6506,
+        "slug": "den-sif-mid-2026-08-30-spread-away-1pt5"
       },
       "0x1d7b16531232baa519eb6df83205d66c07f68dd95e6e1a5b8409ee078576979c|No": {
         "title": "Will FC Utrecht vs. PSV end in a draw?",
@@ -941,31 +1046,38 @@
         "avgPrice": 0.49,
         "slug": "atp-bonzi-kwon-2026-08-20"
       },
-      "0x53c568940c1f24afda99c8bda2d1435ec78b5182584ef5a76d40d84db8963aff|Yes": {
-        "title": "Will Club Brugge win on 2026-08-30?",
+      "0x695a2d4505844ca63ff50a09b93c5a9a2876236f22fee4202ef8402173d33a23|Yes": {
+        "title": "Will Lyngby BK win on 2026-08-30?",
         "outcome": "Yes",
-        "value": 764.716,
-        "avgPrice": 0.5457,
-        "slug": "bel1-kaa-bru-2026-08-30-bru"
+        "value": 780.3759,
+        "avgPrice": 0.4597,
+        "slug": "den-lyn-ode-2026-08-30-lyn"
       },
-      "0xbda55447846e75c3e1ed2ad9773e368395c21f0c745ff16304919adad564a2f2|Niccolo Catini": {
-        "title": "Como: Olle Wallin vs Niccolo Catini",
-        "outcome": "Niccolo Catini",
-        "value": 761.105,
-        "avgPrice": 0.2897,
-        "slug": "atp-wallin-catini-2026-08-30"
+      "0x0b9d44b9640c60e424edcfc4d19e7448073e9b55d6a4f5220688929478ca07e5|No": {
+        "title": "Exact Score: SV Darmstadt 98 0 - 0 Hannover 96?",
+        "outcome": "No",
+        "value": 775.105,
+        "avgPrice": 0.93,
+        "slug": "bl2-svd-h96-2026-08-30-exact-score-0-0"
       },
-      "0xda0103480a6d7d45445e579b267aa251c9f559895438d61c55d8106d615b8b96|Yes": {
-        "title": "Will Silkeborg IF vs. FC Midtjylland end in a draw?",
-        "outcome": "Yes",
-        "value": 743.7933,
-        "avgPrice": 0.2,
-        "slug": "den-sif-mid-2026-08-30-draw"
+      "0xff1450c3bbd1288c47caec866603d2856ca4d83b581c7d0046889d908ab1ff75|No": {
+        "title": "Chelsea FC leading at halftime?",
+        "outcome": "No",
+        "value": 761.2466,
+        "avgPrice": 0.4391,
+        "slug": "epl-che-bri-2026-08-30-halftime-result-home"
+      },
+      "0x9078c128ffc21fa0373c471f42184b1b11a2e6c1c143f6fba65e73224287348f|No": {
+        "title": "Will 1. FC Magdeburg vs. Holstein Kiel end in a draw?",
+        "outcome": "No",
+        "value": 740.0761,
+        "avgPrice": 0.6968,
+        "slug": "bl2-fcm-ksv-2026-08-30-draw"
       },
       "0xdbb562eed56b3fe18d35c25594aedd0bb697a7a76b775ac510fff9592d1fc3a3|Over": {
         "title": "Feyenoord Rotterdam vs. ADO Den Haag: O/U 1.5",
         "outcome": "Over",
-        "value": 699.3231,
+        "value": 695.7714,
         "avgPrice": 0.9795,
         "slug": "ere-fey-ado-2026-08-30-total-1pt5"
       },
@@ -976,19 +1088,12 @@
         "avgPrice": 0.46,
         "slug": "uru1-tor-pen-2026-08-08-pen"
       },
-      "0x207809cf58c6e21665a44299db3db82ea98281b0e987b26c5a2ca9011a636107|ADO Den Haag": {
-        "title": "Spread: Feyenoord Rotterdam (-2.5)",
-        "outcome": "ADO Den Haag",
-        "value": 672.6,
-        "avgPrice": 0.57,
-        "slug": "ere-fey-ado-2026-08-30-spread-home-2pt5"
-      },
-      "0x18b13c577530fbeb42f1e2c0812601335fd4d2a5cd0fbeee8378dfd2e2c088fa|No": {
-        "title": "Will 1. FC Kaiserslautern win on 2026-08-30?",
-        "outcome": "No",
-        "value": 656.9132,
-        "avgPrice": 0.443,
-        "slug": "bl2-stp-fck-2026-08-30-fck"
+      "0x14a0d8036df666c73bd1d76009d5375ecc8f5a92c82105dc9d2db5bac241e80e|Over": {
+        "title": "Feyenoord Rotterdam vs. ADO Den Haag: O/U 2.5",
+        "outcome": "Over",
+        "value": 662.6056,
+        "avgPrice": 0.8005,
+        "slug": "ere-fey-ado-2026-08-30-total-2pt5"
       },
       "0x6e52e45529e66a5422eb427624a7bff1a53071edeadecb098931575f4953b4bc|Tara Wurth": {
         "title": "Makarska: Rebecca Sramkova vs Tara Wurth",
@@ -997,12 +1102,40 @@
         "avgPrice": 0.22,
         "slug": "wta-sramkov-wurth-2026-06-03"
       },
+      "0x7e152b6dc1e054477f8547b81521ab81bcfdb3f965d44400ea9993f6a85d1422|Over": {
+        "title": "FK Bod\u00f8/Glimt vs. Rosenborg BK: O/U 4.5",
+        "outcome": "Over",
+        "value": 650.0,
+        "avgPrice": 0.34,
+        "slug": "nor-bog-rbk-2026-08-30-total-4pt5"
+      },
+      "0x8e76e6e949299ad421ee31ca00c24ae93766726c4de92087ecc9251837e57293|No": {
+        "title": "Will Holstein Kiel win on 2026-08-30?",
+        "outcome": "No",
+        "value": 646.0511,
+        "avgPrice": 0.7003,
+        "slug": "bl2-fcm-ksv-2026-08-30-ksv"
+      },
       "0xd8338fd5bd9be631b4b4b75050ae15ff26a77cce8db816ac500b90cecddf3018|No": {
         "title": "Will FC Eindhoven win on 2026-08-30?",
         "outcome": "No",
         "value": 639.68,
         "avgPrice": 0.95,
         "slug": "ned2-ein-her-2026-08-30-ein"
+      },
+      "0x2cf391d2e3dea47f6bf3a8247377e383abfe43c39e30a013dbca2291f902b339|No": {
+        "title": "Will KAA Gent vs. Club Brugge end in a draw?",
+        "outcome": "No",
+        "value": 639.0878,
+        "avgPrice": 0.6885,
+        "slug": "bel1-kaa-bru-2026-08-30-draw"
+      },
+      "0xd3ae5ac086956c24422d92cd57d6e254df108ea7e404424018f87012db8e5fc1|Tiago Cacao": {
+        "title": "Porto: Rodrigo Duarte vs Tiago Cacao",
+        "outcome": "Tiago Cacao",
+        "value": 609.8059,
+        "avgPrice": 0.89,
+        "slug": "atp-duarte-cacao-2026-08-30"
       },
       "0xd5775d8d33445e6f5c14b584c0f54535d4b2255b8cdfa9b69697f86969327718|Svyatoslav Gulin": {
         "title": "Prague: Marek Gengel vs Svyatoslav Gulin",
@@ -1011,47 +1144,47 @@
         "avgPrice": 0.5,
         "slug": "atp-gengel-gulin-2026-08-16"
       },
+      "0xbda55447846e75c3e1ed2ad9773e368395c21f0c745ff16304919adad564a2f2|Niccolo Catini": {
+        "title": "Como: Olle Wallin vs Niccolo Catini",
+        "outcome": "Niccolo Catini",
+        "value": 603.635,
+        "avgPrice": 0.2897,
+        "slug": "atp-wallin-catini-2026-08-30"
+      },
       "0x7ee51e41282c335c0665840cadf96d99acbfc2094fb032824d2c30d8abb43267|Under": {
         "title": "FC Sion vs. FC Lugano: O/U 4.5",
         "outcome": "Under",
-        "value": 604.307,
+        "value": 600.9683,
         "avgPrice": 0.8183,
         "slug": "sui-sio-lug-2026-08-30-total-4pt5"
       },
-      "0xc1b16dff76e3577efb49707751b30951cda254178991137360d29cc0d56c910e|Over": {
-        "title": "KAA Gent vs. Club Brugge: O/U 3.5",
+      "0x0eb4726a30826e5b7069a65dd3f9b725a06c74708d5c04fa2d8212aa798d6e32|Over": {
+        "title": "Guandong GZ-Power FC vs. Changchun Yatai: O/U 2.5",
         "outcome": "Over",
-        "value": 589.541,
-        "avgPrice": 0.3538,
-        "slug": "bel1-kaa-bru-2026-08-30-total-3pt5"
-      },
-      "0x4ec46504cea74548ae7e4fc6b154456a6db271483164466ff46ff532e3339ef9|Over": {
-        "title": "1. FC Magdeburg vs. Holstein Kiel: O/U 2.5",
-        "outcome": "Over",
-        "value": 580.8043,
-        "avgPrice": 0.4271,
-        "slug": "bl2-fcm-ksv-2026-08-30-total-2pt5"
-      },
-      "0x84a5651b1ae299ff02ca90077de8272e28390760c073ef6e49685945d2de0cfb|Over": {
-        "title": "Aberdeen FC vs. Rangers FC: O/U 1.5",
-        "outcome": "Over",
-        "value": 576.7148,
-        "avgPrice": 0.5645,
-        "slug": "scop-abe-ran-2026-08-30-total-1pt5"
+        "value": 597.8698,
+        "avgPrice": 0.54,
+        "slug": "chi2-gua-cha-2026-08-30-total-2pt5"
       },
       "0x182af336564ba26637ca3b2ab59279a9828a1f7299a9ccf284d26c686bf48675|No": {
         "title": "KAA Gent leading at halftime?",
         "outcome": "No",
-        "value": 568.8946,
+        "value": 571.1804,
         "avgPrice": 0.8719,
         "slug": "bel1-kaa-bru-2026-08-30-halftime-result-home"
       },
-      "0xc133482d19ef3092d91c90c6e9261e8ffd141870608a3549bbffe31c6ac506f8|Lotte Giants": {
-        "title": "KBO: LG Twins vs. Lotte Giants",
-        "outcome": "Lotte Giants",
-        "value": 551.8466,
-        "avgPrice": 0.3865,
-        "slug": "kbo-lg-lot-2026-08-28"
+      "0x5314dcbd05e124603ce67e6898f804ce0403d4621077871539caa1caf91725c3|No": {
+        "title": "Will Aberdeen FC vs. Rangers FC end in a draw?",
+        "outcome": "No",
+        "value": 569.9605,
+        "avgPrice": 0.7496,
+        "slug": "scop-abe-ran-2026-08-30-draw"
+      },
+      "0x633a31bcf9c2e8ad370bb9bc7748ca4032fcc64777e361e8014012f9990dbac4|No": {
+        "title": "Will Paris FC win on 2026-08-30?",
+        "outcome": "No",
+        "value": 553.8312,
+        "avgPrice": 0.52,
+        "slug": "fl1-pfc-ogc-2026-08-30-pfc"
       },
       "0x4dd5e33acc8fe33ce7f1290dba247a314fecf6f0098e6c6e011076900c83f03e|Yes": {
         "title": "Will Heracles Almelo win on 2026-08-30?",
@@ -1060,19 +1193,19 @@
         "avgPrice": 0.7145,
         "slug": "ned2-ein-her-2026-08-30-her"
       },
-      "0x5314dcbd05e124603ce67e6898f804ce0403d4621077871539caa1caf91725c3|No": {
-        "title": "Will Aberdeen FC vs. Rangers FC end in a draw?",
-        "outcome": "No",
-        "value": 550.2871,
-        "avgPrice": 0.7496,
-        "slug": "scop-abe-ran-2026-08-30-draw"
+      "0xc133482d19ef3092d91c90c6e9261e8ffd141870608a3549bbffe31c6ac506f8|Lotte Giants": {
+        "title": "KBO: LG Twins vs. Lotte Giants",
+        "outcome": "Lotte Giants",
+        "value": 545.8483,
+        "avgPrice": 0.3865,
+        "slug": "kbo-lg-lot-2026-08-28"
       },
-      "0x7c23c81042937a7abc3af000f5463109f16818f3a318696adce196d0818b79f8|No": {
-        "title": "Will Willem II Tilburg win on 2026-08-30?",
-        "outcome": "No",
-        "value": 544.572,
-        "avgPrice": 0.71,
-        "slug": "ere-wii-her1-2026-08-30-wii"
+      "0x0eb4726a30826e5b7069a65dd3f9b725a06c74708d5c04fa2d8212aa798d6e32|Under": {
+        "title": "Guandong GZ-Power FC vs. Changchun Yatai: O/U 2.5",
+        "outcome": "Under",
+        "value": 531.4796,
+        "avgPrice": 0.2918,
+        "slug": "chi2-gua-cha-2026-08-30-total-2pt5"
       },
       "0x58a928a8c31461debab5194901aef02fc47cb8923c8c0df0bfd770fe33ffcc53|Over": {
         "title": "FC Utrecht vs. PSV: 1st Half O/U 0.5",
@@ -1081,12 +1214,12 @@
         "avgPrice": 0.82,
         "slug": "ere-utr-psv-2026-08-30-first-half-total-0pt5"
       },
-      "0x1f0efe1704b6e42350e1d8f2db2fc5f6a302c0dbdff08af60aa2aeb5f4101e80|No": {
-        "title": "Will KAA Gent win on 2026-08-30?",
+      "0x7c23c81042937a7abc3af000f5463109f16818f3a318696adce196d0818b79f8|No": {
+        "title": "Will Willem II Tilburg win on 2026-08-30?",
         "outcome": "No",
-        "value": 517.0488,
-        "avgPrice": 0.8159,
-        "slug": "bel1-kaa-bru-2026-08-30-kaa"
+        "value": 529.445,
+        "avgPrice": 0.71,
+        "slug": "ere-wii-her1-2026-08-30-wii"
       },
       "0x7b1e3a8ce68003215359780d28f25ebee915024d80f2f7802eb5375e1a554951|Over": {
         "title": "FC Eindhoven vs. Heracles Almelo: O/U 2.5",
@@ -1094,13 +1227,6 @@
         "value": 508.8654,
         "avgPrice": 0.655,
         "slug": "ned2-ein-her-2026-08-30-total-2pt5"
-      },
-      "0xec5fc0a98a028bc6226bbc76bba0025fd8edf970f5f7287b0c403968bd66e60f|Over": {
-        "title": "SV Darmstadt 98 vs. Hannover 96: O/U 3.5",
-        "outcome": "Over",
-        "value": 507.7529,
-        "avgPrice": 0.2499,
-        "slug": "bl2-svd-h96-2026-08-30-total-3pt5"
       }
     },
     "#3 2C": {
@@ -1121,7 +1247,7 @@
       "0xe082a0a37af169e74302b7383b022fc0d8b413aaae48b50c8d4f03b4d38f99f3|No": {
         "title": "Will Chelsea FC win on 2026-08-30?",
         "outcome": "No",
-        "value": 294973.6863,
+        "value": 176376.0186,
         "avgPrice": 0.4783,
         "slug": "epl-che-bri-2026-08-30-che"
       },
@@ -1142,7 +1268,7 @@
       "0xb0721d36564bb80173bc9399acf89fd43ee6f0b4417c1ce38686c55670d3e1b0|No": {
         "title": "Will Sunderland AFC win on 2026-08-30?",
         "outcome": "No",
-        "value": 113529.15,
+        "value": 111554.73,
         "avgPrice": 0.57,
         "slug": "epl-sun-ful-2026-08-30-sun"
       },
@@ -1163,44 +1289,37 @@
       "0x0788d4283cf69dc595d61c0bd0b769be770c08ec1ee54222d159fdfc00a7f179|Under": {
         "title": "Aberdeen FC vs. Rangers FC: O/U 2.5",
         "outcome": "Under",
-        "value": 17499.2662,
+        "value": 17587.2465,
         "avgPrice": 0.47,
         "slug": "scop-abe-ran-2026-08-30-total-2pt5"
-      },
-      "0x2c72d290d7af0deea7c0fe0a059ff96dd6bce7dca6e1a1528e845d1443151c4f|Yes": {
-        "title": "Will Rangers FC win on 2026-08-30?",
-        "outcome": "Yes",
-        "value": 16303.9904,
-        "avgPrice": 0.5199,
-        "slug": "scop-abe-ran-2026-08-30-ran"
       },
       "0xfb76a8f3f5c464614846861e9395a91505b866950f66d4f9990d256fe1134ae3|Aurora Gaming": {
         "title": "Map Handicap: AUR (-1.5) vs M80 (+1.5)",
         "outcome": "Aurora Gaming",
-        "value": 15913.408,
+        "value": 17032.3195,
         "avgPrice": 0.4599,
         "slug": "cs2-m80-aur1-2026-08-30-map-handicap-home-1pt5"
+      },
+      "0x2c72d290d7af0deea7c0fe0a059ff96dd6bce7dca6e1a1528e845d1443151c4f|Yes": {
+        "title": "Will Rangers FC win on 2026-08-30?",
+        "outcome": "Yes",
+        "value": 16377.727,
+        "avgPrice": 0.5199,
+        "slug": "scop-abe-ran-2026-08-30-ran"
       },
       "0xb0721d36564bb80173bc9399acf89fd43ee6f0b4417c1ce38686c55670d3e1b0|Yes": {
         "title": "Will Sunderland AFC win on 2026-08-30?",
         "outcome": "Yes",
-        "value": 11951.425,
+        "value": 12232.635,
         "avgPrice": 0.4,
         "slug": "epl-sun-ful-2026-08-30-sun"
       },
       "0xa1a486b4e12bf1d8684a3665bec54a06d4d62b0af6b801113ae9c30e4ccd9d0f|No": {
         "title": "Will Fulham FC win on 2026-08-30?",
         "outcome": "No",
-        "value": 5972.7181,
+        "value": 6056.2526,
         "avgPrice": 0.6899,
         "slug": "epl-sun-ful-2026-08-30-ful"
-      },
-      "0x149ca621611c3ff5f9630f8dd7cba51c0f6c0a1e0901efe5521289097a23d8d3|Inner Circle": {
-        "title": "Dota 2: Inner Circle vs Team Synapse (BO3) - EPL Masters Group A",
-        "outcome": "Inner Circle",
-        "value": 5224.7538,
-        "avgPrice": 0.5199,
-        "slug": "dota2-ic-synaps-2026-08-30"
       },
       "0xf44cf137562b90cf6205e0b81a03aa63001c491e4d8f04c0098bfb9233f9d04f|No": {
         "title": "Will Philadelphia 76ers win the 2027 NBA Finals?",
@@ -1209,19 +1328,26 @@
         "avgPrice": 0.8604,
         "slug": "will-philadelphia-76ers-win-the-2027-nba-finals"
       },
+      "0x6cb6bb1a334d2983ef8f3c55fe2a2a5cd9e5b3dab32a20b8365253468ff2eb74|Aurora Gaming": {
+        "title": "Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
+        "outcome": "Aurora Gaming",
+        "value": 4472.315,
+        "avgPrice": 0.8899,
+        "slug": "cs2-m80-aur1-2026-08-30"
+      },
+      "0x55cfd676430529d303cbae74890790ca5207d289fbba73f48b3ddb70c47ed6be|Over": {
+        "title": "Silkeborg IF vs. FC Midtjylland: O/U 3.5",
+        "outcome": "Over",
+        "value": 4434.5,
+        "avgPrice": 0.46,
+        "slug": "den-sif-mid-2026-08-30-total-3pt5"
+      },
       "0xaea50c46b138456d358138b2c1737f22cc692ac199e2cfa0c1e86e2babf9e37b|FUT Esports": {
         "title": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs",
         "outcome": "FUT Esports",
         "value": 3333.32,
         "avgPrice": 0.9989,
         "slug": "cs2-furia-fut-2026-08-22"
-      },
-      "0x55cfd676430529d303cbae74890790ca5207d289fbba73f48b3ddb70c47ed6be|Over": {
-        "title": "Silkeborg IF vs. FC Midtjylland: O/U 3.5",
-        "outcome": "Over",
-        "value": 3258.0,
-        "avgPrice": 0.46,
-        "slug": "den-sif-mid-2026-08-30-total-3pt5"
       },
       "0xe326d1abf5fb59b82ecfdff3348e75f90561eace327ba1bdc8d38d045ddbe775|No": {
         "title": "Will Bitcoin dip to $25,000 by December 31, 2026?",
@@ -1240,7 +1366,7 @@
       "0x69b071d3486956cbb03d0d129cdc2b83c63865bfdfdb768da332995487717d53|Aurora Gaming": {
         "title": "Counter-Strike: M80 vs Aurora Gaming - Map 1 Winner",
         "outcome": "Aurora Gaming",
-        "value": 1046.1324,
+        "value": 1079.0602,
         "avgPrice": 0.9023,
         "slug": "cs2-m80-aur1-2026-08-30-game1"
       },
@@ -1256,7 +1382,7 @@
       "0x7178e768290097cf2a8f13e10c1257cf691bfd10c9c2064289826805ca6f05fe|No": {
         "title": "Will Leeds United FC win on 2026-08-30?",
         "outcome": "No",
-        "value": 3682.7321,
+        "value": 3738.957,
         "avgPrice": 0.6199,
         "slug": "epl-lee-bre-2026-08-30-lee"
       },
@@ -1277,7 +1403,7 @@
       "0xd73b81755d573d5abb591ab049ef6a5c535833296e8b1d3573558b6d12d686fe|Yes": {
         "title": "Will Vancouver Whitecaps FC win on 2026-07-16?",
         "outcome": "Yes",
-        "value": 2258.2802,
+        "value": 2162.8599,
         "avgPrice": 0.3858,
         "slug": "mls-chi-vwh-2026-07-16-vwh"
       },
@@ -1312,7 +1438,7 @@
       "0x7beb03b48f520e43ae2e217fefe3a48f6948018d3da07678e22708463789afa0|No": {
         "title": "Exact Score: Chicago Fire FC 3 - 2 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 1094.8895,
+        "value": 1098.576,
         "avgPrice": 0.9583,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-3-2"
       },
@@ -1322,13 +1448,6 @@
         "value": 1027.8218,
         "avgPrice": 0.3426,
         "slug": "mlb-det-cle-2026-06-14-spread-home-1pt5"
-      },
-      "0xe082a0a37af169e74302b7383b022fc0d8b413aaae48b50c8d4f03b4d38f99f3|No": {
-        "title": "Will Chelsea FC win on 2026-08-30?",
-        "outcome": "No",
-        "value": 940.9002,
-        "avgPrice": 0.4928,
-        "slug": "epl-che-bri-2026-08-30-che"
       },
       "0x442b1e0b069d836d67e36df6d944bbd0be2fe9cb88248bfee8acd8758a702e50|No": {
         "title": "Will FC Augsburg win on 2026-08-30?",
@@ -1340,7 +1459,7 @@
       "0x2307c8dd123f120f7d8a890646229f3b0211e182534e925e9604942317b7eddd|No": {
         "title": "Exact Score: Chicago Fire FC 3 - 3 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 856.7687,
+        "value": 855.3263,
         "avgPrice": 0.9739,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-3-3"
       },
@@ -1368,7 +1487,7 @@
       "0xbaaebdf982b987694de4f2dbf4605eead94012ada2c5507167a72102484bbedb|No": {
         "title": "Exact Score: Chicago Fire FC 2 - 2 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 589.38,
+        "value": 592.515,
         "avgPrice": 0.91,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-2-2"
       },
@@ -1378,6 +1497,13 @@
         "value": 568.078,
         "avgPrice": 0.507,
         "slug": "kbo-han-lg-2026-07-05"
+      },
+      "0xe082a0a37af169e74302b7383b022fc0d8b413aaae48b50c8d4f03b4d38f99f3|No": {
+        "title": "Will Chelsea FC win on 2026-08-30?",
+        "outcome": "No",
+        "value": 562.6001,
+        "avgPrice": 0.4928,
+        "slug": "epl-che-bri-2026-08-30-che"
       },
       "0x60d0badc8638ae1c41a4506c2205af08e0775b655c83d9abf34ba1a74da9b18c|No": {
         "title": "Exact Score: Chicago Fire FC 1 - 3 Vancouver Whitecaps FC?",
@@ -1415,6 +1541,13 @@
         "value": 6897.9332,
         "avgPrice": 0.8905,
         "slug": "atp-aguiard-delane-2026-08-30"
+      },
+      "0xb95c26b7923e822a7a0c27b3dc7000cdff39fdde38e6c3e04e1ddca3b63d40c7|Over": {
+        "title": "Miami Marlins vs. Washington Nationals: O/U 8.5",
+        "outcome": "Over",
+        "value": 4609.0948,
+        "avgPrice": 0.5516,
+        "slug": "mlb-mia-wsh-2026-08-30-total-8pt5"
       },
       "0x113a54ace5d209d4da43e1cb175e9a14c78603b4c31c72f5072ee2e0902dcd48|Pedro Vives Marcos": {
         "title": "Porto: Joao Silva vs Pedro Vives Marcos",
@@ -1538,8 +1671,8 @@
       "0x5e056b4393af7991b7812cad3a73d0710092ef9f199801518a991820b4f58e7d|Andrea Colombo": {
         "title": "Como: Andrea Colombo vs Gianmarco Ferrari",
         "outcome": "Andrea Colombo",
-        "value": 882.3448,
-        "avgPrice": 0.5718,
+        "value": 997.4621,
+        "avgPrice": 0.5723,
         "slug": "atp-colombo-ferrari-2026-08-30"
       },
       "0x37b15cb2c0a5189766a2d0b49e598dd47a3900939c5168ff98b5c1930010232d|Under": {
@@ -1549,12 +1682,12 @@
         "avgPrice": 0.57,
         "slug": "atp-michels-gea-2026-07-20-match-total-23pt5"
       },
-      "0x5e056b4393af7991b7812cad3a73d0710092ef9f199801518a991820b4f58e7d|Gianmarco Ferrari": {
-        "title": "Como: Andrea Colombo vs Gianmarco Ferrari",
-        "outcome": "Gianmarco Ferrari",
-        "value": 751.7757,
-        "avgPrice": 0.3981,
-        "slug": "atp-colombo-ferrari-2026-08-30"
+      "0xbda55447846e75c3e1ed2ad9773e368395c21f0c745ff16304919adad564a2f2|Olle Wallin": {
+        "title": "Como: Olle Wallin vs Niccolo Catini",
+        "outcome": "Olle Wallin",
+        "value": 727.6587,
+        "avgPrice": 0.832,
+        "slug": "atp-wallin-catini-2026-08-30"
       },
       "0xb66a213044e51e4a2856a990d710cfd525c8e285cdd4ca91f7df8aa835e375e1|Under": {
         "title": "Colorado Rockies vs. Atlanta Braves: O/U 7.5",
@@ -1577,13 +1710,6 @@
         "avgPrice": 0.5399,
         "slug": "mlb-cin-chc-2026-08-30-total-8pt5"
       },
-      "0x1a14496b61061249d38371ba245d6269f28fd59fbbcade736aaa48ae2db98f6a|Stefan Horia Haita": {
-        "title": "Plovdiv 3: Jannik Opitz vs Stefan Horia Haita",
-        "outcome": "Stefan Horia Haita",
-        "value": 666.0864,
-        "avgPrice": 0.774,
-        "slug": "atp-opitz-hait-2026-08-30"
-      },
       "0xea9968a5c80915d53816d0e471df3b5d8ed3de0de9b254d95e3df3b531ae6b98|Under": {
         "title": "San Diego Padres vs. Tampa Bay Rays: O/U 8.5",
         "outcome": "Under",
@@ -1591,17 +1717,17 @@
         "avgPrice": 0.6096,
         "slug": "mlb-sd-tb-2026-08-30-total-8pt5"
       },
-      "0xb95c26b7923e822a7a0c27b3dc7000cdff39fdde38e6c3e04e1ddca3b63d40c7|Over": {
-        "title": "Miami Marlins vs. Washington Nationals: O/U 8.5",
-        "outcome": "Over",
-        "value": 581.7697,
-        "avgPrice": 0.5399,
-        "slug": "mlb-mia-wsh-2026-08-30-total-8pt5"
+      "0x5e056b4393af7991b7812cad3a73d0710092ef9f199801518a991820b4f58e7d|Gianmarco Ferrari": {
+        "title": "Como: Andrea Colombo vs Gianmarco Ferrari",
+        "outcome": "Gianmarco Ferrari",
+        "value": 581.1609,
+        "avgPrice": 0.3974,
+        "slug": "atp-colombo-ferrari-2026-08-30"
       },
       "0x5133cafb72351380f1dddc58a70cbd4acf3e1527d987db0f6f820532f1f5483f|Over": {
         "title": "Minnesota Lynx vs. Atlanta Dream: O/U 178.5",
         "outcome": "Over",
-        "value": 570.24,
+        "value": 563.76,
         "avgPrice": 0.4749,
         "slug": "wnba-min-atl-2026-08-30-total-178pt5"
       },
@@ -1622,7 +1748,7 @@
       "0x10e8163f4274a115f694eef330381a69e9568c8b0020410632a64ea1991f0830|Over": {
         "title": "Minnesota Lynx vs. Atlanta Dream: O/U 179.5",
         "outcome": "Over",
-        "value": 553.195,
+        "value": 546.53,
         "avgPrice": 0.4443,
         "slug": "wnba-min-atl-2026-08-30-total-179pt5"
       },
@@ -1636,7 +1762,7 @@
     }
   },
   "announced": {
-    "0x5e056b4393af7991b7812cad3a73d0710092ef9f199801518a991820b4f58e7d|Gianmarco Ferrari": 3,
-    "0x90c7a57ed81a78d52e0b7af7944e51f1a4c9f99142784154ff3a350df2ea82ac|Enzo Aguiard": 3
+    "0x90c7a57ed81a78d52e0b7af7944e51f1a4c9f99142784154ff3a350df2ea82ac|Enzo Aguiard": 3,
+    "0x5e056b4393af7991b7812cad3a73d0710092ef9f199801518a991820b4f58e7d|Gianmarco Ferrari": 3
   }
 }
