@@ -1,17 +1,10 @@
 {
   "seen": {
     "#1 Ferrari": {
-      "0x0e1590e4801e320f20aae9d30278c9095217eda18075a9eb8e5f90027642d8b1|Novak Djokovic": {
-        "title": "US Open ATP: Mariano Navone vs Novak Djokovic",
-        "outcome": "Novak Djokovic",
-        "value": 83504.0819,
-        "avgPrice": 0.6702,
-        "slug": "atp-navone-djokovi-2026-08-30"
-      },
       "0xa113314075ef81a9d3a6577083b8e9a5c834b4b55b1ef0ad5b51ed5e032afc32|Martin Landaluce": {
         "title": "US Open ATP: Martin Landaluce vs Jacob Fearnley",
         "outcome": "Martin Landaluce",
-        "value": 42307.9944,
+        "value": 42007.9377,
         "avgPrice": 0.5443,
         "slug": "atp-landalu-fearnle-2026-08-30"
       },
@@ -29,26 +22,33 @@
         "avgPrice": 0.5156,
         "slug": "wta-timofee-annli-2026-08-26"
       },
+      "0x0e1590e4801e320f20aae9d30278c9095217eda18075a9eb8e5f90027642d8b1|Novak Djokovic": {
+        "title": "US Open ATP: Mariano Navone vs Novak Djokovic",
+        "outcome": "Novak Djokovic",
+        "value": 17237.055,
+        "avgPrice": 0.6696,
+        "slug": "atp-navone-djokovi-2026-08-30"
+      },
       "0x0ad46aaba4c52ab9362db7583ab24adcc61fee016caa6a3cbbc656fd7948c47c|Alex Michelsen": {
         "title": "US Open ATP: Alex Michelsen vs Federico Cina",
         "outcome": "Alex Michelsen",
-        "value": 12428.6252,
+        "value": 12500.8846,
         "avgPrice": 0.81,
         "slug": "atp-michels-cina-2026-08-30"
-      },
-      "0xe1c87ee33da186a81f6579102ffa3363d9ed7b7aacfec34e31b8cdc450f33bd6|Alexander Bublik": {
-        "title": "US Open ATP: Alexander Bublik vs J.J. Wolf",
-        "outcome": "Alexander Bublik",
-        "value": 10356.7731,
-        "avgPrice": 0.7217,
-        "slug": "atp-bublik-wolf-2026-08-30"
       },
       "0xb69c984fe78ff52fd5b3fa84c385b368137dd3b5bf818610995feb0c15ddaabf|Kimberly Birrell": {
         "title": "US Open WTA: Kimberly Birrell vs Petra Marcinko",
         "outcome": "Kimberly Birrell",
-        "value": 10326.1288,
+        "value": 10985.2434,
         "avgPrice": 0.2363,
         "slug": "wta-birrell-marcink-2026-08-30"
+      },
+      "0xe1c87ee33da186a81f6579102ffa3363d9ed7b7aacfec34e31b8cdc450f33bd6|Alexander Bublik": {
+        "title": "US Open ATP: Alexander Bublik vs J.J. Wolf",
+        "outcome": "Alexander Bublik",
+        "value": 10502.485,
+        "avgPrice": 0.7217,
+        "slug": "atp-bublik-wolf-2026-08-30"
       },
       "0x26ca2af0648bfb508a04a191963ec9bb58a36b5eed2439c7c2c5a3cec60a8347|Deportivo Toluca FC": {
         "title": "Spread: Deportivo Toluca FC (-1.5)",
@@ -60,7 +60,7 @@
       "0x8d4e2ad63cd8956239d9105c6b111463f09696f95c57915f4a4c629c87f8b7bc|Atl\u00e9tico San Luis": {
         "title": "Spread: CF Monterrey (-1.5)",
         "outcome": "Atl\u00e9tico San Luis",
-        "value": 7912.9611,
+        "value": 8067.4793,
         "avgPrice": 0.6339,
         "slug": "mex-mon1-asl-2026-08-30-spread-home-1pt5"
       },
@@ -91,6 +91,13 @@
         "value": 3501.09,
         "avgPrice": 0.5765,
         "slug": "itf-schnyde-bonelli-2026-08-26"
+      },
+      "0xf347962bd4799482ee8284deec03d2a2bfccbfc0d358e3fd7265cea1740d35d7|Under": {
+        "title": "CF Monterrey vs. Atl\u00e9tico San Luis: O/U 2.5",
+        "outcome": "Under",
+        "value": 3300.4638,
+        "avgPrice": 0.4229,
+        "slug": "mex-mon1-asl-2026-08-30-total-2pt5"
       },
       "0xf58e1d788fd158ebfb669528bccf2c688ff5a534b479731ec34978a96aee5575|Aleksandar Vukic": {
         "title": "US Open ATP: Aleksandar Vukic vs Rei Sakamoto",
@@ -127,13 +134,6 @@
         "avgPrice": 0.67,
         "slug": "itf-orlov-kumstat-2026-07-23"
       },
-      "0xf347962bd4799482ee8284deec03d2a2bfccbfc0d358e3fd7265cea1740d35d7|Under": {
-        "title": "CF Monterrey vs. Atl\u00e9tico San Luis: O/U 2.5",
-        "outcome": "Under",
-        "value": 2062.7899,
-        "avgPrice": 0.4229,
-        "slug": "mex-mon1-asl-2026-08-30-total-2pt5"
-      },
       "0x4c7b0e07dfb705ca8004abf7dd591e62a35dae69c7b27de634b7aed4573c8483|Tereza Valentova": {
         "title": "Livesport Prague Open: Eva Lys vs Tereza Valentova",
         "outcome": "Tereza Valentova",
@@ -147,6 +147,13 @@
         "value": 1895.7518,
         "avgPrice": 0.6038,
         "slug": "itf-zeltina-palicov-2026-08-17"
+      },
+      "0x122f54e36517e3b950f3b761577277a2d309e672953bcfd41cfaa8d066ed789e|Lois Boisson": {
+        "title": "US Open WTA: Emma Navarro vs Lois Boisson",
+        "outcome": "Lois Boisson",
+        "value": 1488.4394,
+        "avgPrice": 0.0839,
+        "slug": "wta-navarro-boisson-2026-08-30"
       },
       "0x76c024e2b2f4a432897cdcd164d164f55d213ed3667656284ee5a14c5d5fea3a|Yes": {
         "title": "Will Mirassol FC vs. SE Palmeiras end in a draw?",
@@ -225,13 +232,6 @@
         "avgPrice": 0.55,
         "slug": "atp-munar-blockx-2026-08-04"
       },
-      "0x122f54e36517e3b950f3b761577277a2d309e672953bcfd41cfaa8d066ed789e|Lois Boisson": {
-        "title": "US Open WTA: Emma Navarro vs Lois Boisson",
-        "outcome": "Lois Boisson",
-        "value": 1124.5986,
-        "avgPrice": 0.0839,
-        "slug": "wta-navarro-boisson-2026-08-30"
-      },
       "0x90c7a57ed81a78d52e0b7af7944e51f1a4c9f99142784154ff3a350df2ea82ac|Enzo Aguiard": {
         "title": "Zhangjiagang: Enzo Aguiard vs Jesse Delaney",
         "outcome": "Enzo Aguiard",
@@ -277,7 +277,7 @@
       "0xd73b81755d573d5abb591ab049ef6a5c535833296e8b1d3573558b6d12d686fe|Yes": {
         "title": "Will Vancouver Whitecaps FC win on 2026-07-16?",
         "outcome": "Yes",
-        "value": 698.6528,
+        "value": 720.4857,
         "avgPrice": 0.3949,
         "slug": "mls-chi-vwh-2026-07-16-vwh"
       },
@@ -304,33 +304,33 @@
       }
     },
     "#2 RN1": {
-      "0x0e1590e4801e320f20aae9d30278c9095217eda18075a9eb8e5f90027642d8b1|Novak Djokovic": {
-        "title": "US Open ATP: Mariano Navone vs Novak Djokovic",
-        "outcome": "Novak Djokovic",
-        "value": 95150.3407,
-        "avgPrice": 0.7329,
-        "slug": "atp-navone-djokovi-2026-08-30"
-      },
       "0x0e1590e4801e320f20aae9d30278c9095217eda18075a9eb8e5f90027642d8b1|Mariano Navone": {
         "title": "US Open ATP: Mariano Navone vs Novak Djokovic",
         "outcome": "Mariano Navone",
-        "value": 56704.8606,
-        "avgPrice": 0.3159,
+        "value": 189942.6547,
+        "avgPrice": 0.4603,
         "slug": "atp-navone-djokovi-2026-08-30"
       },
       "0xfb92baa02cf2853ff27fbd9b593d7b4303eeb2f2e1e5a494197fb69a18a5cd4b|No": {
         "title": "Will CF Monterrey win on 2026-08-30?",
         "outcome": "No",
-        "value": 54159.8055,
+        "value": 56527.4473,
         "avgPrice": 0.5869,
         "slug": "mex-mon1-asl-2026-08-30-mon1"
       },
       "0xa113314075ef81a9d3a6577083b8e9a5c834b4b55b1ef0ad5b51ed5e032afc32|Martin Landaluce": {
         "title": "US Open ATP: Martin Landaluce vs Jacob Fearnley",
         "outcome": "Martin Landaluce",
-        "value": 32191.4165,
+        "value": 31963.1086,
         "avgPrice": 0.5728,
         "slug": "atp-landalu-fearnle-2026-08-30"
+      },
+      "0xe1c87ee33da186a81f6579102ffa3363d9ed7b7aacfec34e31b8cdc450f33bd6|Alexander Bublik": {
+        "title": "US Open ATP: Alexander Bublik vs J.J. Wolf",
+        "outcome": "Alexander Bublik",
+        "value": 29486.4562,
+        "avgPrice": 0.6167,
+        "slug": "atp-bublik-wolf-2026-08-30"
       },
       "0x7a2aa0025be3b4cbfd4d9babfc6ea58cf49ee8c64562119c600dad342b78babe|Over": {
         "title": "Deportivo Toluca FC vs. FC Ju\u00e1rez: O/U 3.5",
@@ -339,12 +339,12 @@
         "avgPrice": 0.4258,
         "slug": "mex-tol-jua-2026-08-30-total-3pt5"
       },
-      "0xe1c87ee33da186a81f6579102ffa3363d9ed7b7aacfec34e31b8cdc450f33bd6|Alexander Bublik": {
-        "title": "US Open ATP: Alexander Bublik vs J.J. Wolf",
-        "outcome": "Alexander Bublik",
-        "value": 27210.0957,
-        "avgPrice": 0.6167,
-        "slug": "atp-bublik-wolf-2026-08-30"
+      "0x0e1590e4801e320f20aae9d30278c9095217eda18075a9eb8e5f90027642d8b1|Novak Djokovic": {
+        "title": "US Open ATP: Mariano Navone vs Novak Djokovic",
+        "outcome": "Novak Djokovic",
+        "value": 24975.2036,
+        "avgPrice": 0.6324,
+        "slug": "atp-navone-djokovi-2026-08-30"
       },
       "0x90c7a57ed81a78d52e0b7af7944e51f1a4c9f99142784154ff3a350df2ea82ac|Enzo Aguiard": {
         "title": "Zhangjiagang: Enzo Aguiard vs Jesse Delaney",
@@ -363,14 +363,14 @@
       "0xe1bc803438483cdc9a5b73df2064124e65a827a19d9077c3c511dc0bfe844e6f|Yes": {
         "title": "Will Atl\u00e9tico San Luis win on 2026-08-30?",
         "outcome": "Yes",
-        "value": 13389.5538,
+        "value": 14808.3144,
         "avgPrice": 0.423,
         "slug": "mex-mon1-asl-2026-08-30-asl"
       },
       "0x122f54e36517e3b950f3b761577277a2d309e672953bcfd41cfaa8d066ed789e|Emma Navarro": {
         "title": "US Open WTA: Emma Navarro vs Lois Boisson",
         "outcome": "Emma Navarro",
-        "value": 10079.128,
+        "value": 9964.3554,
         "avgPrice": 0.7199,
         "slug": "wta-navarro-boisson-2026-08-30"
       },
@@ -402,19 +402,19 @@
         "avgPrice": 0.5653,
         "slug": "bra-bah-int-2026-08-30-bah"
       },
-      "0xb69c984fe78ff52fd5b3fa84c385b368137dd3b5bf818610995feb0c15ddaabf|Petra Marcinko": {
-        "title": "US Open WTA: Kimberly Birrell vs Petra Marcinko",
-        "outcome": "Petra Marcinko",
-        "value": 6330.6159,
-        "avgPrice": 0.6176,
-        "slug": "wta-birrell-marcink-2026-08-30"
-      },
       "0xa3d218670e0fe48aaaedd1cee254d413f390fe81dbdab149b041ff3a63aab09d|Yes": {
         "title": "Will Santos FC win on 2026-08-30?",
         "outcome": "Yes",
         "value": 6239.3213,
         "avgPrice": 0.7432,
         "slug": "bra-cor1-san-2026-08-30-san"
+      },
+      "0xb69c984fe78ff52fd5b3fa84c385b368137dd3b5bf818610995feb0c15ddaabf|Petra Marcinko": {
+        "title": "US Open WTA: Kimberly Birrell vs Petra Marcinko",
+        "outcome": "Petra Marcinko",
+        "value": 6206.4862,
+        "avgPrice": 0.6176,
+        "slug": "wta-birrell-marcink-2026-08-30"
       },
       "0x76c024e2b2f4a432897cdcd164d164f55d213ed3667656284ee5a14c5d5fea3a|Yes": {
         "title": "Will Mirassol FC vs. SE Palmeiras end in a draw?",
@@ -440,16 +440,9 @@
       "0xa113314075ef81a9d3a6577083b8e9a5c834b4b55b1ef0ad5b51ed5e032afc32|Jacob Fearnley": {
         "title": "US Open ATP: Martin Landaluce vs Jacob Fearnley",
         "outcome": "Jacob Fearnley",
-        "value": 5320.3475,
+        "value": 5410.5229,
         "avgPrice": 0.3091,
         "slug": "atp-landalu-fearnle-2026-08-30"
-      },
-      "0xe1bc803438483cdc9a5b73df2064124e65a827a19d9077c3c511dc0bfe844e6f|No": {
-        "title": "Will Atl\u00e9tico San Luis win on 2026-08-30?",
-        "outcome": "No",
-        "value": 4758.1006,
-        "avgPrice": 0.6304,
-        "slug": "mex-mon1-asl-2026-08-30-asl"
       },
       "0x5a1b404fbe47306a38561cec5d17245502221e8ca1cb07d9da33d49edb667261|Yes": {
         "title": "Will Granada CF win on 2026-08-30?",
@@ -458,12 +451,19 @@
         "avgPrice": 0.1655,
         "slug": "es2-cor-gra-2026-08-30-gra"
       },
-      "0xfb92baa02cf2853ff27fbd9b593d7b4303eeb2f2e1e5a494197fb69a18a5cd4b|Yes": {
-        "title": "Will CF Monterrey win on 2026-08-30?",
-        "outcome": "Yes",
-        "value": 3695.5065,
-        "avgPrice": 0.5015,
-        "slug": "mex-mon1-asl-2026-08-30-mon1"
+      "0x99d89cd10838db1be95e88d7efcba798156f4862082da40a5245182842a54645|Under": {
+        "title": "CF Monterrey vs. Atl\u00e9tico San Luis: O/U 3.5",
+        "outcome": "Under",
+        "value": 3916.9455,
+        "avgPrice": 0.5061,
+        "slug": "mex-mon1-asl-2026-08-30-total-3pt5"
+      },
+      "0xe1bc803438483cdc9a5b73df2064124e65a827a19d9077c3c511dc0bfe844e6f|No": {
+        "title": "Will Atl\u00e9tico San Luis win on 2026-08-30?",
+        "outcome": "No",
+        "value": 3462.6444,
+        "avgPrice": 0.5992,
+        "slug": "mex-mon1-asl-2026-08-30-asl"
       },
       "0x35e5781ca92ff5dc1207990eb9ea44fb78d0683d96217e39a613a9802177bea9|Thiago Agustin Tirante": {
         "title": "US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino",
@@ -496,9 +496,16 @@
       "0x148a7e6c202700d80328c6aa6280aa00313e6d5a46c38c0aea9e32cb858fbd09|Sebastian Gorzny": {
         "title": "US Open ATP: Sebastian Gorzny vs Raphael Collignon",
         "outcome": "Sebastian Gorzny",
-        "value": 2063.4308,
+        "value": 2082.0622,
         "avgPrice": 0.3456,
         "slug": "atp-gorzny-collign-2026-08-30"
+      },
+      "0xfb92baa02cf2853ff27fbd9b593d7b4303eeb2f2e1e5a494197fb69a18a5cd4b|Yes": {
+        "title": "Will CF Monterrey win on 2026-08-30?",
+        "outcome": "Yes",
+        "value": 1978.7196,
+        "avgPrice": 0.4963,
+        "slug": "mex-mon1-asl-2026-08-30-mon1"
       },
       "0x2b643a862594ac7aa6eaec8db56fdc7948ca78c2f77c3d194f804b465a388920|Under": {
         "title": "Deportivo Toluca FC vs. FC Ju\u00e1rez: O/U 4.5",
@@ -528,19 +535,19 @@
         "avgPrice": 0.689,
         "slug": "itsb-pis-cat-2026-08-30-pis"
       },
-      "0x99d89cd10838db1be95e88d7efcba798156f4862082da40a5245182842a54645|Under": {
-        "title": "CF Monterrey vs. Atl\u00e9tico San Luis: O/U 3.5",
-        "outcome": "Under",
-        "value": 1566.9665,
-        "avgPrice": 0.4631,
-        "slug": "mex-mon1-asl-2026-08-30-total-3pt5"
-      },
       "0xa86e8df685492df3b395daca42e3b37580982942cd8b6590f4337679d41d3dbc|Yes": {
         "title": "Will CA Gimnasia y Esgrima de Mendoza win on 2026-08-30?",
         "outcome": "Yes",
         "value": 1360.2907,
         "avgPrice": 0.6699,
         "slug": "arg-ind-gye-2026-08-30-gye"
+      },
+      "0xb69c984fe78ff52fd5b3fa84c385b368137dd3b5bf818610995feb0c15ddaabf|Kimberly Birrell": {
+        "title": "US Open WTA: Kimberly Birrell vs Petra Marcinko",
+        "outcome": "Kimberly Birrell",
+        "value": 1314.0,
+        "avgPrice": 0.2022,
+        "slug": "wta-birrell-marcink-2026-08-30"
       },
       "0x766d3addeb9e16e24346dd7b9abcc4f82658a16789b48690f67efa10d8d40df9|Over": {
         "title": "CF Monterrey vs. Atl\u00e9tico San Luis: O/U 1.5",
@@ -549,13 +556,6 @@
         "avgPrice": 0.9278,
         "slug": "mex-mon1-asl-2026-08-30-total-1pt5"
       },
-      "0xb69c984fe78ff52fd5b3fa84c385b368137dd3b5bf818610995feb0c15ddaabf|Kimberly Birrell": {
-        "title": "US Open WTA: Kimberly Birrell vs Petra Marcinko",
-        "outcome": "Kimberly Birrell",
-        "value": 1235.16,
-        "avgPrice": 0.2022,
-        "slug": "wta-birrell-marcink-2026-08-30"
-      },
       "0xe5907ee5b1cbb4a4a905e29edaf2222f46f257e3780a8572791f0546236acbd3|Over": {
         "title": "San Francisco Giants vs. Atlanta Braves: O/U 7.5",
         "outcome": "Over",
@@ -563,19 +563,26 @@
         "avgPrice": 0.47,
         "slug": "mlb-sf-atl-2026-06-18-total-7pt5"
       },
-      "0xe1c87ee33da186a81f6579102ffa3363d9ed7b7aacfec34e31b8cdc450f33bd6|J.J. Wolf": {
-        "title": "US Open ATP: Alexander Bublik vs J.J. Wolf",
-        "outcome": "J.J. Wolf",
-        "value": 1094.6116,
-        "avgPrice": 0.2297,
-        "slug": "atp-bublik-wolf-2026-08-30"
-      },
       "0x8f539d6f7e25cf924e88a872f41627d80d0a99866f343597bd514ad8be980fc8|No": {
         "title": "Will Leones Futbol Club win on 2026-08-30?",
         "outcome": "No",
         "value": 983.9371,
         "avgPrice": 0.918,
         "slug": "ecu1-cse-leo-2026-08-30-leo"
+      },
+      "0x696de4e927d4875b38f9f74fc93c74a687f4b5c19d738f0443d95842a10e6ac5|No": {
+        "title": "Will CF Monterrey vs. Atl\u00e9tico San Luis end in a draw?",
+        "outcome": "No",
+        "value": 951.9337,
+        "avgPrice": 0.8321,
+        "slug": "mex-mon1-asl-2026-08-30-draw"
+      },
+      "0x07b1bec1c04c83ba898048378e713a26a510bb04eabc635dea5ea22eeba9c22d|Venus Williams": {
+        "title": "US Open WTA: Venus Williams vs Sofia Kenin",
+        "outcome": "Venus Williams",
+        "value": 911.7709,
+        "avgPrice": 0.13,
+        "slug": "wta-william-kenin-2026-08-30"
       },
       "0xc2930df535462409523c4330b7bea5eca23e7b3d0df4bf36db15c9c3c73f7bd0|Jack Draper": {
         "title": "Lexus Eastbourne Open: Brandon Nakashima vs Jack Draper",
@@ -590,20 +597,6 @@
         "value": 882.8416,
         "avgPrice": 0.8497,
         "slug": "bra-fla-bot-2026-08-30-fla"
-      },
-      "0x696de4e927d4875b38f9f74fc93c74a687f4b5c19d738f0443d95842a10e6ac5|No": {
-        "title": "Will CF Monterrey vs. Atl\u00e9tico San Luis end in a draw?",
-        "outcome": "No",
-        "value": 856.9294,
-        "avgPrice": 0.8306,
-        "slug": "mex-mon1-asl-2026-08-30-draw"
-      },
-      "0x99d89cd10838db1be95e88d7efcba798156f4862082da40a5245182842a54645|Over": {
-        "title": "CF Monterrey vs. Atl\u00e9tico San Luis: O/U 3.5",
-        "outcome": "Over",
-        "value": 835.9381,
-        "avgPrice": 0.5291,
-        "slug": "mex-mon1-asl-2026-08-30-total-3pt5"
       },
       "0x2ac8522e94265c6c8c8622e1a88bb9731099e1b7c2d73196c703e639c508be4e|Yes": {
         "title": "Will CS Emelec win on 2026-08-30?",
@@ -626,6 +619,13 @@
         "avgPrice": 0.9,
         "slug": "mex-tol-jua-2026-08-30-jua"
       },
+      "0x5ad05233fc3d47dee511243537f7e3f0eab9f9f8588b3cb66f64d73738173db8|Under": {
+        "title": "CF Monterrey vs. Atl\u00e9tico San Luis: O/U 4.5",
+        "outcome": "Under",
+        "value": 773.2286,
+        "avgPrice": 0.7286,
+        "slug": "mex-mon1-asl-2026-08-30-total-4pt5"
+      },
       "0x2976826bb99b37d0bee0f7fea6b3f98cdd9d6408394f25c3c76119b8edfcef9a|No": {
         "title": "Will Deportivo Toluca FC vs. FC Ju\u00e1rez end in a draw?",
         "outcome": "No",
@@ -640,20 +640,6 @@
         "avgPrice": 0.63,
         "slug": "bra-gre-cha-2026-08-30-gre"
       },
-      "0x07b1bec1c04c83ba898048378e713a26a510bb04eabc635dea5ea22eeba9c22d|Venus Williams": {
-        "title": "US Open WTA: Venus Williams vs Sofia Kenin",
-        "outcome": "Venus Williams",
-        "value": 714.7019,
-        "avgPrice": 0.13,
-        "slug": "wta-william-kenin-2026-08-30"
-      },
-      "0x0ad46aaba4c52ab9362db7583ab24adcc61fee016caa6a3cbbc656fd7948c47c|Federico Cina": {
-        "title": "US Open ATP: Alex Michelsen vs Federico Cina",
-        "outcome": "Federico Cina",
-        "value": 701.82,
-        "avgPrice": 0.18,
-        "slug": "atp-michels-cina-2026-08-30"
-      },
       "0x2a6e431d9c6d91853bc9c1f345fa7498f615fba2e362644fbb7015f28e9da3db|Yes": {
         "title": "Will CA Penarol Montevideo win on 2026-08-08?",
         "outcome": "Yes",
@@ -661,12 +647,12 @@
         "avgPrice": 0.46,
         "slug": "uru1-tor-pen-2026-08-08-pen"
       },
-      "0x5ad05233fc3d47dee511243537f7e3f0eab9f9f8588b3cb66f64d73738173db8|Under": {
-        "title": "CF Monterrey vs. Atl\u00e9tico San Luis: O/U 4.5",
-        "outcome": "Under",
-        "value": 668.3841,
-        "avgPrice": 0.7286,
-        "slug": "mex-mon1-asl-2026-08-30-total-4pt5"
+      "0x0ad46aaba4c52ab9362db7583ab24adcc61fee016caa6a3cbbc656fd7948c47c|Federico Cina": {
+        "title": "US Open ATP: Alex Michelsen vs Federico Cina",
+        "outcome": "Federico Cina",
+        "value": 676.755,
+        "avgPrice": 0.18,
+        "slug": "atp-michels-cina-2026-08-30"
       },
       "0x6e52e45529e66a5422eb427624a7bff1a53071edeadecb098931575f4953b4bc|Tara Wurth": {
         "title": "Makarska: Rebecca Sramkova vs Tara Wurth",
@@ -682,12 +668,26 @@
         "avgPrice": 0.8899,
         "slug": "fpd-sap-esc-2026-08-30-sap"
       },
+      "0xf347962bd4799482ee8284deec03d2a2bfccbfc0d358e3fd7265cea1740d35d7|Over": {
+        "title": "CF Monterrey vs. Atl\u00e9tico San Luis: O/U 2.5",
+        "outcome": "Over",
+        "value": 613.98,
+        "avgPrice": 0.7323,
+        "slug": "mex-mon1-asl-2026-08-30-total-2pt5"
+      },
       "0xd5775d8d33445e6f5c14b584c0f54535d4b2255b8cdfa9b69697f86969327718|Svyatoslav Gulin": {
         "title": "Prague: Marek Gengel vs Svyatoslav Gulin",
         "outcome": "Svyatoslav Gulin",
         "value": 607.155,
         "avgPrice": 0.5,
         "slug": "atp-gengel-gulin-2026-08-16"
+      },
+      "0x99d89cd10838db1be95e88d7efcba798156f4862082da40a5245182842a54645|Over": {
+        "title": "CF Monterrey vs. Atl\u00e9tico San Luis: O/U 3.5",
+        "outcome": "Over",
+        "value": 571.0864,
+        "avgPrice": 0.5291,
+        "slug": "mex-mon1-asl-2026-08-30-total-3pt5"
       },
       "0xb33bed78fd6f2960c00e1ca9590ec1349a90ce2f38d069d0625a9e92d11d67fe|Yes": {
         "title": "Will FK IMT Novi Beograd win on 2026-08-30?",
@@ -712,17 +712,10 @@
         "avgPrice": 0.5,
         "slug": "2026-balance-of-power-d-senate-d-house-949"
       },
-      "0x0e1590e4801e320f20aae9d30278c9095217eda18075a9eb8e5f90027642d8b1|Novak Djokovic": {
-        "title": "US Open ATP: Mariano Navone vs Novak Djokovic",
-        "outcome": "Novak Djokovic",
-        "value": 105988.3072,
-        "avgPrice": 0.8325,
-        "slug": "atp-navone-djokovi-2026-08-30"
-      },
       "0xe1c87ee33da186a81f6579102ffa3363d9ed7b7aacfec34e31b8cdc450f33bd6|Alexander Bublik": {
         "title": "US Open ATP: Alexander Bublik vs J.J. Wolf",
         "outcome": "Alexander Bublik",
-        "value": 79104.3449,
+        "value": 85722.1094,
         "avgPrice": 0.6641,
         "slug": "atp-bublik-wolf-2026-08-30"
       },
@@ -740,17 +733,24 @@
         "avgPrice": 0.34,
         "slug": "cs2-ts7-furia-2026-08-30"
       },
+      "0x0e1590e4801e320f20aae9d30278c9095217eda18075a9eb8e5f90027642d8b1|Mariano Navone": {
+        "title": "US Open ATP: Mariano Navone vs Novak Djokovic",
+        "outcome": "Mariano Navone",
+        "value": 47340.3753,
+        "avgPrice": 0.3146,
+        "slug": "atp-navone-djokovi-2026-08-30"
+      },
       "0xa113314075ef81a9d3a6577083b8e9a5c834b4b55b1ef0ad5b51ed5e032afc32|Jacob Fearnley": {
         "title": "US Open ATP: Martin Landaluce vs Jacob Fearnley",
         "outcome": "Jacob Fearnley",
-        "value": 44418.3992,
+        "value": 45171.2534,
         "avgPrice": 0.46,
         "slug": "atp-landalu-fearnle-2026-08-30"
       },
       "0x122f54e36517e3b950f3b761577277a2d309e672953bcfd41cfaa8d066ed789e|Emma Navarro": {
         "title": "US Open WTA: Emma Navarro vs Lois Boisson",
         "outcome": "Emma Navarro",
-        "value": 42559.7382,
+        "value": 42075.1035,
         "avgPrice": 0.8,
         "slug": "wta-navarro-boisson-2026-08-30"
       },
@@ -761,19 +761,19 @@
         "avgPrice": 0.6899,
         "slug": "bra-cor1-san-2026-08-30-san"
       },
+      "0x0e1590e4801e320f20aae9d30278c9095217eda18075a9eb8e5f90027642d8b1|Novak Djokovic": {
+        "title": "US Open ATP: Mariano Navone vs Novak Djokovic",
+        "outcome": "Novak Djokovic",
+        "value": 24529.9718,
+        "avgPrice": 0.7671,
+        "slug": "atp-navone-djokovi-2026-08-30"
+      },
       "0x2745c38ff0617cb345c1d2df19b4f74ea777508e07411e88eeb6ab3affcda2a2|No": {
         "title": "Will Bitcoin dip to $35,000 by December 31, 2026?",
         "outcome": "No",
         "value": 18895.9648,
         "avgPrice": 0.8499,
         "slug": "will-bitcoin-dip-to-35000-by-december-31-2026-744-877-748-219-467-465-646-211-122-947-537-552-555-361-972-954-635-887-657-996-643"
-      },
-      "0x0e1590e4801e320f20aae9d30278c9095217eda18075a9eb8e5f90027642d8b1|Mariano Navone": {
-        "title": "US Open ATP: Mariano Navone vs Novak Djokovic",
-        "outcome": "Mariano Navone",
-        "value": 15751.8828,
-        "avgPrice": 0.2005,
-        "slug": "atp-navone-djokovi-2026-08-30"
       },
       "0x35e5781ca92ff5dc1207990eb9ea44fb78d0683d96217e39a613a9802177bea9|Thiago Agustin Tirante": {
         "title": "US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino",
@@ -792,7 +792,7 @@
       "0x148a7e6c202700d80328c6aa6280aa00313e6d5a46c38c0aea9e32cb858fbd09|Raphael Collignon": {
         "title": "US Open ATP: Sebastian Gorzny vs Raphael Collignon",
         "outcome": "Raphael Collignon",
-        "value": 3975.4979,
+        "value": 3965.2847,
         "avgPrice": 0.85,
         "slug": "atp-gorzny-collign-2026-08-30"
       },
@@ -817,19 +817,19 @@
         "avgPrice": 0.3599,
         "slug": "nfl-sea-kc-2026-08-29"
       },
-      "0x343cf47ac9f7bf61092ecac1b8aae75d29aeabb284ca27eb91a738563600183f|Navarro": {
-        "title": "Set Handicap: Navarro (-1.5) vs Boisson (+1.5)",
-        "outcome": "Navarro",
-        "value": 1188.5007,
-        "avgPrice": 0.48,
-        "slug": "wta-navarro-boisson-2026-08-30-set-handicap-home-1pt5"
-      },
       "0x122f54e36517e3b950f3b761577277a2d309e672953bcfd41cfaa8d066ed789e|Lois Boisson": {
         "title": "US Open WTA: Emma Navarro vs Lois Boisson",
         "outcome": "Lois Boisson",
-        "value": 910.4527,
+        "value": 1205.011,
         "avgPrice": 0.28,
         "slug": "wta-navarro-boisson-2026-08-30"
+      },
+      "0x343cf47ac9f7bf61092ecac1b8aae75d29aeabb284ca27eb91a738563600183f|Navarro": {
+        "title": "Set Handicap: Navarro (-1.5) vs Boisson (+1.5)",
+        "outcome": "Navarro",
+        "value": 1161.9421,
+        "avgPrice": 0.48,
+        "slug": "wta-navarro-boisson-2026-08-30-set-handicap-home-1pt5"
       },
       "0xf58e1d788fd158ebfb669528bccf2c688ff5a534b479731ec34978a96aee5575|Rei Sakamoto": {
         "title": "US Open ATP: Aleksandar Vukic vs Rei Sakamoto",
@@ -857,7 +857,7 @@
       "0xd73b81755d573d5abb591ab049ef6a5c535833296e8b1d3573558b6d12d686fe|Yes": {
         "title": "Will Vancouver Whitecaps FC win on 2026-07-16?",
         "outcome": "Yes",
-        "value": 2035.6328,
+        "value": 2099.2464,
         "avgPrice": 0.3858,
         "slug": "mls-chi-vwh-2026-07-16-vwh"
       },
@@ -885,14 +885,14 @@
       "0x7beb03b48f520e43ae2e217fefe3a48f6948018d3da07678e22708463789afa0|No": {
         "title": "Exact Score: Chicago Fire FC 3 - 2 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 1099.1904,
+        "value": 1098.576,
         "avgPrice": 0.9583,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-3-2"
       },
       "0xe19ddd7a87ad62801fdd2387d8c1056a7521e11110af4fc009b9189924a01760|Cleveland Guardians": {
         "title": "Spread: Cleveland Guardians (-1.5)",
         "outcome": "Cleveland Guardians",
-        "value": 956.4453,
+        "value": 942.1699,
         "avgPrice": 0.3426,
         "slug": "mlb-det-cle-2026-06-14-spread-home-1pt5"
       },
@@ -913,7 +913,7 @@
       "0x6f08f5499b2441a8d525961988d5f1fe65b318cc52e34eb8dd72f9d09c6a8d70|Over": {
         "title": "Detroit Tigers vs. Cleveland Guardians: O/U 4.5",
         "outcome": "Over",
-        "value": 769.695,
+        "value": 795.885,
         "avgPrice": 0.81,
         "slug": "mlb-det-cle-2026-06-14-total-4pt5"
       },
@@ -968,17 +968,17 @@
       }
     },
     "#5 HomeRunHazard": {
-      "0x0e1590e4801e320f20aae9d30278c9095217eda18075a9eb8e5f90027642d8b1|Novak Djokovic": {
+      "0x0e1590e4801e320f20aae9d30278c9095217eda18075a9eb8e5f90027642d8b1|Mariano Navone": {
         "title": "US Open ATP: Mariano Navone vs Novak Djokovic",
-        "outcome": "Novak Djokovic",
-        "value": 42932.5979,
-        "avgPrice": 0.7391,
+        "outcome": "Mariano Navone",
+        "value": 39819.0649,
+        "avgPrice": 0.3303,
         "slug": "atp-navone-djokovi-2026-08-30"
       },
       "0x122f54e36517e3b950f3b761577277a2d309e672953bcfd41cfaa8d066ed789e|Emma Navarro": {
         "title": "US Open WTA: Emma Navarro vs Lois Boisson",
         "outcome": "Emma Navarro",
-        "value": 30595.6601,
+        "value": 30247.2623,
         "avgPrice": 0.7417,
         "slug": "wta-navarro-boisson-2026-08-30"
       },
@@ -996,24 +996,24 @@
         "avgPrice": 0.2978,
         "slug": "atp-tirante-mannari-2026-08-30"
       },
-      "0x0e1590e4801e320f20aae9d30278c9095217eda18075a9eb8e5f90027642d8b1|Mariano Navone": {
-        "title": "US Open ATP: Mariano Navone vs Novak Djokovic",
-        "outcome": "Mariano Navone",
-        "value": 16082.6812,
-        "avgPrice": 0.2685,
-        "slug": "atp-navone-djokovi-2026-08-30"
-      },
       "0xe1c87ee33da186a81f6579102ffa3363d9ed7b7aacfec34e31b8cdc450f33bd6|Alexander Bublik": {
         "title": "US Open ATP: Alexander Bublik vs J.J. Wolf",
         "outcome": "Alexander Bublik",
-        "value": 10143.2878,
-        "avgPrice": 0.7279,
+        "value": 12639.9824,
+        "avgPrice": 0.7595,
         "slug": "atp-bublik-wolf-2026-08-30"
+      },
+      "0x0e1590e4801e320f20aae9d30278c9095217eda18075a9eb8e5f90027642d8b1|Novak Djokovic": {
+        "title": "US Open ATP: Mariano Navone vs Novak Djokovic",
+        "outcome": "Novak Djokovic",
+        "value": 10464.8228,
+        "avgPrice": 0.6806,
+        "slug": "atp-navone-djokovi-2026-08-30"
       },
       "0xa113314075ef81a9d3a6577083b8e9a5c834b4b55b1ef0ad5b51ed5e032afc32|Martin Landaluce": {
         "title": "US Open ATP: Martin Landaluce vs Jacob Fearnley",
         "outcome": "Martin Landaluce",
-        "value": 9632.8591,
+        "value": 9564.541,
         "avgPrice": 0.5454,
         "slug": "atp-landalu-fearnle-2026-08-30"
       },
@@ -1059,26 +1059,19 @@
         "avgPrice": 0.6848,
         "slug": "atp-tirante-mannari-2026-08-30"
       },
+      "0xb69c984fe78ff52fd5b3fa84c385b368137dd3b5bf818610995feb0c15ddaabf|Kimberly Birrell": {
+        "title": "US Open WTA: Kimberly Birrell vs Petra Marcinko",
+        "outcome": "Kimberly Birrell",
+        "value": 2001.2931,
+        "avgPrice": 0.2239,
+        "slug": "wta-birrell-marcink-2026-08-30"
+      },
       "0x7c51ca4fa62fa356430f6aaaad839888a475c9a791b089fb3e5c7717c6a39342|Barbora Palicova": {
         "title": "Makarska: Petra Marcinko vs Barbora Palicova",
         "outcome": "Barbora Palicova",
         "value": 1936.0606,
         "avgPrice": 0.3625,
         "slug": "wta-marcink-palicov-2026-06-04"
-      },
-      "0xb69c984fe78ff52fd5b3fa84c385b368137dd3b5bf818610995feb0c15ddaabf|Kimberly Birrell": {
-        "title": "US Open WTA: Kimberly Birrell vs Petra Marcinko",
-        "outcome": "Kimberly Birrell",
-        "value": 1881.2155,
-        "avgPrice": 0.2239,
-        "slug": "wta-birrell-marcink-2026-08-30"
-      },
-      "0xe1c87ee33da186a81f6579102ffa3363d9ed7b7aacfec34e31b8cdc450f33bd6|J.J. Wolf": {
-        "title": "US Open ATP: Alexander Bublik vs J.J. Wolf",
-        "outcome": "J.J. Wolf",
-        "value": 1403.3182,
-        "avgPrice": 0.1028,
-        "slug": "atp-bublik-wolf-2026-08-30"
       },
       "0x873c16717fef843256324ffd5d8b6a5f6745bc0c67f3ea412cd66682af7810b8|Under": {
         "title": "Masarova vs. Ryser: Match O/U 23.5",
@@ -1090,14 +1083,21 @@
       "0x7200b66fb23793c75cc63ed78cb10cdcb00cb507ecb1751cfee5e395e556a37e|Over": {
         "title": "Detroit Tigers vs. Cleveland Guardians: O/U 7.5",
         "outcome": "Over",
-        "value": 1160.3232,
+        "value": 1169.1806,
         "avgPrice": 0.4641,
         "slug": "mlb-det-cle-2026-06-14-total-7pt5"
+      },
+      "0x122f54e36517e3b950f3b761577277a2d309e672953bcfd41cfaa8d066ed789e|Lois Boisson": {
+        "title": "US Open WTA: Emma Navarro vs Lois Boisson",
+        "outcome": "Lois Boisson",
+        "value": 1079.9011,
+        "avgPrice": 0.284,
+        "slug": "wta-navarro-boisson-2026-08-30"
       },
       "0xe19ddd7a87ad62801fdd2387d8c1056a7521e11110af4fc009b9189924a01760|Detroit Tigers": {
         "title": "Spread: Cleveland Guardians (-1.5)",
         "outcome": "Detroit Tigers",
-        "value": 1060.3329,
+        "value": 1068.3054,
         "avgPrice": 0.6547,
         "slug": "mlb-det-cle-2026-06-14-spread-home-1pt5"
       },
@@ -1111,7 +1111,7 @@
       "0x0ad46aaba4c52ab9362db7583ab24adcc61fee016caa6a3cbbc656fd7948c47c|Alex Michelsen": {
         "title": "US Open ATP: Alex Michelsen vs Federico Cina",
         "outcome": "Alex Michelsen",
-        "value": 930.52,
+        "value": 935.93,
         "avgPrice": 0.83,
         "slug": "atp-michels-cina-2026-08-30"
       },
@@ -1136,13 +1136,6 @@
         "avgPrice": 0.57,
         "slug": "atp-michels-gea-2026-07-20-match-total-23pt5"
       },
-      "0x122f54e36517e3b950f3b761577277a2d309e672953bcfd41cfaa8d066ed789e|Lois Boisson": {
-        "title": "US Open WTA: Emma Navarro vs Lois Boisson",
-        "outcome": "Lois Boisson",
-        "value": 815.9252,
-        "avgPrice": 0.284,
-        "slug": "wta-navarro-boisson-2026-08-30"
-      },
       "0x2a34443a75f390096ef5f57be03574c54b878b250e2facd56ab6d192035a8350|Kia Tigers": {
         "title": "KBO: SSG Landers vs. Kia Tigers",
         "outcome": "Kia Tigers",
@@ -1153,14 +1146,14 @@
       "0xb69c984fe78ff52fd5b3fa84c385b368137dd3b5bf818610995feb0c15ddaabf|Petra Marcinko": {
         "title": "US Open WTA: Kimberly Birrell vs Petra Marcinko",
         "outcome": "Petra Marcinko",
-        "value": 637.0622,
+        "value": 624.5708,
         "avgPrice": 0.8416,
         "slug": "wta-birrell-marcink-2026-08-30"
       },
       "0xa113314075ef81a9d3a6577083b8e9a5c834b4b55b1ef0ad5b51ed5e032afc32|Jacob Fearnley": {
         "title": "US Open ATP: Martin Landaluce vs Jacob Fearnley",
         "outcome": "Jacob Fearnley",
-        "value": 599.1872,
+        "value": 609.3429,
         "avgPrice": 0.4272,
         "slug": "atp-landalu-fearnle-2026-08-30"
       },
@@ -1174,7 +1167,7 @@
       "0x148a7e6c202700d80328c6aa6280aa00313e6d5a46c38c0aea9e32cb858fbd09|Sebastian Gorzny": {
         "title": "US Open ATP: Sebastian Gorzny vs Raphael Collignon",
         "outcome": "Sebastian Gorzny",
-        "value": 575.4982,
+        "value": 580.6946,
         "avgPrice": 0.3771,
         "slug": "atp-gorzny-collign-2026-08-30"
       },
@@ -1195,10 +1188,10 @@
     }
   },
   "announced": {
-    "0x0e1590e4801e320f20aae9d30278c9095217eda18075a9eb8e5f90027642d8b1|Novak Djokovic": 4,
     "0xa113314075ef81a9d3a6577083b8e9a5c834b4b55b1ef0ad5b51ed5e032afc32|Martin Landaluce": 3,
-    "0xe1c87ee33da186a81f6579102ffa3363d9ed7b7aacfec34e31b8cdc450f33bd6|Alexander Bublik": 4,
+    "0x0e1590e4801e320f20aae9d30278c9095217eda18075a9eb8e5f90027642d8b1|Novak Djokovic": 4,
     "0xb69c984fe78ff52fd5b3fa84c385b368137dd3b5bf818610995feb0c15ddaabf|Kimberly Birrell": 3,
+    "0xe1c87ee33da186a81f6579102ffa3363d9ed7b7aacfec34e31b8cdc450f33bd6|Alexander Bublik": 4,
     "0x35e5781ca92ff5dc1207990eb9ea44fb78d0683d96217e39a613a9802177bea9|Thiago Agustin Tirante": 4,
     "0x122f54e36517e3b950f3b761577277a2d309e672953bcfd41cfaa8d066ed789e|Lois Boisson": 3,
     "0x90c7a57ed81a78d52e0b7af7944e51f1a4c9f99142784154ff3a350df2ea82ac|Enzo Aguiard": 3,
