@@ -1,19 +1,12 @@
 {
   "seen": {
     "#1 Ferrari": {
-      "0xfe4e2505d48122fd0d1cc5b4b9d2dc1bcf74b56d597ba32bfb84a6e956ef1aa1|Learner Tien": {
-        "title": "US Open ATP: Nuno Borges vs Learner Tien",
-        "outcome": "Learner Tien",
-        "value": 45562.0461,
-        "avgPrice": 0.6616,
-        "slug": "atp-borges-tien-2026-08-30"
-      },
-      "0xec315e1b4ccebb7e08362cee5d35be5c844556f7917a7097b3c7d430efffec9c|Mitsuki Wei Kang Leong": {
-        "title": "Zhangjiagang: Petr Bar Biryukov vs Mitsuki Wei Kang Leong",
-        "outcome": "Mitsuki Wei Kang Leong",
-        "value": 38322.8847,
-        "avgPrice": 0.8241,
-        "slug": "atp-biryuko-leong-2026-09-01"
+      "0xdf26f66dce4be3dc637fd644e8377fe203e7511700b942d319517112a6d41f4e|Kasidit Samrej": {
+        "title": "Zhangjiagang: Kasidit Samrej vs Hiroki Moriya",
+        "outcome": "Kasidit Samrej",
+        "value": 31315.8148,
+        "avgPrice": 0.6576,
+        "slug": "atp-samrej-moriya-2026-09-01"
       },
       "0x1f8d995c49e6794c58dcd187b413a66c625bc5296e95f22844e300da7e4a66b4|Ann Li": {
         "title": "Monterrey Open: Maria Timofeeva vs Ann Li",
@@ -22,26 +15,33 @@
         "avgPrice": 0.5156,
         "slug": "wta-timofee-annli-2026-08-26"
       },
-      "0xdf26f66dce4be3dc637fd644e8377fe203e7511700b942d319517112a6d41f4e|Kasidit Samrej": {
-        "title": "Zhangjiagang: Kasidit Samrej vs Hiroki Moriya",
-        "outcome": "Kasidit Samrej",
-        "value": 23279.1682,
-        "avgPrice": 0.6695,
-        "slug": "atp-samrej-moriya-2026-09-01"
-      },
       "0xd4a55eb55db2150e3187427e8e0638e33dab30f3ebe9404071c679ff11de5173|Khumoun Sultanov": {
         "title": "Zhangjiagang: Khumoun Sultanov vs Sergey Fomin",
         "outcome": "Khumoun Sultanov",
-        "value": 16326.6516,
+        "value": 25736.8814,
         "avgPrice": 0.4298,
         "slug": "atp-sultano-fomin-2026-09-01"
       },
       "0x2ee43c144834af44ab0e677d89807de5608bce1b473d77f7d77cdfe51e4ef9b6|Corentin Moutet": {
         "title": "US Open ATP: Dane Sweeny vs Corentin Moutet",
         "outcome": "Corentin Moutet",
-        "value": 10669.3293,
+        "value": 20624.2047,
         "avgPrice": 0.7199,
         "slug": "atp-sweeny-moutet-2026-08-30"
+      },
+      "0xe9463a29503cbe033aa5abcddfbf7951dd3c9451f30a22516357f1dc8f8a99bf|Jiaqi Wang": {
+        "title": "W75 Tianjin: Jiaqi Wang vs Yidi Yang",
+        "outcome": "Jiaqi Wang",
+        "value": 5993.8282,
+        "avgPrice": 0.4725,
+        "slug": "itf-wan-yan-2026-09-01"
+      },
+      "0x0aa37a4e322ec48d2163baee50af5b95fcf0a02f2a9399bd343d68338be164ff|Hayato Matsuoka": {
+        "title": "Zhangjiagang: Enzo Aguiard vs Hayato Matsuoka",
+        "outcome": "Hayato Matsuoka",
+        "value": 5301.2158,
+        "avgPrice": 0.5052,
+        "slug": "atp-aguiard-matsuok-2026-09-01"
       },
       "0xe027d19e7cb56a7bd645a443746154f8b00552d305988dfc19d1b55277a77796|Arthur Gea": {
         "title": "US Open ATP: Juan Manuel Cerundolo vs Arthur Gea",
@@ -57,18 +57,18 @@
         "avgPrice": 0.5765,
         "slug": "itf-schnyde-bonelli-2026-08-26"
       },
-      "0xe9463a29503cbe033aa5abcddfbf7951dd3c9451f30a22516357f1dc8f8a99bf|Jiaqi Wang": {
-        "title": "W75 Tianjin: Jiaqi Wang vs Yidi Yang",
-        "outcome": "Jiaqi Wang",
-        "value": 3178.0351,
-        "avgPrice": 0.4725,
-        "slug": "itf-wan-yan-2026-09-01"
+      "0x3a6f0e5fd8797f5df02636a28e5e6b3e099052d75be07eb0b2ece0cbdc0950c0|Camilo Ugo Carabelli": {
+        "title": "US Open ATP: Camilo Ugo Carabelli vs Jan-Lennard Struff",
+        "outcome": "Camilo Ugo Carabelli",
+        "value": 3383.4916,
+        "avgPrice": 0.3578,
+        "slug": "atp-carabel-struff-2026-08-30"
       },
       "0xa91282b6f7b9a1f207c6b468ba46d2abe5acfe77d469e961e5abfea01a2bb2b2|Giorgio Tabacco": {
         "title": "Plovdiv 3: Thomas Faurel vs Giorgio Tabacco",
         "outcome": "Giorgio Tabacco",
-        "value": 3019.0192,
-        "avgPrice": 0.2692,
+        "value": 2849.0135,
+        "avgPrice": 0.2699,
         "slug": "atp-faurel-tabacco-2026-09-01"
       },
       "0x9af167ed361bdc016577401cd59cc05fee72a7aaf70b4a28616f8c6acca2b920|Luiza Fullana": {
@@ -113,12 +113,26 @@
         "avgPrice": 0.6038,
         "slug": "itf-zeltina-palicov-2026-08-17"
       },
+      "0x20ba3db99af894770042abfb553cfa9b3ca7e5db2f1b0a5906593cdb9e2165f8|Blake Ellis": {
+        "title": "M15 Bali: Blake Ellis vs Reece Falck",
+        "outcome": "Blake Ellis",
+        "value": 1410.3102,
+        "avgPrice": 0.7747,
+        "slug": "itf-ellis-falck-2026-09-01"
+      },
       "0x100fc126c334eaa60632ebe683b906d42e58009d0768cecaecaa25ae3f82844f|Gianmarco Ferrari": {
         "title": "ITF Fano: Lorenzo Rottoli vs Gianmarco Ferrari",
         "outcome": "Gianmarco Ferrari",
         "value": 1282.225,
         "avgPrice": 0.5886,
         "slug": "itf-rottoli-ferrar-2026-08-04"
+      },
+      "0x2b13c8abe65207e5b62da0fce50b4b01281a14301b2c6f1cfd490c6d5932f98c|Alex Molcan": {
+        "title": "US Open ATP: Alex Molcan vs Benjamin Bonzi",
+        "outcome": "Alex Molcan",
+        "value": 1239.905,
+        "avgPrice": 0.3597,
+        "slug": "atp-molcan-bonzi-2026-08-30"
       },
       "0x7aa71e47536cd611c9a7567bcd45752e171da74fae7c437a8c959fce8254c2c7|Stefan Vujic": {
         "title": "ITF Hillcrest: Preston Brown vs Stefan Vujic",
@@ -169,13 +183,6 @@
         "avgPrice": 0.55,
         "slug": "atp-wolf-samuel-2026-08-11"
       },
-      "0x2b13c8abe65207e5b62da0fce50b4b01281a14301b2c6f1cfd490c6d5932f98c|Alex Molcan": {
-        "title": "US Open ATP: Alex Molcan vs Benjamin Bonzi",
-        "outcome": "Alex Molcan",
-        "value": 1154.98,
-        "avgPrice": 0,
-        "slug": "atp-molcan-bonzi-2026-08-30"
-      },
       "0xe7c5eea63c1d02c9777c8e4b03d889d2bc7fba201000886a05b89517c193d1fb|Katerina Siniakova": {
         "title": "Cincinnati Open: Maria Timofeeva vs Katerina Siniakova",
         "outcome": "Katerina Siniakova",
@@ -197,13 +204,6 @@
         "avgPrice": 0.73,
         "slug": "atp-gengel-gulin-2026-08-16"
       },
-      "0x978a1927e5e8378af591e12ccb8a88fe3aed1302faaab7e44e89b09091c83c13|Matei Florin Breazu": {
-        "title": "M15 Buzau: Matei Florin Breazu vs Giannicola Misasi",
-        "outcome": "Matei Florin Breazu",
-        "value": 1058.9613,
-        "avgPrice": 0.5638,
-        "slug": "itf-breazu-misasi-2026-09-01"
-      },
       "0x6897f719c981a18322ae21c33c8c269b4f121d2c7ea13a1bc6db9df7e3ab650d|Alina Granwehr": {
         "title": "ITF Horb: Josy Daems vs Alina Granwehr",
         "outcome": "Alina Granwehr",
@@ -211,12 +211,19 @@
         "avgPrice": 0.73,
         "slug": "itf-daems-granweh-2026-07-23"
       },
-      "0x20ba3db99af894770042abfb553cfa9b3ca7e5db2f1b0a5906593cdb9e2165f8|Blake Ellis": {
-        "title": "M15 Bali: Blake Ellis vs Reece Falck",
-        "outcome": "Blake Ellis",
-        "value": 1052.359,
-        "avgPrice": 0.7529,
-        "slug": "itf-ellis-falck-2026-09-01"
+      "0x8d3851aae90184e9e2a4bf96cf1dfa275b1ff61abc68a29d3ed97d57b0ee3627|Francisco Comesana": {
+        "title": "US Open ATP: Francisco Comesana vs Flavio Cobolli",
+        "outcome": "Francisco Comesana",
+        "value": 994.0491,
+        "avgPrice": 0.1976,
+        "slug": "atp-comesan-cobolli-2026-08-30"
+      },
+      "0x978a1927e5e8378af591e12ccb8a88fe3aed1302faaab7e44e89b09091c83c13|Matei Florin Breazu": {
+        "title": "M15 Buzau: Matei Florin Breazu vs Giannicola Misasi",
+        "outcome": "Matei Florin Breazu",
+        "value": 972.499,
+        "avgPrice": 0.5843,
+        "slug": "itf-breazu-misasi-2026-09-01"
       },
       "0x16a4eb4f9ba2c5601406f85e5a86decb01f265adae6fd57e208085651b302a56|KT Wiz": {
         "title": "KBO: Doosan Bears vs. KT Wiz",
@@ -225,13 +232,6 @@
         "avgPrice": 0.5688,
         "slug": "kbo-doo-kt-2026-07-21"
       },
-      "0xd73b81755d573d5abb591ab049ef6a5c535833296e8b1d3573558b6d12d686fe|Yes": {
-        "title": "Will Vancouver Whitecaps FC win on 2026-07-16?",
-        "outcome": "Yes",
-        "value": 742.3186,
-        "avgPrice": 0.3949,
-        "slug": "mls-chi-vwh-2026-07-16-vwh"
-      },
       "0x84ed0eea4e7c92fd0f3d9134c955584a7ebfdaef14283892b47513d4b77a568d|Alexandre Reco": {
         "title": "ITF Rognac: Loic Namigandet Tenguere vs Alexandre Reco",
         "outcome": "Alexandre Reco",
@@ -239,12 +239,12 @@
         "avgPrice": 0.6982,
         "slug": "itf-tenguer-reco-2026-07-23"
       },
-      "0x3a6f0e5fd8797f5df02636a28e5e6b3e099052d75be07eb0b2ece0cbdc0950c0|Camilo Ugo Carabelli": {
-        "title": "US Open ATP: Camilo Ugo Carabelli vs Jan-Lennard Struff",
-        "outcome": "Camilo Ugo Carabelli",
-        "value": 695.8,
-        "avgPrice": 0.35,
-        "slug": "atp-carabel-struff-2026-08-30"
+      "0xd73b81755d573d5abb591ab049ef6a5c535833296e8b1d3573558b6d12d686fe|Yes": {
+        "title": "Will Vancouver Whitecaps FC win on 2026-07-16?",
+        "outcome": "Yes",
+        "value": 731.4021,
+        "avgPrice": 0.3949,
+        "slug": "mls-chi-vwh-2026-07-16-vwh"
       },
       "0xe3c90c8836bbdcb619f6b749e7095458baca9be96cc81f125568bea771336207|Sobolieva": {
         "title": "Set 1 Winner: Samson vs Sobolieva",
@@ -262,68 +262,47 @@
       }
     },
     "#2 RN1": {
-      "0xec315e1b4ccebb7e08362cee5d35be5c844556f7917a7097b3c7d430efffec9c|Mitsuki Wei Kang Leong": {
-        "title": "Zhangjiagang: Petr Bar Biryukov vs Mitsuki Wei Kang Leong",
-        "outcome": "Mitsuki Wei Kang Leong",
-        "value": 29535.0962,
-        "avgPrice": 0.6908,
-        "slug": "atp-biryuko-leong-2026-09-01"
-      },
-      "0xfe4e2505d48122fd0d1cc5b4b9d2dc1bcf74b56d597ba32bfb84a6e956ef1aa1|Learner Tien": {
-        "title": "US Open ATP: Nuno Borges vs Learner Tien",
-        "outcome": "Learner Tien",
-        "value": 25515.236,
-        "avgPrice": 0.6663,
-        "slug": "atp-borges-tien-2026-08-30"
-      },
-      "0xe9463a29503cbe033aa5abcddfbf7951dd3c9451f30a22516357f1dc8f8a99bf|Yidi Yang": {
+      "0xe9463a29503cbe033aa5abcddfbf7951dd3c9451f30a22516357f1dc8f8a99bf|Jiaqi Wang": {
         "title": "W75 Tianjin: Jiaqi Wang vs Yidi Yang",
-        "outcome": "Yidi Yang",
-        "value": 17427.9891,
-        "avgPrice": 0.4208,
+        "outcome": "Jiaqi Wang",
+        "value": 17807.3336,
+        "avgPrice": 0.6004,
         "slug": "itf-wan-yan-2026-09-01"
       },
       "0xdf26f66dce4be3dc637fd644e8377fe203e7511700b942d319517112a6d41f4e|Kasidit Samrej": {
         "title": "Zhangjiagang: Kasidit Samrej vs Hiroki Moriya",
         "outcome": "Kasidit Samrej",
-        "value": 13538.3843,
-        "avgPrice": 0.6833,
+        "value": 17589.113,
+        "avgPrice": 0.6818,
         "slug": "atp-samrej-moriya-2026-09-01"
       },
       "0xd99a90e960521e2f70f18499f95001d46cef61c13178795eb75d4d0827a83a36|Ignacio Monzon": {
         "title": "M15 Buzau: Jeremy Gschwendtner vs Ignacio Monzon",
         "outcome": "Ignacio Monzon",
-        "value": 10737.3601,
-        "avgPrice": 0.7622,
+        "value": 10830.4705,
+        "avgPrice": 0.7621,
         "slug": "itf-gschwen-monzon-2026-09-01"
       },
       "0x978a1927e5e8378af591e12ccb8a88fe3aed1302faaab7e44e89b09091c83c13|Matei Florin Breazu": {
         "title": "M15 Buzau: Matei Florin Breazu vs Giannicola Misasi",
         "outcome": "Matei Florin Breazu",
-        "value": 9750.1945,
-        "avgPrice": 0.5093,
+        "value": 7810.1507,
+        "avgPrice": 0.5238,
         "slug": "itf-breazu-misasi-2026-09-01"
-      },
-      "0xe9463a29503cbe033aa5abcddfbf7951dd3c9451f30a22516357f1dc8f8a99bf|Jiaqi Wang": {
-        "title": "W75 Tianjin: Jiaqi Wang vs Yidi Yang",
-        "outcome": "Jiaqi Wang",
-        "value": 8346.6968,
-        "avgPrice": 0.5919,
-        "slug": "itf-wan-yan-2026-09-01"
       },
       "0x8c373507e7a14c62f5e0da308daf2f6dc6186b4e3b37ae9ecbe283341f793307|Himari Sato": {
         "title": "W15 Yeongwol: Himari Sato vs Sohee Choi",
         "outcome": "Himari Sato",
-        "value": 4765.7233,
+        "value": 4784.8724,
         "avgPrice": 0.8285,
         "slug": "itf-sat-soheech-2026-09-01"
       },
-      "0xdf26f66dce4be3dc637fd644e8377fe203e7511700b942d319517112a6d41f4e|Hiroki Moriya": {
-        "title": "Zhangjiagang: Kasidit Samrej vs Hiroki Moriya",
-        "outcome": "Hiroki Moriya",
-        "value": 3450.4123,
-        "avgPrice": 0.3206,
-        "slug": "atp-samrej-moriya-2026-09-01"
+      "0x0aa37a4e322ec48d2163baee50af5b95fcf0a02f2a9399bd343d68338be164ff|Hayato Matsuoka": {
+        "title": "Zhangjiagang: Enzo Aguiard vs Hayato Matsuoka",
+        "outcome": "Hayato Matsuoka",
+        "value": 4362.8126,
+        "avgPrice": 0.5854,
+        "slug": "atp-aguiard-matsuok-2026-09-01"
       },
       "0xaedb6667cf88cade0903baee5d5f14180e0cb4c35cfb1c8c05d5f91af051ba5b|Alexander Blockx": {
         "title": "National Bank Open: Jaume Munar vs Alexander Blockx",
@@ -332,26 +311,54 @@
         "avgPrice": 0.5,
         "slug": "atp-munar-blockx-2026-08-04"
       },
+      "0xdf26f66dce4be3dc637fd644e8377fe203e7511700b942d319517112a6d41f4e|Hiroki Moriya": {
+        "title": "Zhangjiagang: Kasidit Samrej vs Hiroki Moriya",
+        "outcome": "Hiroki Moriya",
+        "value": 2434.4135,
+        "avgPrice": 0.3202,
+        "slug": "atp-samrej-moriya-2026-09-01"
+      },
       "0xd99a90e960521e2f70f18499f95001d46cef61c13178795eb75d4d0827a83a36|Jeremy Gschwendtner": {
         "title": "M15 Buzau: Jeremy Gschwendtner vs Ignacio Monzon",
         "outcome": "Jeremy Gschwendtner",
-        "value": 1770.5573,
-        "avgPrice": 0.2972,
+        "value": 1747.9549,
+        "avgPrice": 0.2973,
         "slug": "itf-gschwen-monzon-2026-09-01"
       },
-      "0x0aa37a4e322ec48d2163baee50af5b95fcf0a02f2a9399bd343d68338be164ff|Hayato Matsuoka": {
+      "0x0aa37a4e322ec48d2163baee50af5b95fcf0a02f2a9399bd343d68338be164ff|Enzo Aguiard": {
         "title": "Zhangjiagang: Enzo Aguiard vs Hayato Matsuoka",
-        "outcome": "Hayato Matsuoka",
-        "value": 1545.6565,
-        "avgPrice": 0.7261,
+        "outcome": "Enzo Aguiard",
+        "value": 1593.7597,
+        "avgPrice": 0.4447,
         "slug": "atp-aguiard-matsuok-2026-09-01"
+      },
+      "0xd969db951fcc07b7d94bf688eaded64690bc90a0f55d8964ba098dbe4eb40390|Ryuichiro Nakano": {
+        "title": "M15 Wuning: Reiya Komagata vs Ryuichiro Nakano",
+        "outcome": "Ryuichiro Nakano",
+        "value": 1475.4589,
+        "avgPrice": 0.5462,
+        "slug": "itf-komagat-nakano-2026-09-01"
+      },
+      "0x978a1927e5e8378af591e12ccb8a88fe3aed1302faaab7e44e89b09091c83c13|Giannicola Misasi": {
+        "title": "M15 Buzau: Matei Florin Breazu vs Giannicola Misasi",
+        "outcome": "Giannicola Misasi",
+        "value": 1307.909,
+        "avgPrice": 0.4335,
+        "slug": "itf-breazu-misasi-2026-09-01"
       },
       "0x4fef05c92e277304dfd3eb0e584c1a72e933128dfef4390ac8370b7e91ec6c83|Yi Zhou": {
         "title": "Zhangjiagang: Ilya Ivashka vs Yi Zhou",
         "outcome": "Yi Zhou",
-        "value": 1103.2613,
+        "value": 1268.7505,
         "avgPrice": 0.5458,
         "slug": "atp-ivashka-zhou-2026-08-30"
+      },
+      "0xfbb95170c678be73b5efb48e4a1ca4e4b8bcbbbf2e0a633132ca34170cd01466|Jake Fellows": {
+        "title": "M15 Hurghada: Aryan Lakshmanan vs Jake Fellows",
+        "outcome": "Jake Fellows",
+        "value": 892.9149,
+        "avgPrice": 0.8819,
+        "slug": "itf-lakshma-fellows-2026-09-01"
       },
       "0xc2930df535462409523c4330b7bea5eca23e7b3d0df4bf36db15c9c3c73f7bd0|Jack Draper": {
         "title": "Lexus Eastbourne Open: Brandon Nakashima vs Jack Draper",
@@ -359,13 +366,6 @@
         "value": 891.1234,
         "avgPrice": 0.44,
         "slug": "atp-nakashi-draper-2026-06-22"
-      },
-      "0xfbb95170c678be73b5efb48e4a1ca4e4b8bcbbbf2e0a633132ca34170cd01466|Jake Fellows": {
-        "title": "M15 Hurghada: Aryan Lakshmanan vs Jake Fellows",
-        "outcome": "Jake Fellows",
-        "value": 834.969,
-        "avgPrice": 0.8819,
-        "slug": "itf-lakshma-fellows-2026-09-01"
       },
       "0xabf26f2e50e94945102319a56582c75c34f5f52e8cfe1a7a6edfe895ee2775a9|Soon-Woo Kwon": {
         "title": "Quebec City: Benjamin Bonzi vs Soon-Woo Kwon",
@@ -388,13 +388,6 @@
         "avgPrice": 0.22,
         "slug": "wta-sramkov-wurth-2026-06-03"
       },
-      "0xc11320b76de32b0943fb88f8a8ae9adf0a93c1f7f3c600a40d867bf673d613ec|Svarmanyu Singh": {
-        "title": "M15 Hurghada: Essa Qabazard vs Svarmanyu Singh",
-        "outcome": "Svarmanyu Singh",
-        "value": 608.4498,
-        "avgPrice": 0.331,
-        "slug": "itf-qabazar-singh-2026-09-01"
-      },
       "0xd5775d8d33445e6f5c14b584c0f54535d4b2255b8cdfa9b69697f86969327718|Svyatoslav Gulin": {
         "title": "Prague: Marek Gengel vs Svyatoslav Gulin",
         "outcome": "Svyatoslav Gulin",
@@ -402,12 +395,12 @@
         "avgPrice": 0.5,
         "slug": "atp-gengel-gulin-2026-08-16"
       },
-      "0x4fef05c92e277304dfd3eb0e584c1a72e933128dfef4390ac8370b7e91ec6c83|Ilya Ivashka": {
-        "title": "Zhangjiagang: Ilya Ivashka vs Yi Zhou",
-        "outcome": "Ilya Ivashka",
-        "value": 570.7191,
-        "avgPrice": 0.3451,
-        "slug": "atp-ivashka-zhou-2026-08-30"
+      "0x3048d929d5a23e2a664ed1415b343ec168fadd8b6bdef000250a6ab40e5d7702|Aleksandre Shvangiradze": {
+        "title": "M15 Hurghada: Aleksandre Shvangiradze vs Adam Bajurko",
+        "outcome": "Aleksandre Shvangiradze",
+        "value": 599.2874,
+        "avgPrice": 0.4806,
+        "slug": "itf-shvangi-bajurko-2026-09-01"
       },
       "0xc133482d19ef3092d91c90c6e9261e8ffd141870608a3549bbffe31c6ac506f8|Lotte Giants": {
         "title": "KBO: LG Twins vs. Lotte Giants",
@@ -416,12 +409,12 @@
         "avgPrice": 0.3865,
         "slug": "kbo-lg-lot-2026-08-28"
       },
-      "0xd969db951fcc07b7d94bf688eaded64690bc90a0f55d8964ba098dbe4eb40390|Ryuichiro Nakano": {
-        "title": "M15 Wuning: Reiya Komagata vs Ryuichiro Nakano",
-        "outcome": "Ryuichiro Nakano",
-        "value": 538.8119,
-        "avgPrice": 0.5462,
-        "slug": "itf-komagat-nakano-2026-09-01"
+      "0xbaaf75a94e4e85acad02c4f756a53e7a39ee503ccf37cf7e46fd0beb86a5ba88|Maxim Khorozov": {
+        "title": "M15 Kursumlijska Banja: Aleksa Oparnica vs Maxim Khorozov",
+        "outcome": "Maxim Khorozov",
+        "value": 536.2546,
+        "avgPrice": 0.4803,
+        "slug": "itf-oparnic-khorozo-2026-09-01"
       }
     },
     "#3 2C": {
@@ -439,20 +432,6 @@
         "avgPrice": 0.5,
         "slug": "2026-balance-of-power-d-senate-d-house-949"
       },
-      "0xfe4e2505d48122fd0d1cc5b4b9d2dc1bcf74b56d597ba32bfb84a6e956ef1aa1|Learner Tien": {
-        "title": "US Open ATP: Nuno Borges vs Learner Tien",
-        "outcome": "Learner Tien",
-        "value": 44775.1112,
-        "avgPrice": 0.6697,
-        "slug": "atp-borges-tien-2026-08-30"
-      },
-      "0xda6b4eb591e7daca54abeb84d37ae550dce6e3716fa11e66ab021f34154eacde|Hijikata": {
-        "title": "Set Handicap: Auger-Aliassime (-2.5) vs Hijikata (+2.5)",
-        "outcome": "Hijikata",
-        "value": 37673.9575,
-        "avgPrice": 0.49,
-        "slug": "atp-augeral-hijikat-2026-08-30-set-handicap-home-2pt5"
-      },
       "0x2745c38ff0617cb345c1d2df19b4f74ea777508e07411e88eeb6ab3affcda2a2|No": {
         "title": "Will Bitcoin dip to $35,000 by December 31, 2026?",
         "outcome": "No",
@@ -463,7 +442,7 @@
       "0x3a6f0e5fd8797f5df02636a28e5e6b3e099052d75be07eb0b2ece0cbdc0950c0|Jan-Lennard Struff": {
         "title": "US Open ATP: Camilo Ugo Carabelli vs Jan-Lennard Struff",
         "outcome": "Jan-Lennard Struff",
-        "value": 7201.1605,
+        "value": 7089.5146,
         "avgPrice": 0.6399,
         "slug": "atp-carabel-struff-2026-08-30"
       },
@@ -521,7 +500,7 @@
       "0xd73b81755d573d5abb591ab049ef6a5c535833296e8b1d3573558b6d12d686fe|Yes": {
         "title": "Will Vancouver Whitecaps FC win on 2026-07-16?",
         "outcome": "Yes",
-        "value": 2162.8599,
+        "value": 2131.0531,
         "avgPrice": 0.3858,
         "slug": "mls-chi-vwh-2026-07-16-vwh"
       },
@@ -535,14 +514,14 @@
       "0xe19ddd7a87ad62801fdd2387d8c1056a7521e11110af4fc009b9189924a01760|Cleveland Guardians": {
         "title": "Spread: Cleveland Guardians (-1.5)",
         "outcome": "Cleveland Guardians",
-        "value": 1327.6031,
+        "value": 1241.9513,
         "avgPrice": 0.3426,
         "slug": "mlb-det-cle-2026-06-14-spread-home-1pt5"
       },
       "0x7beb03b48f520e43ae2e217fefe3a48f6948018d3da07678e22708463789afa0|No": {
         "title": "Exact Score: Chicago Fire FC 3 - 2 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 1101.0336,
+        "value": 1093.6607,
         "avgPrice": 0.9583,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-3-2"
       },
@@ -556,7 +535,7 @@
       "0x6f08f5499b2441a8d525961988d5f1fe65b318cc52e34eb8dd72f9d09c6a8d70|Over": {
         "title": "Detroit Tigers vs. Cleveland Guardians: O/U 4.5",
         "outcome": "Over",
-        "value": 689.67,
+        "value": 691.61,
         "avgPrice": 0.81,
         "slug": "mlb-det-cle-2026-06-14-total-4pt5"
       },
@@ -570,7 +549,7 @@
       "0xbaaebdf982b987694de4f2dbf4605eead94012ada2c5507167a72102484bbedb|No": {
         "title": "Exact Score: Chicago Fire FC 2 - 2 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 586.245,
+        "value": 583.11,
         "avgPrice": 0.91,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-2-2"
       },
@@ -611,47 +590,26 @@
       }
     },
     "#5 HomeRunHazard": {
-      "0xec315e1b4ccebb7e08362cee5d35be5c844556f7917a7097b3c7d430efffec9c|Mitsuki Wei Kang Leong": {
-        "title": "Zhangjiagang: Petr Bar Biryukov vs Mitsuki Wei Kang Leong",
-        "outcome": "Mitsuki Wei Kang Leong",
-        "value": 15208.039,
-        "avgPrice": 0.8037,
-        "slug": "atp-biryuko-leong-2026-09-01"
-      },
       "0xd4a55eb55db2150e3187427e8e0638e33dab30f3ebe9404071c679ff11de5173|Khumoun Sultanov": {
         "title": "Zhangjiagang: Khumoun Sultanov vs Sergey Fomin",
         "outcome": "Khumoun Sultanov",
-        "value": 8025.423,
-        "avgPrice": 0.4024,
+        "value": 18197.5519,
+        "avgPrice": 0.5393,
         "slug": "atp-sultano-fomin-2026-09-01"
       },
       "0x4fef05c92e277304dfd3eb0e584c1a72e933128dfef4390ac8370b7e91ec6c83|Yi Zhou": {
         "title": "Zhangjiagang: Ilya Ivashka vs Yi Zhou",
         "outcome": "Yi Zhou",
-        "value": 3314.0755,
-        "avgPrice": 0.5736,
+        "value": 4749.9234,
+        "avgPrice": 0.6317,
         "slug": "atp-ivashka-zhou-2026-08-30"
       },
-      "0xdf26f66dce4be3dc637fd644e8377fe203e7511700b942d319517112a6d41f4e|Hiroki Moriya": {
+      "0xdf26f66dce4be3dc637fd644e8377fe203e7511700b942d319517112a6d41f4e|Kasidit Samrej": {
         "title": "Zhangjiagang: Kasidit Samrej vs Hiroki Moriya",
-        "outcome": "Hiroki Moriya",
-        "value": 2636.8256,
-        "avgPrice": 0.2507,
+        "outcome": "Kasidit Samrej",
+        "value": 2968.7887,
+        "avgPrice": 0.6624,
         "slug": "atp-samrej-moriya-2026-09-01"
-      },
-      "0x0aa37a4e322ec48d2163baee50af5b95fcf0a02f2a9399bd343d68338be164ff|Hayato Matsuoka": {
-        "title": "Zhangjiagang: Enzo Aguiard vs Hayato Matsuoka",
-        "outcome": "Hayato Matsuoka",
-        "value": 2248.1148,
-        "avgPrice": 0.7043,
-        "slug": "atp-aguiard-matsuok-2026-09-01"
-      },
-      "0x4fef05c92e277304dfd3eb0e584c1a72e933128dfef4390ac8370b7e91ec6c83|Ilya Ivashka": {
-        "title": "Zhangjiagang: Ilya Ivashka vs Yi Zhou",
-        "outcome": "Ilya Ivashka",
-        "value": 2167.6892,
-        "avgPrice": 0.3164,
-        "slug": "atp-ivashka-zhou-2026-08-30"
       },
       "0x7c51ca4fa62fa356430f6aaaad839888a475c9a791b089fb3e5c7717c6a39342|Barbora Palicova": {
         "title": "Makarska: Petra Marcinko vs Barbora Palicova",
@@ -659,6 +617,27 @@
         "value": 1936.0606,
         "avgPrice": 0.3625,
         "slug": "wta-marcink-palicov-2026-06-04"
+      },
+      "0xdf26f66dce4be3dc637fd644e8377fe203e7511700b942d319517112a6d41f4e|Hiroki Moriya": {
+        "title": "Zhangjiagang: Kasidit Samrej vs Hiroki Moriya",
+        "outcome": "Hiroki Moriya",
+        "value": 1757.8837,
+        "avgPrice": 0.2507,
+        "slug": "atp-samrej-moriya-2026-09-01"
+      },
+      "0x0aa37a4e322ec48d2163baee50af5b95fcf0a02f2a9399bd343d68338be164ff|Hayato Matsuoka": {
+        "title": "Zhangjiagang: Enzo Aguiard vs Hayato Matsuoka",
+        "outcome": "Hayato Matsuoka",
+        "value": 1669.2306,
+        "avgPrice": 0.7035,
+        "slug": "atp-aguiard-matsuok-2026-09-01"
+      },
+      "0x4fef05c92e277304dfd3eb0e584c1a72e933128dfef4390ac8370b7e91ec6c83|Ilya Ivashka": {
+        "title": "Zhangjiagang: Ilya Ivashka vs Yi Zhou",
+        "outcome": "Ilya Ivashka",
+        "value": 1424.8801,
+        "avgPrice": 0.3148,
+        "slug": "atp-ivashka-zhou-2026-08-30"
       },
       "0x3e4f80e4c81ea126c7e24f3f9d6bfb9a148d2d595b19ca18f0cbf085f5d90082|Baltimore Orioles": {
         "title": "Spread: Colorado Rockies (-1.5)",
@@ -674,13 +653,6 @@
         "avgPrice": 0.6104,
         "slug": "wta-masarov-ryser-2026-07-18-match-total-23pt5"
       },
-      "0xdf26f66dce4be3dc637fd644e8377fe203e7511700b942d319517112a6d41f4e|Kasidit Samrej": {
-        "title": "Zhangjiagang: Kasidit Samrej vs Hiroki Moriya",
-        "outcome": "Kasidit Samrej",
-        "value": 1198.9958,
-        "avgPrice": 0.7362,
-        "slug": "atp-samrej-moriya-2026-09-01"
-      },
       "0x7200b66fb23793c75cc63ed78cb10cdcb00cb507ecb1751cfee5e395e556a37e|Over": {
         "title": "Detroit Tigers vs. Cleveland Guardians: O/U 7.5",
         "outcome": "Over",
@@ -691,7 +663,7 @@
       "0xe19ddd7a87ad62801fdd2387d8c1056a7521e11110af4fc009b9189924a01760|Detroit Tigers": {
         "title": "Spread: Cleveland Guardians (-1.5)",
         "outcome": "Detroit Tigers",
-        "value": 853.0498,
+        "value": 900.8844,
         "avgPrice": 0.6547,
         "slug": "mlb-det-cle-2026-06-14-spread-home-1pt5"
       },
@@ -719,8 +691,8 @@
       "0x454a5450420d55e66c7e55e1d92150653e75a081dd7ee118bd79b38edece7a15|Georgii Kravchenko": {
         "title": "Plovdiv 3: Daniel Siniakov vs Georgii Kravchenko",
         "outcome": "Georgii Kravchenko",
-        "value": 572.2063,
-        "avgPrice": 0.5301,
+        "value": 578.1737,
+        "avgPrice": 0.5293,
         "slug": "atp-siniako-kravche-2026-08-31"
       },
       "0xa5036ca7f6682d00ef4b77b3438a3f9d657bec7d68c262dc2267b8d8cf4cf518|Doosan Bears": {
@@ -733,15 +705,14 @@
       "0xb4528250bfbecacd1da31cd9dac28d32077c66cc921a8598da6b8e4265144507|Detroit Tigers": {
         "title": "Detroit Tigers vs. Cleveland Guardians",
         "outcome": "Detroit Tigers",
-        "value": 510.1225,
+        "value": 505.355,
         "avgPrice": 0.5,
         "slug": "mlb-det-cle-2026-06-14"
       }
     }
   },
   "announced": {
-    "0xfe4e2505d48122fd0d1cc5b4b9d2dc1bcf74b56d597ba32bfb84a6e956ef1aa1|Learner Tien": 3,
-    "0xec315e1b4ccebb7e08362cee5d35be5c844556f7917a7097b3c7d430efffec9c|Mitsuki Wei Kang Leong": 3,
-    "0xdf26f66dce4be3dc637fd644e8377fe203e7511700b942d319517112a6d41f4e|Kasidit Samrej": 3
+    "0xdf26f66dce4be3dc637fd644e8377fe203e7511700b942d319517112a6d41f4e|Kasidit Samrej": 3,
+    "0x0aa37a4e322ec48d2163baee50af5b95fcf0a02f2a9399bd343d68338be164ff|Hayato Matsuoka": 3
   }
 }
