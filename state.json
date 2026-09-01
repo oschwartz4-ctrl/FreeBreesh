@@ -46,7 +46,7 @@
       "0x01e100335217b4c6847715cb57f92f5bfce7d0532ac6037119967c754732e0fa|Chun-Hsin Tseng": {
         "title": "Zhangjiagang: Chun-Hsin Tseng vs Tianhui Zhang",
         "outcome": "Chun-Hsin Tseng",
-        "value": 5214.3945,
+        "value": 3777.6457,
         "avgPrice": 0.7428,
         "slug": "atp-tseng-zha-2026-08-30"
       },
@@ -56,13 +56,6 @@
         "value": 3501.09,
         "avgPrice": 0.5765,
         "slug": "itf-schnyde-bonelli-2026-08-26"
-      },
-      "0xe9463a29503cbe033aa5abcddfbf7951dd3c9451f30a22516357f1dc8f8a99bf|Jiaqi Wang": {
-        "title": "W75 Tianjin: Jiaqi Wang vs Yidi Yang",
-        "outcome": "Jiaqi Wang",
-        "value": 3380.2265,
-        "avgPrice": 0.7017,
-        "slug": "itf-wan-yan-2026-09-01"
       },
       "0xa91282b6f7b9a1f207c6b468ba46d2abe5acfe77d469e961e5abfea01a2bb2b2|Giorgio Tabacco": {
         "title": "Plovdiv 3: Thomas Faurel vs Giorgio Tabacco",
@@ -112,6 +105,13 @@
         "value": 1895.7518,
         "avgPrice": 0.6038,
         "slug": "itf-zeltina-palicov-2026-08-17"
+      },
+      "0xe9463a29503cbe033aa5abcddfbf7951dd3c9451f30a22516357f1dc8f8a99bf|Jiaqi Wang": {
+        "title": "W75 Tianjin: Jiaqi Wang vs Yidi Yang",
+        "outcome": "Jiaqi Wang",
+        "value": 1339.5598,
+        "avgPrice": 0.7017,
+        "slug": "itf-wan-yan-2026-09-01"
       },
       "0x100fc126c334eaa60632ebe683b906d42e58009d0768cecaecaa25ae3f82844f|Gianmarco Ferrari": {
         "title": "ITF Fano: Lorenzo Rottoli vs Gianmarco Ferrari",
@@ -200,8 +200,8 @@
       "0xec315e1b4ccebb7e08362cee5d35be5c844556f7917a7097b3c7d430efffec9c|Mitsuki Wei Kang Leong": {
         "title": "Zhangjiagang: Petr Bar Biryukov vs Mitsuki Wei Kang Leong",
         "outcome": "Mitsuki Wei Kang Leong",
-        "value": 873.1751,
-        "avgPrice": 0.3751,
+        "value": 983.872,
+        "avgPrice": 0.3648,
         "slug": "atp-biryuko-leong-2026-09-01"
       },
       "0x16a4eb4f9ba2c5601406f85e5a86decb01f265adae6fd57e208085651b302a56|KT Wiz": {
@@ -248,19 +248,19 @@
         "avgPrice": 0.6663,
         "slug": "atp-borges-tien-2026-08-30"
       },
+      "0x09243bf965394aeb674e5daee1e9f231abb5696e1e8b27bd006c8388e3a59517|Koki Matsuda": {
+        "title": "Zhangjiagang: Koki Matsuda vs Jake Delaney",
+        "outcome": "Koki Matsuda",
+        "value": 13147.8139,
+        "avgPrice": 0.6088,
+        "slug": "atp-matsuda-delaney-2026-09-01"
+      },
       "0xaa96dc5cac2ad56204f6cfd2def8b728c06f90a150cf7ec20f650603b9e0368b|Yu-Hsiou Hsu": {
         "title": "Zhangjiagang: Yu-Hsiou Hsu vs Elias Ymer",
         "outcome": "Yu-Hsiou Hsu",
         "value": 13097.6409,
         "avgPrice": 0.8038,
         "slug": "atp-hsu-ymer-2026-08-30"
-      },
-      "0x09243bf965394aeb674e5daee1e9f231abb5696e1e8b27bd006c8388e3a59517|Koki Matsuda": {
-        "title": "Zhangjiagang: Koki Matsuda vs Jake Delaney",
-        "outcome": "Koki Matsuda",
-        "value": 9653.5161,
-        "avgPrice": 0.605,
-        "slug": "atp-matsuda-delaney-2026-09-01"
       },
       "0x13289ffa11d920696ded5120f55ea72a676a630143006a65c4026929c5920f87|Maya Joint": {
         "title": "US Open WTA: Maya Joint vs Liudmila Samsonova",
@@ -272,16 +272,37 @@
       "0x09243bf965394aeb674e5daee1e9f231abb5696e1e8b27bd006c8388e3a59517|Jake Delaney": {
         "title": "Zhangjiagang: Koki Matsuda vs Jake Delaney",
         "outcome": "Jake Delaney",
-        "value": 4386.2474,
-        "avgPrice": 0.5965,
+        "value": 5262.4346,
+        "avgPrice": 0.5645,
         "slug": "atp-matsuda-delaney-2026-09-01"
+      },
+      "0xe9463a29503cbe033aa5abcddfbf7951dd3c9451f30a22516357f1dc8f8a99bf|Yidi Yang": {
+        "title": "W75 Tianjin: Jiaqi Wang vs Yidi Yang",
+        "outcome": "Yidi Yang",
+        "value": 4656.4535,
+        "avgPrice": 0.311,
+        "slug": "itf-wan-yan-2026-09-01"
       },
       "0xd10bc548a36c615e893d8108c65906800453141c59a267c890b6bd5c69f1d2eb|Kuan-Yi Lee": {
         "title": "M25 Urayasu: Kuan-Yi Lee vs Sho Katayama",
         "outcome": "Kuan-Yi Lee",
-        "value": 3827.1411,
+        "value": 3832.8933,
         "avgPrice": 0.4469,
         "slug": "itf-kuanyil-katayam-2026-09-01"
+      },
+      "0x622c8cee392301d7cd978ea34d5e3817d396800bc7b99ea655d3650c23451205|Vladimir Osminkin": {
+        "title": "M15 Wuning: Vladimir Osminkin vs Zijiang Yang",
+        "outcome": "Vladimir Osminkin",
+        "value": 3761.6609,
+        "avgPrice": 0.4016,
+        "slug": "itf-osminki-zijiang-2026-09-01"
+      },
+      "0xe9463a29503cbe033aa5abcddfbf7951dd3c9451f30a22516357f1dc8f8a99bf|Jiaqi Wang": {
+        "title": "W75 Tianjin: Jiaqi Wang vs Yidi Yang",
+        "outcome": "Jiaqi Wang",
+        "value": 3653.4599,
+        "avgPrice": 0.6917,
+        "slug": "itf-wan-yan-2026-09-01"
       },
       "0xaedb6667cf88cade0903baee5d5f14180e0cb4c35cfb1c8c05d5f91af051ba5b|Alexander Blockx": {
         "title": "National Bank Open: Jaume Munar vs Alexander Blockx",
@@ -289,13 +310,6 @@
         "value": 2620.5,
         "avgPrice": 0.5,
         "slug": "atp-munar-blockx-2026-08-04"
-      },
-      "0xe9463a29503cbe033aa5abcddfbf7951dd3c9451f30a22516357f1dc8f8a99bf|Yidi Yang": {
-        "title": "W75 Tianjin: Jiaqi Wang vs Yidi Yang",
-        "outcome": "Yidi Yang",
-        "value": 2399.6279,
-        "avgPrice": 0.3112,
-        "slug": "itf-wan-yan-2026-09-01"
       },
       "0x10163e7c05dc8e473d24b36bb24400ea73c11598814fe6eb57d1e33d3486aa2d|Under": {
         "title": "Estudiantes de La Plata vs. CA Newell's Old Boys: O/U 1.5",
@@ -307,42 +321,42 @@
       "0xf06f450a9a0d6b9ffb7126af738a66fc2375abdf914fd1d9c9bc4ae8c05cbf17|Thomas Patton": {
         "title": "M15 Bali: Thomas Patton vs Arjun Rathi",
         "outcome": "Thomas Patton",
-        "value": 1770.2528,
-        "avgPrice": 0.8373,
+        "value": 1953.2676,
+        "avgPrice": 0.8017,
         "slug": "itf-patton-rathi-2026-09-01"
       },
       "0xc752598ab763d8e7a10ac02ac3145036d6526964fa6d9038ca2e41073a313cef|YeXin Ma": {
         "title": "W75 Tianjin: Yujia Huang vs YeXin Ma",
         "outcome": "YeXin Ma",
-        "value": 1708.8727,
+        "value": 1736.0394,
         "avgPrice": 0.7734,
         "slug": "itf-huang-yexinma-2026-09-01"
       },
       "0x6d2efaa81cf14402d7c1e07b0fba7aacae448cd508a0f089e63fe918567f6e85|Kristiana Sidorova": {
         "title": "W75 Tianjin: Kyoka Okamura vs Kristiana Sidorova",
         "outcome": "Kristiana Sidorova",
-        "value": 1502.2521,
+        "value": 1519.8223,
         "avgPrice": 0.8399,
         "slug": "itf-okamura-sidorov-2026-09-01"
       },
       "0xec315e1b4ccebb7e08362cee5d35be5c844556f7917a7097b3c7d430efffec9c|Mitsuki Wei Kang Leong": {
         "title": "Zhangjiagang: Petr Bar Biryukov vs Mitsuki Wei Kang Leong",
         "outcome": "Mitsuki Wei Kang Leong",
-        "value": 1352.6681,
+        "value": 1484.6358,
         "avgPrice": 0.4325,
         "slug": "atp-biryuko-leong-2026-09-01"
       },
-      "0xe9463a29503cbe033aa5abcddfbf7951dd3c9451f30a22516357f1dc8f8a99bf|Jiaqi Wang": {
-        "title": "W75 Tianjin: Jiaqi Wang vs Yidi Yang",
-        "outcome": "Jiaqi Wang",
-        "value": 1298.84,
-        "avgPrice": 0.7986,
-        "slug": "itf-wan-yan-2026-09-01"
+      "0x8c373507e7a14c62f5e0da308daf2f6dc6186b4e3b37ae9ecbe283341f793307|Himari Sato": {
+        "title": "W15 Yeongwol: Himari Sato vs Sohee Choi",
+        "outcome": "Himari Sato",
+        "value": 1209.3,
+        "avgPrice": 0.8284,
+        "slug": "itf-sat-soheech-2026-09-01"
       },
       "0x01e100335217b4c6847715cb57f92f5bfce7d0532ac6037119967c754732e0fa|Chun-Hsin Tseng": {
         "title": "Zhangjiagang: Chun-Hsin Tseng vs Tianhui Zhang",
         "outcome": "Chun-Hsin Tseng",
-        "value": 1162.04,
+        "value": 1201.655,
         "avgPrice": 0.75,
         "slug": "atp-tseng-zha-2026-08-30"
       },
@@ -377,7 +391,7 @@
       "0xdf26f66dce4be3dc637fd644e8377fe203e7511700b942d319517112a6d41f4e|Kasidit Samrej": {
         "title": "Zhangjiagang: Kasidit Samrej vs Hiroki Moriya",
         "outcome": "Kasidit Samrej",
-        "value": 879.7424,
+        "value": 860.4074,
         "avgPrice": 0.44,
         "slug": "atp-samrej-moriya-2026-09-01"
       },
@@ -395,18 +409,11 @@
         "avgPrice": 0.49,
         "slug": "atp-bonzi-kwon-2026-08-20"
       },
-      "0x01e100335217b4c6847715cb57f92f5bfce7d0532ac6037119967c754732e0fa|Tianhui Zhang": {
-        "title": "Zhangjiagang: Chun-Hsin Tseng vs Tianhui Zhang",
-        "outcome": "Tianhui Zhang",
-        "value": 711.1851,
-        "avgPrice": 0.21,
-        "slug": "atp-tseng-zha-2026-08-30"
-      },
       "0x622c8cee392301d7cd978ea34d5e3817d396800bc7b99ea655d3650c23451205|Zijiang Yang": {
         "title": "M15 Wuning: Vladimir Osminkin vs Zijiang Yang",
         "outcome": "Zijiang Yang",
-        "value": 703.5294,
-        "avgPrice": 0.6136,
+        "value": 732.8665,
+        "avgPrice": 0.6066,
         "slug": "itf-osminki-zijiang-2026-09-01"
       },
       "0x2a6e431d9c6d91853bc9c1f345fa7498f615fba2e362644fbb7015f28e9da3db|Yes": {
@@ -436,6 +443,13 @@
         "value": 539.85,
         "avgPrice": 0.3865,
         "slug": "kbo-lg-lot-2026-08-28"
+      },
+      "0x01e100335217b4c6847715cb57f92f5bfce7d0532ac6037119967c754732e0fa|Tianhui Zhang": {
+        "title": "Zhangjiagang: Chun-Hsin Tseng vs Tianhui Zhang",
+        "outcome": "Tianhui Zhang",
+        "value": 533.3888,
+        "avgPrice": 0.21,
+        "slug": "atp-tseng-zha-2026-08-30"
       }
     },
     "#3 2C": {
@@ -456,8 +470,8 @@
       "0x9e44adba31b4fd79091e573d3f1b4e60a52f9b7e037dad4b34ea1083623c43b6|Griekspoor": {
         "title": "Set Handicap: Shelton (-2.5) vs Griekspoor (+2.5)",
         "outcome": "Griekspoor",
-        "value": 47853.8062,
-        "avgPrice": 0.5105,
+        "value": 48035.5253,
+        "avgPrice": 0.5124,
         "slug": "atp-shelton-grieksp-2026-08-30-set-handicap-home-2pt5"
       },
       "0xfe4e2505d48122fd0d1cc5b4b9d2dc1bcf74b56d597ba32bfb84a6e956ef1aa1|Learner Tien": {
@@ -563,7 +577,7 @@
       "0x7beb03b48f520e43ae2e217fefe3a48f6948018d3da07678e22708463789afa0|No": {
         "title": "Exact Score: Chicago Fire FC 3 - 2 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 1090.5886,
+        "value": 1099.8048,
         "avgPrice": 0.9583,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-3-2"
       },
@@ -577,7 +591,7 @@
       "0x6f08f5499b2441a8d525961988d5f1fe65b318cc52e34eb8dd72f9d09c6a8d70|Over": {
         "title": "Detroit Tigers vs. Cleveland Guardians: O/U 4.5",
         "outcome": "Over",
-        "value": 688.215,
+        "value": 694.52,
         "avgPrice": 0.81,
         "slug": "mlb-det-cle-2026-06-14-total-4pt5"
       },
@@ -656,9 +670,23 @@
       "0x09243bf965394aeb674e5daee1e9f231abb5696e1e8b27bd006c8388e3a59517|Koki Matsuda": {
         "title": "Zhangjiagang: Koki Matsuda vs Jake Delaney",
         "outcome": "Koki Matsuda",
-        "value": 1959.2562,
-        "avgPrice": 0.5676,
+        "value": 4185.5013,
+        "avgPrice": 0.5759,
         "slug": "atp-matsuda-delaney-2026-09-01"
+      },
+      "0x09243bf965394aeb674e5daee1e9f231abb5696e1e8b27bd006c8388e3a59517|Jake Delaney": {
+        "title": "Zhangjiagang: Koki Matsuda vs Jake Delaney",
+        "outcome": "Jake Delaney",
+        "value": 2144.762,
+        "avgPrice": 0.5515,
+        "slug": "atp-matsuda-delaney-2026-09-01"
+      },
+      "0x01e100335217b4c6847715cb57f92f5bfce7d0532ac6037119967c754732e0fa|Chun-Hsin Tseng": {
+        "title": "Zhangjiagang: Chun-Hsin Tseng vs Tianhui Zhang",
+        "outcome": "Chun-Hsin Tseng",
+        "value": 2040.6981,
+        "avgPrice": 0.7773,
+        "slug": "atp-tseng-zha-2026-08-30"
       },
       "0x7c51ca4fa62fa356430f6aaaad839888a475c9a791b089fb3e5c7717c6a39342|Barbora Palicova": {
         "title": "Makarska: Petra Marcinko vs Barbora Palicova",
@@ -666,20 +694,6 @@
         "value": 1936.0606,
         "avgPrice": 0.3625,
         "slug": "wta-marcink-palicov-2026-06-04"
-      },
-      "0x01e100335217b4c6847715cb57f92f5bfce7d0532ac6037119967c754732e0fa|Chun-Hsin Tseng": {
-        "title": "Zhangjiagang: Chun-Hsin Tseng vs Tianhui Zhang",
-        "outcome": "Chun-Hsin Tseng",
-        "value": 1885.4223,
-        "avgPrice": 0.7715,
-        "slug": "atp-tseng-zha-2026-08-30"
-      },
-      "0x09243bf965394aeb674e5daee1e9f231abb5696e1e8b27bd006c8388e3a59517|Jake Delaney": {
-        "title": "Zhangjiagang: Koki Matsuda vs Jake Delaney",
-        "outcome": "Jake Delaney",
-        "value": 1587.2275,
-        "avgPrice": 0.6052,
-        "slug": "atp-matsuda-delaney-2026-09-01"
       },
       "0x3e4f80e4c81ea126c7e24f3f9d6bfb9a148d2d595b19ca18f0cbf085f5d90082|Baltimore Orioles": {
         "title": "Spread: Colorado Rockies (-1.5)",
@@ -698,7 +712,7 @@
       "0x7200b66fb23793c75cc63ed78cb10cdcb00cb507ecb1751cfee5e395e556a37e|Over": {
         "title": "Detroit Tigers vs. Cleveland Guardians: O/U 7.5",
         "outcome": "Over",
-        "value": 1142.6083,
+        "value": 1186.8955,
         "avgPrice": 0.4641,
         "slug": "mlb-det-cle-2026-06-14-total-7pt5"
       },
