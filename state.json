@@ -11,7 +11,7 @@
       "0xc94945dd5a9ccad0878d0e336a4aef1c35b83408bb1af48a0c8b254528c0709d|Belinda Bencic": {
         "title": "US Open WTA: Yulia Putintseva vs Belinda Bencic",
         "outcome": "Belinda Bencic",
-        "value": 22591.515,
+        "value": 22875.685,
         "avgPrice": 0.8,
         "slug": "wta-putints-bencic-2026-08-30"
       },
@@ -22,19 +22,19 @@
         "avgPrice": 0.8199,
         "slug": "wta-quevedo-mertens-2026-08-30"
       },
-      "0x2ee43c144834af44ab0e677d89807de5608bce1b473d77f7d77cdfe51e4ef9b6|Corentin Moutet": {
-        "title": "US Open ATP: Dane Sweeny vs Corentin Moutet",
-        "outcome": "Corentin Moutet",
-        "value": 20912.6552,
-        "avgPrice": 0.7199,
-        "slug": "atp-sweeny-moutet-2026-08-30"
-      },
       "0x7430c9f861bab898b4f7e6c2114bdebe73a79f5ae0c2795007ff79d119e1f066|Federico Iannaccone": {
         "title": "Plovdiv 3: Federico Iannaccone vs Juan Estevez",
         "outcome": "Federico Iannaccone",
-        "value": 18616.1832,
+        "value": 19579.4313,
         "avgPrice": 0.6456,
         "slug": "atp-iannacc-estevez-2026-09-01"
+      },
+      "0x444d20119006158d57ec6196284534f961e8cccce1e5600aa6c11290a4548452|New York Mets": {
+        "title": "New York Mets vs. Tampa Bay Rays",
+        "outcome": "New York Mets",
+        "value": 18496.8304,
+        "avgPrice": 0.4499,
+        "slug": "mlb-nym-tb-2026-09-01"
       },
       "0x5f70c95c2de0d9b525ccc72a715f26f5b34007ba4139b4382d9171c39ce810e8|Francisco Cerundolo": {
         "title": "US Open ATP: Filip Misolic vs Francisco Cerundolo",
@@ -43,20 +43,6 @@
         "avgPrice": 0.9283,
         "slug": "atp-misolic-cerundo-2026-08-30"
       },
-      "0xf3d62eb13cea91ec64a0428a167c25b570d5327e8f54e10607e221cdf6c2100e|Duje Ajdukovic": {
-        "title": "Como: Raul Brancaccio vs Duje Ajdukovic",
-        "outcome": "Duje Ajdukovic",
-        "value": 15820.2335,
-        "avgPrice": 0.8462,
-        "slug": "atp-brancac-ajdukov-2026-08-31"
-      },
-      "0xf3d62eb13cea91ec64a0428a167c25b570d5327e8f54e10607e221cdf6c2100e|Raul Brancaccio": {
-        "title": "Como: Raul Brancaccio vs Duje Ajdukovic",
-        "outcome": "Raul Brancaccio",
-        "value": 14009.4579,
-        "avgPrice": 0.4566,
-        "slug": "atp-brancac-ajdukov-2026-08-31"
-      },
       "0x6488bff9c95ae5415a5ce0431cdf1b235503297475e5a3962581bd8589e6c254|Over": {
         "title": "Milwaukee Brewers vs. Chicago Cubs: O/U 10.5",
         "outcome": "Over",
@@ -64,10 +50,17 @@
         "avgPrice": 0.4899,
         "slug": "mlb-mil-chc-2026-09-01-total-10pt5"
       },
+      "0xfb4d105aca53178f0b59ecf7b39a7f15f5c5a6d42847e384f7c569eda2e80ffb|Over": {
+        "title": "New York Mets vs. Tampa Bay Rays: O/U 7.5",
+        "outcome": "Over",
+        "value": 12727.05,
+        "avgPrice": 0.53,
+        "slug": "mlb-nym-tb-2026-09-01-total-7pt5"
+      },
       "0xf01cb0496b167cdf775f4e1f94c709c97428359b72783aa89e42453a7f06fe71|Detroit Tigers": {
         "title": "Detroit Tigers vs. Minnesota Twins",
         "outcome": "Detroit Tigers",
-        "value": 13520.3454,
+        "value": 11447.1858,
         "avgPrice": 0.5099,
         "slug": "mlb-det-min-2026-09-01"
       },
@@ -77,6 +70,13 @@
         "value": 10337.1935,
         "avgPrice": 0.4299,
         "slug": "atp-jong-passaro-2026-08-30"
+      },
+      "0x2ee43c144834af44ab0e677d89807de5608bce1b473d77f7d77cdfe51e4ef9b6|Corentin Moutet": {
+        "title": "US Open ATP: Dane Sweeny vs Corentin Moutet",
+        "outcome": "Corentin Moutet",
+        "value": 9562.4969,
+        "avgPrice": 0.7199,
+        "slug": "atp-sweeny-moutet-2026-08-30"
       },
       "0x0c6adeffd258fca918a363f23d6ecd56a28aedb570aa46a6d4df5abccd101aa2|Anna Bondar": {
         "title": "US Open WTA: Lucie Havlickova vs Anna Bondar",
@@ -95,14 +95,14 @@
       "0x7ace3bf1d7e028262b10343de3cddfc6e4c5c2e1d77555a3adb23ee86adc4169|Alejandro Moro Canas": {
         "title": "Porto: Tiago Cacao vs Alejandro Moro Canas",
         "outcome": "Alejandro Moro Canas",
-        "value": 6873.6254,
-        "avgPrice": 0.734,
+        "value": 6852.9363,
+        "avgPrice": 0.7344,
         "slug": "atp-cacao-canas-2026-09-01"
       },
       "0xe027d19e7cb56a7bd645a443746154f8b00552d305988dfc19d1b55277a77796|Arthur Gea": {
         "title": "US Open ATP: Juan Manuel Cerundolo vs Arthur Gea",
         "outcome": "Arthur Gea",
-        "value": 5869.5984,
+        "value": 5975.3569,
         "avgPrice": 0.5295,
         "slug": "atp-cerund-gea-2026-09-01"
       },
@@ -267,6 +267,13 @@
         "avgPrice": 0.62,
         "slug": "wta-leama-swan-2026-07-25"
       },
+      "0x7bcf2c2351d96cd04e77c8a350189d4fb7d1609469f5c1c581033a2261a85ea5|Seattle Mariners": {
+        "title": "Seattle Mariners vs. Boston Red Sox",
+        "outcome": "Seattle Mariners",
+        "value": 1180.7233,
+        "avgPrice": 0.4599,
+        "slug": "mlb-sea-bos-2026-09-01"
+      },
       "0x65df7653a01459206f595743bde90151fa42cc8af9926acf9b3909d764850876|Jack Draper": {
         "title": "Mubadala Citi DC Open: Alex Michelsen vs Jack Draper",
         "outcome": "Jack Draper",
@@ -309,13 +316,6 @@
         "avgPrice": 0.73,
         "slug": "atp-gengel-gulin-2026-08-16"
       },
-      "0x769d4e46339878e52119a41f7b3822d8369dee7ddadf3b868d2c909a22655148|Alafia Ayeni": {
-        "title": "Porto: Dimitar Kuzmanov vs Alafia Ayeni",
-        "outcome": "Alafia Ayeni",
-        "value": 1064.446,
-        "avgPrice": 0.0912,
-        "slug": "atp-kuzmano-ayeni-2026-09-01"
-      },
       "0x6897f719c981a18322ae21c33c8c269b4f121d2c7ea13a1bc6db9df7e3ab650d|Alina Granwehr": {
         "title": "ITF Horb: Josy Daems vs Alina Granwehr",
         "outcome": "Alina Granwehr",
@@ -330,13 +330,6 @@
         "avgPrice": 0.1976,
         "slug": "atp-comesan-cobolli-2026-08-30"
       },
-      "0x769d4e46339878e52119a41f7b3822d8369dee7ddadf3b868d2c909a22655148|Dimitar Kuzmanov": {
-        "title": "Porto: Dimitar Kuzmanov vs Alafia Ayeni",
-        "outcome": "Dimitar Kuzmanov",
-        "value": 973.8749,
-        "avgPrice": 0.72,
-        "slug": "atp-kuzmano-ayeni-2026-09-01"
-      },
       "0x16a4eb4f9ba2c5601406f85e5a86decb01f265adae6fd57e208085651b302a56|KT Wiz": {
         "title": "KBO: Doosan Bears vs. KT Wiz",
         "outcome": "KT Wiz",
@@ -347,7 +340,7 @@
       "0xd73b81755d573d5abb591ab049ef6a5c535833296e8b1d3573558b6d12d686fe|Yes": {
         "title": "Will Vancouver Whitecaps FC win on 2026-07-16?",
         "outcome": "Yes",
-        "value": 764.1515,
+        "value": 785.9844,
         "avgPrice": 0.3949,
         "slug": "mls-chi-vwh-2026-07-16-vwh"
       },
@@ -379,13 +372,6 @@
         "avgPrice": 0.2918,
         "slug": "itf-garcia-font-2026-09-01"
       },
-      "0x188679ceb9395d194e0991c2e1d65b11c97f19488f21e7c37da103786fa01d11|Andreea Prisacariu": {
-        "title": "W15 Brasov: Andreea Prisacariu vs Alessia Marinescu",
-        "outcome": "Andreea Prisacariu",
-        "value": 700.2628,
-        "avgPrice": 0.5154,
-        "slug": "itf-prisaca-marines-2026-09-01"
-      },
       "0x0e6e4a3b830bdb761894c664f97a2bb29bab9eeee31b997fa7385b483ce6cf55|Jaden Weekes": {
         "title": "M15 Monastir: Jaden Weekes vs Malek El-Qurneh",
         "outcome": "Jaden Weekes",
@@ -414,6 +400,13 @@
         "avgPrice": 0.2599,
         "slug": "atp-basavar-schoolk-2026-08-30"
       },
+      "0x80f64f7c7550f12ff70e2038ae62de5be22f2309b7e7f1cac85593ebc80004cd|Samuele Seghetti": {
+        "title": "M15 Bologna: Samuele Seghetti vs Blu Baker",
+        "outcome": "Samuele Seghetti",
+        "value": 616.3383,
+        "avgPrice": 0.225,
+        "slug": "itf-seghett-bake-2026-09-01"
+      },
       "0xfb41610c4ff322e8933781caf3c492d817d565334773ebc587c4b280243a72fb|SSG Landers": {
         "title": "KBO: SSG Landers vs. Kiwoom Heroes",
         "outcome": "SSG Landers",
@@ -421,12 +414,12 @@
         "avgPrice": 0.6418,
         "slug": "kbo-ssg-kiw-2026-09-01"
       },
-      "0x80f64f7c7550f12ff70e2038ae62de5be22f2309b7e7f1cac85593ebc80004cd|Samuele Seghetti": {
-        "title": "M15 Bologna: Samuele Seghetti vs Blu Baker",
-        "outcome": "Samuele Seghetti",
-        "value": 535.0629,
-        "avgPrice": 0.225,
-        "slug": "itf-seghett-bake-2026-09-01"
+      "0xf3d62eb13cea91ec64a0428a167c25b570d5327e8f54e10607e221cdf6c2100e|Raul Brancaccio": {
+        "title": "Como: Raul Brancaccio vs Duje Ajdukovic",
+        "outcome": "Raul Brancaccio",
+        "value": 542.8432,
+        "avgPrice": 0.3976,
+        "slug": "atp-brancac-ajdukov-2026-08-31"
       },
       "0xcba78f02cd07d809471ee9b21813b430d360262db259917a6709806d69e159ea|Dzumhur": {
         "title": "Set 1 Winner: Gaston vs Dzumhur",
@@ -437,6 +430,13 @@
       }
     },
     "#2 RN1": {
+      "0xf3d62eb13cea91ec64a0428a167c25b570d5327e8f54e10607e221cdf6c2100e|Duje Ajdukovic": {
+        "title": "Como: Raul Brancaccio vs Duje Ajdukovic",
+        "outcome": "Duje Ajdukovic",
+        "value": 31563.1325,
+        "avgPrice": 0.582,
+        "slug": "atp-brancac-ajdukov-2026-08-31"
+      },
       "0x01ccc5495e292609da5b977d39e86142321d43fc8f55eb88edab2880944af2b6|Joel Schwaerzler": {
         "title": "Manacor: Max Basing vs Joel Schwaerzler",
         "outcome": "Joel Schwaerzler",
@@ -444,33 +444,19 @@
         "avgPrice": 0.5597,
         "slug": "atp-basing-schwaer-2026-09-01"
       },
-      "0xf3d62eb13cea91ec64a0428a167c25b570d5327e8f54e10607e221cdf6c2100e|Duje Ajdukovic": {
-        "title": "Como: Raul Brancaccio vs Duje Ajdukovic",
-        "outcome": "Duje Ajdukovic",
-        "value": 24874.7641,
-        "avgPrice": 0.5437,
-        "slug": "atp-brancac-ajdukov-2026-08-31"
-      },
       "0x7430c9f861bab898b4f7e6c2114bdebe73a79f5ae0c2795007ff79d119e1f066|Federico Iannaccone": {
         "title": "Plovdiv 3: Federico Iannaccone vs Juan Estevez",
         "outcome": "Federico Iannaccone",
-        "value": 13873.0182,
+        "value": 14149.0629,
         "avgPrice": 0.5101,
         "slug": "atp-iannacc-estevez-2026-09-01"
       },
       "0xc937871bc3adde90cb9c32bf75912032107e3c6ed4dd27583e09b8302cba9a31|Billy Harris": {
         "title": "Manacor: Billy Harris vs Hugo Grenier",
         "outcome": "Billy Harris",
-        "value": 11664.7769,
-        "avgPrice": 0.7147,
+        "value": 11481.9103,
+        "avgPrice": 0.7143,
         "slug": "atp-harris-grenier-2026-09-01"
-      },
-      "0xf3d62eb13cea91ec64a0428a167c25b570d5327e8f54e10607e221cdf6c2100e|Raul Brancaccio": {
-        "title": "Como: Raul Brancaccio vs Duje Ajdukovic",
-        "outcome": "Raul Brancaccio",
-        "value": 7349.0486,
-        "avgPrice": 0.5991,
-        "slug": "atp-brancac-ajdukov-2026-08-31"
       },
       "0xcf1e0c396ba76d1f7b13aa33afeda1dd765a154482cd57dcd14571ec3b23a6fa|Samsung Lions": {
         "title": "KBO: Lotte Giants vs. Samsung Lions",
@@ -479,19 +465,19 @@
         "avgPrice": 0.6939,
         "slug": "kbo-lot-sam-2026-09-01"
       },
-      "0xc5de130a302cd3a2cb92518d5277bc66f45a30b83645f08dd332e53abf28b379|Oleg Prihodko": {
-        "title": "Plovdiv 3: Oleg Prihodko vs Maxim Mrva",
-        "outcome": "Oleg Prihodko",
-        "value": 7129.0927,
-        "avgPrice": 0.4424,
-        "slug": "atp-prihodk-mrva-2026-08-31"
-      },
       "0x7ace3bf1d7e028262b10343de3cddfc6e4c5c2e1d77555a3adb23ee86adc4169|Alejandro Moro Canas": {
         "title": "Porto: Tiago Cacao vs Alejandro Moro Canas",
         "outcome": "Alejandro Moro Canas",
-        "value": 6190.9035,
+        "value": 6523.301,
         "avgPrice": 0.7414,
         "slug": "atp-cacao-canas-2026-09-01"
+      },
+      "0xc5de130a302cd3a2cb92518d5277bc66f45a30b83645f08dd332e53abf28b379|Maxim Mrva": {
+        "title": "Plovdiv 3: Oleg Prihodko vs Maxim Mrva",
+        "outcome": "Maxim Mrva",
+        "value": 6046.1633,
+        "avgPrice": 0.7915,
+        "slug": "atp-prihodk-mrva-2026-08-31"
       },
       "0xf47c861533cd088c99885da97bdac01ce0c983ced34d9c159144e3f0d5b2eb14|NC Dinos": {
         "title": "KBO: Kia Tigers vs. NC Dinos",
@@ -514,12 +500,12 @@
         "avgPrice": 0.5374,
         "slug": "cs2-inf6-innerc-2026-09-01"
       },
-      "0xae63da2a2acb84bc90434ee2b7b69d3e658642c37f78c4ae2cb93c2d046f32e3|Ambar Corbalan Miranda": {
-        "title": "W15 Luj\u00e1n: Ambar Corbalan Miranda vs Katia Gabotto Loredo",
-        "outcome": "Ambar Corbalan Miranda",
-        "value": 2888.0446,
-        "avgPrice": 0.7566,
-        "slug": "itf-mirand-loredo-2026-09-01"
+      "0x769d4e46339878e52119a41f7b3822d8369dee7ddadf3b868d2c909a22655148|Dimitar Kuzmanov": {
+        "title": "Porto: Dimitar Kuzmanov vs Alafia Ayeni",
+        "outcome": "Dimitar Kuzmanov",
+        "value": 2806.8674,
+        "avgPrice": 0.7889,
+        "slug": "atp-kuzmano-ayeni-2026-09-01"
       },
       "0xaedb6667cf88cade0903baee5d5f14180e0cb4c35cfb1c8c05d5f91af051ba5b|Alexander Blockx": {
         "title": "National Bank Open: Jaume Munar vs Alexander Blockx",
@@ -531,9 +517,16 @@
       "0xe59bb2875888c03bd6218e5b76b724d81a20ff71066c051e8847626b3aa326f1|Ariana Arseneault": {
         "title": "W50 Leiria: Ariana Arseneault vs Anastasia Gasanova",
         "outcome": "Ariana Arseneault",
-        "value": 2609.0303,
-        "avgPrice": 0.4471,
+        "value": 2497.9623,
+        "avgPrice": 0.4133,
         "slug": "itf-arsenea-gasanov-2026-09-01"
+      },
+      "0xae63da2a2acb84bc90434ee2b7b69d3e658642c37f78c4ae2cb93c2d046f32e3|Ambar Corbalan Miranda": {
+        "title": "W15 Luj\u00e1n: Ambar Corbalan Miranda vs Katia Gabotto Loredo",
+        "outcome": "Ambar Corbalan Miranda",
+        "value": 2475.4668,
+        "avgPrice": 0.7566,
+        "slug": "itf-mirand-loredo-2026-09-01"
       },
       "0x0a18a267c0ed3819db23086e5d7dccaaf4d106046e7cb7def8e7a4092320fbe4|Yes": {
         "title": "Will US Cremonese win on 2026-09-01?",
@@ -541,6 +534,13 @@
         "value": 2450.0,
         "avgPrice": 0.235,
         "slug": "itc-par-cre-2026-09-01-cre"
+      },
+      "0xc5de130a302cd3a2cb92518d5277bc66f45a30b83645f08dd332e53abf28b379|Oleg Prihodko": {
+        "title": "Plovdiv 3: Oleg Prihodko vs Maxim Mrva",
+        "outcome": "Oleg Prihodko",
+        "value": 2421.6913,
+        "avgPrice": 0.4356,
+        "slug": "atp-prihodk-mrva-2026-08-31"
       },
       "0x0e6e4a3b830bdb761894c664f97a2bb29bab9eeee31b997fa7385b483ce6cf55|Jaden Weekes": {
         "title": "M15 Monastir: Jaden Weekes vs Malek El-Qurneh",
@@ -556,6 +556,20 @@
         "avgPrice": 0.43,
         "slug": "atp-jong-passaro-2026-08-30"
       },
+      "0xc937871bc3adde90cb9c32bf75912032107e3c6ed4dd27583e09b8302cba9a31|Hugo Grenier": {
+        "title": "Manacor: Billy Harris vs Hugo Grenier",
+        "outcome": "Hugo Grenier",
+        "value": 2092.1025,
+        "avgPrice": 0.3534,
+        "slug": "atp-harris-grenier-2026-09-01"
+      },
+      "0x5523513b12613ac3679a8c9614a05ae01777bc3953eb89645fc4ab2db4641da4|No": {
+        "title": "Will Bandirmaspor win on 2026-09-01?",
+        "outcome": "No",
+        "value": 1987.6512,
+        "avgPrice": 0.8201,
+        "slug": "tur2-bas-ant-2026-09-01-bas"
+      },
       "0x68a74f8eddbfad6dbbb5c1bfcde095b84adc25b05b6dc16857cc2a4d80b09417|Juan Martin": {
         "title": "Como: Juan Martin vs Fausto Tabacco",
         "outcome": "Juan Martin",
@@ -563,61 +577,40 @@
         "avgPrice": 0.7163,
         "slug": "atp-ma-tabacc-2026-09-01"
       },
-      "0x8a996cdc1050e68db8d6a177fdcf23e871821ec07a230764f8e744657666934a|Linus Lagerbohm": {
-        "title": "M15 Szczawno: Noah Thurner vs Linus Lagerbohm",
-        "outcome": "Linus Lagerbohm",
-        "value": 1822.4368,
-        "avgPrice": 0.6587,
-        "slug": "itf-thurner-lagerbo-2026-09-01"
+      "0x439966cd77797f5f8c75e97384e2f6b0880ee694f1c2693a154f0570e3586a77|Lorenzo Gagliardo": {
+        "title": "M15 Trelew: Lorenzo Gagliardo vs Francisco Gay",
+        "outcome": "Lorenzo Gagliardo",
+        "value": 1285.6084,
+        "avgPrice": 0.6194,
+        "slug": "itf-gaglia-francis-2026-09-01"
       },
-      "0xc937871bc3adde90cb9c32bf75912032107e3c6ed4dd27583e09b8302cba9a31|Hugo Grenier": {
-        "title": "Manacor: Billy Harris vs Hugo Grenier",
-        "outcome": "Hugo Grenier",
-        "value": 1812.8849,
-        "avgPrice": 0.369,
-        "slug": "atp-harris-grenier-2026-09-01"
+      "0xe59bb2875888c03bd6218e5b76b724d81a20ff71066c051e8847626b3aa326f1|Anastasia Gasanova": {
+        "title": "W50 Leiria: Ariana Arseneault vs Anastasia Gasanova",
+        "outcome": "Anastasia Gasanova",
+        "value": 1253.8682,
+        "avgPrice": 0.5457,
+        "slug": "itf-arsenea-gasanov-2026-09-01"
       },
-      "0x43edbe5cf056d2c7b30bc3df71612563c9ced9e077ac6ea3678b7f4d02276cfa|Hugo Dellien": {
-        "title": "Porto: Frederico Ferreira Silva vs Hugo Dellien",
-        "outcome": "Hugo Dellien",
-        "value": 1678.5057,
-        "avgPrice": 0.7411,
-        "slug": "atp-sil-dellien-2026-08-31"
-      },
-      "0x5523513b12613ac3679a8c9614a05ae01777bc3953eb89645fc4ab2db4641da4|No": {
-        "title": "Will Bandirmaspor win on 2026-09-01?",
-        "outcome": "No",
-        "value": 1607.0788,
-        "avgPrice": 0.7921,
-        "slug": "tur2-bas-ant-2026-09-01-bas"
-      },
-      "0x769d4e46339878e52119a41f7b3822d8369dee7ddadf3b868d2c909a22655148|Dimitar Kuzmanov": {
-        "title": "Porto: Dimitar Kuzmanov vs Alafia Ayeni",
-        "outcome": "Dimitar Kuzmanov",
-        "value": 1460.5662,
-        "avgPrice": 0.9158,
-        "slug": "atp-kuzmano-ayeni-2026-09-01"
-      },
-      "0xc5de130a302cd3a2cb92518d5277bc66f45a30b83645f08dd332e53abf28b379|Maxim Mrva": {
-        "title": "Plovdiv 3: Oleg Prihodko vs Maxim Mrva",
-        "outcome": "Maxim Mrva",
-        "value": 990.5302,
-        "avgPrice": 0.6533,
-        "slug": "atp-prihodk-mrva-2026-08-31"
+      "0x4c62b73a1496a63915fbaaf7fe5435c7d303ad7e13591ede057d7635cb807b38|Bandirmaspor": {
+        "title": "Spread: Antalyaspor (-1.5)",
+        "outcome": "Bandirmaspor",
+        "value": 1091.4298,
+        "avgPrice": 0.6561,
+        "slug": "tur2-bas-ant-2026-09-01-spread-away-1pt5"
       },
       "0xd3c829c0d6ca95835ba1bc1c91d85d25f5ba852bf45bf094314333935f92a4de|Over": {
         "title": "Bandirmaspor vs. Antalyaspor: O/U 1.5",
         "outcome": "Over",
-        "value": 980.88,
-        "avgPrice": 0.74,
+        "value": 1055.9261,
+        "avgPrice": 0.7397,
         "slug": "tur2-bas-ant-2026-09-01-total-1pt5"
       },
-      "0xf44811114c5b720b342edbc8a97233e94aecdab709d9af95ccd16fcd2dd63535|No": {
-        "title": "Will Antalyaspor win on 2026-09-01?",
-        "outcome": "No",
-        "value": 975.9011,
-        "avgPrice": 0.4946,
-        "slug": "tur2-bas-ant-2026-09-01-ant"
+      "0x7ace3bf1d7e028262b10343de3cddfc6e4c5c2e1d77555a3adb23ee86adc4169|Tiago Cacao": {
+        "title": "Porto: Tiago Cacao vs Alejandro Moro Canas",
+        "outcome": "Tiago Cacao",
+        "value": 926.2124,
+        "avgPrice": 0.2048,
+        "slug": "atp-cacao-canas-2026-09-01"
       },
       "0xc2930df535462409523c4330b7bea5eca23e7b3d0df4bf36db15c9c3c73f7bd0|Jack Draper": {
         "title": "Lexus Eastbourne Open: Brandon Nakashima vs Jack Draper",
@@ -626,12 +619,19 @@
         "avgPrice": 0.44,
         "slug": "atp-nakashi-draper-2026-06-22"
       },
-      "0xe59bb2875888c03bd6218e5b76b724d81a20ff71066c051e8847626b3aa326f1|Anastasia Gasanova": {
-        "title": "W50 Leiria: Ariana Arseneault vs Anastasia Gasanova",
-        "outcome": "Anastasia Gasanova",
-        "value": 886.5499,
-        "avgPrice": 0.546,
-        "slug": "itf-arsenea-gasanov-2026-09-01"
+      "0x205846c7f221911d01ca97b87bab66b4f9939eea5e2d3532cd863e076d15e3a7|Gilles Arnaud Bailly": {
+        "title": "Porto: Gilles Arnaud Bailly vs Alex Barrena",
+        "outcome": "Gilles Arnaud Bailly",
+        "value": 878.197,
+        "avgPrice": 0.6827,
+        "slug": "atp-bailly-barrena-2026-08-31"
+      },
+      "0x97c9d539abae17d84bf4e7dfec5f24a77ae1188fd43f09ee12cc3ec8dc306204|No": {
+        "title": "Exact Score: Bandirmaspor 0 - 3 Antalyaspor?",
+        "outcome": "No",
+        "value": 822.8999,
+        "avgPrice": 0.971,
+        "slug": "tur2-bas-ant-2026-09-01-exact-score-0-3"
       },
       "0xabf26f2e50e94945102319a56582c75c34f5f52e8cfe1a7a6edfe895ee2775a9|Soon-Woo Kwon": {
         "title": "Quebec City: Benjamin Bonzi vs Soon-Woo Kwon",
@@ -640,12 +640,12 @@
         "avgPrice": 0.49,
         "slug": "atp-bonzi-kwon-2026-08-20"
       },
-      "0x099acfde6f9ea3b4ccc1cfb86e513291864a954da7c24eb0cb54c8162ecd712e|Under": {
-        "title": "Umraniyespor vs. Muglaspor: O/U 2.5",
-        "outcome": "Under",
-        "value": 757.5365,
-        "avgPrice": 0.6099,
-        "slug": "tur2-umr-mug-2026-09-01-total-2pt5"
+      "0xf44811114c5b720b342edbc8a97233e94aecdab709d9af95ccd16fcd2dd63535|No": {
+        "title": "Will Antalyaspor win on 2026-09-01?",
+        "outcome": "No",
+        "value": 767.6236,
+        "avgPrice": 0.4407,
+        "slug": "tur2-bas-ant-2026-09-01-ant"
       },
       "0x726f36cdca965e814674d5cd200b70c099ccd474c80fc8f44fb06ba8f392d215|Nicola Rispoli": {
         "title": "M15 Buzau: Uladzimir Ignatik vs Nicola Rispoli",
@@ -654,12 +654,19 @@
         "avgPrice": 0.6105,
         "slug": "itf-ignatik-rispoli-2026-09-01"
       },
-      "0xce4cad5df9b6863a29b753ccff1e4eab61c88a4dfc729cecbc91a0b6a0fdd670|Gabriele Bosio": {
-        "title": "M15 Bologna: Gabriele Bosio vs Filippo Mazzola",
-        "outcome": "Gabriele Bosio",
-        "value": 710.9685,
-        "avgPrice": 0.6902,
-        "slug": "itf-bosio-mazzol-2026-09-01"
+      "0x205846c7f221911d01ca97b87bab66b4f9939eea5e2d3532cd863e076d15e3a7|Alex Barrena": {
+        "title": "Porto: Gilles Arnaud Bailly vs Alex Barrena",
+        "outcome": "Alex Barrena",
+        "value": 710.7161,
+        "avgPrice": 0.4408,
+        "slug": "atp-bailly-barrena-2026-08-31"
+      },
+      "0x1d09423cb1659bd91b075ce51fba3bbcc3e581497cba1f9a106444785ea7464c|Remy Bertola": {
+        "title": "Manacor: Remy Bertola vs Jerome Kym",
+        "outcome": "Remy Bertola",
+        "value": 701.3544,
+        "avgPrice": 0.4706,
+        "slug": "atp-bertola-kym-2026-09-01"
       },
       "0x2a6e431d9c6d91853bc9c1f345fa7498f615fba2e362644fbb7015f28e9da3db|Yes": {
         "title": "Will CA Penarol Montevideo win on 2026-08-08?",
@@ -692,9 +699,16 @@
       "0x5798ae6308bba3876b9fe1d561fdb289cc2ebe28270e1d813c56984a8a5f5a48|Over": {
         "title": "Bandirmaspor vs. Antalyaspor: O/U 2.5",
         "outcome": "Over",
-        "value": 562.1614,
-        "avgPrice": 0.464,
+        "value": 587.2562,
+        "avgPrice": 0.3969,
         "slug": "tur2-bas-ant-2026-09-01-total-2pt5"
+      },
+      "0xce4cad5df9b6863a29b753ccff1e4eab61c88a4dfc729cecbc91a0b6a0fdd670|Gabriele Bosio": {
+        "title": "M15 Bologna: Gabriele Bosio vs Filippo Mazzola",
+        "outcome": "Gabriele Bosio",
+        "value": 560.1615,
+        "avgPrice": 0.6848,
+        "slug": "itf-bosio-mazzol-2026-09-01"
       },
       "0xc133482d19ef3092d91c90c6e9261e8ffd141870608a3549bbffe31c6ac506f8|Lotte Giants": {
         "title": "KBO: LG Twins vs. Lotte Giants",
@@ -702,6 +716,13 @@
         "value": 551.8466,
         "avgPrice": 0.3865,
         "slug": "kbo-lg-lot-2026-08-28"
+      },
+      "0x099acfde6f9ea3b4ccc1cfb86e513291864a954da7c24eb0cb54c8162ecd712e|Under": {
+        "title": "Umraniyespor vs. Muglaspor: O/U 2.5",
+        "outcome": "Under",
+        "value": 517.0487,
+        "avgPrice": 0.6099,
+        "slug": "tur2-umr-mug-2026-09-01-total-2pt5"
       }
     },
     "#3 2C": {
@@ -747,13 +768,6 @@
         "avgPrice": 0.8604,
         "slug": "will-philadelphia-76ers-win-the-2027-nba-finals"
       },
-      "0xf3d62eb13cea91ec64a0428a167c25b570d5327e8f54e10607e221cdf6c2100e|Raul Brancaccio": {
-        "title": "Como: Raul Brancaccio vs Duje Ajdukovic",
-        "outcome": "Raul Brancaccio",
-        "value": 4375.0,
-        "avgPrice": 0.58,
-        "slug": "atp-brancac-ajdukov-2026-08-31"
-      },
       "0x7fe3efaa8750785f4a571dcd1aa51a1f0cb9b4a63c335afbd749d258faf9ce67|Darja Vidmanova": {
         "title": "US Open WTA: Darja Vidmanova vs Jessica Bouzas Maneiro",
         "outcome": "Darja Vidmanova",
@@ -775,6 +789,13 @@
         "avgPrice": 0.92,
         "slug": "will-bitcoin-dip-to-25000-by-december-31-2026-948-243-253-666-115-787-981-282-573-719-186-417-762-754-486-851-278-145-417-178-244"
       },
+      "0xc5de130a302cd3a2cb92518d5277bc66f45a30b83645f08dd332e53abf28b379|Maxim Mrva": {
+        "title": "Plovdiv 3: Oleg Prihodko vs Maxim Mrva",
+        "outcome": "Maxim Mrva",
+        "value": 2809.2768,
+        "avgPrice": 0.82,
+        "slug": "atp-prihodk-mrva-2026-08-31"
+      },
       "0x17285349676c731d183f73a24a735e834fada4594dfa623a87eb68d1b1d8c8e0|Chiefs": {
         "title": "Seahawks vs. Chiefs",
         "outcome": "Chiefs",
@@ -785,7 +806,7 @@
       "0xf3d62eb13cea91ec64a0428a167c25b570d5327e8f54e10607e221cdf6c2100e|Duje Ajdukovic": {
         "title": "Como: Raul Brancaccio vs Duje Ajdukovic",
         "outcome": "Duje Ajdukovic",
-        "value": 811.5712,
+        "value": 921.0174,
         "avgPrice": 0.4665,
         "slug": "atp-brancac-ajdukov-2026-08-31"
       }
@@ -808,7 +829,7 @@
       "0xd73b81755d573d5abb591ab049ef6a5c535833296e8b1d3573558b6d12d686fe|Yes": {
         "title": "Will Vancouver Whitecaps FC win on 2026-07-16?",
         "outcome": "Yes",
-        "value": 2226.4734,
+        "value": 2290.0869,
         "avgPrice": 0.3858,
         "slug": "mls-chi-vwh-2026-07-16-vwh"
       },
@@ -822,14 +843,14 @@
       "0xe19ddd7a87ad62801fdd2387d8c1056a7521e11110af4fc009b9189924a01760|Cleveland Guardians": {
         "title": "Spread: Cleveland Guardians (-1.5)",
         "outcome": "Cleveland Guardians",
-        "value": 1427.5303,
+        "value": 1498.9068,
         "avgPrice": 0.3426,
         "slug": "mlb-det-cle-2026-06-14-spread-home-1pt5"
       },
       "0x7beb03b48f520e43ae2e217fefe3a48f6948018d3da07678e22708463789afa0|No": {
         "title": "Exact Score: Chicago Fire FC 3 - 2 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 1092.4318,
+        "value": 1093.6607,
         "avgPrice": 0.9583,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-3-2"
       },
@@ -843,7 +864,7 @@
       "0x6f08f5499b2441a8d525961988d5f1fe65b318cc52e34eb8dd72f9d09c6a8d70|Over": {
         "title": "Detroit Tigers vs. Cleveland Guardians: O/U 4.5",
         "outcome": "Over",
-        "value": 678.03,
+        "value": 694.52,
         "avgPrice": 0.81,
         "slug": "mlb-det-cle-2026-06-14-total-4pt5"
       },
@@ -915,9 +936,16 @@
       "0x7430c9f861bab898b4f7e6c2114bdebe73a79f5ae0c2795007ff79d119e1f066|Federico Iannaccone": {
         "title": "Plovdiv 3: Federico Iannaccone vs Juan Estevez",
         "outcome": "Federico Iannaccone",
-        "value": 5279.9545,
+        "value": 5385.0149,
         "avgPrice": 0.5291,
         "slug": "atp-iannacc-estevez-2026-09-01"
+      },
+      "0x7ace3bf1d7e028262b10343de3cddfc6e4c5c2e1d77555a3adb23ee86adc4169|Alejandro Moro Canas": {
+        "title": "Porto: Tiago Cacao vs Alejandro Moro Canas",
+        "outcome": "Alejandro Moro Canas",
+        "value": 5192.4086,
+        "avgPrice": 0.7643,
+        "slug": "atp-cacao-canas-2026-09-01"
       },
       "0xd62e9cbc26b2493b675a8bb57984e2e45c2faa758cf078a5d98defea4a6c867f|Under": {
         "title": "San Francisco Giants vs. Pittsburgh Pirates: O/U 7.5",
@@ -933,6 +961,13 @@
         "avgPrice": 0.4899,
         "slug": "mlb-mil-chc-2026-09-01-total-10pt5"
       },
+      "0x444d20119006158d57ec6196284534f961e8cccce1e5600aa6c11290a4548452|New York Mets": {
+        "title": "New York Mets vs. Tampa Bay Rays",
+        "outcome": "New York Mets",
+        "value": 4320.4516,
+        "avgPrice": 0.4499,
+        "slug": "mlb-nym-tb-2026-09-01"
+      },
       "0x9e8345ef61995457041dded86ec4b24ead5ddd1b6563f543efe30cf373b1866a|Under": {
         "title": "Seattle Mariners vs. Boston Red Sox: O/U 7.5",
         "outcome": "Under",
@@ -947,26 +982,12 @@
         "avgPrice": 0.6688,
         "slug": "mlb-sea-bos-2026-09-01-total-8pt5"
       },
-      "0x7ace3bf1d7e028262b10343de3cddfc6e4c5c2e1d77555a3adb23ee86adc4169|Alejandro Moro Canas": {
-        "title": "Porto: Tiago Cacao vs Alejandro Moro Canas",
-        "outcome": "Alejandro Moro Canas",
-        "value": 3695.7835,
-        "avgPrice": 0.7524,
-        "slug": "atp-cacao-canas-2026-09-01"
-      },
       "0x68a74f8eddbfad6dbbb5c1bfcde095b84adc25b05b6dc16857cc2a4d80b09417|Juan Martin": {
         "title": "Como: Juan Martin vs Fausto Tabacco",
         "outcome": "Juan Martin",
         "value": 3177.9734,
         "avgPrice": 0.7097,
         "slug": "atp-ma-tabacc-2026-09-01"
-      },
-      "0x1d09423cb1659bd91b075ce51fba3bbcc3e581497cba1f9a106444785ea7464c|Jerome Kym": {
-        "title": "Manacor: Remy Bertola vs Jerome Kym",
-        "outcome": "Jerome Kym",
-        "value": 3114.6272,
-        "avgPrice": 0.734,
-        "slug": "atp-bertola-kym-2026-09-01"
       },
       "0x3e4f80e4c81ea126c7e24f3f9d6bfb9a148d2d595b19ca18f0cbf085f5d90082|Baltimore Orioles": {
         "title": "Spread: Colorado Rockies (-1.5)",
@@ -975,19 +996,19 @@
         "avgPrice": 0.7054,
         "slug": "mlb-bal-col-2026-09-01-spread-home-1pt5"
       },
-      "0x7ace3bf1d7e028262b10343de3cddfc6e4c5c2e1d77555a3adb23ee86adc4169|Tiago Cacao": {
-        "title": "Porto: Tiago Cacao vs Alejandro Moro Canas",
-        "outcome": "Tiago Cacao",
-        "value": 2319.5922,
-        "avgPrice": 0.2576,
-        "slug": "atp-cacao-canas-2026-09-01"
+      "0x1d09423cb1659bd91b075ce51fba3bbcc3e581497cba1f9a106444785ea7464c|Jerome Kym": {
+        "title": "Manacor: Remy Bertola vs Jerome Kym",
+        "outcome": "Jerome Kym",
+        "value": 2754.5339,
+        "avgPrice": 0.7352,
+        "slug": "atp-bertola-kym-2026-09-01"
       },
-      "0x43edbe5cf056d2c7b30bc3df71612563c9ced9e077ac6ea3678b7f4d02276cfa|Hugo Dellien": {
-        "title": "Porto: Frederico Ferreira Silva vs Hugo Dellien",
-        "outcome": "Hugo Dellien",
-        "value": 2296.9309,
-        "avgPrice": 0.9365,
-        "slug": "atp-sil-dellien-2026-08-31"
+      "0xc5de130a302cd3a2cb92518d5277bc66f45a30b83645f08dd332e53abf28b379|Maxim Mrva": {
+        "title": "Plovdiv 3: Oleg Prihodko vs Maxim Mrva",
+        "outcome": "Maxim Mrva",
+        "value": 2427.4536,
+        "avgPrice": 0.7478,
+        "slug": "atp-prihodk-mrva-2026-08-31"
       },
       "0x6488bff9c95ae5415a5ce0431cdf1b235503297475e5a3962581bd8589e6c254|Under": {
         "title": "Milwaukee Brewers vs. Chicago Cubs: O/U 10.5",
@@ -999,9 +1020,16 @@
       "0xc937871bc3adde90cb9c32bf75912032107e3c6ed4dd27583e09b8302cba9a31|Billy Harris": {
         "title": "Manacor: Billy Harris vs Hugo Grenier",
         "outcome": "Billy Harris",
-        "value": 2016.6709,
+        "value": 1974.6569,
         "avgPrice": 0.752,
         "slug": "atp-harris-grenier-2026-09-01"
+      },
+      "0x7ace3bf1d7e028262b10343de3cddfc6e4c5c2e1d77555a3adb23ee86adc4169|Tiago Cacao": {
+        "title": "Porto: Tiago Cacao vs Alejandro Moro Canas",
+        "outcome": "Tiago Cacao",
+        "value": 1961.7546,
+        "avgPrice": 0.2574,
+        "slug": "atp-cacao-canas-2026-09-01"
       },
       "0x7c51ca4fa62fa356430f6aaaad839888a475c9a791b089fb3e5c7717c6a39342|Barbora Palicova": {
         "title": "Makarska: Petra Marcinko vs Barbora Palicova",
@@ -1027,16 +1055,9 @@
       "0x3c13a70a901aa096719861b555e8ec81c2ba65bfc351eacf5865c8962de1c09d|Over": {
         "title": "New York Yankees vs. Los Angeles Angels: O/U 7.5",
         "outcome": "Over",
-        "value": 1465.7841,
+        "value": 1436.1723,
         "avgPrice": 0.5,
         "slug": "mlb-nyy-laa-2026-09-01-total-7pt5"
-      },
-      "0xf01cb0496b167cdf775f4e1f94c709c97428359b72783aa89e42453a7f06fe71|Detroit Tigers": {
-        "title": "Detroit Tigers vs. Minnesota Twins",
-        "outcome": "Detroit Tigers",
-        "value": 1264.2735,
-        "avgPrice": 0.51,
-        "slug": "mlb-det-min-2026-09-01"
       },
       "0x873c16717fef843256324ffd5d8b6a5f6745bc0c67f3ea412cd66682af7810b8|Under": {
         "title": "Masarova vs. Ryser: Match O/U 23.5",
@@ -1044,6 +1065,13 @@
         "value": 1216.5771,
         "avgPrice": 0.6104,
         "slug": "wta-masarov-ryser-2026-07-18-match-total-23pt5"
+      },
+      "0xf01cb0496b167cdf775f4e1f94c709c97428359b72783aa89e42453a7f06fe71|Detroit Tigers": {
+        "title": "Detroit Tigers vs. Minnesota Twins",
+        "outcome": "Detroit Tigers",
+        "value": 1215.1755,
+        "avgPrice": 0.51,
+        "slug": "mlb-det-min-2026-09-01"
       },
       "0xa2d8e9c8a9b5c054e7f27633c4861cd7f90c174610207baec6e33af316d7a608|Under": {
         "title": "Athletics vs. Texas Rangers: O/U 7.5",
@@ -1055,7 +1083,7 @@
       "0x7200b66fb23793c75cc63ed78cb10cdcb00cb507ecb1751cfee5e395e556a37e|Over": {
         "title": "Detroit Tigers vs. Cleveland Guardians: O/U 7.5",
         "outcome": "Over",
-        "value": 1133.7509,
+        "value": 1124.8935,
         "avgPrice": 0.4641,
         "slug": "mlb-det-cle-2026-06-14-total-7pt5"
       },
@@ -1065,20 +1093,6 @@
         "value": 1112.4035,
         "avgPrice": 0.5399,
         "slug": "kbo-han-kt-2026-09-01"
-      },
-      "0x444d20119006158d57ec6196284534f961e8cccce1e5600aa6c11290a4548452|New York Mets": {
-        "title": "New York Mets vs. Tampa Bay Rays",
-        "outcome": "New York Mets",
-        "value": 1105.5758,
-        "avgPrice": 0.45,
-        "slug": "mlb-nym-tb-2026-09-01"
-      },
-      "0xc5de130a302cd3a2cb92518d5277bc66f45a30b83645f08dd332e53abf28b379|Oleg Prihodko": {
-        "title": "Plovdiv 3: Oleg Prihodko vs Maxim Mrva",
-        "outcome": "Oleg Prihodko",
-        "value": 1101.9518,
-        "avgPrice": 0.418,
-        "slug": "atp-prihodk-mrva-2026-08-31"
       },
       "0xd62e9cbc26b2493b675a8bb57984e2e45c2faa758cf078a5d98defea4a6c867f|Over": {
         "title": "San Francisco Giants vs. Pittsburgh Pirates: O/U 7.5",
@@ -1090,7 +1104,7 @@
       "0x01da8b2433b05bcfeb3114a9a9848c6e47c1c03a454529f1b6c4269d81558199|Under": {
         "title": "Milwaukee Brewers vs. Chicago Cubs: O/U 9.5",
         "outcome": "Under",
-        "value": 975.3698,
+        "value": 996.8065,
         "avgPrice": 0.4492,
         "slug": "mlb-mil-chc-2026-09-01-total-9pt5"
       },
@@ -1108,19 +1122,19 @@
         "avgPrice": 0.5057,
         "slug": "atp-bertola-kym-2026-09-01-match-total-22pt5"
       },
-      "0xe19ddd7a87ad62801fdd2387d8c1056a7521e11110af4fc009b9189924a01760|Detroit Tigers": {
-        "title": "Spread: Cleveland Guardians (-1.5)",
-        "outcome": "Detroit Tigers",
-        "value": 797.2428,
-        "avgPrice": 0.6547,
-        "slug": "mlb-det-cle-2026-06-14-spread-home-1pt5"
-      },
       "0xfb41610c4ff322e8933781caf3c492d817d565334773ebc587c4b280243a72fb|SSG Landers": {
         "title": "KBO: SSG Landers vs. Kiwoom Heroes",
         "outcome": "SSG Landers",
         "value": 771.4176,
         "avgPrice": 0.44,
         "slug": "kbo-ssg-kiw-2026-09-01"
+      },
+      "0xe19ddd7a87ad62801fdd2387d8c1056a7521e11110af4fc009b9189924a01760|Detroit Tigers": {
+        "title": "Spread: Cleveland Guardians (-1.5)",
+        "outcome": "Detroit Tigers",
+        "value": 757.3807,
+        "avgPrice": 0.6547,
+        "slug": "mlb-det-cle-2026-06-14-spread-home-1pt5"
       },
       "0x2a34443a75f390096ef5f57be03574c54b878b250e2facd56ab6d192035a8350|Kia Tigers": {
         "title": "KBO: SSG Landers vs. Kia Tigers",
@@ -1129,13 +1143,6 @@
         "avgPrice": 0.6841,
         "slug": "kbo-ssg-kia-2026-08-28"
       },
-      "0xc5de130a302cd3a2cb92518d5277bc66f45a30b83645f08dd332e53abf28b379|Maxim Mrva": {
-        "title": "Plovdiv 3: Oleg Prihodko vs Maxim Mrva",
-        "outcome": "Maxim Mrva",
-        "value": 679.2341,
-        "avgPrice": 0.6091,
-        "slug": "atp-prihodk-mrva-2026-08-31"
-      },
       "0xbfe6b25f43acac3c973682473206d9799cd5c8b32b4509525d76f1900b6cb53b|Over": {
         "title": "Baltimore Orioles vs. Colorado Rockies: O/U 11.5",
         "outcome": "Over",
@@ -1143,18 +1150,11 @@
         "avgPrice": 0.46,
         "slug": "mlb-bal-col-2026-09-01-total-11pt5"
       },
-      "0x205846c7f221911d01ca97b87bab66b4f9939eea5e2d3532cd863e076d15e3a7|Gilles Arnaud Bailly": {
-        "title": "Porto: Gilles Arnaud Bailly vs Alex Barrena",
-        "outcome": "Gilles Arnaud Bailly",
-        "value": 578.2445,
-        "avgPrice": 0.5356,
-        "slug": "atp-bailly-barrena-2026-08-31"
-      },
       "0xd2a96e800496eac6bc971b75a5d4a246b716cb939e4f507005298149d99e5974|Over": {
         "title": "Seattle Mariners vs. Boston Red Sox: O/U 9.5",
         "outcome": "Over",
-        "value": 576.6927,
-        "avgPrice": 0.2517,
+        "value": 625.5947,
+        "avgPrice": 0.2518,
         "slug": "mlb-sea-bos-2026-09-01-total-9pt5"
       },
       "0xa5036ca7f6682d00ef4b77b3438a3f9d657bec7d68c262dc2267b8d8cf4cf518|Doosan Bears": {
@@ -1167,8 +1167,8 @@
       "0x769d4e46339878e52119a41f7b3822d8369dee7ddadf3b868d2c909a22655148|Dimitar Kuzmanov": {
         "title": "Porto: Dimitar Kuzmanov vs Alafia Ayeni",
         "outcome": "Dimitar Kuzmanov",
-        "value": 542.4728,
-        "avgPrice": 0.8708,
+        "value": 551.9613,
+        "avgPrice": 0.8587,
         "slug": "atp-kuzmano-ayeni-2026-09-01"
       },
       "0xb4528250bfbecacd1da31cd9dac28d32077c66cc921a8598da6b8e4265144507|Detroit Tigers": {
@@ -1177,15 +1177,20 @@
         "value": 514.89,
         "avgPrice": 0.5,
         "slug": "mlb-det-cle-2026-06-14"
+      },
+      "0x1d09423cb1659bd91b075ce51fba3bbcc3e581497cba1f9a106444785ea7464c|Remy Bertola": {
+        "title": "Manacor: Remy Bertola vs Jerome Kym",
+        "outcome": "Remy Bertola",
+        "value": 500.292,
+        "avgPrice": 0.299,
+        "slug": "atp-bertola-kym-2026-09-01"
       }
     }
   },
   "announced": {
     "0x7430c9f861bab898b4f7e6c2114bdebe73a79f5ae0c2795007ff79d119e1f066|Federico Iannaccone": 3,
-    "0xf3d62eb13cea91ec64a0428a167c25b570d5327e8f54e10607e221cdf6c2100e|Duje Ajdukovic": 3,
-    "0xf3d62eb13cea91ec64a0428a167c25b570d5327e8f54e10607e221cdf6c2100e|Raul Brancaccio": 3,
     "0x7ace3bf1d7e028262b10343de3cddfc6e4c5c2e1d77555a3adb23ee86adc4169|Alejandro Moro Canas": 3,
     "0x01ccc5495e292609da5b977d39e86142321d43fc8f55eb88edab2880944af2b6|Joel Schwaerzler": 3,
-    "0x769d4e46339878e52119a41f7b3822d8369dee7ddadf3b868d2c909a22655148|Dimitar Kuzmanov": 3
+    "0xc5de130a302cd3a2cb92518d5277bc66f45a30b83645f08dd332e53abf28b379|Maxim Mrva": 3
   }
 }
