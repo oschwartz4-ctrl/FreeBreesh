@@ -71,13 +71,6 @@
         "avgPrice": 0.5172,
         "slug": "mlb-oak-tex-2026-09-01-total-7pt5"
       },
-      "0x1ac245a5e227272b8e6d5b9384c13843da0c4896208ad425148d161ab31af18b|Under": {
-        "title": "St. Louis Cardinals vs. Los Angeles Dodgers: O/U 9.5",
-        "outcome": "Under",
-        "value": 8388.1585,
-        "avgPrice": 0.5699,
-        "slug": "mlb-stl-lad-2026-09-01-total-9pt5"
-      },
       "0x385e9770547fd20d7563f39386d39bf2d37b640a352932585dc41238b83bb29e|Chicago Cubs": {
         "title": "Milwaukee Brewers vs. Chicago Cubs",
         "outcome": "Chicago Cubs",
@@ -91,6 +84,13 @@
         "value": 8050.2472,
         "avgPrice": 0.5981,
         "slug": "atp-svajda-altmaie-2026-08-30"
+      },
+      "0x1ac245a5e227272b8e6d5b9384c13843da0c4896208ad425148d161ab31af18b|Under": {
+        "title": "St. Louis Cardinals vs. Los Angeles Dodgers: O/U 9.5",
+        "outcome": "Under",
+        "value": 7423.1491,
+        "avgPrice": 0.5699,
+        "slug": "mlb-stl-lad-2026-09-01-total-9pt5"
       },
       "0x6c8a38bd5326e1b70643f5f2dd026de7ca6ca26a6d3f04088852950da8f620c3|Zizou Bergs": {
         "title": "US Open ATP: Zizou Bergs vs Carlos Taberner",
@@ -162,13 +162,6 @@
         "avgPrice": 0.51,
         "slug": "mlb-mil-chc-2026-09-01-total-6pt5"
       },
-      "0x39a0df4e0b02d4e3b0e2c68057441ed2dbdb5dbd5eac8a4fdf55f510221a3fe2|Los Angeles Dodgers": {
-        "title": "St. Louis Cardinals vs. Los Angeles Dodgers",
-        "outcome": "Los Angeles Dodgers",
-        "value": 2488.152,
-        "avgPrice": 0.6299,
-        "slug": "mlb-stl-lad-2026-09-01"
-      },
       "0x9af167ed361bdc016577401cd59cc05fee72a7aaf70b4a28616f8c6acca2b920|Luiza Fullana": {
         "title": "ITF WOMEN - SINGLES: W35 Barueri (Brazil), hard: Maria Fernanda Navarro vs Luiza Fullana",
         "outcome": "Luiza Fullana",
@@ -196,6 +189,13 @@
         "value": 2085.1217,
         "avgPrice": 0.67,
         "slug": "itf-orlov-kumstat-2026-07-23"
+      },
+      "0x39a0df4e0b02d4e3b0e2c68057441ed2dbdb5dbd5eac8a4fdf55f510221a3fe2|Los Angeles Dodgers": {
+        "title": "St. Louis Cardinals vs. Los Angeles Dodgers",
+        "outcome": "Los Angeles Dodgers",
+        "value": 1928.8,
+        "avgPrice": 0.6299,
+        "slug": "mlb-stl-lad-2026-09-01"
       },
       "0x4c7b0e07dfb705ca8004abf7dd591e62a35dae69c7b27de634b7aed4573c8483|Tereza Valentova": {
         "title": "Livesport Prague Open: Eva Lys vs Tereza Valentova",
@@ -1164,6 +1164,13 @@
         "avgPrice": 0.5261,
         "slug": "atp-cerund-gea-2026-09-01"
       },
+      "0x1ac245a5e227272b8e6d5b9384c13843da0c4896208ad425148d161ab31af18b|Over": {
+        "title": "St. Louis Cardinals vs. Los Angeles Dodgers: O/U 9.5",
+        "outcome": "Over",
+        "value": 6400.0,
+        "avgPrice": 0.43,
+        "slug": "mlb-stl-lad-2026-09-01-total-9pt5"
+      },
       "0x3c13a70a901aa096719861b555e8ec81c2ba65bfc351eacf5865c8962de1c09d|Under": {
         "title": "New York Yankees vs. Los Angeles Angels: O/U 7.5",
         "outcome": "Under",
@@ -1191,13 +1198,6 @@
         "value": 5911.9121,
         "avgPrice": 0.5662,
         "slug": "mlb-mil-chc-2026-09-01-total-6pt5"
-      },
-      "0x1ac245a5e227272b8e6d5b9384c13843da0c4896208ad425148d161ab31af18b|Over": {
-        "title": "St. Louis Cardinals vs. Los Angeles Dodgers: O/U 9.5",
-        "outcome": "Over",
-        "value": 5568.0,
-        "avgPrice": 0.43,
-        "slug": "mlb-stl-lad-2026-09-01-total-9pt5"
       },
       "0x6c21a97b29f78b57c3ce14b5da4251ac6c58d8bfc4df941809a50d62d7ae0988|Over": {
         "title": "Detroit Tigers vs. Minnesota Twins: O/U 8.5",
@@ -1311,13 +1311,6 @@
         "avgPrice": 0.5085,
         "slug": "mlb-phi-ari-2026-09-01-total-7pt5"
       },
-      "0x1f0a558bd979357525e91f721601a19f4b9f6ab7089ae0d2f21ea1dd4720d874|Over": {
-        "title": "St. Louis Cardinals vs. Los Angeles Dodgers: O/U 7.5",
-        "outcome": "Over",
-        "value": 2084.8869,
-        "avgPrice": 0.6099,
-        "slug": "mlb-stl-lad-2026-09-01-total-7pt5"
-      },
       "0x0d531898128d0d18fa6a95bd9e120fd4feb8578aaf4fe387a10b2c9356e15a00|Nikola Bartunkova": {
         "title": "US Open WTA: Nikola Bartunkova vs Mayar Sherif",
         "outcome": "Nikola Bartunkova",
@@ -1352,6 +1345,13 @@
         "value": 1700.0067,
         "avgPrice": 0.5299,
         "slug": "mlb-oak-tex-2026-09-01-spread-home-1pt5"
+      },
+      "0x1f0a558bd979357525e91f721601a19f4b9f6ab7089ae0d2f21ea1dd4720d874|Over": {
+        "title": "St. Louis Cardinals vs. Los Angeles Dodgers: O/U 7.5",
+        "outcome": "Over",
+        "value": 1695.03,
+        "avgPrice": 0.6099,
+        "slug": "mlb-stl-lad-2026-09-01-total-7pt5"
       },
       "0x3c13a70a901aa096719861b555e8ec81c2ba65bfc351eacf5865c8962de1c09d|Over": {
         "title": "New York Yankees vs. Los Angeles Angels: O/U 7.5",
