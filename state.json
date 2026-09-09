@@ -1,26 +1,12 @@
 {
   "seen": {
     "#1 Ferrari": {
-      "0xd2c4d57bce81d654297cc7a0ec33f50ff71ff53c1b667491252b45e32a3531e9|Sara Sorribes Tormo": {
-        "title": "Barranquilla: Cadence Brace vs Sara Sorribes Tormo",
-        "outcome": "Sara Sorribes Tormo",
-        "value": 99640.9599,
-        "avgPrice": 0.5631,
-        "slug": "wta-brace-tormo-2026-09-08"
-      },
-      "0x5d4e820464e2c6e6b57db0b98500ec02a8495ceb9ecb7111dcddb67eaeec8b4c|New York Yankees": {
-        "title": "Colorado Rockies vs. New York Yankees",
-        "outcome": "New York Yankees",
-        "value": 42081.0811,
-        "avgPrice": 0.7362,
-        "slug": "mlb-col-nyy-2026-09-08"
-      },
-      "0x57dd61041a19318dda117ff7614abe80585d1d2e7f237be2f56c64f8120867ca|Los Angeles Angels": {
-        "title": "Los Angeles Angels vs. Boston Red Sox",
-        "outcome": "Los Angeles Angels",
-        "value": 28373.8646,
-        "avgPrice": 0.6966,
-        "slug": "mlb-laa-bos-2026-09-08"
+      "0x1e93e33beecbd9ae3dbe35a7c263b5d1a6d81084f6eed57e16b7fba56821ea1b|Ben Shelton": {
+        "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
+        "outcome": "Ben Shelton",
+        "value": 110110.6436,
+        "avgPrice": 0.3054,
+        "slug": "atp-shelton-alcaraz-2026-09-08"
       },
       "0x1f8d995c49e6794c58dcd187b413a66c625bc5296e95f22844e300da7e4a66b4|Ann Li": {
         "title": "Monterrey Open: Maria Timofeeva vs Ann Li",
@@ -29,75 +15,19 @@
         "avgPrice": 0.5156,
         "slug": "wta-timofee-annli-2026-08-26"
       },
-      "0x7f260e0f53e63ad43f4208bf0e040ee4796da3ddd8633ae6470a21d031fa1a66|Detroit Tigers": {
-        "title": "Minnesota Twins vs. Detroit Tigers",
-        "outcome": "Detroit Tigers",
-        "value": 19142.3968,
-        "avgPrice": 0.39,
-        "slug": "mlb-min-det-2026-09-08"
+      "0x027f8bcb2a54cc323e4752587234533eca0814ddfdc2f0963898a6e96b0398a5|Maximus Jones": {
+        "title": "Phan Thiet 3: Maximus Jones vs Hiroki Moriya",
+        "outcome": "Maximus Jones",
+        "value": 10271.8626,
+        "avgPrice": 0.4402,
+        "slug": "atp-jon-moriya-2026-09-08"
       },
-      "0x8ae42f3878c8064bb704d71ba9363966284b50fbc0d94edb508abd8fa0a5936c|Chicago Cubs": {
-        "title": "Spread: Milwaukee Brewers (-1.5)",
-        "outcome": "Chicago Cubs",
-        "value": 13894.2026,
-        "avgPrice": 0.5496,
-        "slug": "mlb-chc-mil-2026-09-08-spread-home-1pt5"
-      },
-      "0xff1ef814d1f08074294b461dc83a0e00e3536530fc1028ad916fa7a8ed3062da|Under": {
-        "title": "CA Boca Juniors vs. S\u00e3o Paulo FC: O/U 2.5",
-        "outcome": "Under",
-        "value": 10609.2569,
-        "avgPrice": 0.67,
-        "slug": "sud-boc-sao-2026-09-08-total-2pt5"
-      },
-      "0x76ea6a0ef33f01e218c508ae63a9c3c3460631536586f17435fd95340f3b4945|Toronto Blue Jays": {
-        "title": "Toronto Blue Jays vs. Athletics",
-        "outcome": "Toronto Blue Jays",
-        "value": 9256.6129,
-        "avgPrice": 0.6199,
-        "slug": "mlb-tor-oak-2026-09-08"
-      },
-      "0x009b0f78f3604ae5ac4ff1b9fac7f45af2095c5588eed5e27eb609017c234a51|Under": {
-        "title": "Chicago Cubs vs. Milwaukee Brewers: O/U 8.5",
-        "outcome": "Under",
-        "value": 6938.12,
-        "avgPrice": 0.5,
-        "slug": "mlb-chc-mil-2026-09-08-total-8pt5"
-      },
-      "0xa2ae9903d1700a14aeba9549a23bb9e39040cc00e3bca97136ed6b03433ecf8d|Under": {
-        "title": "Independiente Santa Fe vs. CR Vasco da Gama: O/U 1.5",
-        "outcome": "Under",
-        "value": 6784.0033,
-        "avgPrice": 0.4315,
-        "slug": "sud-san1-vas-2026-09-08-total-1pt5"
-      },
-      "0xdb45ffc102b9c7ee9e640ae7df5f25366e3bc637330306cf0d757eb194aa1094|Under": {
-        "title": "Minnesota Twins vs. Detroit Tigers: O/U 8.5",
-        "outcome": "Under",
-        "value": 6446.0772,
-        "avgPrice": 0.5233,
-        "slug": "mlb-min-det-2026-09-08-total-8pt5"
-      },
-      "0x3615ade68c58bf9a4430cc1fe0d59d8b4619651774f8b3c40995d26fb8ac28ae|Under": {
-        "title": "Tampa Bay Rays vs. Atlanta Braves: O/U 8.5",
-        "outcome": "Under",
-        "value": 5780.296,
-        "avgPrice": 0.4999,
-        "slug": "mlb-tb-atl-2026-09-08-total-8pt5"
-      },
-      "0xd0fb660aacc269fa23edce53bdca01c532980c70aa2025b190023fd74d0c7f9c|Kansas City Royals": {
-        "title": "Spread: Arizona Diamondbacks (-1.5)",
-        "outcome": "Kansas City Royals",
-        "value": 5264.7032,
-        "avgPrice": 0.62,
-        "slug": "mlb-ari-kc-2026-09-08-spread-away-1pt5"
-      },
-      "0xe2de941b5d68bac3258448390f94846bc015ff9273fd25abdf6f73b0fd0e47ba|Emma Navarro": {
-        "title": "US Open WTA: Jessica Pegula vs Emma Navarro",
-        "outcome": "Emma Navarro",
-        "value": 4446.8046,
-        "avgPrice": 0.275,
-        "slug": "wta-pegula-navarro-2026-09-08"
+      "0xb0e18b89ed798235acb695d9203bd8bde35047067d2809e02a7bcb5a547fdca5|5star": {
+        "title": "Counter-Strike: 5star vs TheMongolz (BO3) - FISSURE PLAYGROUND Group A",
+        "outcome": "5star",
+        "value": 3982.5335,
+        "avgPrice": 0.5726,
+        "slug": "cs2-5s-mglz-2026-09-08"
       },
       "0x3a5736b4d3b777663ab3b24aedb50f092bd96b50d154a9fc89388314f1ecaca2|Elsa Bonelli": {
         "title": "ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Sarina Schnyder vs Elsa Bonelli",
@@ -106,19 +36,12 @@
         "avgPrice": 0.5765,
         "slug": "itf-schnyde-bonelli-2026-08-26"
       },
-      "0xc96fcbc855fd5408aa9724437b97cb11d9c51536554a36e0ce9dcf5bb976732c|Colorado Rockies": {
-        "title": "Spread: New York Yankees (-1.5)",
-        "outcome": "Colorado Rockies",
-        "value": 2628.7417,
-        "avgPrice": 0.4179,
-        "slug": "mlb-col-nyy-2026-09-08-spread-home-1pt5"
-      },
-      "0x1a97f4fc74ba4ad3aa340a6d209b1d7ea56ab1521a6c6c0f0f5d67c60274725f|Under": {
-        "title": "Los Angeles Angels vs. Boston Red Sox: O/U 7.5",
-        "outcome": "Under",
-        "value": 2381.2645,
-        "avgPrice": 0.521,
-        "slug": "mlb-laa-bos-2026-09-08-total-7pt5"
+      "0x3b673757c7907872a209968130d23f5f5277926617bdad2d4768f5a943e09f21|Xinxin Yao": {
+        "title": "W50 Guiyang: Sara Saito vs Xinxin Yao",
+        "outcome": "Xinxin Yao",
+        "value": 2362.7217,
+        "avgPrice": 0.6062,
+        "slug": "itf-saito1-yao1-2026-09-09"
       },
       "0x9af167ed361bdc016577401cd59cc05fee72a7aaf70b4a28616f8c6acca2b920|Luiza Fullana": {
         "title": "ITF WOMEN - SINGLES: W35 Barueri (Brazil), hard: Maria Fernanda Navarro vs Luiza Fullana",
@@ -126,20 +49,6 @@
         "value": 2334.4456,
         "avgPrice": 0.6414,
         "slug": "itf-navarr-fullana-2026-08-26"
-      },
-      "0x98f8d500c8a8d4c8f360c1f13a5d79c803ba9fadf456972ee005043ca527cf2e|Under": {
-        "title": "Colorado Rockies vs. New York Yankees: O/U 7.5",
-        "outcome": "Under",
-        "value": 2296.0441,
-        "avgPrice": 0.5274,
-        "slug": "mlb-col-nyy-2026-09-08-total-7pt5"
-      },
-      "0x25d4bf969682f9d8a583a83b365ce5bcc16c9ebb16026a481dd06fb8b8df934b|Tampa Bay Rays": {
-        "title": "Tampa Bay Rays vs. Atlanta Braves",
-        "outcome": "Tampa Bay Rays",
-        "value": 2184.4217,
-        "avgPrice": 0.42,
-        "slug": "mlb-tb-atl-2026-09-08"
       },
       "0x4add5d6c538a3231c493ea5ed350177e0aefd8b434918a3f1fe450a4bc8d205b|Julieta Pareja": {
         "title": "ITF Dallas: Dana Guzman vs Julieta Pareja",
@@ -155,33 +64,12 @@
         "avgPrice": 0.5834,
         "slug": "wta-kuderme-korneev-2026-07-20"
       },
-      "0x40f8c1a7f9a802232a53c65f917d0429f550398be5ed0f94f79f553680fc6693|Under": {
-        "title": "Colorado Rockies vs. New York Yankees: O/U 6.5",
-        "outcome": "Under",
-        "value": 2153.566,
-        "avgPrice": 0.3906,
-        "slug": "mlb-col-nyy-2026-09-08-total-6pt5"
-      },
       "0xea43f4e7cd3128279734fbb9d16ab18b686cc05affb2a9e347c095a0028da161|Jan Kumstat": {
         "title": "ITF Ollersbach: Vladyslav Orlov vs Jan Kumstat",
         "outcome": "Jan Kumstat",
         "value": 2085.1217,
         "avgPrice": 0.67,
         "slug": "itf-orlov-kumstat-2026-07-23"
-      },
-      "0x77a816c07468ad2e0fb46a19bc7e2ab29d55db5492ac8607231a7c679710b1ec|Under": {
-        "title": "Independiente Santa Fe vs. CR Vasco da Gama: O/U 0.5",
-        "outcome": "Under",
-        "value": 2016.2043,
-        "avgPrice": 0.4887,
-        "slug": "sud-san1-vas-2026-09-08-total-0pt5"
-      },
-      "0x017dfadc2b64fc40a14a659c22f65331ff3a76483c0cb005cf436a39e21894cd|Under": {
-        "title": "Colorado Rockies vs. New York Yankees: O/U 8.5",
-        "outcome": "Under",
-        "value": 1925.5263,
-        "avgPrice": 0.5894,
-        "slug": "mlb-col-nyy-2026-09-08-total-8pt5"
       },
       "0x4c7b0e07dfb705ca8004abf7dd591e62a35dae69c7b27de634b7aed4573c8483|Tereza Valentova": {
         "title": "Livesport Prague Open: Eva Lys vs Tereza Valentova",
@@ -204,48 +92,6 @@
         "avgPrice": 0.62,
         "slug": "mls-fcc-dcu-2026-09-05-spread-home-1pt5"
       },
-      "0xaf575fb7c38a298b487f4c428873c5e39b6c3370a36b75bb876e50a2d6532b74|Colorado Rockies": {
-        "title": "Spread: New York Yankees (-2.5)",
-        "outcome": "Colorado Rockies",
-        "value": 1733.7793,
-        "avgPrice": 0.4973,
-        "slug": "mlb-col-nyy-2026-09-08-spread-home-2pt5"
-      },
-      "0x98fc981a2e73bc0c041fa144bf828455a591ab550f7315a9d9672009fdc5b960|Philadelphia Phillies": {
-        "title": "Houston Astros vs. Philadelphia Phillies",
-        "outcome": "Philadelphia Phillies",
-        "value": 1674.2385,
-        "avgPrice": 0.4299,
-        "slug": "mlb-hou-phi-2026-09-08"
-      },
-      "0xe91d55e591ce31116488a26be4b5c1b47f8350d8924a68f073b5481179be0eec|Khumoun Sultanov": {
-        "title": "Phan Thiet 3: Enzo Aguiard vs Khumoun Sultanov",
-        "outcome": "Khumoun Sultanov",
-        "value": 1642.1218,
-        "avgPrice": 0.6288,
-        "slug": "atp-aguiard-sultano-2026-09-06"
-      },
-      "0x7f6c21fabbf97bb18ba07e445f72b0dbf0148a4fe0e0d5e8845724794371fefa|Seattle Mariners": {
-        "title": "Texas Rangers vs. Seattle Mariners",
-        "outcome": "Seattle Mariners",
-        "value": 1626.7745,
-        "avgPrice": 0.5499,
-        "slug": "mlb-tex-sea-2026-09-08"
-      },
-      "0xe8fa29650812b85a95750707c449350817ed68e90ede5c169add433a0f0e5b6e|Atlanta Braves": {
-        "title": "Spread: Tampa Bay Rays (-1.5)",
-        "outcome": "Atlanta Braves",
-        "value": 1501.5886,
-        "avgPrice": 0.6799,
-        "slug": "mlb-tb-atl-2026-09-08-spread-away-1pt5"
-      },
-      "0xc00ae388541f535f1759f5e886d25833c5e53ac16149324d600e2a9dcc452cf9|Over": {
-        "title": "Washington Nationals vs. San Diego Padres: O/U 7.5",
-        "outcome": "Over",
-        "value": 1373.625,
-        "avgPrice": 0.5499,
-        "slug": "mlb-wsh-sd-2026-09-08-total-7pt5"
-      },
       "0x100fc126c334eaa60632ebe683b906d42e58009d0768cecaecaa25ae3f82844f|Gianmarco Ferrari": {
         "title": "ITF Fano: Lorenzo Rottoli vs Gianmarco Ferrari",
         "outcome": "Gianmarco Ferrari",
@@ -259,13 +105,6 @@
         "value": 1220.77,
         "avgPrice": 0.65,
         "slug": "itf-brow-vujic-2026-07-15"
-      },
-      "0xb089875db26af36779a84f9b352b11e9203cdd678220601533f2e73ce7dcfcdc|Under": {
-        "title": "Texas Rangers vs. Seattle Mariners: O/U 8.5",
-        "outcome": "Under",
-        "value": 1219.4208,
-        "avgPrice": 0.5699,
-        "slug": "mlb-tex-sea-2026-09-08-total-8pt5"
       },
       "0xaf54c6d5f776f55bcb8b88918fb01dae9426c5dc5d55e8b7ded7425fede6d61a|Oliver Crawford": {
         "title": "US Open, Qualification ATP: Lukas Neumayer vs Oliver Crawford",
@@ -288,13 +127,6 @@
         "avgPrice": 0.62,
         "slug": "wta-leama-swan-2026-07-25"
       },
-      "0x23aa0f8ca7790331a18456845094b7384aba173371b5af7b4ecc963b31a3d6d0|Krawietz/Puetz": {
-        "title": "US Open ATP (Doubles): Krawietz/Puetz vs Cash/Glasspool",
-        "outcome": "Krawietz/Puetz",
-        "value": 1199.4,
-        "avgPrice": 0.65,
-        "slug": "atp-doubles-krawpue-cashgla-2026-09-08"
-      },
       "0x65df7653a01459206f595743bde90151fa42cc8af9926acf9b3909d764850876|Jack Draper": {
         "title": "Mubadala Citi DC Open: Alex Michelsen vs Jack Draper",
         "outcome": "Jack Draper",
@@ -308,13 +140,6 @@
         "value": 1156.9,
         "avgPrice": 0.85,
         "slug": "atp-habi-weightm-2026-08-16"
-      },
-      "0x8f5c1071797e554e634cb3faf86c4b0f643303d7e9d5c608cb10b163c7aebfec|St. Louis Cardinals": {
-        "title": "St. Louis Cardinals vs. San Francisco Giants",
-        "outcome": "St. Louis Cardinals",
-        "value": 1156.8035,
-        "avgPrice": 0.4999,
-        "slug": "mlb-stl-sf-2026-09-08"
       },
       "0xac7ade8bec3790e4393ad4655206ddd05a1f8fce9a2570df69a10bcdce04f1a1|Toby Samuel": {
         "title": "Cincinnati Open, Qualification: J.J. Wolf vs Toby Samuel",
@@ -337,13 +162,6 @@
         "avgPrice": 0.55,
         "slug": "atp-munar-blockx-2026-08-04"
       },
-      "0x370cabee9ffe8ba94ebf9373ae444e39012f1ba4f01d93e4e8aaccaa18a640c9|Under": {
-        "title": "Toronto Blue Jays vs. Athletics: O/U 9.5",
-        "outcome": "Under",
-        "value": 1090.2658,
-        "avgPrice": 0.5199,
-        "slug": "mlb-tor-oak-2026-09-08-total-9pt5"
-      },
       "0xd5775d8d33445e6f5c14b584c0f54535d4b2255b8cdfa9b69697f86969327718|Svyatoslav Gulin": {
         "title": "Prague: Marek Gengel vs Svyatoslav Gulin",
         "outcome": "Svyatoslav Gulin",
@@ -357,48 +175,6 @@
         "value": 1056.33,
         "avgPrice": 0.73,
         "slug": "itf-daems-granweh-2026-07-23"
-      },
-      "0x66a40873fe305b452b562efc98c31e9b6a3c22e3640d00deb625d70ccbc42956|Under": {
-        "title": "Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5",
-        "outcome": "Under",
-        "value": 1000.5,
-        "avgPrice": 0.5,
-        "slug": "mlb-pit-cws-2026-09-08-total-8pt5"
-      },
-      "0xf8b4b90286c7791a73b72db503ffde506b3f050ac2d1ad45621e171f35c55afe|Over": {
-        "title": "Pittsburgh Pirates vs. Chicago White Sox: O/U 13.5",
-        "outcome": "Over",
-        "value": 968.8176,
-        "avgPrice": 0.4504,
-        "slug": "mlb-pit-cws-2026-09-08-total-13pt5"
-      },
-      "0xe49e3f1af1a8ef54db70617a2dcb044e711e596248b5d98e7969de77e666088b|Miami Marlins": {
-        "title": "Spread: New York Mets (-2.5)",
-        "outcome": "Miami Marlins",
-        "value": 965.6367,
-        "avgPrice": 0.53,
-        "slug": "mlb-nym-mia-2026-09-08-spread-away-2pt5"
-      },
-      "0x455d2909af9f736109792ff6170748dd1c715732a51e8d3922d204e07008aeea|Krajicek/Mektic": {
-        "title": "US Open ATP (Doubles): Bolelli/Vavassori vs Krajicek/Mektic",
-        "outcome": "Krajicek/Mektic",
-        "value": 942.379,
-        "avgPrice": 0.5258,
-        "slug": "atp-doubles-bolevav-krajmek-2026-09-08"
-      },
-      "0x90884ad459c7fac2e3a6ba9591c7e2f7975577d094c3f6a6b72b2d23f78d4cb8|No": {
-        "title": "Will CA Platense win on 2026-09-08?",
-        "outcome": "No",
-        "value": 932.1836,
-        "avgPrice": 0.9612,
-        "slug": "lib-flu-cp-2026-09-08-cp"
-      },
-      "0x813f9ff9d7d140052361d8cc1c82a151728ccc83f794558461f2ad06a664a186|Under": {
-        "title": "Fluminense FC vs. CA Platense: O/U 2.5",
-        "outcome": "Under",
-        "value": 906.3523,
-        "avgPrice": 0.4461,
-        "slug": "lib-flu-cp-2026-09-08-total-2pt5"
       },
       "0xd41e70b42d2326b8007a170887b69f84f815ae7d2bd03e1eadbcd0487870a988|No": {
         "title": "Will FC Cincinnati win on 2026-09-05?",
@@ -414,13 +190,6 @@
         "avgPrice": 0.5688,
         "slug": "kbo-doo-kt-2026-07-21"
       },
-      "0xdc370ca5499cf6ab3b48b83bffd78da9280fe73dc5ab404ed4effb177ffa911f|Miami Marlins": {
-        "title": "Spread: New York Mets (-1.5)",
-        "outcome": "Miami Marlins",
-        "value": 737.6703,
-        "avgPrice": 0.4104,
-        "slug": "mlb-nym-mia-2026-09-08-spread-away-1pt5"
-      },
       "0x84ed0eea4e7c92fd0f3d9134c955584a7ebfdaef14283892b47513d4b77a568d|Alexandre Reco": {
         "title": "ITF Rognac: Loic Namigandet Tenguere vs Alexandre Reco",
         "outcome": "Alexandre Reco",
@@ -428,19 +197,19 @@
         "avgPrice": 0.6982,
         "slug": "itf-tenguer-reco-2026-07-23"
       },
-      "0x333db46a92e436b0590a90c47ca3f81b20ec898078589795c32b8bb5e393f725|Yes": {
-        "title": "Will Fluminense FC win on 2026-09-08?",
-        "outcome": "Yes",
-        "value": 726.2367,
-        "avgPrice": 0.9502,
-        "slug": "lib-flu-cp-2026-09-08-flu"
-      },
       "0xd73b81755d573d5abb591ab049ef6a5c535833296e8b1d3573558b6d12d686fe|Yes": {
         "title": "Will Vancouver Whitecaps FC win on 2026-07-16?",
         "outcome": "Yes",
-        "value": 720.4857,
+        "value": 731.4021,
         "avgPrice": 0.3949,
         "slug": "mls-chi-vwh-2026-07-16-vwh"
+      },
+      "0x0ec91795ffa9285e32d0927d44017fb6b247da888bd42ebf33ede4d2e18856e5|Under": {
+        "title": "Games Total: O/U 2.5",
+        "outcome": "Under",
+        "value": 730.7655,
+        "avgPrice": 0.4316,
+        "slug": "cs2-5s-mglz-2026-09-08-total-games-2pt5"
       },
       "0xe3c90c8836bbdcb619f6b749e7095458baca9be96cc81f125568bea771336207|Sobolieva": {
         "title": "Set 1 Winner: Samson vs Sobolieva",
@@ -448,34 +217,6 @@
         "value": 647.4618,
         "avgPrice": 0.5179,
         "slug": "wta-samson-sobolie-2026-07-29-first-set-winner-Samson-vs-Sobolieva"
-      },
-      "0x06eed80c966abf016bcf6d67cbbe0afc09d33306be810c59b42047d024dd5c73|KaBuM! Ilha das Lendas": {
-        "title": "LoL: Vivo Keyd Stars Academy vs KaBuM! Ilha das Lendas (BO5) - Circuito Desafiante Playoffs",
-        "outcome": "KaBuM! Ilha das Lendas",
-        "value": 606.7987,
-        "avgPrice": 0.6606,
-        "slug": "lol-vksa-kbm-2026-09-08"
-      },
-      "0x5a3fb5c86c2bb472c8c2af58fddb95438f1dda861a2fc5f43467f96a1083d1e8|No": {
-        "title": "Will CR Vasco da Gama win on 2026-09-08?",
-        "outcome": "No",
-        "value": 594.6325,
-        "avgPrice": 0.8055,
-        "slug": "sud-san1-vas-2026-09-08-vas"
-      },
-      "0x2b3db8eabcb66fa820a4f487f2c5ad7af2447bd36f89471f9f8b1a1383e1808d|Chicago Cubs": {
-        "title": "Chicago Cubs vs. Milwaukee Brewers",
-        "outcome": "Chicago Cubs",
-        "value": 551.1602,
-        "avgPrice": 0.36,
-        "slug": "mlb-chc-mil-2026-09-08"
-      },
-      "0xf8b4b90286c7791a73b72db503ffde506b3f050ac2d1ad45621e171f35c55afe|Under": {
-        "title": "Pittsburgh Pirates vs. Chicago White Sox: O/U 13.5",
-        "outcome": "Under",
-        "value": 521.0196,
-        "avgPrice": 0.48,
-        "slug": "mlb-pit-cws-2026-09-08-total-13pt5"
       },
       "0xcba78f02cd07d809471ee9b21813b430d360262db259917a6709806d69e159ea|Dzumhur": {
         "title": "Set 1 Winner: Gaston vs Dzumhur",
@@ -486,82 +227,75 @@
       }
     },
     "#2 RN1": {
-      "0xd2c4d57bce81d654297cc7a0ec33f50ff71ff53c1b667491252b45e32a3531e9|Sara Sorribes Tormo": {
-        "title": "Barranquilla: Cadence Brace vs Sara Sorribes Tormo",
-        "outcome": "Sara Sorribes Tormo",
-        "value": 79910.3212,
-        "avgPrice": 0.5639,
-        "slug": "wta-brace-tormo-2026-09-08"
+      "0x1e93e33beecbd9ae3dbe35a7c263b5d1a6d81084f6eed57e16b7fba56821ea1b|Ben Shelton": {
+        "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
+        "outcome": "Ben Shelton",
+        "value": 45166.0008,
+        "avgPrice": 0.2782,
+        "slug": "atp-shelton-alcaraz-2026-09-08"
       },
-      "0xe2de941b5d68bac3258448390f94846bc015ff9273fd25abdf6f73b0fd0e47ba|Emma Navarro": {
-        "title": "US Open WTA: Jessica Pegula vs Emma Navarro",
-        "outcome": "Emma Navarro",
-        "value": 8895.051,
-        "avgPrice": 0.2523,
-        "slug": "wta-pegula-navarro-2026-09-08"
+      "0x1e93e33beecbd9ae3dbe35a7c263b5d1a6d81084f6eed57e16b7fba56821ea1b|Carlos Alcaraz": {
+        "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
+        "outcome": "Carlos Alcaraz",
+        "value": 24442.2033,
+        "avgPrice": 0.7001,
+        "slug": "atp-shelton-alcaraz-2026-09-08"
       },
-      "0x7f0020b6597c21b10785c3f15c0a744e323267d0a20a3e9fd775b146337f8e26|No": {
-        "title": "Will Independiente Santa Fe win on 2026-09-08?",
-        "outcome": "No",
-        "value": 7536.1508,
-        "avgPrice": 0.6792,
-        "slug": "sud-san1-vas-2026-09-08-san1"
+      "0x1e0931e2291de74c3250e87e9572ec14d51430ecaf5ff7a83b3ce82bc99ea46e|5star": {
+        "title": "Counter-Strike: 5star vs TheMongolz - Map 2 Winner",
+        "outcome": "5star",
+        "value": 15602.0454,
+        "avgPrice": 0.4453,
+        "slug": "cs2-5s-mglz-2026-09-08-game2"
       },
-      "0xe93cd5b688ab389c61ce1ec88a5cc1874e2b7b8e0f4dd4277e216bbe83c0ba35|Emiliana Arango": {
-        "title": "Barranquilla: Emiliana Arango vs Maria Paulina Perez",
-        "outcome": "Emiliana Arango",
-        "value": 7298.643,
-        "avgPrice": 0.951,
-        "slug": "wta-arango-pe-2026-09-08"
+      "0xb0e18b89ed798235acb695d9203bd8bde35047067d2809e02a7bcb5a547fdca5|5star": {
+        "title": "Counter-Strike: 5star vs TheMongolz (BO3) - FISSURE PLAYGROUND Group A",
+        "outcome": "5star",
+        "value": 15490.4987,
+        "avgPrice": 0.5814,
+        "slug": "cs2-5s-mglz-2026-09-08"
       },
-      "0x4288b313880cfb27c1704056b2cbbfa6a27be249a5ba7884a492df3f90142bb2|No": {
-        "title": "Will Crici\u00fama EC win on 2026-09-08?",
-        "outcome": "No",
-        "value": 7193.25,
-        "avgPrice": 0.5899,
-        "slug": "bra2-cri-juv-2026-09-08-cri"
+      "0x2567ba63e6dfc75ad8f6425206dd3cc23b0087dbcac41e9e479e740254b887e0|magic": {
+        "title": "Counter-Strike: magic vs FaZe (BO3) - FISSURE PLAYGROUND Group B",
+        "outcome": "magic",
+        "value": 13815.5789,
+        "avgPrice": 0.4486,
+        "slug": "cs2-mgc-faze-2026-09-08"
       },
-      "0x5569205d75f63531a04ca9f98fce0d8dd89d73ef71b7bdef422a9680034f5576|Julia Riera": {
-        "title": "Barranquilla: Dominika Salkova vs Julia Riera",
-        "outcome": "Julia Riera",
-        "value": 5694.515,
-        "avgPrice": 0.4148,
-        "slug": "wta-salkova-riera-2026-09-08"
+      "0x2567ba63e6dfc75ad8f6425206dd3cc23b0087dbcac41e9e479e740254b887e0|FaZe": {
+        "title": "Counter-Strike: magic vs FaZe (BO3) - FISSURE PLAYGROUND Group B",
+        "outcome": "FaZe",
+        "value": 12047.3461,
+        "avgPrice": 0.5511,
+        "slug": "cs2-mgc-faze-2026-09-08"
       },
-      "0x5a3fb5c86c2bb472c8c2af58fddb95438f1dda861a2fc5f43467f96a1083d1e8|No": {
-        "title": "Will CR Vasco da Gama win on 2026-09-08?",
-        "outcome": "No",
-        "value": 4694.1457,
-        "avgPrice": 0.8111,
-        "slug": "sud-san1-vas-2026-09-08-vas"
+      "0x50b313bc4ee8a3c1642ba164c49d094754073f6781834e4faaed1cbb7ed4f609|magic": {
+        "title": "Map Handicap: FaZe (-1.5) vs magic (+1.5)",
+        "outcome": "magic",
+        "value": 8037.6686,
+        "avgPrice": 0.6724,
+        "slug": "cs2-mgc-faze-2026-09-08-map-handicap-home-1pt5"
       },
-      "0x813f9ff9d7d140052361d8cc1c82a151728ccc83f794558461f2ad06a664a186|Under": {
-        "title": "Fluminense FC vs. CA Platense: O/U 2.5",
+      "0xb7f29ae5ef72f196dc37c39de226f3cc087dbda75ab680f7d4c97e2de93ff15f|5star": {
+        "title": "Map Handicap: MGLZ (-1.5) vs 5star (+1.5)",
+        "outcome": "5star",
+        "value": 7347.4346,
+        "avgPrice": 0.6606,
+        "slug": "cs2-5s-mglz-2026-09-08-map-handicap-home-1pt5"
+      },
+      "0x19aeef52a3b06916ae0ba1ad13dd9628c4291dd6981be2f1a8741416c649505a|FaZe": {
+        "title": "Counter-Strike: magic vs FaZe - Map 2 Winner",
+        "outcome": "FaZe",
+        "value": 4038.5813,
+        "avgPrice": 0.6448,
+        "slug": "cs2-mgc-faze-2026-09-08-game2"
+      },
+      "0x0ec91795ffa9285e32d0927d44017fb6b247da888bd42ebf33ede4d2e18856e5|Under": {
+        "title": "Games Total: O/U 2.5",
         "outcome": "Under",
-        "value": 4487.3495,
-        "avgPrice": 0.6665,
-        "slug": "lib-flu-cp-2026-09-08-total-2pt5"
-      },
-      "0x90884ad459c7fac2e3a6ba9591c7e2f7975577d094c3f6a6b72b2d23f78d4cb8|No": {
-        "title": "Will CA Platense win on 2026-09-08?",
-        "outcome": "No",
-        "value": 3241.0453,
-        "avgPrice": 0.8858,
-        "slug": "lib-flu-cp-2026-09-08-cp"
-      },
-      "0xe2de941b5d68bac3258448390f94846bc015ff9273fd25abdf6f73b0fd0e47ba|Jessica Pegula": {
-        "title": "US Open WTA: Jessica Pegula vs Emma Navarro",
-        "outcome": "Jessica Pegula",
-        "value": 3044.825,
-        "avgPrice": 0.59,
-        "slug": "wta-pegula-navarro-2026-09-08"
-      },
-      "0x70049637a850fc6d5526146272ffa628090a97aa7d644d83fddac7204f28a653|Yes": {
-        "title": "Will CA Boca Juniors win on 2026-09-08?",
-        "outcome": "Yes",
-        "value": 2631.1208,
-        "avgPrice": 0.5168,
-        "slug": "sud-boc-sao-2026-09-08-boc"
+        "value": 3440.0551,
+        "avgPrice": 0.5473,
+        "slug": "cs2-5s-mglz-2026-09-08-total-games-2pt5"
       },
       "0xaedb6667cf88cade0903baee5d5f14180e0cb4c35cfb1c8c05d5f91af051ba5b|Alexander Blockx": {
         "title": "National Bank Open: Jaume Munar vs Alexander Blockx",
@@ -577,40 +311,26 @@
         "avgPrice": 0.5945,
         "slug": "itf-bednar-laz-2026-09-06"
       },
-      "0xb146e7b84b9876df233c2fe596dab248065e6d3e0fb077396f584d3a2ee94862|Under": {
-        "title": "Independiente Santa Fe vs. CR Vasco da Gama: O/U 2.5",
-        "outcome": "Under",
-        "value": 1644.9171,
-        "avgPrice": 0.6945,
-        "slug": "sud-san1-vas-2026-09-08-total-2pt5"
+      "0x3b673757c7907872a209968130d23f5f5277926617bdad2d4768f5a943e09f21|Xinxin Yao": {
+        "title": "W50 Guiyang: Sara Saito vs Xinxin Yao",
+        "outcome": "Xinxin Yao",
+        "value": 1734.8464,
+        "avgPrice": 0.9268,
+        "slug": "itf-saito1-yao1-2026-09-09"
       },
-      "0x1445585b47160964305c6f5d07386eb8a30b0f04ab396bd36de88e571b5a9594|No": {
-        "title": "Exact Score: Independiente Santa Fe 2 - 2 CR Vasco da Gama?",
-        "outcome": "No",
-        "value": 1534.2325,
-        "avgPrice": 0.992,
-        "slug": "sud-san1-vas-2026-09-08-exact-score-2-2"
+      "0x9468ec438d720f1a652f010d284ba9d3b1b5f02f899146dc7630581ca3ce105e|Isaac Becroft": {
+        "title": "M15 Bali: Anthony Susanto vs Isaac Becroft",
+        "outcome": "Isaac Becroft",
+        "value": 1236.125,
+        "avgPrice": 0.7924,
+        "slug": "itf-susant1-becrof1-2026-09-09"
       },
-      "0x3670b299a2854342baa2de2dd89cce706ac76434a5669464d55e2b3dd21d2d51|No": {
-        "title": "Exact Score: Fluminense FC 3 - 2 CA Platense?",
-        "outcome": "No",
-        "value": 1429.285,
-        "avgPrice": 0.993,
-        "slug": "lib-flu-cp-2026-09-08-exact-score-3-2"
-      },
-      "0x068961269a84a15d565be8dc3523215d94f59f5cfcfce9b51c51dfd6690a3d25|No": {
-        "title": "Will EC Juventude win on 2026-09-08?",
-        "outcome": "No",
-        "value": 1131.867,
-        "avgPrice": 0.7539,
-        "slug": "bra2-cri-juv-2026-09-08-juv"
-      },
-      "0x059e06017a2204453fb907e6b24f7332e9908df8edcd5c9ab23f12d53826bbc1|Under": {
-        "title": "Fluminense FC vs. CA Platense: O/U 3.5",
-        "outcome": "Under",
-        "value": 922.9383,
-        "avgPrice": 0.9,
-        "slug": "lib-flu-cp-2026-09-08-total-3pt5"
+      "0x45869f7843c341f07a00f1767cfa5fab4ea76e7590faaf2d625d3c0c09dfb5dd|Krittin Koaykul": {
+        "title": "M15 Nonthaburi: Vadym Konovchuk vs Krittin Koaykul",
+        "outcome": "Krittin Koaykul",
+        "value": 987.336,
+        "avgPrice": 0.49,
+        "slug": "itf-konovc1-koayku1-2026-09-09"
       },
       "0xc2930df535462409523c4330b7bea5eca23e7b3d0df4bf36db15c9c3c73f7bd0|Jack Draper": {
         "title": "Lexus Eastbourne Open: Brandon Nakashima vs Jack Draper",
@@ -618,13 +338,6 @@
         "value": 891.1234,
         "avgPrice": 0.44,
         "slug": "atp-nakashi-draper-2026-06-22"
-      },
-      "0xb32395f06d0f425ca74fceb3d3730c786be45d111648b6be26eed47c47aab739|No": {
-        "title": "Exact Score: Independiente Santa Fe 1 - 1 CR Vasco da Gama?",
-        "outcome": "No",
-        "value": 860.5695,
-        "avgPrice": 0.91,
-        "slug": "sud-san1-vas-2026-09-08-exact-score-1-1"
       },
       "0xc133482d19ef3092d91c90c6e9261e8ffd141870608a3549bbffe31c6ac506f8|Lotte Giants": {
         "title": "KBO: LG Twins vs. Lotte Giants",
@@ -640,26 +353,19 @@
         "avgPrice": 0.49,
         "slug": "atp-bonzi-kwon-2026-08-20"
       },
-      "0x77a816c07468ad2e0fb46a19bc7e2ab29d55db5492ac8607231a7c679710b1ec|Under": {
-        "title": "Independiente Santa Fe vs. CR Vasco da Gama: O/U 0.5",
-        "outcome": "Under",
-        "value": 697.5221,
-        "avgPrice": 0.7268,
-        "slug": "sud-san1-vas-2026-09-08-total-0pt5"
-      },
-      "0x7b9ed9db546486ca00708c3719cdee31ee86383274f7c488f8beae5fd5543b75|Under": {
-        "title": "Independiente Santa Fe vs. CR Vasco da Gama: 1st Half O/U 0.5",
-        "outcome": "Under",
-        "value": 693.1541,
-        "avgPrice": 0.5555,
-        "slug": "sud-san1-vas-2026-09-08-first-half-total-0pt5"
-      },
       "0x6e52e45529e66a5422eb427624a7bff1a53071edeadecb098931575f4953b4bc|Tara Wurth": {
         "title": "Makarska: Rebecca Sramkova vs Tara Wurth",
         "outcome": "Tara Wurth",
         "value": 651.0698,
         "avgPrice": 0.22,
         "slug": "wta-sramkov-wurth-2026-06-03"
+      },
+      "0xb2314dd01149757051dd226c69c1a06b8964e96e8bd333708ae1bd79a7594c1c|Shaoyun Liu": {
+        "title": "M15 Wuning: Shaoyun Liu vs Shijie Chen",
+        "outcome": "Shaoyun Liu",
+        "value": 615.665,
+        "avgPrice": 0.7734,
+        "slug": "itf-liu3-chen4-2026-09-09"
       },
       "0xd5775d8d33445e6f5c14b584c0f54535d4b2255b8cdfa9b69697f86969327718|Svyatoslav Gulin": {
         "title": "Prague: Marek Gengel vs Svyatoslav Gulin",
@@ -668,12 +374,12 @@
         "avgPrice": 0.5,
         "slug": "atp-gengel-gulin-2026-08-16"
       },
-      "0xdf0491eba861fa54256666733275c800dcf14907acb6c25a884333ae53cf6d74|Over": {
-        "title": "Fluminense FC vs. CA Platense: 1st Half O/U 0.5",
-        "outcome": "Over",
-        "value": 549.725,
-        "avgPrice": 0.6,
-        "slug": "lib-flu-cp-2026-09-08-first-half-total-0pt5"
+      "0xbfc4cf71d8bc4cea2263b39547e6ed2beb7541b1c9933d22d940e69371841d4e|Thanapet Chanta": {
+        "title": "M15 Nonthaburi: ori Hillel vs Thanapet Chanta",
+        "outcome": "Thanapet Chanta",
+        "value": 532.5116,
+        "avgPrice": 0.979,
+        "slug": "itf-hillel1-chanta1-2026-09-09"
       },
       "0x2a6e431d9c6d91853bc9c1f345fa7498f615fba2e362644fbb7015f28e9da3db|Yes": {
         "title": "Will CA Penarol Montevideo win on 2026-08-08?",
@@ -681,50 +387,36 @@
         "value": 528.0,
         "avgPrice": 0.46,
         "slug": "uru1-tor-pen-2026-08-08-pen"
-      },
-      "0x62c971857c2a40d6d9c2e089954a17a4555ec9d762560f4c4c9555ea98a2f0a3|Independiente Santa Fe": {
-        "title": "Spread: CR Vasco da Gama (-1.5)",
-        "outcome": "Independiente Santa Fe",
-        "value": 512.5641,
-        "avgPrice": 0.961,
-        "slug": "sud-san1-vas-2026-09-08-spread-away-1pt5"
       }
     },
     "#3 2C": {
       "0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d|Yes": {
         "title": "2026 Balance of Power: D Senate, D House",
         "outcome": "Yes",
-        "value": 3090000.0,
+        "value": 3030000.0,
         "avgPrice": 0.5,
         "slug": "2026-balance-of-power-d-senate-d-house-949"
       },
       "0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d|No": {
         "title": "2026 Balance of Power: D Senate, D House",
         "outcome": "No",
-        "value": 2910000.0,
+        "value": 2970000.0,
         "avgPrice": 0.5,
         "slug": "2026-balance-of-power-d-senate-d-house-949"
       },
-      "0x5d4e820464e2c6e6b57db0b98500ec02a8495ceb9ecb7111dcddb67eaeec8b4c|New York Yankees": {
-        "title": "Colorado Rockies vs. New York Yankees",
-        "outcome": "New York Yankees",
-        "value": 1027107.4144,
-        "avgPrice": 0.8499,
-        "slug": "mlb-col-nyy-2026-09-08"
+      "0x1e93e33beecbd9ae3dbe35a7c263b5d1a6d81084f6eed57e16b7fba56821ea1b|Ben Shelton": {
+        "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
+        "outcome": "Ben Shelton",
+        "value": 56186.2307,
+        "avgPrice": 0.2694,
+        "slug": "atp-shelton-alcaraz-2026-09-08"
       },
       "0x1e93e33beecbd9ae3dbe35a7c263b5d1a6d81084f6eed57e16b7fba56821ea1b|Carlos Alcaraz": {
         "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
         "outcome": "Carlos Alcaraz",
-        "value": 239382.7285,
-        "avgPrice": 0.7699,
+        "value": 53292.3902,
+        "avgPrice": 0.7698,
         "slug": "atp-shelton-alcaraz-2026-09-08"
-      },
-      "0xe2de941b5d68bac3258448390f94846bc015ff9273fd25abdf6f73b0fd0e47ba|Emma Navarro": {
-        "title": "US Open WTA: Jessica Pegula vs Emma Navarro",
-        "outcome": "Emma Navarro",
-        "value": 23882.2245,
-        "avgPrice": 0.2293,
-        "slug": "wta-pegula-navarro-2026-09-08"
       },
       "0x2745c38ff0617cb345c1d2df19b4f74ea777508e07411e88eeb6ab3affcda2a2|No": {
         "title": "Will Bitcoin dip to $35,000 by December 31, 2026?",
@@ -732,13 +424,6 @@
         "value": 19095.9221,
         "avgPrice": 0.8499,
         "slug": "will-bitcoin-dip-to-35000-by-december-31-2026-744-877-748-219-467-465-646-211-122-947-537-552-555-361-972-954-635-887-657-996-643"
-      },
-      "0x4202d13b506e6364b8c0d3f194625a53f91c5216cb96d6e69b43c0ac7bcfc208|Navarro": {
-        "title": "Set Handicap: Pegula (-1.5) vs Navarro (+1.5)",
-        "outcome": "Navarro",
-        "value": 7925.807,
-        "avgPrice": 0.47,
-        "slug": "wta-pegula-navarro-2026-09-08-set-handicap-home-1pt5"
       },
       "0xf44cf137562b90cf6205e0b81a03aa63001c491e4d8f04c0098bfb9233f9d04f|No": {
         "title": "Will Philadelphia 76ers win the 2027 NBA Finals?",
@@ -775,19 +460,12 @@
         "avgPrice": 0.3599,
         "slug": "nfl-sea-kc-2026-08-29"
       },
-      "0x5d4e820464e2c6e6b57db0b98500ec02a8495ceb9ecb7111dcddb67eaeec8b4c|Colorado Rockies": {
-        "title": "Colorado Rockies vs. New York Yankees",
-        "outcome": "Colorado Rockies",
-        "value": 2569.7144,
-        "avgPrice": 0.2716,
-        "slug": "mlb-col-nyy-2026-09-08"
-      },
-      "0xd2c4d57bce81d654297cc7a0ec33f50ff71ff53c1b667491252b45e32a3531e9|Sara Sorribes Tormo": {
-        "title": "Barranquilla: Cadence Brace vs Sara Sorribes Tormo",
-        "outcome": "Sara Sorribes Tormo",
-        "value": 1363.188,
-        "avgPrice": 0.5399,
-        "slug": "wta-brace-tormo-2026-09-08"
+      "0x4486ab66922a2297110dc146118fa3b570902eb6e88604b160d346c840ea8b99|Shelton": {
+        "title": "Set Handicap: Alcaraz (-1.5) vs Shelton (+1.5)",
+        "outcome": "Shelton",
+        "value": 1137.9165,
+        "avgPrice": 0.3899,
+        "slug": "atp-shelton-alcaraz-2026-09-08-set-handicap-away-1pt5"
       },
       "0xb42e329506223bf4f83a16d9ff6ae5f587153aad6bce246d875b6c72574b87d1|Amritsar Soormas": {
         "title": "Sher-E-Punjab T20: Jalandhar Warriors vs Amritsar Soormas",
@@ -795,13 +473,6 @@
         "value": 982.1175,
         "avgPrice": 0.7076,
         "slug": "cricsherepunjab-jal-amr-2026-09-07"
-      },
-      "0x4486ab66922a2297110dc146118fa3b570902eb6e88604b160d346c840ea8b99|Shelton": {
-        "title": "Set Handicap: Alcaraz (-1.5) vs Shelton (+1.5)",
-        "outcome": "Shelton",
-        "value": 503.5607,
-        "avgPrice": 0.3899,
-        "slug": "atp-shelton-alcaraz-2026-09-08-set-handicap-away-1pt5"
       }
     },
     "#4 SwissTony": {
@@ -822,28 +493,28 @@
       "0xd73b81755d573d5abb591ab049ef6a5c535833296e8b1d3573558b6d12d686fe|Yes": {
         "title": "Will Vancouver Whitecaps FC win on 2026-07-16?",
         "outcome": "Yes",
-        "value": 2099.2464,
+        "value": 2131.0531,
         "avgPrice": 0.3858,
         "slug": "mls-chi-vwh-2026-07-16-vwh"
       },
       "0xa26b10762096ade1fc322372d963e41ae8d1a128cf7ac430ca269ebda3788335|No": {
         "title": "Exact Score: Chicago Fire FC 1 - 2 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 1619.5175,
+        "value": 1615.553,
         "avgPrice": 0.9087,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-1-2"
       },
       "0x7beb03b48f520e43ae2e217fefe3a48f6948018d3da07678e22708463789afa0|No": {
         "title": "Exact Score: Chicago Fire FC 3 - 2 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 1097.9616,
+        "value": 1094.2751,
         "avgPrice": 0.9583,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-3-2"
       },
       "0x2307c8dd123f120f7d8a890646229f3b0211e182534e925e9604942317b7eddd|No": {
         "title": "Exact Score: Chicago Fire FC 3 - 3 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 914.4636,
+        "value": 915.4251,
         "avgPrice": 0.9739,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-3-3"
       },
@@ -885,7 +556,7 @@
       "0x60d0badc8638ae1c41a4506c2205af08e0775b655c83d9abf34ba1a74da9b18c|No": {
         "title": "Exact Score: Chicago Fire FC 1 - 3 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 555.6403,
+        "value": 556.6089,
         "avgPrice": 0.9467,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-1-3"
       },
@@ -898,12 +569,12 @@
       }
     },
     "#5 HomeRunHazard": {
-      "0x133d61396fa67f82185dcb89d925a2fc37075468e635966a008329d36fa0b0ed|Kansas City Royals": {
-        "title": "Arizona Diamondbacks vs. Kansas City Royals",
-        "outcome": "Kansas City Royals",
-        "value": 26173.9535,
-        "avgPrice": 0.5251,
-        "slug": "mlb-ari-kc-2026-09-08"
+      "0x1e93e33beecbd9ae3dbe35a7c263b5d1a6d81084f6eed57e16b7fba56821ea1b|Ben Shelton": {
+        "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
+        "outcome": "Ben Shelton",
+        "value": 32166.2049,
+        "avgPrice": 0.3545,
+        "slug": "atp-shelton-alcaraz-2026-09-08"
       },
       "0xcd72444fe488504de8f14510eb0911541cf08d0d4b9c2476a75da719ccf89432|Patriots": {
         "title": "Spread: Seahawks (-6.5)",
@@ -912,222 +583,12 @@
         "avgPrice": 0.6,
         "slug": "nfl-ne-sea-2026-09-10-spread-home-6pt5"
       },
-      "0x25d4bf969682f9d8a583a83b365ce5bcc16c9ebb16026a481dd06fb8b8df934b|Tampa Bay Rays": {
-        "title": "Tampa Bay Rays vs. Atlanta Braves",
-        "outcome": "Tampa Bay Rays",
-        "value": 15689.1234,
-        "avgPrice": 0.4832,
-        "slug": "mlb-tb-atl-2026-09-08"
-      },
-      "0xaf575fb7c38a298b487f4c428873c5e39b6c3370a36b75bb876e50a2d6532b74|Colorado Rockies": {
-        "title": "Spread: New York Yankees (-2.5)",
-        "outcome": "Colorado Rockies",
-        "value": 14695.9444,
-        "avgPrice": 0.53,
-        "slug": "mlb-col-nyy-2026-09-08-spread-home-2pt5"
-      },
-      "0x7f260e0f53e63ad43f4208bf0e040ee4796da3ddd8633ae6470a21d031fa1a66|Detroit Tigers": {
-        "title": "Minnesota Twins vs. Detroit Tigers",
-        "outcome": "Detroit Tigers",
-        "value": 14119.9793,
-        "avgPrice": 0.5106,
-        "slug": "mlb-min-det-2026-09-08"
-      },
-      "0xd2c4d57bce81d654297cc7a0ec33f50ff71ff53c1b667491252b45e32a3531e9|Sara Sorribes Tormo": {
-        "title": "Barranquilla: Cadence Brace vs Sara Sorribes Tormo",
-        "outcome": "Sara Sorribes Tormo",
-        "value": 13685.3721,
-        "avgPrice": 0.5019,
-        "slug": "wta-brace-tormo-2026-09-08"
-      },
-      "0x98fc981a2e73bc0c041fa144bf828455a591ab550f7315a9d9672009fdc5b960|Houston Astros": {
-        "title": "Houston Astros vs. Philadelphia Phillies",
-        "outcome": "Houston Astros",
-        "value": 11784.0887,
-        "avgPrice": 0.4853,
-        "slug": "mlb-hou-phi-2026-09-08"
-      },
-      "0xdb45ffc102b9c7ee9e640ae7df5f25366e3bc637330306cf0d757eb194aa1094|Over": {
-        "title": "Minnesota Twins vs. Detroit Tigers: O/U 8.5",
-        "outcome": "Over",
-        "value": 11351.884,
-        "avgPrice": 0.4799,
-        "slug": "mlb-min-det-2026-09-08-total-8pt5"
-      },
-      "0x0628e036a9978511cbee58d68c8045f86d7ae0bb3be48bc75e15375dffc30085|Over": {
-        "title": "Minnesota Twins vs. Detroit Tigers: O/U 6.5",
-        "outcome": "Over",
-        "value": 11012.133,
-        "avgPrice": 0.9071,
-        "slug": "mlb-min-det-2026-09-08-total-6pt5"
-      },
-      "0x3615ade68c58bf9a4430cc1fe0d59d8b4619651774f8b3c40995d26fb8ac28ae|Under": {
-        "title": "Tampa Bay Rays vs. Atlanta Braves: O/U 8.5",
-        "outcome": "Under",
-        "value": 9906.7223,
-        "avgPrice": 0.4923,
-        "slug": "mlb-tb-atl-2026-09-08-total-8pt5"
-      },
-      "0x30c2b715442f316fbf76e5f1ad443e53c6502a36790c6993d231f5a0d2209ec9|Arizona Diamondbacks": {
-        "title": "Spread: Kansas City Royals (-1.5)",
-        "outcome": "Arizona Diamondbacks",
-        "value": 9374.0797,
-        "avgPrice": 0.65,
-        "slug": "mlb-ari-kc-2026-09-08-spread-home-1pt5"
-      },
-      "0xe1b994d41eb1b724445abb5a9f75fac66981d44191f87bdf4772877063ac6120|Cleveland Guardians": {
-        "title": "Cleveland Guardians vs. Baltimore Orioles",
-        "outcome": "Cleveland Guardians",
-        "value": 8766.3354,
-        "avgPrice": 0.6422,
-        "slug": "mlb-cle-bal-2026-09-08"
-      },
-      "0x7f260e0f53e63ad43f4208bf0e040ee4796da3ddd8633ae6470a21d031fa1a66|Minnesota Twins": {
-        "title": "Minnesota Twins vs. Detroit Tigers",
-        "outcome": "Minnesota Twins",
-        "value": 7984.624,
-        "avgPrice": 0.3879,
-        "slug": "mlb-min-det-2026-09-08"
-      },
-      "0x8ae42f3878c8064bb704d71ba9363966284b50fbc0d94edb508abd8fa0a5936c|Chicago Cubs": {
-        "title": "Spread: Milwaukee Brewers (-1.5)",
-        "outcome": "Chicago Cubs",
-        "value": 6646.4708,
-        "avgPrice": 0.5156,
-        "slug": "mlb-chc-mil-2026-09-08-spread-home-1pt5"
-      },
-      "0x76ea6a0ef33f01e218c508ae63a9c3c3460631536586f17435fd95340f3b4945|Toronto Blue Jays": {
-        "title": "Toronto Blue Jays vs. Athletics",
-        "outcome": "Toronto Blue Jays",
-        "value": 5857.3768,
-        "avgPrice": 0.62,
-        "slug": "mlb-tor-oak-2026-09-08"
-      },
-      "0x133d61396fa67f82185dcb89d925a2fc37075468e635966a008329d36fa0b0ed|Arizona Diamondbacks": {
-        "title": "Arizona Diamondbacks vs. Kansas City Royals",
-        "outcome": "Arizona Diamondbacks",
-        "value": 5846.5211,
-        "avgPrice": 0.5181,
-        "slug": "mlb-ari-kc-2026-09-08"
-      },
-      "0x17da33a2a73e4f377270d800eafdd11fe24ede3ec62ae1fd1a8092e164740ce5|Tampa Bay Rays": {
-        "title": "Spread: Atlanta Braves (-1.5)",
-        "outcome": "Tampa Bay Rays",
-        "value": 4934.1285,
-        "avgPrice": 0.6302,
-        "slug": "mlb-tb-atl-2026-09-08-spread-home-1pt5"
-      },
-      "0xcaa6e9a4e7150f93a1bc4479e27e8aa79b0973d5ec52fb3c40525e07b5fd34b8|Over": {
-        "title": "Minnesota Twins vs. Detroit Tigers: O/U 7.5",
-        "outcome": "Over",
-        "value": 4772.0722,
-        "avgPrice": 0.5569,
-        "slug": "mlb-min-det-2026-09-08-total-7pt5"
-      },
-      "0x7bc785d457c4b8407f0d396da341642c23e9fe3b9355a6f3b1c2a263855b3b30|Under": {
-        "title": "Chicago Cubs vs. Milwaukee Brewers: O/U 7.5",
-        "outcome": "Under",
-        "value": 4454.5504,
-        "avgPrice": 0.5203,
-        "slug": "mlb-chc-mil-2026-09-08-total-7pt5"
-      },
-      "0x39fa9b0fc6f41988d6a87e9d8215ba3119b4d806daa38c04fd6d920e050b55d0|Over": {
-        "title": "New York Mets vs. Miami Marlins: O/U 11.5",
-        "outcome": "Over",
-        "value": 4361.3037,
-        "avgPrice": 0.4841,
-        "slug": "mlb-nym-mia-2026-09-08-total-11pt5"
-      },
-      "0x57dd61041a19318dda117ff7614abe80585d1d2e7f237be2f56c64f8120867ca|Los Angeles Angels": {
-        "title": "Los Angeles Angels vs. Boston Red Sox",
-        "outcome": "Los Angeles Angels",
-        "value": 4181.3372,
-        "avgPrice": 0.7307,
-        "slug": "mlb-laa-bos-2026-09-08"
-      },
-      "0x2b3db8eabcb66fa820a4f487f2c5ad7af2447bd36f89471f9f8b1a1383e1808d|Chicago Cubs": {
-        "title": "Chicago Cubs vs. Milwaukee Brewers",
-        "outcome": "Chicago Cubs",
-        "value": 3692.8125,
-        "avgPrice": 0.4,
-        "slug": "mlb-chc-mil-2026-09-08"
-      },
-      "0x7ca10f693c5e77faeb57e2c5e2faec69c4dd6b581b594036e0405b5a119c55dc|New York Mets": {
-        "title": "New York Mets vs. Miami Marlins",
-        "outcome": "New York Mets",
-        "value": 3460.2827,
-        "avgPrice": 0.8032,
-        "slug": "mlb-nym-mia-2026-09-08"
-      },
-      "0xe1b994d41eb1b724445abb5a9f75fac66981d44191f87bdf4772877063ac6120|Baltimore Orioles": {
-        "title": "Cleveland Guardians vs. Baltimore Orioles",
-        "outcome": "Baltimore Orioles",
-        "value": 3009.6366,
-        "avgPrice": 0.0916,
-        "slug": "mlb-cle-bal-2026-09-08"
-      },
-      "0xe2de941b5d68bac3258448390f94846bc015ff9273fd25abdf6f73b0fd0e47ba|Emma Navarro": {
-        "title": "US Open WTA: Jessica Pegula vs Emma Navarro",
-        "outcome": "Emma Navarro",
-        "value": 2941.9013,
-        "avgPrice": 0.2837,
-        "slug": "wta-pegula-navarro-2026-09-08"
-      },
-      "0x370cabee9ffe8ba94ebf9373ae444e39012f1ba4f01d93e4e8aaccaa18a640c9|Under": {
-        "title": "Toronto Blue Jays vs. Athletics: O/U 9.5",
-        "outcome": "Under",
-        "value": 2884.0904,
-        "avgPrice": 0.5293,
-        "slug": "mlb-tor-oak-2026-09-08-total-9pt5"
-      },
-      "0x009b0f78f3604ae5ac4ff1b9fac7f45af2095c5588eed5e27eb609017c234a51|Over": {
-        "title": "Chicago Cubs vs. Milwaukee Brewers: O/U 8.5",
-        "outcome": "Over",
-        "value": 2785.02,
-        "avgPrice": 0.5,
-        "slug": "mlb-chc-mil-2026-09-08-total-8pt5"
-      },
-      "0x5d4e820464e2c6e6b57db0b98500ec02a8495ceb9ecb7111dcddb67eaeec8b4c|New York Yankees": {
-        "title": "Colorado Rockies vs. New York Yankees",
-        "outcome": "New York Yankees",
-        "value": 2776.846,
-        "avgPrice": 0.7721,
-        "slug": "mlb-col-nyy-2026-09-08"
-      },
-      "0x18accb4db484e274d1cbb1b8500da2b3e463371cbef7755447be033c079594fc|Houston Astros": {
-        "title": "Spread: Houston Astros (-2.5)",
-        "outcome": "Houston Astros",
-        "value": 2734.505,
-        "avgPrice": 0.5691,
-        "slug": "mlb-hou-phi-2026-09-08-spread-away-2pt5"
-      },
-      "0x7e706b11ce32a72f0dcfc45ed873bfb99a698751472416106489b365c672a375|Los Angeles Dodgers": {
-        "title": "Cincinnati Reds vs. Los Angeles Dodgers",
-        "outcome": "Los Angeles Dodgers",
-        "value": 2658.958,
-        "avgPrice": 0.7364,
-        "slug": "mlb-cin-lad-2026-09-08"
-      },
-      "0x98f8d500c8a8d4c8f360c1f13a5d79c803ba9fadf456972ee005043ca527cf2e|Under": {
-        "title": "Colorado Rockies vs. New York Yankees: O/U 7.5",
-        "outcome": "Under",
-        "value": 2634.8168,
-        "avgPrice": 0.4751,
-        "slug": "mlb-col-nyy-2026-09-08-total-7pt5"
-      },
-      "0xd0fb660aacc269fa23edce53bdca01c532980c70aa2025b190023fd74d0c7f9c|Kansas City Royals": {
-        "title": "Spread: Arizona Diamondbacks (-1.5)",
-        "outcome": "Kansas City Royals",
-        "value": 2231.4721,
-        "avgPrice": 0.6,
-        "slug": "mlb-ari-kc-2026-09-08-spread-away-1pt5"
-      },
-      "0xb089875db26af36779a84f9b352b11e9203cdd678220601533f2e73ce7dcfcdc|Under": {
-        "title": "Texas Rangers vs. Seattle Mariners: O/U 8.5",
-        "outcome": "Under",
-        "value": 2021.1574,
-        "avgPrice": 0.5586,
-        "slug": "mlb-tex-sea-2026-09-08-total-8pt5"
+      "0x1e93e33beecbd9ae3dbe35a7c263b5d1a6d81084f6eed57e16b7fba56821ea1b|Carlos Alcaraz": {
+        "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
+        "outcome": "Carlos Alcaraz",
+        "value": 4309.6059,
+        "avgPrice": 0.4113,
+        "slug": "atp-shelton-alcaraz-2026-09-08"
       },
       "0x7c51ca4fa62fa356430f6aaaad839888a475c9a791b089fb3e5c7717c6a39342|Barbora Palicova": {
         "title": "Makarska: Petra Marcinko vs Barbora Palicova",
@@ -1136,89 +597,12 @@
         "avgPrice": 0.3625,
         "slug": "wta-marcink-palicov-2026-06-04"
       },
-      "0x009b0f78f3604ae5ac4ff1b9fac7f45af2095c5588eed5e27eb609017c234a51|Under": {
-        "title": "Chicago Cubs vs. Milwaukee Brewers: O/U 8.5",
-        "outcome": "Under",
-        "value": 1817.8023,
-        "avgPrice": 0.5468,
-        "slug": "mlb-chc-mil-2026-09-08-total-8pt5"
-      },
-      "0x1be2edcc4e51c3dd5493abe7737bef359ba598fea02275d99498b86ae4771997|Washington Nationals": {
-        "title": "Washington Nationals vs. San Diego Padres",
-        "outcome": "Washington Nationals",
-        "value": 1740.7653,
-        "avgPrice": 0.36,
-        "slug": "mlb-wsh-sd-2026-09-08"
-      },
       "0xee5d05fdd0f8dd96299dd91d337a8ecbc7de0d5fe96d6d55f89059fb773233d0|49ers": {
         "title": "Spread: Rams (-3.5)",
         "outcome": "49ers",
         "value": 1740.3665,
         "avgPrice": 0.48,
         "slug": "nfl-sf-la-2026-09-11-spread-home-3pt5"
-      },
-      "0x7ca10f693c5e77faeb57e2c5e2faec69c4dd6b581b594036e0405b5a119c55dc|Miami Marlins": {
-        "title": "New York Mets vs. Miami Marlins",
-        "outcome": "Miami Marlins",
-        "value": 1728.7751,
-        "avgPrice": 0.1715,
-        "slug": "mlb-nym-mia-2026-09-08"
-      },
-      "0x66a40873fe305b452b562efc98c31e9b6a3c22e3640d00deb625d70ccbc42956|Under": {
-        "title": "Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5",
-        "outcome": "Under",
-        "value": 1663.9552,
-        "avgPrice": 0.5027,
-        "slug": "mlb-pit-cws-2026-09-08-total-8pt5"
-      },
-      "0x1a97f4fc74ba4ad3aa340a6d209b1d7ea56ab1521a6c6c0f0f5d67c60274725f|Over": {
-        "title": "Los Angeles Angels vs. Boston Red Sox: O/U 7.5",
-        "outcome": "Over",
-        "value": 1540.9476,
-        "avgPrice": 0.5068,
-        "slug": "mlb-laa-bos-2026-09-08-total-7pt5"
-      },
-      "0xc00ae388541f535f1759f5e886d25833c5e53ac16149324d600e2a9dcc452cf9|Over": {
-        "title": "Washington Nationals vs. San Diego Padres: O/U 7.5",
-        "outcome": "Over",
-        "value": 1533.5427,
-        "avgPrice": 0.5302,
-        "slug": "mlb-wsh-sd-2026-09-08-total-7pt5"
-      },
-      "0x5d4e820464e2c6e6b57db0b98500ec02a8495ceb9ecb7111dcddb67eaeec8b4c|Colorado Rockies": {
-        "title": "Colorado Rockies vs. New York Yankees",
-        "outcome": "Colorado Rockies",
-        "value": 1369.2959,
-        "avgPrice": 0.1601,
-        "slug": "mlb-col-nyy-2026-09-08"
-      },
-      "0xa3193901d374966bfd8d11d57949191e4b2b2d84043b7fbafe5df69ebf95d024|Under": {
-        "title": "St. Louis Cardinals vs. San Francisco Giants: O/U 9.5",
-        "outcome": "Under",
-        "value": 1351.8084,
-        "avgPrice": 0.6599,
-        "slug": "mlb-stl-sf-2026-09-08-total-9pt5"
-      },
-      "0xc96fcbc855fd5408aa9724437b97cb11d9c51536554a36e0ce9dcf5bb976732c|New York Yankees": {
-        "title": "Spread: New York Yankees (-1.5)",
-        "outcome": "New York Yankees",
-        "value": 1335.2117,
-        "avgPrice": 0.5134,
-        "slug": "mlb-col-nyy-2026-09-08-spread-home-1pt5"
-      },
-      "0xaa679ed1d6f07ffcaa516bd4095e064ead77e7d5eaf93d53343daf05e1396004|Under": {
-        "title": "New York Mets vs. Miami Marlins: O/U 12.5",
-        "outcome": "Under",
-        "value": 1254.3088,
-        "avgPrice": 0.49,
-        "slug": "mlb-nym-mia-2026-09-08-total-12pt5"
-      },
-      "0xb76983195d969241ee6614fcd6828a477c258b819bc071157d73cb049f85c6f0|Over": {
-        "title": "Houston Astros vs. Philadelphia Phillies: O/U 9.5",
-        "outcome": "Over",
-        "value": 1252.6003,
-        "avgPrice": 0.5294,
-        "slug": "mlb-hou-phi-2026-09-08-total-9pt5"
       },
       "0x873c16717fef843256324ffd5d8b6a5f6745bc0c67f3ea412cd66682af7810b8|Under": {
         "title": "Masarova vs. Ryser: Match O/U 23.5",
@@ -1227,47 +611,12 @@
         "avgPrice": 0.6104,
         "slug": "wta-masarov-ryser-2026-07-18-match-total-23pt5"
       },
-      "0x2b3db8eabcb66fa820a4f487f2c5ad7af2447bd36f89471f9f8b1a1383e1808d|Milwaukee Brewers": {
-        "title": "Chicago Cubs vs. Milwaukee Brewers",
-        "outcome": "Milwaukee Brewers",
-        "value": 1214.7983,
-        "avgPrice": 0.6859,
-        "slug": "mlb-chc-mil-2026-09-08"
-      },
-      "0x091c58b16a6870a376aeb0b0f7f4a249ff3b7788c4ff93029d2aeee654d37d26|Cincinnati Reds": {
-        "title": "Spread: Los Angeles Dodgers (-2.5)",
-        "outcome": "Cincinnati Reds",
-        "value": 1199.3895,
-        "avgPrice": 0.5499,
-        "slug": "mlb-cin-lad-2026-09-08-spread-home-2pt5"
-      },
-      "0x8f5c1071797e554e634cb3faf86c4b0f643303d7e9d5c608cb10b163c7aebfec|San Francisco Giants": {
-        "title": "St. Louis Cardinals vs. San Francisco Giants",
-        "outcome": "San Francisco Giants",
-        "value": 1162.26,
-        "avgPrice": 0.5,
-        "slug": "mlb-stl-sf-2026-09-08"
-      },
       "0x4fd331c2bc23e1d253a2dc5559d628fb1e81062029f9f4c5ee9da3870d9337e9|Over": {
         "title": "Iowa State vs. Iowa: O/U 40.5",
         "outcome": "Over",
         "value": 1126.6162,
         "avgPrice": 0.4799,
         "slug": "cfb-iowast-iowa-2026-09-12-total-40pt5"
-      },
-      "0x98fc981a2e73bc0c041fa144bf828455a591ab550f7315a9d9672009fdc5b960|Philadelphia Phillies": {
-        "title": "Houston Astros vs. Philadelphia Phillies",
-        "outcome": "Philadelphia Phillies",
-        "value": 1123.9415,
-        "avgPrice": 0.4599,
-        "slug": "mlb-hou-phi-2026-09-08"
-      },
-      "0x7e859bbfb0fa20dfd06b1953bd7e903369454436f2274b3974b180a5bb0881aa|Over": {
-        "title": "Tampa Bay Rays vs. Atlanta Braves: O/U 9.5",
-        "outcome": "Over",
-        "value": 1111.3955,
-        "avgPrice": 0.3799,
-        "slug": "mlb-tb-atl-2026-09-08-total-9pt5"
       },
       "0x8ffd5b9a6b3be963af98b219e94a30adf690636c83a7249cdef0a7fae416032a|Over": {
         "title": "Rice vs. Notre Dame: O/U 54.5",
@@ -1276,68 +625,12 @@
         "avgPrice": 0.5299,
         "slug": "cfb-rice-nd-2026-09-12-total-54pt5"
       },
-      "0xcaa6e9a4e7150f93a1bc4479e27e8aa79b0973d5ec52fb3c40525e07b5fd34b8|Under": {
-        "title": "Minnesota Twins vs. Detroit Tigers: O/U 7.5",
-        "outcome": "Under",
-        "value": 1068.5951,
-        "avgPrice": 0.5855,
-        "slug": "mlb-min-det-2026-09-08-total-7pt5"
-      },
-      "0x5b0c178c43902d6408b27817b5cf0d4985238b20376f77ae7c09eba0ad254956|Minnesota Twins": {
-        "title": "Spread: Detroit Tigers (-1.5)",
-        "outcome": "Minnesota Twins",
-        "value": 1058.25,
-        "avgPrice": 0.7703,
-        "slug": "mlb-min-det-2026-09-08-spread-home-1pt5"
-      },
-      "0xb537f2c78658746d3308578ee14fc4703efff37b94c90035c9ccf14eba7e8ec5|Chicago White Sox": {
-        "title": "Pittsburgh Pirates vs. Chicago White Sox",
-        "outcome": "Chicago White Sox",
-        "value": 1002.1187,
-        "avgPrice": 0.2779,
-        "slug": "mlb-pit-cws-2026-09-08"
-      },
-      "0xebce93fdd29fbeb03ca74024f4fd7e9b99dea7d4c71b5bd48ada86bd0e1842f2|Over": {
-        "title": "Colorado Rockies vs. New York Yankees: O/U 5.5",
-        "outcome": "Over",
-        "value": 990.196,
-        "avgPrice": 0.49,
-        "slug": "mlb-col-nyy-2026-09-08-total-5pt5"
-      },
-      "0xb089875db26af36779a84f9b352b11e9203cdd678220601533f2e73ce7dcfcdc|Over": {
-        "title": "Texas Rangers vs. Seattle Mariners: O/U 8.5",
-        "outcome": "Over",
-        "value": 957.268,
-        "avgPrice": 0.45,
-        "slug": "mlb-tex-sea-2026-09-08-total-8pt5"
-      },
       "0x097191d685fe440b361468cc28142d77cd880c0fd0f37f5bce001f650797efef|Under": {
         "title": "Rice vs. Notre Dame: O/U 55.5",
         "outcome": "Under",
         "value": 950.0,
         "avgPrice": 0.5,
         "slug": "cfb-rice-nd-2026-09-12-total-55pt5"
-      },
-      "0x8f5c1071797e554e634cb3faf86c4b0f643303d7e9d5c608cb10b163c7aebfec|St. Louis Cardinals": {
-        "title": "St. Louis Cardinals vs. San Francisco Giants",
-        "outcome": "St. Louis Cardinals",
-        "value": 940.2292,
-        "avgPrice": 0.48,
-        "slug": "mlb-stl-sf-2026-09-08"
-      },
-      "0x742c00e64299d2832ba5a6f144b6c3c1d434b4809926b1f687b450906cc2fbb8|Over": {
-        "title": "Houston Astros vs. Philadelphia Phillies: O/U 8.5",
-        "outcome": "Over",
-        "value": 924.2506,
-        "avgPrice": 0.51,
-        "slug": "mlb-hou-phi-2026-09-08-total-8pt5"
-      },
-      "0x2f4d5a1863afad7188e242776ada8df53525dc826fbee8528a22e24c2609bc92|Under": {
-        "title": "Los Angeles Angels vs. Boston Red Sox: O/U 8.5",
-        "outcome": "Under",
-        "value": 861.585,
-        "avgPrice": 0.5711,
-        "slug": "mlb-laa-bos-2026-09-08-total-8pt5"
       },
       "0xff5a48be6be13d0494d9fc841a0bec51238e23628dedeb1351ae33ee3d148c1c|Over": {
         "title": "Iowa State vs. Iowa: O/U 42.5",
@@ -1353,26 +646,12 @@
         "avgPrice": 0.57,
         "slug": "atp-michels-gea-2026-07-20-match-total-23pt5"
       },
-      "0xf8b4b90286c7791a73b72db503ffde506b3f050ac2d1ad45621e171f35c55afe|Under": {
-        "title": "Pittsburgh Pirates vs. Chicago White Sox: O/U 13.5",
-        "outcome": "Under",
-        "value": 825.0,
-        "avgPrice": 0.4,
-        "slug": "mlb-pit-cws-2026-09-08-total-13pt5"
-      },
       "0xf9df6562255ab6ff931882801150ec7e5e0d5ed5b08073273d5f1cd08fd41cec|Patriots": {
         "title": "Spread: Seahawks (-4.5)",
         "outcome": "Patriots",
         "value": 791.661,
         "avgPrice": 0.55,
         "slug": "nfl-ne-sea-2026-09-10-spread-home-4pt5"
-      },
-      "0xb537f2c78658746d3308578ee14fc4703efff37b94c90035c9ccf14eba7e8ec5|Pittsburgh Pirates": {
-        "title": "Pittsburgh Pirates vs. Chicago White Sox",
-        "outcome": "Pittsburgh Pirates",
-        "value": 774.9,
-        "avgPrice": 0.4561,
-        "slug": "mlb-pit-cws-2026-09-08"
       },
       "0x2a34443a75f390096ef5f57be03574c54b878b250e2facd56ab6d192035a8350|Kia Tigers": {
         "title": "KBO: SSG Landers vs. Kia Tigers",
@@ -1395,33 +674,12 @@
         "avgPrice": 0.5187,
         "slug": "cfb-emich-mst-2026-09-12-total-50pt5"
       },
-      "0x73c20f2730dc9c07d7378bbee6b5efcda349bd4850735deacccdee4b081d44ad|Pittsburgh Pirates": {
-        "title": "Spread: Chicago White Sox (-1.5)",
-        "outcome": "Pittsburgh Pirates",
-        "value": 673.4975,
-        "avgPrice": 0.6,
-        "slug": "mlb-pit-cws-2026-09-08-spread-home-1pt5"
-      },
-      "0x3efba24b2a07a640d2678f37d2be5effd657137f17ef9b120668f17d033b9c61|Under": {
-        "title": "Chicago Cubs vs. Milwaukee Brewers: O/U 6.5",
-        "outcome": "Under",
-        "value": 664.81,
-        "avgPrice": 0.3156,
-        "slug": "mlb-chc-mil-2026-09-08-total-6pt5"
-      },
-      "0x4daf7fbffa67b8d94f7173669e4fd33af466b0a7880b1872838f11fd3bfbab1d|Baltimore Orioles": {
-        "title": "Spread: Cleveland Guardians (-1.5)",
-        "outcome": "Baltimore Orioles",
-        "value": 645.6677,
-        "avgPrice": 0.6173,
-        "slug": "mlb-cle-bal-2026-09-08-spread-away-1pt5"
-      },
-      "0x1ef0e650d87c87e45e9ce83703a3c2153dacb88d99800954645f443ea0a4a826|Under": {
-        "title": "Texas Rangers vs. Seattle Mariners: O/U 7.5",
-        "outcome": "Under",
-        "value": 645.2385,
-        "avgPrice": 0.479,
-        "slug": "mlb-tex-sea-2026-09-08-total-7pt5"
+      "0x5fb0ba28b88fecf76507977fc2d4a7682b0deb823fc4d35760466759e49ef302|Over": {
+        "title": "Shelton vs. Alcaraz: Match O/U 40.5",
+        "outcome": "Over",
+        "value": 632.5037,
+        "avgPrice": 0.4705,
+        "slug": "atp-shelton-alcaraz-2026-09-08-match-total-40pt5"
       },
       "0x48a439fb2715257d57f4f40a014acff8631ffccbda4d7ddd701d971b11c8cc0b|Under": {
         "title": "Rice vs. Notre Dame: O/U 56.5",
@@ -1430,24 +688,10 @@
         "avgPrice": 0.54,
         "slug": "cfb-rice-nd-2026-09-12-total-56pt5"
       },
-      "0xaa679ed1d6f07ffcaa516bd4095e064ead77e7d5eaf93d53343daf05e1396004|Over": {
-        "title": "New York Mets vs. Miami Marlins: O/U 12.5",
-        "outcome": "Over",
-        "value": 588.1655,
-        "avgPrice": 0.63,
-        "slug": "mlb-nym-mia-2026-09-08-total-12pt5"
-      },
-      "0x2c9d0cb83836ad4bd8000756ced47e1469f73bd5aa0f1a532b2a974d6be6f900|Over": {
-        "title": "Cincinnati Reds vs. Los Angeles Dodgers: O/U 8.5",
-        "outcome": "Over",
-        "value": 576.94,
-        "avgPrice": 0.46,
-        "slug": "mlb-cin-lad-2026-09-08-total-8pt5"
-      },
       "0xdac1108e889b7eea62062fecfec44bc4cc16f21d18f8c83ce29b9223558f7f7e|Under": {
         "title": "UTSA vs. Texas State: O/U 68.5",
         "outcome": "Under",
-        "value": 571.2954,
+        "value": 566.284,
         "avgPrice": 0.5599,
         "slug": "cfb-utsa-txst-2026-09-12-total-68pt5"
       },
@@ -1458,33 +702,12 @@
         "avgPrice": 0.5098,
         "slug": "cfb-charlt-miss-2026-09-12-total-61pt5"
       },
-      "0x2f7188f002bb287df6004fb4c9b27d2bbd1b3e7951f53f0c8194a0e0e90ca3cb|Pittsburgh Pirates": {
-        "title": "Spread: Pittsburgh Pirates (-1.5)",
-        "outcome": "Pittsburgh Pirates",
-        "value": 555.6567,
-        "avgPrice": 0.4399,
-        "slug": "mlb-pit-cws-2026-09-08-spread-away-1pt5"
-      },
-      "0x3efba24b2a07a640d2678f37d2be5effd657137f17ef9b120668f17d033b9c61|Over": {
-        "title": "Chicago Cubs vs. Milwaukee Brewers: O/U 6.5",
-        "outcome": "Over",
-        "value": 551.25,
-        "avgPrice": 0.648,
-        "slug": "mlb-chc-mil-2026-09-08-total-6pt5"
-      },
       "0x7cb15cb94ae8f2525c922311a4189eeab2f3e18c97631da1004d6846aa0aa6c9|Over": {
         "title": "Charlotte vs. Ole Miss: O/U 61.5",
         "outcome": "Over",
         "value": 542.984,
         "avgPrice": 0.4796,
         "slug": "cfb-charlt-miss-2026-09-12-total-61pt5"
-      },
-      "0xb676226cb275d1efac53ec02ed2d534846ee840cf9716b76c7bb0db5a6384402|Houston Astros": {
-        "title": "Spread: Houston Astros (-1.5)",
-        "outcome": "Houston Astros",
-        "value": 535.7027,
-        "avgPrice": 0.4908,
-        "slug": "mlb-hou-phi-2026-09-08-spread-away-1pt5"
       },
       "0x50d0902264eef222656d5424b44e8d69f7a56cca47dcef52d50fb14753655594|Under": {
         "title": "Maryland vs. UConn: O/U 53.5",
@@ -1507,13 +730,6 @@
         "avgPrice": 0.51,
         "slug": "cfb-utsa-txst-2026-09-12-total-66pt5"
       },
-      "0x25d4bf969682f9d8a583a83b365ce5bcc16c9ebb16026a481dd06fb8b8df934b|Atlanta Braves": {
-        "title": "Tampa Bay Rays vs. Atlanta Braves",
-        "outcome": "Atlanta Braves",
-        "value": 512.4573,
-        "avgPrice": 0.5298,
-        "slug": "mlb-tb-atl-2026-09-08"
-      },
       "0xf71cf285164075dc7a61cf2ef0e4e0a3adef8c9a23dd70abb570dcc2108c1ad2|Tennessee": {
         "title": "Spread: Tennessee (-13.5)",
         "outcome": "Tennessee",
@@ -1524,8 +740,7 @@
     }
   },
   "announced": {
-    "0xd2c4d57bce81d654297cc7a0ec33f50ff71ff53c1b667491252b45e32a3531e9|Sara Sorribes Tormo": 4,
-    "0x5d4e820464e2c6e6b57db0b98500ec02a8495ceb9ecb7111dcddb67eaeec8b4c|New York Yankees": 3,
-    "0xe2de941b5d68bac3258448390f94846bc015ff9273fd25abdf6f73b0fd0e47ba|Emma Navarro": 4
+    "0x1e93e33beecbd9ae3dbe35a7c263b5d1a6d81084f6eed57e16b7fba56821ea1b|Ben Shelton": 4,
+    "0x1e93e33beecbd9ae3dbe35a7c263b5d1a6d81084f6eed57e16b7fba56821ea1b|Carlos Alcaraz": 3
   }
 }
