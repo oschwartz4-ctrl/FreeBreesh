@@ -1,6 +1,20 @@
 {
   "seen": {
     "#1 Ferrari": {
+      "0x3a92c8a6675133c926fb2132e18fd7a5c0e31f900dcd3624162eb8b04ea19704|Ugo Blanchet": {
+        "title": "Cassis: Ugo Blanchet vs Daniel Rincon",
+        "outcome": "Ugo Blanchet",
+        "value": 36916.1848,
+        "avgPrice": 0.5841,
+        "slug": "atp-blanche-rincon-2026-09-09"
+      },
+      "0x74c2c87e6c78f4f3d9c04916f2a4f324bc67df314ffe8fdbdaefa345192e1486|Alevtina Ibragimova": {
+        "title": "Antalya 4: Alevtina Ibragimova vs Leyre Romero Gormaz",
+        "outcome": "Alevtina Ibragimova",
+        "value": 32435.064,
+        "avgPrice": 0.8196,
+        "slug": "wta-ibragim-gormaz-2026-09-09"
+      },
       "0x1f8d995c49e6794c58dcd187b413a66c625bc5296e95f22844e300da7e4a66b4|Ann Li": {
         "title": "Monterrey Open: Maria Timofeeva vs Ann Li",
         "outcome": "Ann Li",
@@ -8,54 +22,75 @@
         "avgPrice": 0.5156,
         "slug": "wta-timofee-annli-2026-08-26"
       },
-      "0x602ebca708ebff0b0a24f7ed2f9a235e00a499522b0f9518645adae0467b8ff7|Zdenek Kolar": {
-        "title": "Tulln: Zdenek Kolar vs Martin Krumich",
-        "outcome": "Zdenek Kolar",
-        "value": 19465.7627,
-        "avgPrice": 0.7643,
-        "slug": "atp-kolar-krumich-2026-09-09"
-      },
-      "0xfac02b30e246434ca81ddc74e301d335d0623eb8db04db1b9c64072675af8527|Aurora Zantedeschi": {
-        "title": "Antalya 4: Lina Gjorcheska vs Aurora Zantedeschi",
-        "outcome": "Aurora Zantedeschi",
-        "value": 14474.0089,
-        "avgPrice": 0.4,
-        "slug": "wta-gjorche-zantede-2026-09-09"
-      },
-      "0xfac02b30e246434ca81ddc74e301d335d0623eb8db04db1b9c64072675af8527|Lina Gjorcheska": {
-        "title": "Antalya 4: Lina Gjorcheska vs Aurora Zantedeschi",
-        "outcome": "Lina Gjorcheska",
-        "value": 12336.5458,
-        "avgPrice": 0.7449,
-        "slug": "wta-gjorche-zantede-2026-09-09"
-      },
-      "0x4ac90618e451ce42bdeb8bf7ca11c5fcac0b03c10c5417d0f5bdbb9ee5152da3|Elizara Yaneva": {
-        "title": "Antalya 4: Zhibek Kulambayeva vs Elizara Yaneva",
-        "outcome": "Elizara Yaneva",
-        "value": 10965.4596,
-        "avgPrice": 0.8762,
-        "slug": "wta-kulamba-yaneva-2026-09-09"
-      },
-      "0xb31439fb7c49baa4e053d54c5e8754a6a57f067766a30b83134abb804c62aa39|Under": {
-        "title": "FC Barcelona vs. Feyenoord Rotterdam: O/U 4.5",
-        "outcome": "Under",
-        "value": 10706.0099,
-        "avgPrice": 0.5099,
-        "slug": "ucl-fcb-fey-2026-09-09-total-4pt5"
-      },
       "0x62fd513c1902394361bc776e5295ea8643e2fc6ec6501f961788d2d9bfa8690a|FC Barcelona": {
         "title": "Spread: FC Barcelona (-2.5)",
         "outcome": "FC Barcelona",
-        "value": 5018.1301,
-        "avgPrice": 0.6099,
+        "value": 15455.5875,
+        "avgPrice": 0.6166,
         "slug": "ucl-fcb-fey-2026-09-09-spread-home-2pt5"
+      },
+      "0x2e9440dedca55f3049311c8c840d15d000460118472d09b7842b02dd01c325c8|Under": {
+        "title": "St. Louis Cardinals vs. San Francisco Giants: O/U 8.5",
+        "outcome": "Under",
+        "value": 13839.1605,
+        "avgPrice": 0.5,
+        "slug": "mlb-stl-sf-2026-09-09-total-8pt5"
+      },
+      "0xa1e4a0c2d6780864b77e054272a71a0294e3cfaef6aca739002995551411c3a4|Pittsburgh Pirates": {
+        "title": "Spread: Chicago White Sox (-1.5)",
+        "outcome": "Pittsburgh Pirates",
+        "value": 7593.1524,
+        "avgPrice": 0.6099,
+        "slug": "mlb-pit-cws-2026-09-09-spread-home-1pt5"
+      },
+      "0xd6364a6161cc85d9ae01dfcff519a29eb31a1a1177fdb78a81e26a6e7e5948f5|Chelsea FC": {
+        "title": "Spread: Chelsea FC (-1.5)",
+        "outcome": "Chelsea FC",
+        "value": 6999.1344,
+        "avgPrice": 0.389,
+        "slug": "efl-cfc-lee-2026-09-09-spread-home-1pt5"
+      },
+      "0x8ff4188542e73f62f0c79792ed8f27a096c219eb5b0181812364387a26bdb169|Angelina Voloshchuk": {
+        "title": "W50 Evora: Hannah Klugman vs Angelina Voloshchuk",
+        "outcome": "Angelina Voloshchuk",
+        "value": 6789.12,
+        "avgPrice": 0.6097,
+        "slug": "itf-klugma1-volosh1-2026-09-09"
+      },
+      "0xb31439fb7c49baa4e053d54c5e8754a6a57f067766a30b83134abb804c62aa39|Over": {
+        "title": "FC Barcelona vs. Feyenoord Rotterdam: O/U 4.5",
+        "outcome": "Over",
+        "value": 6491.8128,
+        "avgPrice": 0.5178,
+        "slug": "ucl-fcb-fey-2026-09-09-total-4pt5"
+      },
+      "0x069e0c84cdca04149ca8d57454510fc5c3124b26e612d604b03d6bc0a9b221ce|Paris Saint-Germain FC": {
+        "title": "Spread: Paris Saint-Germain FC (-3.5)",
+        "outcome": "Paris Saint-Germain FC",
+        "value": 6482.5213,
+        "avgPrice": 0.5419,
+        "slug": "ucl-psg-sba-2026-09-09-spread-home-3pt5"
       },
       "0xe53b7fdd61d19d9445ddb92215e85c7d24a70aa0c1d867b4221df85dad74ba30|Feyenoord Rotterdam": {
         "title": "Spread: FC Barcelona (-3.5)",
         "outcome": "Feyenoord Rotterdam",
-        "value": 4870.9639,
-        "avgPrice": 0.5982,
+        "value": 5858.1805,
+        "avgPrice": 0.5987,
         "slug": "ucl-fcb-fey-2026-09-09-spread-home-3pt5"
+      },
+      "0x950b111e9f9ca4c1e8741e9977a588f2d730b67105ffe6467be48a08170880aa|Stefanos Sakellaridis": {
+        "title": "Genoa: Duje Ajdukovic vs Stefanos Sakellaridis",
+        "outcome": "Stefanos Sakellaridis",
+        "value": 5773.3086,
+        "avgPrice": 0.6868,
+        "slug": "atp-ajdukov-sakella-2026-09-09"
+      },
+      "0x20a41c392449f56b01632664969c908d9d39080ed36294a4ff0559d78dca0f34|Under": {
+        "title": "SSC Napoli vs. Arsenal FC: O/U 2.5",
+        "outcome": "Under",
+        "value": 5685.5691,
+        "avgPrice": 0.5099,
+        "slug": "ucl-nap-ars-2026-09-09-total-2pt5"
       },
       "0x3acb7fa4dcf621a48dbfb9e0f5d749d15db1ef815dfcda33262b36436ece7e32|Over": {
         "title": "Liverpool FC vs. Club Atl\u00e9tico de Madrid: O/U 3.5",
@@ -64,12 +99,12 @@
         "avgPrice": 0.4,
         "slug": "ucl-liv-atm-2026-09-09-total-3pt5"
       },
-      "0x053167908578edcff73e38569bd10ae71149497ade442f0f031d7639c550e973|Marat Sharipov": {
-        "title": "Shanghai: Marat Sharipov vs Taro Daniel",
-        "outcome": "Marat Sharipov",
-        "value": 4337.8508,
-        "avgPrice": 0.3666,
-        "slug": "atp-sharipo-daniel-2026-09-08"
+      "0xa0451a1d8a92057fefa3f8b66bfdc94a0d3aa30cabc387bb66f305caa72d3582|Miriam Bulgaru": {
+        "title": "Antalya 4: Irene Burillo Escorihuela vs Miriam Bulgaru",
+        "outcome": "Miriam Bulgaru",
+        "value": 4407.698,
+        "avgPrice": 0.5837,
+        "slug": "wta-escorih-bulgaru-2026-09-09"
       },
       "0x3a5736b4d3b777663ab3b24aedb50f092bd96b50d154a9fc89388314f1ecaca2|Elsa Bonelli": {
         "title": "ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Sarina Schnyder vs Elsa Bonelli",
@@ -78,26 +113,19 @@
         "avgPrice": 0.5765,
         "slug": "itf-schnyde-bonelli-2026-08-26"
       },
+      "0xfcd593e7f3682a7c44d558cbc1322c92064796472b790f08cbad3ad3c6a54c14|Gabi Boitan": {
+        "title": "Istanbul 3: Gabi Boitan vs Harold Mayot",
+        "outcome": "Gabi Boitan",
+        "value": 3382.5006,
+        "avgPrice": 0.2871,
+        "slug": "atp-boitan-mayot-2026-09-09"
+      },
       "0x93953a8ae1b4a59023067c35725491ef70ad6de52bba3ff1eecb1f3f6e0a484a|Mirra Andreeva": {
         "title": "US Open WTA: Mirra Andreeva vs Coco Gauff",
         "outcome": "Mirra Andreeva",
         "value": 3267.8695,
         "avgPrice": 0.3499,
         "slug": "wta-andreev-gauff-2026-09-08"
-      },
-      "0xd6364a6161cc85d9ae01dfcff519a29eb31a1a1177fdb78a81e26a6e7e5948f5|Chelsea FC": {
-        "title": "Spread: Chelsea FC (-1.5)",
-        "outcome": "Chelsea FC",
-        "value": 2469.7095,
-        "avgPrice": 0.3799,
-        "slug": "efl-cfc-lee-2026-09-09-spread-home-1pt5"
-      },
-      "0x9fe6d68f4d41a3508e308619018e796a9fe48d7367c30bad829eab052563c3e4|Rafael Kis Balazs": {
-        "title": "M15 Budapest: Rafael Kis Balazs vs Nicolas Parizzia",
-        "outcome": "Rafael Kis Balazs",
-        "value": 2460.1961,
-        "avgPrice": 0.2153,
-        "slug": "itf-balazs1-parizz1-2026-09-09"
       },
       "0x9af167ed361bdc016577401cd59cc05fee72a7aaf70b4a28616f8c6acca2b920|Luiza Fullana": {
         "title": "ITF WOMEN - SINGLES: W35 Barueri (Brazil), hard: Maria Fernanda Navarro vs Luiza Fullana",
@@ -127,6 +155,13 @@
         "avgPrice": 0.67,
         "slug": "itf-orlov-kumstat-2026-07-23"
       },
+      "0x6ca967834398abc021ceb65e551a25302be52d9f1f370fcda458387928f4fdef|Over": {
+        "title": "Paris Saint-Germain FC vs. \u0160K Slovan Bratislava: O/U 4.5",
+        "outcome": "Over",
+        "value": 2036.4514,
+        "avgPrice": 0.5145,
+        "slug": "ucl-psg-sba-2026-09-09-total-4pt5"
+      },
       "0x0e4ccb3955941fd5d55d6b7496412a11a7334392272a5cc409bd0c22c69ca993|D.C. United SC": {
         "title": "Spread: FC Cincinnati (-1.5)",
         "outcome": "D.C. United SC",
@@ -148,12 +183,40 @@
         "avgPrice": 0.6038,
         "slug": "itf-zeltina-palicov-2026-08-17"
       },
+      "0x14039392318b0ca2c58c8a4f388f62f670d281776fd6e9ce591a8c4d0f026215|Minnesota Twins": {
+        "title": "Minnesota Twins vs. Detroit Tigers",
+        "outcome": "Minnesota Twins",
+        "value": 1705.9482,
+        "avgPrice": 0.4699,
+        "slug": "mlb-min-det-2026-09-09"
+      },
+      "0xd420ae99c4962fe26de339cedf53780e0299ec4de22275af17a10c89f80b4bf9|San Francisco Giants": {
+        "title": "Spread: St. Louis Cardinals (-1.5)",
+        "outcome": "San Francisco Giants",
+        "value": 1680.206,
+        "avgPrice": 0.5899,
+        "slug": "mlb-stl-sf-2026-09-09-spread-away-1pt5"
+      },
+      "0x86527d6e4c9629d1ac042c9a7223ac20f31ba076f588be15858ca9442594aa65|Over": {
+        "title": "Tampa Bay Rays vs. Atlanta Braves: O/U 8.5",
+        "outcome": "Over",
+        "value": 1476.8911,
+        "avgPrice": 0.4699,
+        "slug": "mlb-tb-atl-2026-09-09-total-8pt5"
+      },
       "0x100fc126c334eaa60632ebe683b906d42e58009d0768cecaecaa25ae3f82844f|Gianmarco Ferrari": {
         "title": "ITF Fano: Lorenzo Rottoli vs Gianmarco Ferrari",
         "outcome": "Gianmarco Ferrari",
         "value": 1282.225,
         "avgPrice": 0.5886,
         "slug": "itf-rottoli-ferrar-2026-08-04"
+      },
+      "0xe0db3ec1ffb5542307303b99367a0def8707428449a08d0575d1995fd1aefe7c|Houston Astros": {
+        "title": "Spread: Philadelphia Phillies (-1.5)",
+        "outcome": "Houston Astros",
+        "value": 1226.8067,
+        "avgPrice": 0.5899,
+        "slug": "mlb-hou-phi-2026-09-09-spread-home-1pt5"
       },
       "0x7aa71e47536cd611c9a7567bcd45752e171da74fae7c437a8c959fce8254c2c7|Stefan Vujic": {
         "title": "ITF Hillcrest: Preston Brown vs Stefan Vujic",
@@ -175,6 +238,13 @@
         "value": 1205.41,
         "avgPrice": 0.71,
         "slug": "atp-virtane-dimitro-2026-08-27"
+      },
+      "0x6fe2f58ad5c68ecae3ecd152e310ffbaaf79427b6883000ab8db4f9843ce96fb|Arizona Diamondbacks": {
+        "title": "Arizona Diamondbacks vs. Kansas City Royals",
+        "outcome": "Arizona Diamondbacks",
+        "value": 1200.675,
+        "avgPrice": 0.5099,
+        "slug": "mlb-ari-kc-2026-09-09"
       },
       "0x6cd2e0ae968a82ffeb5c1f5fbf9f3734ba0dc1f24d7a7b9ef427ba35a9dca381|Katie Swan": {
         "title": "Mubadala Citi DC Open, Qualification: Lea Ma vs Katie Swan",
@@ -239,19 +309,26 @@
         "avgPrice": 0.73,
         "slug": "itf-daems-granweh-2026-07-23"
       },
+      "0x3229fd7d7353c510c76c6dedc0039fd73302a2b4c0f3b6a519a1bbb848f4dbf8|HULIGANI": {
+        "title": "Dota 2: MOUZ vs HULIGANI (BO3) - EPL Masters Playoffs",
+        "outcome": "HULIGANI",
+        "value": 901.5532,
+        "avgPrice": 0.5497,
+        "slug": "dota2-mouz-huliga-2026-09-09"
+      },
+      "0x3d2ff6106c4b80a7911d35507fc967a463c51a7d44eb7b58ba0b14ab892101fa|Under": {
+        "title": "Pohang Steelers FC vs. Gimcheon Sangmu FC: O/U 2.5",
+        "outcome": "Under",
+        "value": 894.3825,
+        "avgPrice": 0.6199,
+        "slug": "kor-poh-san-2026-09-09-total-2pt5"
+      },
       "0xd41e70b42d2326b8007a170887b69f84f815ae7d2bd03e1eadbcd0487870a988|No": {
         "title": "Will FC Cincinnati win on 2026-09-05?",
         "outcome": "No",
-        "value": 813.575,
+        "value": 860.065,
         "avgPrice": 0.4,
         "slug": "mls-fcc-dcu-2026-09-05-fcc"
-      },
-      "0xb983ceee02eb40f67a874c11d36f26d4685f63fc5890a31b1195cc04f04a1af3|Francisca Jorge": {
-        "title": "W50 Evora: Francisca Jorge vs Gabriella Da Silva Fick",
-        "outcome": "Francisca Jorge",
-        "value": 790.7853,
-        "avgPrice": 0.8979,
-        "slug": "itf-jorge2-fick1-2026-09-09"
       },
       "0x16a4eb4f9ba2c5601406f85e5a86decb01f265adae6fd57e208085651b302a56|KT Wiz": {
         "title": "KBO: Doosan Bears vs. KT Wiz",
@@ -260,6 +337,20 @@
         "avgPrice": 0.5688,
         "slug": "kbo-doo-kt-2026-07-21"
       },
+      "0x2157d1d3ef29ee4430dcddc09cada541b3d0e26c401ecbba37395e679c8a4d90|San Francisco Giants": {
+        "title": "St. Louis Cardinals vs. San Francisco Giants",
+        "outcome": "San Francisco Giants",
+        "value": 770.5728,
+        "avgPrice": 0.4699,
+        "slug": "mlb-stl-sf-2026-09-09"
+      },
+      "0x3229fd7d7353c510c76c6dedc0039fd73302a2b4c0f3b6a519a1bbb848f4dbf8|MOUZ": {
+        "title": "Dota 2: MOUZ vs HULIGANI (BO3) - EPL Masters Playoffs",
+        "outcome": "MOUZ",
+        "value": 736.8242,
+        "avgPrice": 0.5747,
+        "slug": "dota2-mouz-huliga-2026-09-09"
+      },
       "0x84ed0eea4e7c92fd0f3d9134c955584a7ebfdaef14283892b47513d4b77a568d|Alexandre Reco": {
         "title": "ITF Rognac: Loic Namigandet Tenguere vs Alexandre Reco",
         "outcome": "Alexandre Reco",
@@ -267,12 +358,12 @@
         "avgPrice": 0.6982,
         "slug": "itf-tenguer-reco-2026-07-23"
       },
-      "0x6ca967834398abc021ceb65e551a25302be52d9f1f370fcda458387928f4fdef|Under": {
-        "title": "Paris Saint-Germain FC vs. \u0160K Slovan Bratislava: O/U 4.5",
-        "outcome": "Under",
-        "value": 731.346,
-        "avgPrice": 0.5099,
-        "slug": "ucl-psg-sba-2026-09-09-total-4pt5"
+      "0x72dccce60eced39dc663344f4b6e6abdd95aa3d98226a7279ce7049bdd310a04|Nikola Slavic": {
+        "title": "M25 Plaisir + H: Lilian Chidekh vs Nikola Slavic",
+        "outcome": "Nikola Slavic",
+        "value": 731.7868,
+        "avgPrice": 0.6597,
+        "slug": "itf-chidek1-slavic1-2026-09-09"
       },
       "0xd73b81755d573d5abb591ab049ef6a5c535833296e8b1d3573558b6d12d686fe|Yes": {
         "title": "Will Vancouver Whitecaps FC win on 2026-07-16?",
@@ -281,12 +372,12 @@
         "avgPrice": 0.3949,
         "slug": "mls-chi-vwh-2026-07-16-vwh"
       },
-      "0x1d72c37e8698b1453d85059eef2061c5aa091179f70a05c65a4bb4bdd34b1a01|Tobia Costanzo Baragiola Mordini": {
-        "title": "M15 Budapest: Vincent Dullinger vs Tobia Costanzo Baragiola Mordini",
-        "outcome": "Tobia Costanzo Baragiola Mordini",
-        "value": 692.5052,
-        "avgPrice": 0.4059,
-        "slug": "itf-dullin1-mordin1-2026-09-09"
+      "0xc48503a6a55c39f1c765d85e69883240dc44f31f16654df2da90d17711da395c|Stefan Seifert": {
+        "title": "M25 Plaisir + H: Stefan Seifert vs Antoine Walch",
+        "outcome": "Stefan Seifert",
+        "value": 683.1101,
+        "avgPrice": 0.4949,
+        "slug": "itf-seifer1-walch1-2026-09-09"
       },
       "0xe3c90c8836bbdcb619f6b749e7095458baca9be96cc81f125568bea771336207|Sobolieva": {
         "title": "Set 1 Winner: Samson vs Sobolieva",
@@ -295,33 +386,19 @@
         "avgPrice": 0.5179,
         "slug": "wta-samson-sobolie-2026-07-29-first-set-winner-Samson-vs-Sobolieva"
       },
-      "0x46aebe9c45168faef7fb029932e438b16949a0e8792d9e4cf32e2b8f490fefad|Yuquan Jin": {
-        "title": "M15 Wuning: Yuquan Jin vs Xirui Han",
-        "outcome": "Yuquan Jin",
-        "value": 610.5651,
-        "avgPrice": 0.2733,
-        "slug": "itf-jin1-han1-2026-09-09"
+      "0xa0451a1d8a92057fefa3f8b66bfdc94a0d3aa30cabc387bb66f305caa72d3582|Irene Burillo Escorihuela": {
+        "title": "Antalya 4: Irene Burillo Escorihuela vs Miriam Bulgaru",
+        "outcome": "Irene Burillo Escorihuela",
+        "value": 593.4386,
+        "avgPrice": 0.4479,
+        "slug": "wta-escorih-bulgaru-2026-09-09"
       },
-      "0x069e0c84cdca04149ca8d57454510fc5c3124b26e612d604b03d6bc0a9b221ce|Paris Saint-Germain FC": {
-        "title": "Spread: Paris Saint-Germain FC (-3.5)",
-        "outcome": "Paris Saint-Germain FC",
-        "value": 608.0596,
-        "avgPrice": 0.5199,
-        "slug": "ucl-psg-sba-2026-09-09-spread-home-3pt5"
-      },
-      "0xba3cb20e20b45e7f3a6f17792f4961b0e8363f76bc88e30e7e04907a6bd64f85|Thijs Boogaard": {
-        "title": "M15 Hurghada: Thijs Boogaard vs Sergey Petrov",
-        "outcome": "Thijs Boogaard",
-        "value": 536.2845,
-        "avgPrice": 0.7417,
-        "slug": "itf-boogaa1-petrov2-2026-09-09"
-      },
-      "0x016353faf25911e8717dccfe66de3ee67d959a75ae0e12eda92f114dcf762140|BIG": {
-        "title": "Counter-Strike: BIG vs G2 (BO3) - FISSURE PLAYGROUND Group A",
-        "outcome": "BIG",
-        "value": 536.1833,
-        "avgPrice": 0.4405,
-        "slug": "cs2-big5-g2-2026-09-09"
+      "0x9fc8013231c971f514aec5f6474d6f70338fd4be9b0ca4cd391917fd3ed54eda|Kylie Collins": {
+        "title": "W50 Evora: Iveta Dapkute vs Kylie Collins",
+        "outcome": "Kylie Collins",
+        "value": 554.5163,
+        "avgPrice": 0.6059,
+        "slug": "itf-dapkut1-collin2-2026-09-09"
       },
       "0xcba78f02cd07d809471ee9b21813b430d360262db259917a6709806d69e159ea|Dzumhur": {
         "title": "Set 1 Winner: Gaston vs Dzumhur",
@@ -332,131 +409,138 @@
       }
     },
     "#2 RN1": {
-      "0x016353faf25911e8717dccfe66de3ee67d959a75ae0e12eda92f114dcf762140|G2": {
-        "title": "Counter-Strike: BIG vs G2 (BO3) - FISSURE PLAYGROUND Group A",
-        "outcome": "G2",
-        "value": 44700.3025,
-        "avgPrice": 0.4603,
-        "slug": "cs2-big5-g2-2026-09-09"
+      "0x874c53488e28c5b16ecfff2255c4cdd734a8e4cd8c8d6cb773afaa67207e4004|BetBoom Team": {
+        "title": "Counter-Strike: BetBoom Team vs Astralis (BO3) - FISSURE PLAYGROUND Group A",
+        "outcome": "BetBoom Team",
+        "value": 29567.6061,
+        "avgPrice": 0.6323,
+        "slug": "cs2-bb3-ast10-2026-09-09"
       },
-      "0xfac02b30e246434ca81ddc74e301d335d0623eb8db04db1b9c64072675af8527|Lina Gjorcheska": {
-        "title": "Antalya 4: Lina Gjorcheska vs Aurora Zantedeschi",
-        "outcome": "Lina Gjorcheska",
-        "value": 32195.5606,
-        "avgPrice": 0.6058,
-        "slug": "wta-gjorche-zantede-2026-09-09"
+      "0x3a92c8a6675133c926fb2132e18fd7a5c0e31f900dcd3624162eb8b04ea19704|Ugo Blanchet": {
+        "title": "Cassis: Ugo Blanchet vs Daniel Rincon",
+        "outcome": "Ugo Blanchet",
+        "value": 28746.902,
+        "avgPrice": 0.6045,
+        "slug": "atp-blanche-rincon-2026-09-09"
       },
-      "0xfac02b30e246434ca81ddc74e301d335d0623eb8db04db1b9c64072675af8527|Aurora Zantedeschi": {
-        "title": "Antalya 4: Lina Gjorcheska vs Aurora Zantedeschi",
-        "outcome": "Aurora Zantedeschi",
-        "value": 24199.2347,
-        "avgPrice": 0.4939,
-        "slug": "wta-gjorche-zantede-2026-09-09"
+      "0x47e7032ad1d219528ed14ce50f1a1e2b12bb8a3de0c60c602b0a93bcd2925615|BetBoom Team": {
+        "title": "Counter-Strike: BetBoom Team vs Astralis - Map 2 Winner",
+        "outcome": "BetBoom Team",
+        "value": 26671.7446,
+        "avgPrice": 0.5887,
+        "slug": "cs2-bb3-ast10-2026-09-09-game2"
       },
-      "0x053167908578edcff73e38569bd10ae71149497ade442f0f031d7639c550e973|Marat Sharipov": {
-        "title": "Shanghai: Marat Sharipov vs Taro Daniel",
-        "outcome": "Marat Sharipov",
-        "value": 18722.8494,
-        "avgPrice": 0.3592,
-        "slug": "atp-sharipo-daniel-2026-09-08"
+      "0x0bd99bdc83cfbf1aca94c54df2d9c4579894e2d620837c02c8d14221249e7038|Clara Burel": {
+        "title": "Montreux: Tessa Brockmann vs Clara Burel",
+        "outcome": "Clara Burel",
+        "value": 19841.278,
+        "avgPrice": 0.6937,
+        "slug": "wta-brockma-burel-2026-09-09"
       },
-      "0x602ebca708ebff0b0a24f7ed2f9a235e00a499522b0f9518645adae0467b8ff7|Zdenek Kolar": {
-        "title": "Tulln: Zdenek Kolar vs Martin Krumich",
-        "outcome": "Zdenek Kolar",
-        "value": 17150.946,
-        "avgPrice": 0.7916,
-        "slug": "atp-kolar-krumich-2026-09-09"
+      "0xf0a78495d808a1d40ca87778f18dc86c824fd8891c4085178ef493af50a978ae|Anastasiia Sobolieva": {
+        "title": "Montreux: Andrea Lazaro Garcia vs Anastasiia Sobolieva",
+        "outcome": "Anastasiia Sobolieva",
+        "value": 19004.28,
+        "avgPrice": 0.7633,
+        "slug": "wta-garcia-sobolie-2026-09-09"
       },
-      "0x053167908578edcff73e38569bd10ae71149497ade442f0f031d7639c550e973|Taro Daniel": {
-        "title": "Shanghai: Marat Sharipov vs Taro Daniel",
-        "outcome": "Taro Daniel",
-        "value": 9264.3996,
-        "avgPrice": 0.7395,
-        "slug": "atp-sharipo-daniel-2026-09-08"
+      "0x74c2c87e6c78f4f3d9c04916f2a4f324bc67df314ffe8fdbdaefa345192e1486|Alevtina Ibragimova": {
+        "title": "Antalya 4: Alevtina Ibragimova vs Leyre Romero Gormaz",
+        "outcome": "Alevtina Ibragimova",
+        "value": 15838.5224,
+        "avgPrice": 0.7552,
+        "slug": "wta-ibragim-gormaz-2026-09-09"
       },
-      "0xf38dd62d893e6ac7041fec94e377e6a70c264300341150a22ab1a8ceb0068436|GamerLegion": {
-        "title": "Counter-Strike: TYLOO vs GamerLegion (BO3) - FISSURE PLAYGROUND Group B",
-        "outcome": "GamerLegion",
-        "value": 8926.19,
-        "avgPrice": 0.4599,
-        "slug": "cs2-tyloo-gl1-2026-09-09"
+      "0x1d304bb21df22220d9e9de892e39950954a43fa45c9b36f33899e4ea5f014926|FURIA": {
+        "title": "Counter-Strike: PARIVISION vs FURIA - Map 2 Winner",
+        "outcome": "FURIA",
+        "value": 12883.5481,
+        "avgPrice": 0.7719,
+        "slug": "cs2-prv-furia-2026-09-09-game2"
       },
-      "0xb60c5e378332314ff755e9ac5d081cf72dcdbeda0b93cd92ea4fe4b5c9bab0b0|1WIN": {
-        "title": "Counter-Strike: Nuclear TigeRES vs 1WIN - Map 2 Winner",
-        "outcome": "1WIN",
-        "value": 8492.3999,
-        "avgPrice": 0.4972,
-        "slug": "cs2-ntr-1win-2026-09-09-game2"
+      "0xc48503a6a55c39f1c765d85e69883240dc44f31f16654df2da90d17711da395c|Stefan Seifert": {
+        "title": "M25 Plaisir + H: Stefan Seifert vs Antoine Walch",
+        "outcome": "Stefan Seifert",
+        "value": 12618.9474,
+        "avgPrice": 0.5472,
+        "slug": "itf-seifer1-walch1-2026-09-09"
       },
-      "0x9fe6d68f4d41a3508e308619018e796a9fe48d7367c30bad829eab052563c3e4|Rafael Kis Balazs": {
-        "title": "M15 Budapest: Rafael Kis Balazs vs Nicolas Parizzia",
-        "outcome": "Rafael Kis Balazs",
-        "value": 6759.7418,
-        "avgPrice": 0.1241,
-        "slug": "itf-balazs1-parizz1-2026-09-09"
+      "0x950b111e9f9ca4c1e8741e9977a588f2d730b67105ffe6467be48a08170880aa|Stefanos Sakellaridis": {
+        "title": "Genoa: Duje Ajdukovic vs Stefanos Sakellaridis",
+        "outcome": "Stefanos Sakellaridis",
+        "value": 11582.5216,
+        "avgPrice": 0.6497,
+        "slug": "atp-ajdukov-sakella-2026-09-09"
       },
-      "0xb983ceee02eb40f67a874c11d36f26d4685f63fc5890a31b1195cc04f04a1af3|Francisca Jorge": {
-        "title": "W50 Evora: Francisca Jorge vs Gabriella Da Silva Fick",
-        "outcome": "Francisca Jorge",
-        "value": 6654.6889,
-        "avgPrice": 0.8963,
-        "slug": "itf-jorge2-fick1-2026-09-09"
+      "0x84f3b2402f5471ff48cd85a43fa5ff8b144afc5b6c3afcc8ac7437578aba6774|FURIA": {
+        "title": "Counter-Strike: PARIVISION vs FURIA (BO3) - FISSURE PLAYGROUND Group B",
+        "outcome": "FURIA",
+        "value": 9195.9337,
+        "avgPrice": 0.8844,
+        "slug": "cs2-prv-furia-2026-09-09"
       },
       "0x3a92c8a6675133c926fb2132e18fd7a5c0e31f900dcd3624162eb8b04ea19704|Daniel Rincon": {
         "title": "Cassis: Ugo Blanchet vs Daniel Rincon",
         "outcome": "Daniel Rincon",
-        "value": 5799.0374,
-        "avgPrice": 0.4692,
+        "value": 7917.4386,
+        "avgPrice": 0.4723,
         "slug": "atp-blanche-rincon-2026-09-09"
       },
-      "0xef653d5475a65147133b68cb85493689605112df4104ef10baa5379ff1ad6178|Legacy": {
-        "title": "Counter-Strike: Legacy vs Alliance (BO3) - FISSURE PLAYGROUND Group B",
-        "outcome": "Legacy",
-        "value": 5676.23,
-        "avgPrice": 0.7939,
-        "slug": "cs2-lgc-all-2026-09-09"
+      "0xa0451a1d8a92057fefa3f8b66bfdc94a0d3aa30cabc387bb66f305caa72d3582|Miriam Bulgaru": {
+        "title": "Antalya 4: Irene Burillo Escorihuela vs Miriam Bulgaru",
+        "outcome": "Miriam Bulgaru",
+        "value": 6475.4553,
+        "avgPrice": 0.466,
+        "slug": "wta-escorih-bulgaru-2026-09-09"
       },
-      "0x4de066364a0c207c7a1910015143a058d47867b79224612390994bda50d68bd2|Artur Kukasian": {
-        "title": "M15 Tsaghkadzor: Grigory Shebekin vs Artur Kukasian",
-        "outcome": "Artur Kukasian",
-        "value": 5570.1179,
-        "avgPrice": 0.5308,
-        "slug": "itf-shebek1-kukasi1-2026-09-09"
+      "0x152d02f0780c4dd83ae5b1375afa5b72415fb27ac9845f9078aab5bcb1d4cedb|Nemiga": {
+        "title": "Counter-Strike: HOTU vs Nemiga (BO3) - 1win Private Club #1: Closed Qualifier Playoffs",
+        "outcome": "Nemiga",
+        "value": 5649.7306,
+        "avgPrice": 0.4586,
+        "slug": "cs2-hotu-nemi1-2026-09-09"
       },
-      "0x7ec7f3b581bfb081d0022d6c98882ddd35cb725255fee5d9de3d4ad2af9ff29e|G2": {
-        "title": "Counter-Strike: BIG vs G2 - Map 2 Winner",
-        "outcome": "G2",
-        "value": 4864.3708,
-        "avgPrice": 0.7048,
-        "slug": "cs2-big5-g2-2026-09-09-game2"
+      "0x9fc8013231c971f514aec5f6474d6f70338fd4be9b0ca4cd391917fd3ed54eda|Kylie Collins": {
+        "title": "W50 Evora: Iveta Dapkute vs Kylie Collins",
+        "outcome": "Kylie Collins",
+        "value": 5268.747,
+        "avgPrice": 0.634,
+        "slug": "itf-dapkut1-collin2-2026-09-09"
       },
-      "0x0f0efcbe0dc0c683010a8a79c4b2f60de331b27463be742c913072aa4e488783|Legacy": {
-        "title": "Counter-Strike: Legacy vs Alliance - Map 2 Winner",
-        "outcome": "Legacy",
-        "value": 4421.9884,
-        "avgPrice": 0.8451,
-        "slug": "cs2-lgc-all-2026-09-09-game2"
+      "0x9e00f0e2115e24e0c96824049ffd969fc3f1691a97ea478d752ae3fcf603bfe9|BIG Academy": {
+        "title": "Counter-Strike: DNK vs BIG Academy - Map 1 Winner",
+        "outcome": "BIG Academy",
+        "value": 4169.4542,
+        "avgPrice": 0.543,
+        "slug": "cs2-dnk2-biga-2026-09-09-game1"
       },
-      "0x9c27695cb745e64d1a7eb7bc3025ea1bddc214367c1881fc6439ad2e19c16b9d|Zichen Shao": {
-        "title": "M15 Wuning: Cuihaozhe Guo vs Zichen Shao",
-        "outcome": "Zichen Shao",
-        "value": 3670.8855,
-        "avgPrice": 0.8398,
-        "slug": "itf-guo1-shao1-2026-09-09"
+      "0x18a43795e621a10d482e2dd05392dc1b14a29772feb8fa352dcad5a484b3fa2c|Ryan Colby": {
+        "title": "M25 Sintra: Joao Mendes vs Ryan Colby",
+        "outcome": "Ryan Colby",
+        "value": 4153.2859,
+        "avgPrice": 0.8741,
+        "slug": "itf-mendes1-colby1-2026-09-09"
       },
-      "0x1c04a5394594da967b5688e4bde27106f5eb928d516cd49f213db07aa84498e8|1WIN": {
-        "title": "Counter-Strike: Nuclear TigeRES vs 1WIN (BO3) - PGL Masters Bucharest: European Qualifier Playoffs",
-        "outcome": "1WIN",
-        "value": 3110.3813,
-        "avgPrice": 0.7632,
-        "slug": "cs2-ntr-1win-2026-09-09"
+      "0xd4b30161290d9826a95035bfabf8d01c961cc5007035a26000f060424eb30818|Nemiga": {
+        "title": "Counter-Strike: HOTU vs Nemiga - Map 2 Winner",
+        "outcome": "Nemiga",
+        "value": 3410.9889,
+        "avgPrice": 0.509,
+        "slug": "cs2-hotu-nemi1-2026-09-09-game2"
       },
-      "0x016353faf25911e8717dccfe66de3ee67d959a75ae0e12eda92f114dcf762140|BIG": {
-        "title": "Counter-Strike: BIG vs G2 (BO3) - FISSURE PLAYGROUND Group A",
-        "outcome": "BIG",
-        "value": 2755.9906,
-        "avgPrice": 0.3847,
-        "slug": "cs2-big5-g2-2026-09-09"
+      "0xc52c5a131fdfc3e6524697970b3ad8e50b322549a0f20725a6d6a3943d404659|Yes": {
+        "title": "Will Chelsea FC win on 2026-09-09?",
+        "outcome": "Yes",
+        "value": 3125.0,
+        "avgPrice": 0.64,
+        "slug": "efl-cfc-lee-2026-09-09-cfc"
+      },
+      "0xcfb774115457e97f123816447b35581275a14b2f0cfe6f1b4c728d51f0f48258|Juan Ignacio Gallego": {
+        "title": "M25 Gijon: Oscar Jose Gutierrez vs Juan Ignacio Gallego",
+        "outcome": "Juan Ignacio Gallego",
+        "value": 3116.1468,
+        "avgPrice": 0.6085,
+        "slug": "itf-gutier1-galleg1-2026-09-09"
       },
       "0xaedb6667cf88cade0903baee5d5f14180e0cb4c35cfb1c8c05d5f91af051ba5b|Alexander Blockx": {
         "title": "National Bank Open: Jaume Munar vs Alexander Blockx",
@@ -465,19 +549,19 @@
         "avgPrice": 0.5,
         "slug": "atp-munar-blockx-2026-08-04"
       },
+      "0x181735be5d83f66fad2a8f128fc2fa8cb2f75c0d6f4d46429fa13fe8a2da3b1f|BetBoom Team": {
+        "title": "Map Handicap: BB (-1.5) vs Astralis (+1.5)",
+        "outcome": "BetBoom Team",
+        "value": 2349.5297,
+        "avgPrice": 0.4235,
+        "slug": "cs2-bb3-ast10-2026-09-09-map-handicap-away-1pt5"
+      },
       "0x9fdeb0d89011edb7fc50a56c82912b29d7f9ce9916dc7162bea13c91af67532f|Over": {
         "title": "Rangers FC vs. St Mirren FC: O/U 3.5",
         "outcome": "Over",
-        "value": 2075.0,
-        "avgPrice": 0.41,
+        "value": 2200.055,
+        "avgPrice": 0.4103,
         "slug": "scop-ran-stm-2026-08-22-total-3pt5"
-      },
-      "0x222fa72be43cf356e81d47c04e08f6950acf59063acf2eba119480e0c95d47ff|Anastasia Safta": {
-        "title": "W15 Campulung: Anastasia Safta vs Anja Wildgruber",
-        "outcome": "Anastasia Safta",
-        "value": 1934.2581,
-        "avgPrice": 0.4861,
-        "slug": "itf-safta1-wildgr1-2026-09-09"
       },
       "0x0da0791c0bef42e01ad3d6344cdbb8b68ffe2618336c9221e7f1f53d68a10bed|Kateryna Lazarenko": {
         "title": "W15 Grodzisk Mazowiecki: Zuzanna Bednarz vs Kateryna Lazarenko",
@@ -486,12 +570,40 @@
         "avgPrice": 0.5945,
         "slug": "itf-bednar-laz-2026-09-06"
       },
-      "0x10c762daec0731bde7d3b94081702e3003901ecc7210ca5037ccd2f58abd8325|Team Nemesis": {
-        "title": "Counter-Strike: Team Nemesis vs Sinners - Map 1 Winner",
-        "outcome": "Team Nemesis",
-        "value": 1636.5731,
-        "avgPrice": 0.511,
-        "slug": "cs2-nem-sin2-2026-09-09-game1"
+      "0x72dccce60eced39dc663344f4b6e6abdd95aa3d98226a7279ce7049bdd310a04|Nikola Slavic": {
+        "title": "M25 Plaisir + H: Lilian Chidekh vs Nikola Slavic",
+        "outcome": "Nikola Slavic",
+        "value": 1748.5654,
+        "avgPrice": 0.6684,
+        "slug": "itf-chidek1-slavic1-2026-09-09"
+      },
+      "0xf53a9823b57387ee742f677813073248b67be8554f204d3a6a88bf748f7432ce|Under": {
+        "title": "Games Total: O/U 2.5",
+        "outcome": "Under",
+        "value": 1724.0017,
+        "avgPrice": 0.6224,
+        "slug": "cs2-prv-furia-2026-09-09-total-games-2pt5"
+      },
+      "0x9fc8013231c971f514aec5f6474d6f70338fd4be9b0ca4cd391917fd3ed54eda|Iveta Dapkute": {
+        "title": "W50 Evora: Iveta Dapkute vs Kylie Collins",
+        "outcome": "Iveta Dapkute",
+        "value": 1695.9714,
+        "avgPrice": 0.2456,
+        "slug": "itf-dapkut1-collin2-2026-09-09"
+      },
+      "0xff0dc9018adc956be9fe3ec72a4f8d342ff60a320e8020b4119be367bf79333e|Nemiga": {
+        "title": "Map Handicap: HOTU (-1.5) vs Nemiga (+1.5)",
+        "outcome": "Nemiga",
+        "value": 1534.9005,
+        "avgPrice": 0.5918,
+        "slug": "cs2-hotu-nemi1-2026-09-09-map-handicap-away-1pt5"
+      },
+      "0x350934131d6dd5df2dd1bd5a373ba6a3cde672824bb1666da72af7a467cf07a3|FC Bunyodkor": {
+        "title": "Spread: PFC Nasaf (-1.5)",
+        "outcome": "FC Bunyodkor",
+        "value": 1534.5,
+        "avgPrice": 0.47,
+        "slug": "uzb1-nas-bun-2026-09-09-spread-home-1pt5"
       },
       "0x6af3ba4dced0436d91315a2696c57ec07d979a989d26bc4353c5fbf01c4b3548|Leo Deflandre": {
         "title": "M15 Monastir: Kael Shalin Shah vs Leo Deflandre",
@@ -500,40 +612,61 @@
         "avgPrice": 0.738,
         "slug": "itf-shah2-deflan1-2026-09-09"
       },
-      "0x1d72c37e8698b1453d85059eef2061c5aa091179f70a05c65a4bb4bdd34b1a01|Tobia Costanzo Baragiola Mordini": {
-        "title": "M15 Budapest: Vincent Dullinger vs Tobia Costanzo Baragiola Mordini",
-        "outcome": "Tobia Costanzo Baragiola Mordini",
-        "value": 1285.7375,
-        "avgPrice": 0.5472,
-        "slug": "itf-dullin1-mordin1-2026-09-09"
+      "0xc5626d352036a0ada125096a61457d69aacd5354f5f7b4f3df12e5fbf71529fd|Under": {
+        "title": "Games Total: O/U 2.5",
+        "outcome": "Under",
+        "value": 1411.079,
+        "avgPrice": 0.4674,
+        "slug": "cs2-bb3-ast10-2026-09-09-total-games-2pt5"
       },
-      "0x718b81a27d24bb5359dfd5c66ea1c127b825cdd153d40b8913157ec7404ad960|Amandine Hesse": {
-        "title": "W35 Reus: Amandine Hesse vs Beatrise Zeltina",
-        "outcome": "Amandine Hesse",
-        "value": 1095.7129,
-        "avgPrice": 0.8333,
-        "slug": "itf-hesse1-zeltin1-2026-09-09"
+      "0x208d857211090b863f508eca7ba6a6d3dfce46919fbbc40a7ca304a8da3d6004|Sinners": {
+        "title": "Counter-Strike: NIP vs Sinners - Map 1 Winner",
+        "outcome": "Sinners",
+        "value": 1243.4856,
+        "avgPrice": 0.4538,
+        "slug": "cs2-nip-sin2-2026-09-09-game1"
       },
-      "0xb60c5e378332314ff755e9ac5d081cf72dcdbeda0b93cd92ea4fe4b5c9bab0b0|Nuclear TigeRES": {
-        "title": "Counter-Strike: Nuclear TigeRES vs 1WIN - Map 2 Winner",
-        "outcome": "Nuclear TigeRES",
-        "value": 998.6629,
-        "avgPrice": 0.6648,
-        "slug": "cs2-ntr-1win-2026-09-09-game2"
+      "0x55ebfe1408676cfb2d8577ca86924d40ec032dbd0409d91c25576a824af00a82|Bruno Fernandez": {
+        "title": "M15 Budapest: Flynn Thomas vs Bruno Fernandez",
+        "outcome": "Bruno Fernandez",
+        "value": 1202.65,
+        "avgPrice": 0.9376,
+        "slug": "itf-thomas1-fernan2-2026-09-09"
       },
-      "0x9b14151a39987f7ecea3cf97975ef97aabf5e98847a61d83bc5d31f8649f380b|Kris van Wyk": {
-        "title": "M15 Monastir: Rahul Dhokia vs Kris van Wyk",
-        "outcome": "Kris van Wyk",
-        "value": 965.2446,
-        "avgPrice": 0.376,
-        "slug": "itf-dhokia1-wyk1-2026-09-09"
+      "0x3f8537f9da8534aa1fb09482e19ad8e312879e15557ec169a94b54d7eaa72cd0|Andrea Colombo": {
+        "title": "M25 Pozzuoli: Andrea Colombo vs Filippo Pecorini",
+        "outcome": "Andrea Colombo",
+        "value": 1183.26,
+        "avgPrice": 0.61,
+        "slug": "itf-colomb1-pecori1-2026-09-09"
       },
       "0x4208150d103f172c1272eb1b451b9db8a59d6812851de1819fe24e19299b3e56|Yes": {
         "title": "Will FK Neftchi Fargona win on 2026-09-09?",
         "outcome": "Yes",
-        "value": 940.1752,
+        "value": 1132.0477,
         "avgPrice": 0.7299,
         "slug": "uzb1-nef-fkt-2026-09-09-nef"
+      },
+      "0xda181658883278487ced757cbf42fa67995878f0b1ede93dece1b71db6e40a38|Maria Sofia Madrid Rocca": {
+        "title": "W15 Pilar (moved from San Salvador de Jujuy): Gabriela Kawano Cho vs Maria Sofia Madrid Rocca",
+        "outcome": "Maria Sofia Madrid Rocca",
+        "value": 1077.5501,
+        "avgPrice": 0.8839,
+        "slug": "itf-cho1-rocca1-2026-09-09"
+      },
+      "0xe4369cb02ff104dea8f681098f1aed1ad5f6594c2862323acb7620768fe44d3f|Aoi Ito": {
+        "title": "W50 Evora: Aoi Ito vs Linda Fruhvirtova",
+        "outcome": "Aoi Ito",
+        "value": 976.3503,
+        "avgPrice": 0.5475,
+        "slug": "itf-ito1-fruhvi1-2026-09-09"
+      },
+      "0x152d02f0780c4dd83ae5b1375afa5b72415fb27ac9845f9078aab5bcb1d4cedb|HOTU": {
+        "title": "Counter-Strike: HOTU vs Nemiga (BO3) - 1win Private Club #1: Closed Qualifier Playoffs",
+        "outcome": "HOTU",
+        "value": 968.8768,
+        "avgPrice": 0.6462,
+        "slug": "cs2-hotu-nemi1-2026-09-09"
       },
       "0xc2930df535462409523c4330b7bea5eca23e7b3d0df4bf36db15c9c3c73f7bd0|Jack Draper": {
         "title": "Lexus Eastbourne Open: Brandon Nakashima vs Jack Draper",
@@ -542,26 +675,33 @@
         "avgPrice": 0.44,
         "slug": "atp-nakashi-draper-2026-06-22"
       },
-      "0x5dab16ca69a9ff6de70b6ee473a26a9224708dbd28a51f61cd09ba7fad5dfb50|Marta Soriano Santiago": {
-        "title": "W15 Dijon: Ninon Carpentier vs Marta Soriano Santiago",
-        "outcome": "Marta Soriano Santiago",
-        "value": 889.911,
-        "avgPrice": 0.8418,
-        "slug": "itf-carpen1-santia1-2026-09-09"
-      },
-      "0x76184209a1e6e96bbbab9d3aed60d161e2af2eb9525ba025eaa1b34e7c9ba862|Mathys Erhard": {
-        "title": "Cassis: Mathys Erhard vs Daniil Glinka",
-        "outcome": "Mathys Erhard",
-        "value": 860.2697,
-        "avgPrice": 0.4198,
-        "slug": "atp-erhard-glinka-2026-09-09"
-      },
       "0xc133482d19ef3092d91c90c6e9261e8ffd141870608a3549bbffe31c6ac506f8|Lotte Giants": {
         "title": "KBO: LG Twins vs. Lotte Giants",
         "outcome": "Lotte Giants",
-        "value": 827.77,
+        "value": 863.76,
         "avgPrice": 0.3865,
         "slug": "kbo-lg-lot-2026-08-28"
+      },
+      "0x84f3b2402f5471ff48cd85a43fa5ff8b144afc5b6c3afcc8ac7437578aba6774|PARIVISION": {
+        "title": "Counter-Strike: PARIVISION vs FURIA (BO3) - FISSURE PLAYGROUND Group B",
+        "outcome": "PARIVISION",
+        "value": 856.2777,
+        "avgPrice": 0.1698,
+        "slug": "cs2-prv-furia-2026-09-09"
+      },
+      "0xa70a38959247dd86685fdfd0f7d2e65fa46b9c0cceffb8ddcdbcb18c28a551f8|HOTU": {
+        "title": "Counter-Strike: HOTU vs Nemiga - Map 1 Winner",
+        "outcome": "HOTU",
+        "value": 829.2684,
+        "avgPrice": 0.5209,
+        "slug": "cs2-hotu-nemi1-2026-09-09-game1"
+      },
+      "0xb023fdf40135dcc35a94594ffdecd1683406eca130ba9b249e7e315be3b1c381|No": {
+        "title": "Derby County FC vs. West Bromwich Albion FC: Both Teams to Score",
+        "outcome": "No",
+        "value": 793.6432,
+        "avgPrice": 0.45,
+        "slug": "elc-der-wba-2026-09-09-btts"
       },
       "0xabf26f2e50e94945102319a56582c75c34f5f52e8cfe1a7a6edfe895ee2775a9|Soon-Woo Kwon": {
         "title": "Quebec City: Benjamin Bonzi vs Soon-Woo Kwon",
@@ -570,33 +710,12 @@
         "avgPrice": 0.49,
         "slug": "atp-bonzi-kwon-2026-08-20"
       },
-      "0x68033c53455a3cc17620d107096705df864d0677c7f78c0760b664a4c044ca63|Legacy": {
-        "title": "Map Handicap: LGC (-1.5) vs Alliance (+1.5)",
-        "outcome": "Legacy",
-        "value": 764.0517,
-        "avgPrice": 0.5069,
-        "slug": "cs2-lgc-all-2026-09-09-map-handicap-away-1pt5"
-      },
-      "0x4de066364a0c207c7a1910015143a058d47867b79224612390994bda50d68bd2|Grigory Shebekin": {
-        "title": "M15 Tsaghkadzor: Grigory Shebekin vs Artur Kukasian",
-        "outcome": "Grigory Shebekin",
-        "value": 732.7743,
-        "avgPrice": 0.6611,
-        "slug": "itf-shebek1-kukasi1-2026-09-09"
-      },
-      "0xc6f25fc04c9f28cece442f3740ebede6686d93f3463429166d10e8477fabd9f8|Ruslan Tiukaev": {
-        "title": "M15 Tsaghkadzor: Fermin Tenti vs Ruslan Tiukaev",
-        "outcome": "Ruslan Tiukaev",
-        "value": 677.9703,
-        "avgPrice": 0.7247,
-        "slug": "itf-tenti1-tiukae1-2026-09-09"
-      },
-      "0x1c04a5394594da967b5688e4bde27106f5eb928d516cd49f213db07aa84498e8|Nuclear TigeRES": {
-        "title": "Counter-Strike: Nuclear TigeRES vs 1WIN (BO3) - PGL Masters Bucharest: European Qualifier Playoffs",
-        "outcome": "Nuclear TigeRES",
-        "value": 675.636,
-        "avgPrice": 0.2296,
-        "slug": "cs2-ntr-1win-2026-09-09"
+      "0x25481bd15a5ad3d036b47c0cc71ea61838e256bc9b5cc31f5a8b3a7bc2b462e8|Miguel Semedo": {
+        "title": "M25 Sintra: Artem Alekseychuk vs Miguel Semedo",
+        "outcome": "Miguel Semedo",
+        "value": 699.9398,
+        "avgPrice": 0.5925,
+        "slug": "itf-alekse2-semedo1-2026-09-09"
       },
       "0x6e52e45529e66a5422eb427624a7bff1a53071edeadecb098931575f4953b4bc|Tara Wurth": {
         "title": "Makarska: Rebecca Sramkova vs Tara Wurth",
@@ -605,6 +724,27 @@
         "avgPrice": 0.22,
         "slug": "wta-sramkov-wurth-2026-06-03"
       },
+      "0x3f8537f9da8534aa1fb09482e19ad8e312879e15557ec169a94b54d7eaa72cd0|Filippo Pecorini": {
+        "title": "M25 Pozzuoli: Andrea Colombo vs Filippo Pecorini",
+        "outcome": "Filippo Pecorini",
+        "value": 641.8061,
+        "avgPrice": 0.2248,
+        "slug": "itf-colomb1-pecori1-2026-09-09"
+      },
+      "0x1d304bb21df22220d9e9de892e39950954a43fa45c9b36f33899e4ea5f014926|PARIVISION": {
+        "title": "Counter-Strike: PARIVISION vs FURIA - Map 2 Winner",
+        "outcome": "PARIVISION",
+        "value": 629.3469,
+        "avgPrice": 0.2088,
+        "slug": "cs2-prv-furia-2026-09-09-game2"
+      },
+      "0x8ff4188542e73f62f0c79792ed8f27a096c219eb5b0181812364387a26bdb169|Hannah Klugman": {
+        "title": "W50 Evora: Hannah Klugman vs Angelina Voloshchuk",
+        "outcome": "Hannah Klugman",
+        "value": 625.28,
+        "avgPrice": 0.35,
+        "slug": "itf-klugma1-volosh1-2026-09-09"
+      },
       "0xd5775d8d33445e6f5c14b584c0f54535d4b2255b8cdfa9b69697f86969327718|Svyatoslav Gulin": {
         "title": "Prague: Marek Gengel vs Svyatoslav Gulin",
         "outcome": "Svyatoslav Gulin",
@@ -612,33 +752,26 @@
         "avgPrice": 0.5,
         "slug": "atp-gengel-gulin-2026-08-16"
       },
-      "0x6b2b142ebd887b36412589621e46543c7fb69cf0a5b4945f2efb3d52a6fb5cf3|Andreea Prisacariu": {
-        "title": "W15 Campulung: Estella Jaeger vs Andreea Prisacariu",
-        "outcome": "Andreea Prisacariu",
-        "value": 587.1731,
-        "avgPrice": 0.96,
-        "slug": "itf-jaeger1-prisac1-2026-09-09"
+      "0x208d857211090b863f508eca7ba6a6d3dfce46919fbbc40a7ca304a8da3d6004|NIP": {
+        "title": "Counter-Strike: NIP vs Sinners - Map 1 Winner",
+        "outcome": "NIP",
+        "value": 602.043,
+        "avgPrice": 0.3503,
+        "slug": "cs2-nip-sin2-2026-09-09-game1"
       },
-      "0x46aebe9c45168faef7fb029932e438b16949a0e8792d9e4cf32e2b8f490fefad|Xirui Han": {
-        "title": "M15 Wuning: Yuquan Jin vs Xirui Han",
-        "outcome": "Xirui Han",
-        "value": 560.0848,
-        "avgPrice": 0.7469,
-        "slug": "itf-jin1-han1-2026-09-09"
+      "0xc0edf87498f07fb40a7f4ed912d7da6ca25d764b8a98bc1a3ceecb74ca8e2a77|Toufik Sahtali": {
+        "title": "M15 Monastir: Matthew Carroll vs Toufik Sahtali",
+        "outcome": "Toufik Sahtali",
+        "value": 573.8197,
+        "avgPrice": 0.8431,
+        "slug": "itf-carrol1-sahtal1-2026-09-09"
       },
-      "0xf36718039325aaecfc0ce46fb91607055809e05169794a4746043b3f1ba694f1|Anna Dvorackova": {
-        "title": "W15 Radom: Anna Dvorackova vs Tamara Sramkova",
-        "outcome": "Anna Dvorackova",
-        "value": 551.6113,
-        "avgPrice": 0.509,
-        "slug": "itf-dvorac1-sramko1-2026-09-09"
-      },
-      "0xf4f3a4bd839f4787462cbd6df1f2003127feb82f8d46f5ef048913c78ba3eac3|Egor Pleshivtsev": {
-        "title": "M15 Tsaghkadzor: Lawrence Bataljin vs Egor Pleshivtsev",
-        "outcome": "Egor Pleshivtsev",
-        "value": 529.3935,
-        "avgPrice": 0.9482,
-        "slug": "itf-batalj1-pleshi1-2026-09-09"
+      "0xc0edf87498f07fb40a7f4ed912d7da6ca25d764b8a98bc1a3ceecb74ca8e2a77|Matthew Carroll": {
+        "title": "M15 Monastir: Matthew Carroll vs Toufik Sahtali",
+        "outcome": "Matthew Carroll",
+        "value": 568.7283,
+        "avgPrice": 0.3172,
+        "slug": "itf-carrol1-sahtal1-2026-09-09"
       },
       "0x2a6e431d9c6d91853bc9c1f345fa7498f615fba2e362644fbb7015f28e9da3db|Yes": {
         "title": "Will CA Penarol Montevideo win on 2026-08-08?",
@@ -647,12 +780,19 @@
         "avgPrice": 0.46,
         "slug": "uru1-tor-pen-2026-08-08-pen"
       },
-      "0x8b2ab5b77cf0a6d69adf22938128ca12785831df420359d5a7f51dd66b6e98b8|Axel Garcian": {
-        "title": "M25 Plaisir + H: Alex Kobelt vs Axel Garcian",
-        "outcome": "Axel Garcian",
-        "value": 514.1169,
-        "avgPrice": 0.8256,
-        "slug": "itf-kobelt1-garcia5-2026-09-09"
+      "0x8a2ad123f4be5fbf9302c8d5b274f97653e4589e3c2a5b558927a5e4b627731d|Yes": {
+        "title": "Will Pyramids FC win on 2026-09-08?",
+        "outcome": "Yes",
+        "value": 519.12,
+        "avgPrice": 0.72,
+        "slug": "egy1-pyf-egs-2026-09-08-pyf"
+      },
+      "0xe0574c47210c9a2acf177231b9d80a6b6b290ff2d2c42cc8ead9729b62d13868|Xavi Palomar": {
+        "title": "M25 Gijon: Tristan McCormick vs Xavi Palomar",
+        "outcome": "Xavi Palomar",
+        "value": 514.9038,
+        "avgPrice": 0.4304,
+        "slug": "itf-mccorm2-paloma1-2026-09-09"
       }
     },
     "#3 2C": {
@@ -687,7 +827,7 @@
       "0xd41e70b42d2326b8007a170887b69f84f815ae7d2bd03e1eadbcd0487870a988|Yes": {
         "title": "Will FC Cincinnati win on 2026-09-05?",
         "outcome": "Yes",
-        "value": 3926.8775,
+        "value": 3806.0505,
         "avgPrice": 0.5723,
         "slug": "mls-fcc-dcu-2026-09-05-fcc"
       },
@@ -715,7 +855,7 @@
       "0xb42e329506223bf4f83a16d9ff6ae5f587153aad6bce246d875b6c72574b87d1|Amritsar Soormas": {
         "title": "Sher-E-Punjab T20: Jalandhar Warriors vs Amritsar Soormas",
         "outcome": "Amritsar Soormas",
-        "value": 982.1175,
+        "value": 944.7035,
         "avgPrice": 0.7076,
         "slug": "cricsherepunjab-jal-amr-2026-09-07"
       }
@@ -745,21 +885,21 @@
       "0xa26b10762096ade1fc322372d963e41ae8d1a128cf7ac430ca269ebda3788335|No": {
         "title": "Exact Score: Chicago Fire FC 1 - 2 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 1611.5884,
+        "value": 1616.5441,
         "avgPrice": 0.9087,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-1-2"
       },
       "0x7beb03b48f520e43ae2e217fefe3a48f6948018d3da07678e22708463789afa0|No": {
         "title": "Exact Score: Chicago Fire FC 3 - 2 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 1095.5039,
+        "value": 1093.6607,
         "avgPrice": 0.9583,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-3-2"
       },
       "0x2307c8dd123f120f7d8a890646229f3b0211e182534e925e9604942317b7eddd|No": {
         "title": "Exact Score: Chicago Fire FC 3 - 3 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 913.9828,
+        "value": 914.4636,
         "avgPrice": 0.9739,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-3-3"
       },
@@ -801,7 +941,7 @@
       "0x60d0badc8638ae1c41a4506c2205af08e0775b655c83d9abf34ba1a74da9b18c|No": {
         "title": "Exact Score: Chicago Fire FC 1 - 3 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 556.9317,
+        "value": 555.3174,
         "avgPrice": 0.9467,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-1-3"
       },
@@ -817,44 +957,51 @@
       "0xcd72444fe488504de8f14510eb0911541cf08d0d4b9c2476a75da719ccf89432|Patriots": {
         "title": "Spread: Seahawks (-6.5)",
         "outcome": "Patriots",
-        "value": 23287.2,
+        "value": 23099.4,
         "avgPrice": 0.6,
         "slug": "nfl-ne-sea-2026-09-10-spread-home-6pt5"
       },
-      "0xfac02b30e246434ca81ddc74e301d335d0623eb8db04db1b9c64072675af8527|Aurora Zantedeschi": {
-        "title": "Antalya 4: Lina Gjorcheska vs Aurora Zantedeschi",
-        "outcome": "Aurora Zantedeschi",
-        "value": 9344.8144,
-        "avgPrice": 0.4786,
-        "slug": "wta-gjorche-zantede-2026-09-09"
+      "0xdf4a63d754babdc39712cbc0f5eefb93baff08a2c208bdd73b37f77443eb7b0e|Over": {
+        "title": "Patriots vs. Seahawks: O/U 44.5",
+        "outcome": "Over",
+        "value": 12561.5,
+        "avgPrice": 0.4899,
+        "slug": "nfl-ne-sea-2026-09-10-total-44pt5"
       },
-      "0x602ebca708ebff0b0a24f7ed2f9a235e00a499522b0f9518645adae0467b8ff7|Zdenek Kolar": {
-        "title": "Tulln: Zdenek Kolar vs Martin Krumich",
-        "outcome": "Zdenek Kolar",
-        "value": 8887.7997,
-        "avgPrice": 0.7978,
-        "slug": "atp-kolar-krumich-2026-09-09"
+      "0xee5d05fdd0f8dd96299dd91d337a8ecbc7de0d5fe96d6d55f89059fb773233d0|Rams": {
+        "title": "Spread: Rams (-3.5)",
+        "outcome": "Rams",
+        "value": 6699.6683,
+        "avgPrice": 0.51,
+        "slug": "nfl-sf-la-2026-09-11-spread-home-3pt5"
       },
-      "0x053167908578edcff73e38569bd10ae71149497ade442f0f031d7639c550e973|Marat Sharipov": {
-        "title": "Shanghai: Marat Sharipov vs Taro Daniel",
-        "outcome": "Marat Sharipov",
-        "value": 8210.6716,
-        "avgPrice": 0.355,
-        "slug": "atp-sharipo-daniel-2026-09-08"
+      "0x0bd99bdc83cfbf1aca94c54df2d9c4579894e2d620837c02c8d14221249e7038|Clara Burel": {
+        "title": "Montreux: Tessa Brockmann vs Clara Burel",
+        "outcome": "Clara Burel",
+        "value": 5846.7592,
+        "avgPrice": 0.7064,
+        "slug": "wta-brockma-burel-2026-09-09"
       },
-      "0xfac02b30e246434ca81ddc74e301d335d0623eb8db04db1b9c64072675af8527|Lina Gjorcheska": {
-        "title": "Antalya 4: Lina Gjorcheska vs Aurora Zantedeschi",
-        "outcome": "Lina Gjorcheska",
-        "value": 7673.8851,
-        "avgPrice": 0.61,
-        "slug": "wta-gjorche-zantede-2026-09-09"
+      "0x2e9440dedca55f3049311c8c840d15d000460118472d09b7842b02dd01c325c8|Under": {
+        "title": "St. Louis Cardinals vs. San Francisco Giants: O/U 8.5",
+        "outcome": "Under",
+        "value": 5752.1706,
+        "avgPrice": 0.5046,
+        "slug": "mlb-stl-sf-2026-09-09-total-8pt5"
       },
-      "0x4ac90618e451ce42bdeb8bf7ca11c5fcac0b03c10c5417d0f5bdbb9ee5152da3|Elizara Yaneva": {
-        "title": "Antalya 4: Zhibek Kulambayeva vs Elizara Yaneva",
-        "outcome": "Elizara Yaneva",
-        "value": 7083.6069,
-        "avgPrice": 0.7835,
-        "slug": "wta-kulamba-yaneva-2026-09-09"
+      "0x74c2c87e6c78f4f3d9c04916f2a4f324bc67df314ffe8fdbdaefa345192e1486|Alevtina Ibragimova": {
+        "title": "Antalya 4: Alevtina Ibragimova vs Leyre Romero Gormaz",
+        "outcome": "Alevtina Ibragimova",
+        "value": 5073.0622,
+        "avgPrice": 0.7734,
+        "slug": "wta-ibragim-gormaz-2026-09-09"
+      },
+      "0xa0451a1d8a92057fefa3f8b66bfdc94a0d3aa30cabc387bb66f305caa72d3582|Irene Burillo Escorihuela": {
+        "title": "Antalya 4: Irene Burillo Escorihuela vs Miriam Bulgaru",
+        "outcome": "Irene Burillo Escorihuela",
+        "value": 4869.7974,
+        "avgPrice": 0.655,
+        "slug": "wta-escorih-bulgaru-2026-09-09"
       },
       "0x576cbfee15f6fe29215ceb8ef673488dfe2733dfb05cf00bb77dda2affe0823d|Bengals": {
         "title": "Spread: Bengals (-3.5)",
@@ -863,19 +1010,33 @@
         "avgPrice": 0.5,
         "slug": "nfl-tb-cin-2026-09-13-spread-home-3pt5"
       },
-      "0x559b03069318806c6461056f7ef5cc7984db7819157b60d19f755588ccabb3c5|Fukuoka SoftBank Hawks": {
-        "title": "Fukuoka SoftBank Hawks vs. Nippon Ham Fighters",
-        "outcome": "Fukuoka SoftBank Hawks",
-        "value": 2762.8256,
-        "avgPrice": 0.6068,
-        "slug": "npb-fuk-nip-2026-09-09"
+      "0x3a92c8a6675133c926fb2132e18fd7a5c0e31f900dcd3624162eb8b04ea19704|Ugo Blanchet": {
+        "title": "Cassis: Ugo Blanchet vs Daniel Rincon",
+        "outcome": "Ugo Blanchet",
+        "value": 4661.9081,
+        "avgPrice": 0.635,
+        "slug": "atp-blanche-rincon-2026-09-09"
       },
-      "0x84130376c3e498555b202d6b81751440232346a372e7e6063b7cbad9570678aa|Hanshin Tigers": {
-        "title": "Hanshin Tigers vs. Hiroshima Carp",
-        "outcome": "Hanshin Tigers",
-        "value": 2029.275,
-        "avgPrice": 0.6956,
-        "slug": "npb-han-hir-2026-09-09"
+      "0xfcd593e7f3682a7c44d558cbc1322c92064796472b790f08cbad3ad3c6a54c14|Gabi Boitan": {
+        "title": "Istanbul 3: Gabi Boitan vs Harold Mayot",
+        "outcome": "Gabi Boitan",
+        "value": 3545.9705,
+        "avgPrice": 0.4423,
+        "slug": "atp-boitan-mayot-2026-09-09"
+      },
+      "0x950b111e9f9ca4c1e8741e9977a588f2d730b67105ffe6467be48a08170880aa|Stefanos Sakellaridis": {
+        "title": "Genoa: Duje Ajdukovic vs Stefanos Sakellaridis",
+        "outcome": "Stefanos Sakellaridis",
+        "value": 3468.2098,
+        "avgPrice": 0.65,
+        "slug": "atp-ajdukov-sakella-2026-09-09"
+      },
+      "0x59b6872032450c1296b97f57029e3af6d2b5ecce026d6f6e1af8292873167033|Under": {
+        "title": "Texas Rangers vs. Seattle Mariners: O/U 7.5",
+        "outcome": "Under",
+        "value": 2010.4121,
+        "avgPrice": 0.45,
+        "slug": "mlb-tex-sea-2026-09-09-total-7pt5"
       },
       "0x7c51ca4fa62fa356430f6aaaad839888a475c9a791b089fb3e5c7717c6a39342|Barbora Palicova": {
         "title": "Makarska: Petra Marcinko vs Barbora Palicova",
@@ -884,33 +1045,40 @@
         "avgPrice": 0.3625,
         "slug": "wta-marcink-palicov-2026-06-04"
       },
+      "0x1d19d7b94bee2677f0af1af447f191941f14aaf8a2be85444518d4c43d03e0aa|Toronto Blue Jays": {
+        "title": "Spread: Athletics (-1.5)",
+        "outcome": "Toronto Blue Jays",
+        "value": 1900.4206,
+        "avgPrice": 0.76,
+        "slug": "mlb-tor-oak-2026-09-09-spread-home-1pt5"
+      },
       "0xee5d05fdd0f8dd96299dd91d337a8ecbc7de0d5fe96d6d55f89059fb773233d0|49ers": {
         "title": "Spread: Rams (-3.5)",
         "outcome": "49ers",
-        "value": 1740.3665,
+        "value": 1776.2503,
         "avgPrice": 0.48,
         "slug": "nfl-sf-la-2026-09-11-spread-home-3pt5"
       },
-      "0x1423a366dc3a19a6716e39af558e93372e0b535619f877593f689f33d81b46c1|SSG Landers": {
-        "title": "KBO: SSG Landers vs. Doosan Bears",
-        "outcome": "SSG Landers",
-        "value": 1669.2455,
-        "avgPrice": 0.3259,
-        "slug": "kbo-ssg-doo-2026-09-09"
+      "0x1eda8d53cc8e66ce911f7bdabda1c68aa216b0fa5c9174da7330c3c41b0aa68d|San Diego Padres": {
+        "title": "Spread: Washington Nationals (-1.5)",
+        "outcome": "San Diego Padres",
+        "value": 1737.4591,
+        "avgPrice": 0.72,
+        "slug": "mlb-wsh-sd-2026-09-09-spread-away-1pt5"
       },
-      "0x9782584850af1fca7e3cb5e6e81c930bf4f864bb40ccf1aa31e95e3102122bf1|Saitama Seibu Lions": {
-        "title": "Orix Buffaloes vs. Saitama Seibu Lions",
-        "outcome": "Saitama Seibu Lions",
-        "value": 1641.9187,
-        "avgPrice": 0.4798,
-        "slug": "npb-ori-sai-2026-09-09"
+      "0x85a722c86700e009adcf4e4b7a6bc32b16740d18f119d45e213756794d64ca51|Arizona Diamondbacks": {
+        "title": "Spread: Kansas City Royals (-1.5)",
+        "outcome": "Arizona Diamondbacks",
+        "value": 1484.8676,
+        "avgPrice": 0.6799,
+        "slug": "mlb-ari-kc-2026-09-09-spread-home-1pt5"
       },
-      "0x053167908578edcff73e38569bd10ae71149497ade442f0f031d7639c550e973|Taro Daniel": {
-        "title": "Shanghai: Marat Sharipov vs Taro Daniel",
-        "outcome": "Taro Daniel",
-        "value": 1340.7906,
-        "avgPrice": 0.8094,
-        "slug": "atp-sharipo-daniel-2026-09-08"
+      "0xbd9e3a5c7643c2f00a0a931a5b97332b5e94d05eb3d37186a21257eff62b3f94|Kansas City Royals": {
+        "title": "Spread: Arizona Diamondbacks (-1.5)",
+        "outcome": "Kansas City Royals",
+        "value": 1380.2036,
+        "avgPrice": 0.61,
+        "slug": "mlb-ari-kc-2026-09-09-spread-away-1pt5"
       },
       "0x4d2bf3bb1c79889eeca61c883ffb9f6b1c96d6a887e3d9c1db8cb13720527553|Wake Forest": {
         "title": "Spread: Wake Forest (-2.5)",
@@ -933,19 +1101,26 @@
         "avgPrice": 0.6104,
         "slug": "wta-masarov-ryser-2026-07-18-match-total-23pt5"
       },
+      "0x04aa0aedfc2efcab7c9812925608ca3f517cf60a56ccd95c64ece2f71657df02|Athletics": {
+        "title": "Spread: Toronto Blue Jays (-1.5)",
+        "outcome": "Athletics",
+        "value": 1157.6961,
+        "avgPrice": 0.49,
+        "slug": "mlb-tor-oak-2026-09-09-spread-away-1pt5"
+      },
+      "0x753c4ac7433a676b5ca5de385d48937cb70ced1db6513e072c1d43b1925fa694|Under": {
+        "title": "Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5",
+        "outcome": "Under",
+        "value": 1140.72,
+        "avgPrice": 0.5,
+        "slug": "mlb-pit-cws-2026-09-09-total-8pt5"
+      },
       "0x4fd331c2bc23e1d253a2dc5559d628fb1e81062029f9f4c5ee9da3870d9337e9|Over": {
         "title": "Iowa State vs. Iowa: O/U 40.5",
         "outcome": "Over",
         "value": 1126.6162,
         "avgPrice": 0.4799,
         "slug": "cfb-iowast-iowa-2026-09-12-total-40pt5"
-      },
-      "0x2e9440dedca55f3049311c8c840d15d000460118472d09b7842b02dd01c325c8|Under": {
-        "title": "St. Louis Cardinals vs. San Francisco Giants: O/U 8.5",
-        "outcome": "Under",
-        "value": 1120.6928,
-        "avgPrice": 0.51,
-        "slug": "mlb-stl-sf-2026-09-09-total-8pt5"
       },
       "0x8ffd5b9a6b3be963af98b219e94a30adf690636c83a7249cdef0a7fae416032a|Over": {
         "title": "Rice vs. Notre Dame: O/U 54.5",
@@ -954,19 +1129,33 @@
         "avgPrice": 0.5299,
         "slug": "cfb-rice-nd-2026-09-12-total-54pt5"
       },
+      "0xc7ea7d2323707e8aa2c96f6546bd937915fc552d8517196c6f8f5744c11d4e56|Los Angeles Dodgers": {
+        "title": "Cincinnati Reds vs. Los Angeles Dodgers",
+        "outcome": "Los Angeles Dodgers",
+        "value": 1058.5065,
+        "avgPrice": 0.71,
+        "slug": "mlb-cin-lad-2026-09-09"
+      },
       "0xeb9178f98b236beb911828b79acec332fc14c1e0600c9c7e6e02d3b6e52affa1|Over": {
         "title": "Cincinnati Reds vs. Los Angeles Dodgers: O/U 8.5",
         "outcome": "Over",
-        "value": 1074.3117,
+        "value": 1053.0382,
         "avgPrice": 0.5,
         "slug": "mlb-cin-lad-2026-09-09-total-8pt5"
       },
       "0x14039392318b0ca2c58c8a4f388f62f670d281776fd6e9ce591a8c4d0f026215|Minnesota Twins": {
         "title": "Minnesota Twins vs. Detroit Tigers",
         "outcome": "Minnesota Twins",
-        "value": 1002.8655,
+        "value": 1046.9475,
         "avgPrice": 0.45,
         "slug": "mlb-min-det-2026-09-09"
+      },
+      "0x9007e104f8e9b878d182a272c7251ad803e4c4f5c7165ea25cbed64cdc193baa|Under": {
+        "title": "Colorado Rockies vs. New York Yankees: O/U 8.5",
+        "outcome": "Under",
+        "value": 973.5475,
+        "avgPrice": 0.43,
+        "slug": "mlb-col-nyy-2026-09-09-total-8pt5"
       },
       "0x097191d685fe440b361468cc28142d77cd880c0fd0f37f5bce001f650797efef|Under": {
         "title": "Rice vs. Notre Dame: O/U 55.5",
@@ -989,19 +1178,19 @@
         "avgPrice": 0.57,
         "slug": "atp-michels-gea-2026-07-20-match-total-23pt5"
       },
-      "0x82344c0ecfdd38f2737519013cc4ea856fac5adc7829dc1cb960a742fb6d4bf4|Alex Barrena": {
-        "title": "Tulln: Nico Hipfl vs Alex Barrena",
-        "outcome": "Alex Barrena",
-        "value": 823.9154,
-        "avgPrice": 0.7699,
-        "slug": "atp-hipfl-barrena-2026-09-09"
-      },
       "0xf9df6562255ab6ff931882801150ec7e5e0d5ed5b08073273d5f1cd08fd41cec|Patriots": {
         "title": "Spread: Seahawks (-4.5)",
         "outcome": "Patriots",
         "value": 791.661,
         "avgPrice": 0.55,
         "slug": "nfl-ne-sea-2026-09-10-spread-home-4pt5"
+      },
+      "0x8f2abcb3834ddbfd58d663e682ce6e3e8bae61d5f209b08af565f6ace559c4b8|Under": {
+        "title": "St. Louis Cardinals vs. San Francisco Giants: O/U 7.5",
+        "outcome": "Under",
+        "value": 748.1015,
+        "avgPrice": 0.42,
+        "slug": "mlb-stl-sf-2026-09-09-total-7pt5"
       },
       "0x2a34443a75f390096ef5f57be03574c54b878b250e2facd56ab6d192035a8350|Kia Tigers": {
         "title": "KBO: SSG Landers vs. Kia Tigers",
@@ -1017,6 +1206,13 @@
         "avgPrice": 0.3699,
         "slug": "cfb-unlv-ntx-2026-09-12"
       },
+      "0x3a92c8a6675133c926fb2132e18fd7a5c0e31f900dcd3624162eb8b04ea19704|Daniel Rincon": {
+        "title": "Cassis: Ugo Blanchet vs Daniel Rincon",
+        "outcome": "Daniel Rincon",
+        "value": 686.6308,
+        "avgPrice": 0.3734,
+        "slug": "atp-blanche-rincon-2026-09-09"
+      },
       "0x72818261579376200ed176839976254c145b0151c15eb5b107e009b5b3bfc8d3|Under": {
         "title": "Eastern Michigan vs. Michigan State: O/U 50.5",
         "outcome": "Under",
@@ -1031,6 +1227,20 @@
         "avgPrice": 0.54,
         "slug": "cfb-rice-nd-2026-09-12-total-56pt5"
       },
+      "0x753c4ac7433a676b5ca5de385d48937cb70ced1db6513e072c1d43b1925fa694|Over": {
+        "title": "Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5",
+        "outcome": "Over",
+        "value": 611.4646,
+        "avgPrice": 0.5099,
+        "slug": "mlb-pit-cws-2026-09-09-total-8pt5"
+      },
+      "0x7cb15cb94ae8f2525c922311a4189eeab2f3e18c97631da1004d6846aa0aa6c9|Under": {
+        "title": "Charlotte vs. Ole Miss: O/U 61.5",
+        "outcome": "Under",
+        "value": 571.915,
+        "avgPrice": 0.5098,
+        "slug": "cfb-charlt-miss-2026-09-12-total-61pt5"
+      },
       "0xdac1108e889b7eea62062fecfec44bc4cc16f21d18f8c83ce29b9223558f7f7e|Under": {
         "title": "UTSA vs. Texas State: O/U 68.5",
         "outcome": "Under",
@@ -1038,19 +1248,12 @@
         "avgPrice": 0.5599,
         "slug": "cfb-utsa-txst-2026-09-12-total-68pt5"
       },
-      "0x7cb15cb94ae8f2525c922311a4189eeab2f3e18c97631da1004d6846aa0aa6c9|Under": {
-        "title": "Charlotte vs. Ole Miss: O/U 61.5",
-        "outcome": "Under",
-        "value": 561.225,
-        "avgPrice": 0.5098,
-        "slug": "cfb-charlt-miss-2026-09-12-total-61pt5"
-      },
-      "0x7cb15cb94ae8f2525c922311a4189eeab2f3e18c97631da1004d6846aa0aa6c9|Over": {
-        "title": "Charlotte vs. Ole Miss: O/U 61.5",
-        "outcome": "Over",
-        "value": 542.984,
-        "avgPrice": 0.4796,
-        "slug": "cfb-charlt-miss-2026-09-12-total-61pt5"
+      "0xc33649d47f8517bdd4beb45f5e88b25512a5488d0826600186e363353b49af79|Fubon Guardians": {
+        "title": "Wei Chuan Dragons vs. Fubon Guardians",
+        "outcome": "Fubon Guardians",
+        "value": 548.4947,
+        "avgPrice": 0.5075,
+        "slug": "cpbl-wei-fub-2026-09-09"
       },
       "0x72818261579376200ed176839976254c145b0151c15eb5b107e009b5b3bfc8d3|Over": {
         "title": "Eastern Michigan vs. Michigan State: O/U 50.5",
@@ -1066,12 +1269,26 @@
         "avgPrice": 0.53,
         "slug": "cfb-mary-uconn-2026-09-12-total-53pt5"
       },
+      "0x7cb15cb94ae8f2525c922311a4189eeab2f3e18c97631da1004d6846aa0aa6c9|Over": {
+        "title": "Charlotte vs. Ole Miss: O/U 61.5",
+        "outcome": "Over",
+        "value": 531.5528,
+        "avgPrice": 0.4796,
+        "slug": "cfb-charlt-miss-2026-09-12-total-61pt5"
+      },
       "0x48bf04691f940daaa8f93e4c6b8c1e2470f4c05201a830e39aef0a7bd5253378|Under": {
         "title": "UTSA vs. Texas State: O/U 66.5",
         "outcome": "Under",
         "value": 515.0,
         "avgPrice": 0.51,
         "slug": "cfb-utsa-txst-2026-09-12-total-66pt5"
+      },
+      "0xa0451a1d8a92057fefa3f8b66bfdc94a0d3aa30cabc387bb66f305caa72d3582|Miriam Bulgaru": {
+        "title": "Antalya 4: Irene Burillo Escorihuela vs Miriam Bulgaru",
+        "outcome": "Miriam Bulgaru",
+        "value": 507.0,
+        "avgPrice": 0.49,
+        "slug": "wta-escorih-bulgaru-2026-09-09"
       },
       "0xf71cf285164075dc7a61cf2ef0e4e0a3adef8c9a23dd70abb570dcc2108c1ad2|Tennessee": {
         "title": "Spread: Tennessee (-13.5)",
@@ -1083,9 +1300,9 @@
     }
   },
   "announced": {
-    "0x602ebca708ebff0b0a24f7ed2f9a235e00a499522b0f9518645adae0467b8ff7|Zdenek Kolar": 3,
-    "0xfac02b30e246434ca81ddc74e301d335d0623eb8db04db1b9c64072675af8527|Aurora Zantedeschi": 3,
-    "0xfac02b30e246434ca81ddc74e301d335d0623eb8db04db1b9c64072675af8527|Lina Gjorcheska": 3,
-    "0x053167908578edcff73e38569bd10ae71149497ade442f0f031d7639c550e973|Marat Sharipov": 3
+    "0x3a92c8a6675133c926fb2132e18fd7a5c0e31f900dcd3624162eb8b04ea19704|Ugo Blanchet": 3,
+    "0x74c2c87e6c78f4f3d9c04916f2a4f324bc67df314ffe8fdbdaefa345192e1486|Alevtina Ibragimova": 3,
+    "0x950b111e9f9ca4c1e8741e9977a588f2d730b67105ffe6467be48a08170880aa|Stefanos Sakellaridis": 3,
+    "0xa0451a1d8a92057fefa3f8b66bfdc94a0d3aa30cabc387bb66f305caa72d3582|Miriam Bulgaru": 3
   }
 }
