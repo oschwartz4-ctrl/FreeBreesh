@@ -1,13 +1,6 @@
 {
   "seen": {
     "#1 Ferrari": {
-      "0xfd8af634e84e636411db852c10903e4cb8f701e31c9dc3cd4b41dd54fb811670|Dylan Dietrich": {
-        "title": "San Diego 2: Dinko Dinev vs Dylan Dietrich",
-        "outcome": "Dylan Dietrich",
-        "value": 32071.7189,
-        "avgPrice": 0.9045,
-        "slug": "atp-dinev-dietric-2026-09-21"
-      },
       "0x1f8d995c49e6794c58dcd187b413a66c625bc5296e95f22844e300da7e4a66b4|Ann Li": {
         "title": "Monterrey Open: Maria Timofeeva vs Ann Li",
         "outcome": "Ann Li",
@@ -18,37 +11,58 @@
       "0x1cd34a63f760504145a0c367e811e0d74fb58351c844285a7cdd85ef22d3a107|Toronto Blue Jays": {
         "title": "Spread: Baltimore Orioles (-1.5)",
         "outcome": "Toronto Blue Jays",
-        "value": 10267.7625,
+        "value": 14146.695,
         "avgPrice": 0.68,
         "slug": "mlb-tor-bal-2026-09-21-spread-home-1pt5"
+      },
+      "0x1ec0da00954dbed9f9e886699060473564d07b6ffc4dea0b5c3d5d3cd03c4dea|Under": {
+        "title": "Toronto Blue Jays vs. Baltimore Orioles: O/U 8.5",
+        "outcome": "Under",
+        "value": 9963.3567,
+        "avgPrice": 0.4403,
+        "slug": "mlb-tor-bal-2026-09-21-total-8pt5"
       },
       "0xdc668e056f354ba5cf3169c16b77bb3266b9a01b7d4959b74ac26783eb7e1858|Gabriela Ruse": {
         "title": "Korea Open: Eva Lys vs Gabriela Ruse",
         "outcome": "Gabriela Ruse",
-        "value": 7718.4451,
+        "value": 7839.9954,
         "avgPrice": 0.6219,
         "slug": "wta-lys-ruse-2026-09-20"
+      },
+      "0xe3ac92aff8c46ad0bd3df916cd4ee865988454e5458a73755665b75c16d0e998|Over": {
+        "title": "Washington Nationals vs. Detroit Tigers: O/U 10.5",
+        "outcome": "Over",
+        "value": 7640.1588,
+        "avgPrice": 0.51,
+        "slug": "mlb-wsh-det-2026-09-21-total-10pt5"
       },
       "0xcbb3da9d3f8feb5ecd19fad54b191b69525ac756f7fd4934c70a49dccb78029e|Dallas Wings": {
         "title": "Spread: Dallas Wings (-6.5)",
         "outcome": "Dallas Wings",
-        "value": 6113.6582,
-        "avgPrice": 0.4599,
+        "value": 6739.4506,
+        "avgPrice": 0.4609,
         "slug": "wnba-dal-phx-2026-09-21-spread-away-6pt5"
       },
-      "0x6659cb5686957db8b81924abe09e65c70dd2e5050ba74395644f31aa4a8174ee|Over": {
-        "title": "Washington Nationals vs. Detroit Tigers: O/U 8.5",
-        "outcome": "Over",
-        "value": 4375.3695,
-        "avgPrice": 0.5099,
-        "slug": "mlb-wsh-det-2026-09-21-total-8pt5"
+      "0x664afb1a78b56c93c20081e44a68e941907fc0af509b66204e6a28ff4dac46ae|Rams": {
+        "title": "Spread: Rams (-10.5)",
+        "outcome": "Rams",
+        "value": 5660.4209,
+        "avgPrice": 0.4609,
+        "slug": "nfl-nyg-la-2026-09-22-spread-home-10pt5"
       },
-      "0x9e724ab9607323d70cebae0bca2cdea2704d7b8cd76d06169cf232e3dd5e2502|Baltimore Orioles": {
-        "title": "Toronto Blue Jays vs. Baltimore Orioles",
-        "outcome": "Baltimore Orioles",
-        "value": 4100.7681,
-        "avgPrice": 0.5,
-        "slug": "mlb-tor-bal-2026-09-21"
+      "0xa590e64c23a615083a2bcedd3d6cb8ac8ac0bfaeb8baf3531af93d14da530ff0|Rams": {
+        "title": "Spread: Rams (-7.5)",
+        "outcome": "Rams",
+        "value": 3973.1289,
+        "avgPrice": 0.4424,
+        "slug": "nfl-nyg-la-2026-09-22-spread-home-7pt5"
+      },
+      "0xab906170ebd92007ac5cb8ae5cb4b6fce5ac1ee75d625ced3aab59ab944b0149|Giants": {
+        "title": "Spread: Rams (-6.5)",
+        "outcome": "Giants",
+        "value": 3614.0175,
+        "avgPrice": 0.5049,
+        "slug": "nfl-nyg-la-2026-09-22-spread-home-6pt5"
       },
       "0x3a5736b4d3b777663ab3b24aedb50f092bd96b50d154a9fc89388314f1ecaca2|Elsa Bonelli": {
         "title": "ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Sarina Schnyder vs Elsa Bonelli",
@@ -57,6 +71,20 @@
         "avgPrice": 0.5765,
         "slug": "itf-schnyde-bonelli-2026-08-26"
       },
+      "0x38657f1f6a893ee3702217d1af586e8651ee736d613f54180a6d82f81c586f87|Giants": {
+        "title": "Giants vs. Rams",
+        "outcome": "Giants",
+        "value": 3473.6308,
+        "avgPrice": 0.1,
+        "slug": "nfl-nyg-la-2026-09-22"
+      },
+      "0x05877726250f4903cbe937cd159419b2be8a9a604f36ae38c062b10b090d4f68|New York Liberty": {
+        "title": "Atlanta Dream vs. New York Liberty",
+        "outcome": "New York Liberty",
+        "value": 3037.7196,
+        "avgPrice": 0.5351,
+        "slug": "wnba-atl-nyl-2026-09-21"
+      },
       "0xaf8ecf1ec33269d90297afb9f7f78aa6f71f91f1867f0d469b0be85984bd6a8d|Over": {
         "title": "Levante UD vs. Athletic Club: O/U 2.5",
         "outcome": "Over",
@@ -64,12 +92,12 @@
         "avgPrice": 0.5499,
         "slug": "lal-lev-bil-2026-09-16-total-2pt5"
       },
-      "0xe17e80f0e2db555808c22cb779ec84eeb7f5bcd2aa59cc3bb70a6e3392de5e7c|Patrick Maloney": {
-        "title": "San Diego 2: Braden Shick vs Patrick Maloney",
-        "outcome": "Patrick Maloney",
-        "value": 2542.2552,
-        "avgPrice": 0.3021,
-        "slug": "atp-shick-maloney-2026-09-21"
+      "0x224aee70412a1f84672360185db0b8561c4fb9463a003528e1ef4e97437f2d60|Mayu Crossley": {
+        "title": "W50 Berkeley, CA: Mayu Crossley vs McKenna Schaefbauer",
+        "outcome": "Mayu Crossley",
+        "value": 2859.2372,
+        "avgPrice": 0.7557,
+        "slug": "itf-crossl1-schaef2-2026-09-21"
       },
       "0x9af167ed361bdc016577401cd59cc05fee72a7aaf70b4a28616f8c6acca2b920|Luiza Fullana": {
         "title": "ITF WOMEN - SINGLES: W35 Barueri (Brazil), hard: Maria Fernanda Navarro vs Luiza Fullana",
@@ -116,9 +144,23 @@
       "0x0e4ccb3955941fd5d55d6b7496412a11a7334392272a5cc409bd0c22c69ca993|D.C. United SC": {
         "title": "Spread: FC Cincinnati (-1.5)",
         "outcome": "D.C. United SC",
-        "value": 1822.8958,
+        "value": 1786.1932,
         "avgPrice": 0.62,
         "slug": "mls-fcc-dcu-2026-09-05-spread-home-1pt5"
+      },
+      "0x367d7a8600a2104991bc4612787ec9ca7c8b8b662cea665b36ddaab153e5c4c9|Over": {
+        "title": "NYG vs. LA: O/U 48.5",
+        "outcome": "Over",
+        "value": 1504.7287,
+        "avgPrice": 0.45,
+        "slug": "nfl-nyg-la-2026-09-22-total-48pt5"
+      },
+      "0x8fedc1077babaa2b1eb90586f8b518b9c006e0f586d0b903e83cdb1d2ef1e051|Yexin Ma": {
+        "title": "Korea Open: Emerson Jones vs Yexin Ma",
+        "outcome": "Yexin Ma",
+        "value": 1496.6445,
+        "avgPrice": 0.3499,
+        "slug": "wta-jone-ma-2026-09-21"
       },
       "0x5b54ba4b4ab1670a21c040d9dedf2acb468f175f4f9d7dad360dfb22b48ddae4|Taylah Preston": {
         "title": "Korea Open: Taylah Preston vs Himeno Sakatsume",
@@ -127,19 +169,12 @@
         "avgPrice": 0.4699,
         "slug": "wta-preston-sakatsu-2026-09-20"
       },
-      "0x9b89b747482fc6c694cc6c8b68f436eb6ee7f17a00b661bd0ae3fb5843e80d9a|Yellow Submarine": {
-        "title": "Dota 2: Yellow Submarine vs Team Lynx (BO3) - European Pro League Playoffs",
-        "outcome": "Yellow Submarine",
-        "value": 1380.1287,
-        "avgPrice": 0.5781,
-        "slug": "dota2-yes-lynx-2026-09-21"
-      },
-      "0x7a95a6f7dfaae94f0292d96064ff8a0fa94c0940ebee0f6fa0b6ba85915736fb|Atlanta Dream": {
-        "title": "Spread: Atlanta Dream (-1.5)",
-        "outcome": "Atlanta Dream",
-        "value": 1299.4811,
-        "avgPrice": 0.5199,
-        "slug": "wnba-atl-nyl-2026-09-21-spread-away-1pt5"
+      "0x72a6d0723ece5e4e856311ae9289151b0f34be080568f113778aa10d93b53e6a|Philadelphia Phillies": {
+        "title": "Milwaukee Brewers vs. Philadelphia Phillies",
+        "outcome": "Philadelphia Phillies",
+        "value": 1297.9519,
+        "avgPrice": 0.55,
+        "slug": "mlb-mil-phi-2026-09-22"
       },
       "0x100fc126c334eaa60632ebe683b906d42e58009d0768cecaecaa25ae3f82844f|Gianmarco Ferrari": {
         "title": "ITF Fano: Lorenzo Rottoli vs Gianmarco Ferrari",
@@ -151,16 +186,9 @@
       "0xe1810cf8925b6a7b130720ff838a14e428a1330613b0f0c7014d1e5cec1853a4|Under": {
         "title": "Minnesota Twins vs. San Francisco Giants: O/U 8.5",
         "outcome": "Under",
-        "value": 1277.5563,
+        "value": 1254.1149,
         "avgPrice": 0.51,
         "slug": "mlb-min-sf-2026-09-21-total-8pt5"
-      },
-      "0x05877726250f4903cbe937cd159419b2be8a9a604f36ae38c062b10b090d4f68|Atlanta Dream": {
-        "title": "Atlanta Dream vs. New York Liberty",
-        "outcome": "Atlanta Dream",
-        "value": 1230.6735,
-        "avgPrice": 0.51,
-        "slug": "wnba-atl-nyl-2026-09-21"
       },
       "0x7aa71e47536cd611c9a7567bcd45752e171da74fae7c437a8c959fce8254c2c7|Stefan Vujic": {
         "title": "ITF Hillcrest: Preston Brown vs Stefan Vujic",
@@ -246,19 +274,33 @@
         "avgPrice": 0.73,
         "slug": "itf-daems-granweh-2026-07-23"
       },
+      "0x8df4c5a9f806cb8a6bd11f2035424fc5e713b294e740070de62a3df30599964f|Donna Vekic": {
+        "title": "Singapore Open: Donna Vekic vs Xinyu Wang",
+        "outcome": "Donna Vekic",
+        "value": 986.3445,
+        "avgPrice": 0.4799,
+        "slug": "wta-vekic-wa-2026-09-20"
+      },
+      "0x4ef1485a1806872fb85be28f1fcdc5150a6de1410894561ed754b34559eb529f|Anastasia Zakharova": {
+        "title": "Korea Open: Jelena Ostapenko vs Anastasia Zakharova",
+        "outcome": "Anastasia Zakharova",
+        "value": 958.681,
+        "avgPrice": 0.4299,
+        "slug": "wta-ostapen-zakharo-2026-09-20"
+      },
+      "0xd73b81755d573d5abb591ab049ef6a5c535833296e8b1d3573558b6d12d686fe|Yes": {
+        "title": "Will Vancouver Whitecaps FC win on 2026-07-16?",
+        "outcome": "Yes",
+        "value": 851.4831,
+        "avgPrice": 0.3949,
+        "slug": "mls-chi-vwh-2026-07-16-vwh"
+      },
       "0x16a4eb4f9ba2c5601406f85e5a86decb01f265adae6fd57e208085651b302a56|KT Wiz": {
         "title": "KBO: Doosan Bears vs. KT Wiz",
         "outcome": "KT Wiz",
         "value": 790.6373,
         "avgPrice": 0.5688,
         "slug": "kbo-doo-kt-2026-07-21"
-      },
-      "0xd73b81755d573d5abb591ab049ef6a5c535833296e8b1d3573558b6d12d686fe|Yes": {
-        "title": "Will Vancouver Whitecaps FC win on 2026-07-16?",
-        "outcome": "Yes",
-        "value": 753.235,
-        "avgPrice": 0.3949,
-        "slug": "mls-chi-vwh-2026-07-16-vwh"
       },
       "0x84ed0eea4e7c92fd0f3d9134c955584a7ebfdaef14283892b47513d4b77a568d|Alexandre Reco": {
         "title": "ITF Rognac: Loic Namigandet Tenguere vs Alexandre Reco",
@@ -267,12 +309,33 @@
         "avgPrice": 0.6982,
         "slug": "itf-tenguer-reco-2026-07-23"
       },
-      "0x2a959d1b0b958823f3e0504c6e561c3f11432cde60a609f07ae43853e96e765f|Washington Nationals": {
+      "0x7a95a6f7dfaae94f0292d96064ff8a0fa94c0940ebee0f6fa0b6ba85915736fb|Atlanta Dream": {
+        "title": "Spread: Atlanta Dream (-1.5)",
+        "outcome": "Atlanta Dream",
+        "value": 703.6893,
+        "avgPrice": 0.5025,
+        "slug": "wnba-atl-nyl-2026-09-21-spread-away-1pt5"
+      },
+      "0x9e724ab9607323d70cebae0bca2cdea2704d7b8cd76d06169cf232e3dd5e2502|Baltimore Orioles": {
+        "title": "Toronto Blue Jays vs. Baltimore Orioles",
+        "outcome": "Baltimore Orioles",
+        "value": 661.544,
+        "avgPrice": 0.3686,
+        "slug": "mlb-tor-bal-2026-09-21"
+      },
+      "0x2a959d1b0b958823f3e0504c6e561c3f11432cde60a609f07ae43853e96e765f|Detroit Tigers": {
         "title": "Washington Nationals vs. Detroit Tigers",
-        "outcome": "Washington Nationals",
-        "value": 728.0022,
-        "avgPrice": 0.4399,
+        "outcome": "Detroit Tigers",
+        "value": 660.5821,
+        "avgPrice": 0.7366,
         "slug": "mlb-wsh-det-2026-09-21"
+      },
+      "0x8a52259ad925c65767e1d61473367a1c7f2ea1233499f94fa4f18b5d3a89b9a9|Dallas Wings": {
+        "title": "Spread: Dallas Wings (-5.5)",
+        "outcome": "Dallas Wings",
+        "value": 658.2833,
+        "avgPrice": 0.5099,
+        "slug": "wnba-dal-phx-2026-09-21-spread-away-5pt5"
       },
       "0xe3c90c8836bbdcb619f6b749e7095458baca9be96cc81f125568bea771336207|Sobolieva": {
         "title": "Set 1 Winner: Samson vs Sobolieva",
@@ -281,12 +344,12 @@
         "avgPrice": 0.5179,
         "slug": "wta-samson-sobolie-2026-07-29-first-set-winner-Samson-vs-Sobolieva"
       },
-      "0x8a52259ad925c65767e1d61473367a1c7f2ea1233499f94fa4f18b5d3a89b9a9|Dallas Wings": {
-        "title": "Spread: Dallas Wings (-5.5)",
-        "outcome": "Dallas Wings",
-        "value": 645.5011,
-        "avgPrice": 0.5099,
-        "slug": "wnba-dal-phx-2026-09-21-spread-away-5pt5"
+      "0x05877726250f4903cbe937cd159419b2be8a9a604f36ae38c062b10b090d4f68|Atlanta Dream": {
+        "title": "Atlanta Dream vs. New York Liberty",
+        "outcome": "Atlanta Dream",
+        "value": 542.4751,
+        "avgPrice": 0.4614,
+        "slug": "wnba-atl-nyl-2026-09-21"
       },
       "0xcba78f02cd07d809471ee9b21813b430d360262db259917a6709806d69e159ea|Dzumhur": {
         "title": "Set 1 Winner: Gaston vs Dzumhur",
@@ -297,61 +360,131 @@
       }
     },
     "#2 RN1": {
-      "0xfd8af634e84e636411db852c10903e4cb8f701e31c9dc3cd4b41dd54fb811670|Dylan Dietrich": {
-        "title": "San Diego 2: Dinko Dinev vs Dylan Dietrich",
-        "outcome": "Dylan Dietrich",
-        "value": 20492.3881,
-        "avgPrice": 0.846,
-        "slug": "atp-dinev-dietric-2026-09-21"
+      "0x38657f1f6a893ee3702217d1af586e8651ee736d613f54180a6d82f81c586f87|Rams": {
+        "title": "Giants vs. Rams",
+        "outcome": "Rams",
+        "value": 50751.2614,
+        "avgPrice": 0.7193,
+        "slug": "nfl-nyg-la-2026-09-22"
       },
-      "0x9f4783c62391fe46fd5f5289435c24f7e12fb2ef0564ff0c3071001fd767dc74|Over": {
-        "title": "FC Petrolul Ploie\u015fti vs. FK Cs\u00edkszereda Miercurea Ciuc: O/U 0.5",
-        "outcome": "Over",
-        "value": 10593.7005,
-        "avgPrice": 0.897,
-        "slug": "rou1-fpp-fcm-2026-09-21-total-0pt5"
+      "0xab906170ebd92007ac5cb8ae5cb4b6fce5ac1ee75d625ced3aab59ab944b0149|Rams": {
+        "title": "Spread: Rams (-6.5)",
+        "outcome": "Rams",
+        "value": 14300.6172,
+        "avgPrice": 0.6339,
+        "slug": "nfl-nyg-la-2026-09-22-spread-home-6pt5"
       },
-      "0xe17e80f0e2db555808c22cb779ec84eeb7f5bcd2aa59cc3bb70a6e3392de5e7c|Patrick Maloney": {
-        "title": "San Diego 2: Braden Shick vs Patrick Maloney",
-        "outcome": "Patrick Maloney",
-        "value": 5280.5668,
-        "avgPrice": 0.3781,
-        "slug": "atp-shick-maloney-2026-09-21"
+      "0xd3a950c8937bc9de8cdacd24e60755d4ed88e2650082d2e9158f1c0364e83715|Yes": {
+        "title": "Will CA Lan\u00fas win on 2026-09-21?",
+        "outcome": "Yes",
+        "value": 13836.7307,
+        "avgPrice": 0.4204,
+        "slug": "arg-lan-est-2026-09-21-lan"
       },
-      "0xc65e978ff42715a50ea6fdb413b6c287bab8c596c384658f12ee2158459046cc|No": {
-        "title": "Will FK Cs\u00edkszereda Miercurea Ciuc win on 2026-09-21?",
+      "0xfe2be14e4f9ebcb0a4201803ec52d915d2fa60a650d3d20e12822f62b8ba1e1f|Under": {
+        "title": "Giants vs. Rams: O/U 39.5",
+        "outcome": "Under",
+        "value": 7861.3878,
+        "avgPrice": 0.4855,
+        "slug": "nfl-nyg-la-2026-09-22-total-39pt5"
+      },
+      "0xde1ddd3994f4eb4361b09450fe7c0e57b0ddb9c0424d8862cc8d5a6a50486253|LA": {
+        "title": "Spread: LA (-9.5)",
+        "outcome": "LA",
+        "value": 7078.1877,
+        "avgPrice": 0.5076,
+        "slug": "nfl-nyg-la-2026-09-22-spread-home-9pt5"
+      },
+      "0x51b3c47ef11c9bf9ef2c8f91cb6d9b5e8bad61f7ca6442a72b21825e59e1fc49|No": {
+        "title": "Will Nueva Chicago win on 2026-09-20?",
         "outcome": "No",
-        "value": 4101.4082,
-        "avgPrice": 0.8598,
-        "slug": "rou1-fpp-fcm-2026-09-21-fcm"
+        "value": 6169.8087,
+        "avgPrice": 0.5845,
+        "slug": "argpn-chi-cap-2026-09-20-chi"
       },
-      "0x212a89924b12b06e77227e80dd23c387a54697c98a797371e28d398a7eadc23d|Under": {
-        "title": "Manta FC vs. Orense SC: O/U 3.5",
+      "0xde1ddd3994f4eb4361b09450fe7c0e57b0ddb9c0424d8862cc8d5a6a50486253|NYG": {
+        "title": "Spread: LA (-9.5)",
+        "outcome": "NYG",
+        "value": 5674.825,
+        "avgPrice": 0.5022,
+        "slug": "nfl-nyg-la-2026-09-22-spread-home-9pt5"
+      },
+      "0x38657f1f6a893ee3702217d1af586e8651ee736d613f54180a6d82f81c586f87|Giants": {
+        "title": "Giants vs. Rams",
+        "outcome": "Giants",
+        "value": 5634.2536,
+        "avgPrice": 0.2671,
+        "slug": "nfl-nyg-la-2026-09-22"
+      },
+      "0xa590e64c23a615083a2bcedd3d6cb8ac8ac0bfaeb8baf3531af93d14da530ff0|Rams": {
+        "title": "Spread: Rams (-7.5)",
+        "outcome": "Rams",
+        "value": 4944.2001,
+        "avgPrice": 0.532,
+        "slug": "nfl-nyg-la-2026-09-22-spread-home-7pt5"
+      },
+      "0x198fd6be4942d3242009e54ccaf957b9f50f72b345534ff8a2c7c26f0626aa76|Under": {
+        "title": "Giants vs. Rams: O/U 45.5",
         "outcome": "Under",
-        "value": 3583.0233,
-        "avgPrice": 0.6769,
-        "slug": "ecu1-man-ore-2026-09-19-total-3pt5"
+        "value": 4534.11,
+        "avgPrice": 0.5985,
+        "slug": "nfl-nyg-la-2026-09-22-total-45pt5"
       },
-      "0x77bec0cf36f53849664baa95ed15c640f40b5ae63406c368ab84a4b9f82fd299|Yes": {
-        "title": "Will Manta FC win on 2026-09-19?",
-        "outcome": "Yes",
-        "value": 3313.2527,
-        "avgPrice": 0.8386,
-        "slug": "ecu1-man-ore-2026-09-19-man"
-      },
-      "0x3f878d2cfe8ed35802d673b5e3dcf96011c852eebc95d83746e300e99ad14b2d|Yes": {
-        "title": "Will CS Independiente Rivadavia win on 2026-09-21?",
-        "outcome": "Yes",
-        "value": 3310.875,
-        "avgPrice": 0.6197,
-        "slug": "arg-bar-riv1-2026-09-21-riv1"
-      },
-      "0xfd1379e6726b2c3a70839c530362823ff6e5ed63f0cfd664dbc6e7d7911704d8|Under": {
-        "title": "FC Petrolul Ploie\u015fti vs. FK Cs\u00edkszereda Miercurea Ciuc: O/U 2.5",
+      "0x028749c5ef94707196b3bd509efb18caca280a38aba4d750ed215530804e3b7e|Under": {
+        "title": "Giants vs. Rams: O/U 47.5",
         "outcome": "Under",
-        "value": 3206.1248,
-        "avgPrice": 0.6309,
-        "slug": "rou1-fpp-fcm-2026-09-21-total-2pt5"
+        "value": 3393.4266,
+        "avgPrice": 0.6916,
+        "slug": "nfl-nyg-la-2026-09-22-total-47pt5"
+      },
+      "0x664afb1a78b56c93c20081e44a68e941907fc0af509b66204e6a28ff4dac46ae|Rams": {
+        "title": "Spread: Rams (-10.5)",
+        "outcome": "Rams",
+        "value": 2843.75,
+        "avgPrice": 0.4798,
+        "slug": "nfl-nyg-la-2026-09-22-spread-home-10pt5"
+      },
+      "0x05877726250f4903cbe937cd159419b2be8a9a604f36ae38c062b10b090d4f68|Atlanta Dream": {
+        "title": "Atlanta Dream vs. New York Liberty",
+        "outcome": "Atlanta Dream",
+        "value": 2768.2715,
+        "avgPrice": 0.4694,
+        "slug": "wnba-atl-nyl-2026-09-21"
+      },
+      "0xab906170ebd92007ac5cb8ae5cb4b6fce5ac1ee75d625ced3aab59ab944b0149|Giants": {
+        "title": "Spread: Rams (-6.5)",
+        "outcome": "Giants",
+        "value": 2733.8831,
+        "avgPrice": 0.4453,
+        "slug": "nfl-nyg-la-2026-09-22-spread-home-6pt5"
+      },
+      "0x265b5526ea89662c3422d90ce030812f3844addf2869fdd98fbbadcb0c7eb58c|No": {
+        "title": "Will CA Patronato Parana win on 2026-09-20?",
+        "outcome": "No",
+        "value": 2708.4909,
+        "avgPrice": 0.8224,
+        "slug": "argpn-chi-cap-2026-09-20-cap"
+      },
+      "0x6ee5ea82d0c7d4221a90ce783df114dc089bf38d2d0e6cfc8dea61330246e322|Under": {
+        "title": "Giants vs. Rams: O/U 46.5",
+        "outcome": "Under",
+        "value": 2647.725,
+        "avgPrice": 0.6351,
+        "slug": "nfl-nyg-la-2026-09-22-total-46pt5"
+      },
+      "0x60471001ff6784d834c0ec2e8c1c183389f48398e52e9f457f0bbfeea368bc96|Giants": {
+        "title": "Spread: Rams (-4.5)",
+        "outcome": "Giants",
+        "value": 2442.154,
+        "avgPrice": 0.3192,
+        "slug": "nfl-nyg-la-2026-09-22-spread-home-4pt5"
+      },
+      "0x367d7a8600a2104991bc4612787ec9ca7c8b8b662cea665b36ddaab153e5c4c9|Under": {
+        "title": "NYG vs. LA: O/U 48.5",
+        "outcome": "Under",
+        "value": 2342.34,
+        "avgPrice": 0.7127,
+        "slug": "nfl-nyg-la-2026-09-22-total-48pt5"
       },
       "0x8f9a4ff725d4f23ac1eea6c611a21193a629de0a6af74f8a28c08fef37908183|Under": {
         "title": "Levante UD vs. Athletic Club: O/U 4.5",
@@ -360,33 +493,26 @@
         "avgPrice": 0.85,
         "slug": "lal-lev-bil-2026-09-16-total-4pt5"
       },
-      "0x51b3c47ef11c9bf9ef2c8f91cb6d9b5e8bad61f7ca6442a72b21825e59e1fc49|Yes": {
-        "title": "Will Nueva Chicago win on 2026-09-20?",
-        "outcome": "Yes",
-        "value": 1911.0,
-        "avgPrice": 0.5044,
-        "slug": "argpn-chi-cap-2026-09-20-chi"
+      "0x664afb1a78b56c93c20081e44a68e941907fc0af509b66204e6a28ff4dac46ae|Giants": {
+        "title": "Spread: Rams (-10.5)",
+        "outcome": "Giants",
+        "value": 2050.9182,
+        "avgPrice": 0.5228,
+        "slug": "nfl-nyg-la-2026-09-22-spread-home-10pt5"
       },
-      "0xe94f947e6e7f484156447aa68248bca864e6be71287d5d6d070c1804c182afe7|Yes": {
-        "title": "CA Barracas Central vs. CS Independiente Rivadavia: Both Teams to Score",
-        "outcome": "Yes",
-        "value": 1831.9977,
-        "avgPrice": 0.5221,
-        "slug": "arg-bar-riv1-2026-09-21-btts"
+      "0xa590e64c23a615083a2bcedd3d6cb8ac8ac0bfaeb8baf3531af93d14da530ff0|Giants": {
+        "title": "Spread: Rams (-7.5)",
+        "outcome": "Giants",
+        "value": 2019.893,
+        "avgPrice": 0.4988,
+        "slug": "nfl-nyg-la-2026-09-22-spread-home-7pt5"
       },
-      "0x761db4a29fd12c139fc8173546a6ad606ea0c15980d1d43eeb3203f90f5f69e5|No": {
-        "title": "Will CA Barracas Central win on 2026-09-21?",
+      "0xfb50c10457bf335dd3c32831f685e4f00421d5d8c09af675b4f6ce7951b8de78|No": {
+        "title": "Will Clube N\u00e1utico Capibaribe win on 2026-09-21?",
         "outcome": "No",
-        "value": 1793.58,
-        "avgPrice": 0.8022,
-        "slug": "arg-bar-riv1-2026-09-21-bar"
-      },
-      "0x3944292ea4a25b77c934df7e4f0961448532c18e1199699ab313cd8628e23b6e|Gonzalo Villanueva": {
-        "title": "Buenos Aires 2: Gonzalo Villanueva vs Guido Justo",
-        "outcome": "Gonzalo Villanueva",
-        "value": 1643.5383,
-        "avgPrice": 0.4091,
-        "slug": "atp-villanu-justo-2026-09-21"
+        "value": 1642.28,
+        "avgPrice": 0.8144,
+        "slug": "bra2-cui-nau-2026-09-21-nau"
       },
       "0x6d447780b411db6c9cf92db9c916eef4474df7c5c970243d9ef1f277640f1314|No": {
         "title": "Athletic Club leading at halftime?",
@@ -395,26 +521,54 @@
         "avgPrice": 0.6595,
         "slug": "lal-lev-bil-2026-09-16-halftime-result-away"
       },
-      "0x51b3c47ef11c9bf9ef2c8f91cb6d9b5e8bad61f7ca6442a72b21825e59e1fc49|No": {
-        "title": "Will Nueva Chicago win on 2026-09-20?",
-        "outcome": "No",
-        "value": 1429.13,
-        "avgPrice": 0.5146,
-        "slug": "argpn-chi-cap-2026-09-20-chi"
+      "0xf7fd99a8f9ba2f407ce9d871de7702365f685b3178a41d81fb565c42e651c8a8|Under": {
+        "title": "Nueva Chicago vs. CA Patronato Parana: O/U 2.5",
+        "outcome": "Under",
+        "value": 1574.1932,
+        "avgPrice": 0.48,
+        "slug": "argpn-chi-cap-2026-09-20-total-2pt5"
       },
-      "0xe17e80f0e2db555808c22cb779ec84eeb7f5bcd2aa59cc3bb70a6e3392de5e7c|Braden Shick": {
-        "title": "San Diego 2: Braden Shick vs Patrick Maloney",
-        "outcome": "Braden Shick",
-        "value": 1303.7256,
-        "avgPrice": 0.689,
-        "slug": "atp-shick-maloney-2026-09-21"
+      "0x302961eaba9811d900e4f4e450ae5cb81f1025c4cb07f986b3a74106910a5459|Over": {
+        "title": "Central Espanol FC vs. Montevideo City Torque: O/U 4.5",
+        "outcome": "Over",
+        "value": 1538.3983,
+        "avgPrice": 0.38,
+        "slug": "uru1-esp-tor-2026-09-21-total-4pt5"
       },
-      "0xe94f947e6e7f484156447aa68248bca864e6be71287d5d6d070c1804c182afe7|No": {
-        "title": "CA Barracas Central vs. CS Independiente Rivadavia: Both Teams to Score",
+      "0x1d04c771d7de39cccd3f7dea9e33dd08ca52dcc3b04de13a674499d29c2f3afe|Under": {
+        "title": "CA Lan\u00fas vs. Estudiantes de La Plata: O/U 2.5",
+        "outcome": "Under",
+        "value": 1470.9351,
+        "avgPrice": 0.4034,
+        "slug": "arg-lan-est-2026-09-21-total-2pt5"
+      },
+      "0x081f240146a954c1e8dfb5de956807509116e43380a0c60a786adac82234d864|Under": {
+        "title": "Giants vs. Rams: O/U 49.5",
+        "outcome": "Under",
+        "value": 1431.53,
+        "avgPrice": 0.75,
+        "slug": "nfl-nyg-la-2026-09-22-total-49pt5"
+      },
+      "0x66612bdf7656d4327c80becdf796af937e23aa6ce3d97902da4c7814769da0e7|Yes": {
+        "title": "Will Cuiab\u00e1 EC win on 2026-09-21?",
+        "outcome": "Yes",
+        "value": 1392.16,
+        "avgPrice": 0.4784,
+        "slug": "bra2-cui-nau-2026-09-21-cui"
+      },
+      "0xd3a950c8937bc9de8cdacd24e60755d4ed88e2650082d2e9158f1c0364e83715|No": {
+        "title": "Will CA Lan\u00fas win on 2026-09-21?",
         "outcome": "No",
-        "value": 834.6132,
-        "avgPrice": 0.5807,
-        "slug": "arg-bar-riv1-2026-09-21-btts"
+        "value": 1289.2387,
+        "avgPrice": 0.552,
+        "slug": "arg-lan-est-2026-09-21-lan"
+      },
+      "0x9079fd679a57bd667eaa87ec6389c2e8ba9eda0a2ea732d082f4dc6af2676d8d|Keegan Smith": {
+        "title": "San Diego 2: Keegan Smith vs Edward Winter",
+        "outcome": "Keegan Smith",
+        "value": 1182.4757,
+        "avgPrice": 0.89,
+        "slug": "atp-smit-winter-2026-09-21"
       },
       "0xc133482d19ef3092d91c90c6e9261e8ffd141870608a3549bbffe31c6ac506f8|Lotte Giants": {
         "title": "KBO: LG Twins vs. Lotte Giants",
@@ -423,12 +577,68 @@
         "avgPrice": 0.3865,
         "slug": "kbo-lg-lot-2026-08-28"
       },
-      "0xc1b23a29a8583c6072277b22e334f752a96078be391c93254b5ffedb403be5fa|FK Cs\u00edkszereda Miercurea Ciuc": {
-        "title": "Spread: FC Petrolul Ploie\u015fti (-3.5)",
-        "outcome": "FK Cs\u00edkszereda Miercurea Ciuc",
-        "value": 526.0526,
-        "avgPrice": 0.981,
-        "slug": "rou1-fpp-fcm-2026-09-21-spread-home-3pt5"
+      "0xf187dd36908b5ffcbb9a8decbcf767caaccaafbee6e71c0bbabb81a79dbe3aab|No": {
+        "title": "CA Lan\u00fas vs. Estudiantes de La Plata: Draw at halftime?",
+        "outcome": "No",
+        "value": 810.0,
+        "avgPrice": 0.5,
+        "slug": "arg-lan-est-2026-09-21-halftime-result-draw"
+      },
+      "0x224aee70412a1f84672360185db0b8561c4fb9463a003528e1ef4e97437f2d60|Mayu Crossley": {
+        "title": "W50 Berkeley, CA: Mayu Crossley vs McKenna Schaefbauer",
+        "outcome": "Mayu Crossley",
+        "value": 805.6918,
+        "avgPrice": 0.7516,
+        "slug": "itf-crossl1-schaef2-2026-09-21"
+      },
+      "0x224aee70412a1f84672360185db0b8561c4fb9463a003528e1ef4e97437f2d60|McKenna Schaefbauer": {
+        "title": "W50 Berkeley, CA: Mayu Crossley vs McKenna Schaefbauer",
+        "outcome": "McKenna Schaefbauer",
+        "value": 709.5008,
+        "avgPrice": 0.4221,
+        "slug": "itf-crossl1-schaef2-2026-09-21"
+      },
+      "0x05877726250f4903cbe937cd159419b2be8a9a604f36ae38c062b10b090d4f68|New York Liberty": {
+        "title": "Atlanta Dream vs. New York Liberty",
+        "outcome": "New York Liberty",
+        "value": 579.1087,
+        "avgPrice": 0.4977,
+        "slug": "wnba-atl-nyl-2026-09-21"
+      },
+      "0x7a95a6f7dfaae94f0292d96064ff8a0fa94c0940ebee0f6fa0b6ba85915736fb|Atlanta Dream": {
+        "title": "Spread: Atlanta Dream (-1.5)",
+        "outcome": "Atlanta Dream",
+        "value": 568.75,
+        "avgPrice": 0.56,
+        "slug": "wnba-atl-nyl-2026-09-21-spread-away-1pt5"
+      },
+      "0x70a155acc8f61c635e45008e9b36acee86c42258ceefc041bd60be9640881728|Eduardo Lage": {
+        "title": "M15 Curitiba: Agustin Eduardo Cuellar Lorberg vs Eduardo Lage",
+        "outcome": "Eduardo Lage",
+        "value": 546.4609,
+        "avgPrice": 0.7623,
+        "slug": "itf-lorber1-lage1-2026-09-21"
+      },
+      "0x17638e78ee3a294503bcb4b62357e70dd5329971479fdcb9f43efcf01a773de3|Under": {
+        "title": "Cuiab\u00e1 EC vs. Clube N\u00e1utico Capibaribe: O/U 1.5",
+        "outcome": "Under",
+        "value": 536.2073,
+        "avgPrice": 0.33,
+        "slug": "bra2-cui-nau-2026-09-21-total-1pt5"
+      },
+      "0xf85d27738d6f3c5c402d1442fe95b038ff4f8f0ca94d49edb78229f4a7d4bfe6|Under": {
+        "title": "CA Lan\u00fas vs. Estudiantes de La Plata: O/U 1.5",
+        "outcome": "Under",
+        "value": 522.6425,
+        "avgPrice": 0.38,
+        "slug": "arg-lan-est-2026-09-21-total-1pt5"
+      },
+      "0x6ab5a6e2108f6b5e87d7b1523d82a6278e535c5e1a4a23ab75002fa4ad0fe67e|Pedro Albuquerque Dietrich": {
+        "title": "M15 Curitiba: Andre Souza vs Pedro Albuquerque Dietrich",
+        "outcome": "Pedro Albuquerque Dietrich",
+        "value": 513.1183,
+        "avgPrice": 0.5982,
+        "slug": "itf-souza1-dietri1-2026-09-21"
       }
     },
     "#3 2C": {
@@ -446,47 +656,89 @@
         "avgPrice": 0.5,
         "slug": "2026-balance-of-power-d-senate-d-house-949"
       },
-      "0x38657f1f6a893ee3702217d1af586e8651ee736d613f54180a6d82f81c586f87|Rams": {
-        "title": "Giants vs. Rams",
-        "outcome": "Rams",
-        "value": 294003.3881,
-        "avgPrice": 0.7299,
-        "slug": "nfl-nyg-la-2026-09-22"
+      "0xb40360f4982c5f580028b8a2185b1ba00e7c309d47163d195e38cb8aab16b27c|Under": {
+        "title": "Giants vs. Rams: O/U 50.5",
+        "outcome": "Under",
+        "value": 214399.9444,
+        "avgPrice": 0.6,
+        "slug": "nfl-nyg-la-2026-09-22-total-50pt5"
       },
       "0x028749c5ef94707196b3bd509efb18caca280a38aba4d750ed215530804e3b7e|Over": {
         "title": "Giants vs. Rams: O/U 47.5",
         "outcome": "Over",
-        "value": 198000.0,
-        "avgPrice": 0.49,
+        "value": 173829.9113,
+        "avgPrice": 0.4894,
         "slug": "nfl-nyg-la-2026-09-22-total-47pt5"
-      },
-      "0xa590e64c23a615083a2bcedd3d6cb8ac8ac0bfaeb8baf3531af93d14da530ff0|Giants": {
-        "title": "Spread: Rams (-7.5)",
-        "outcome": "Giants",
-        "value": 52012.8082,
-        "avgPrice": 0.55,
-        "slug": "nfl-nyg-la-2026-09-22-spread-home-7pt5"
-      },
-      "0x9e724ab9607323d70cebae0bca2cdea2704d7b8cd76d06169cf232e3dd5e2502|Baltimore Orioles": {
-        "title": "Toronto Blue Jays vs. Baltimore Orioles",
-        "outcome": "Baltimore Orioles",
-        "value": 37825.3257,
-        "avgPrice": 0.49,
-        "slug": "mlb-tor-bal-2026-09-21"
       },
       "0x60471001ff6784d834c0ec2e8c1c183389f48398e52e9f457f0bbfeea368bc96|Rams": {
         "title": "Spread: Rams (-4.5)",
         "outcome": "Rams",
-        "value": 23812.3982,
+        "value": 64158.3337,
         "avgPrice": 0.57,
         "slug": "nfl-nyg-la-2026-09-22-spread-home-4pt5"
+      },
+      "0xa590e64c23a615083a2bcedd3d6cb8ac8ac0bfaeb8baf3531af93d14da530ff0|Giants": {
+        "title": "Spread: Rams (-7.5)",
+        "outcome": "Giants",
+        "value": 26696.8396,
+        "avgPrice": 0.55,
+        "slug": "nfl-nyg-la-2026-09-22-spread-home-7pt5"
+      },
+      "0xab906170ebd92007ac5cb8ae5cb4b6fce5ac1ee75d625ced3aab59ab944b0149|Giants": {
+        "title": "Spread: Rams (-6.5)",
+        "outcome": "Giants",
+        "value": 20113.9373,
+        "avgPrice": 0.48,
+        "slug": "nfl-nyg-la-2026-09-22-spread-home-6pt5"
       },
       "0x2745c38ff0617cb345c1d2df19b4f74ea777508e07411e88eeb6ab3affcda2a2|No": {
         "title": "Will Bitcoin dip to $35,000 by December 31, 2026?",
         "outcome": "No",
-        "value": 19325.873,
+        "value": 19345.8687,
         "avgPrice": 0.8499,
         "slug": "will-bitcoin-dip-to-35000-by-december-31-2026-744-877-748-219-467-465-646-211-122-947-537-552-555-361-972-954-635-887-657-996-643"
+      },
+      "0x38657f1f6a893ee3702217d1af586e8651ee736d613f54180a6d82f81c586f87|Rams": {
+        "title": "Giants vs. Rams",
+        "outcome": "Rams",
+        "value": 16437.4735,
+        "avgPrice": 0.729,
+        "slug": "nfl-nyg-la-2026-09-22"
+      },
+      "0x9e724ab9607323d70cebae0bca2cdea2704d7b8cd76d06169cf232e3dd5e2502|Baltimore Orioles": {
+        "title": "Toronto Blue Jays vs. Baltimore Orioles",
+        "outcome": "Baltimore Orioles",
+        "value": 16256.8085,
+        "avgPrice": 0.4886,
+        "slug": "mlb-tor-bal-2026-09-21"
+      },
+      "0x081f240146a954c1e8dfb5de956807509116e43380a0c60a786adac82234d864|Under": {
+        "title": "Giants vs. Rams: O/U 49.5",
+        "outcome": "Under",
+        "value": 15652.262,
+        "avgPrice": 0.57,
+        "slug": "nfl-nyg-la-2026-09-22-total-49pt5"
+      },
+      "0xde1ddd3994f4eb4361b09450fe7c0e57b0ddb9c0424d8862cc8d5a6a50486253|NYG": {
+        "title": "Spread: LA (-9.5)",
+        "outcome": "NYG",
+        "value": 13871.5801,
+        "avgPrice": 0.6,
+        "slug": "nfl-nyg-la-2026-09-22-spread-home-9pt5"
+      },
+      "0x38657f1f6a893ee3702217d1af586e8651ee736d613f54180a6d82f81c586f87|Giants": {
+        "title": "Giants vs. Rams",
+        "outcome": "Giants",
+        "value": 7641.4252,
+        "avgPrice": 0.2798,
+        "slug": "nfl-nyg-la-2026-09-22"
+      },
+      "0x9e724ab9607323d70cebae0bca2cdea2704d7b8cd76d06169cf232e3dd5e2502|Toronto Blue Jays": {
+        "title": "Toronto Blue Jays vs. Baltimore Orioles",
+        "outcome": "Toronto Blue Jays",
+        "value": 6017.1415,
+        "avgPrice": 0.5661,
+        "slug": "mlb-tor-bal-2026-09-21"
       },
       "0xf44cf137562b90cf6205e0b81a03aa63001c491e4d8f04c0098bfb9233f9d04f|No": {
         "title": "Will Philadelphia 76ers win the 2027 NBA Finals?",
@@ -516,6 +768,13 @@
         "avgPrice": 0.92,
         "slug": "will-bitcoin-dip-to-25000-by-december-31-2026-948-243-253-666-115-787-981-282-573-719-186-417-762-754-486-851-278-145-417-178-244"
       },
+      "0xbc6a32b625e17a2ec219e28c8b35d6fc35d56c95c9df7e27dcfd808fa2e8bf96|Under": {
+        "title": "Atlanta Dream vs. New York Liberty: O/U 177.5",
+        "outcome": "Under",
+        "value": 2883.9759,
+        "avgPrice": 0.5199,
+        "slug": "wnba-atl-nyl-2026-09-21-total-177pt5"
+      },
       "0x17285349676c731d183f73a24a735e834fada4594dfa623a87eb68d1b1d8c8e0|Chiefs": {
         "title": "Seahawks vs. Chiefs",
         "outcome": "Chiefs",
@@ -529,6 +788,13 @@
         "value": 1494.5856,
         "avgPrice": 0.38,
         "slug": "lal-lev-bil-2026-09-16-bil"
+      },
+      "0x05877726250f4903cbe937cd159419b2be8a9a604f36ae38c062b10b090d4f68|Atlanta Dream": {
+        "title": "Atlanta Dream vs. New York Liberty",
+        "outcome": "Atlanta Dream",
+        "value": 1294.4177,
+        "avgPrice": 0.5099,
+        "slug": "wnba-atl-nyl-2026-09-21"
       }
     },
     "#4 SwissTony": {
@@ -542,7 +808,7 @@
       "0xd73b81755d573d5abb591ab049ef6a5c535833296e8b1d3573558b6d12d686fe|Yes": {
         "title": "Will Vancouver Whitecaps FC win on 2026-07-16?",
         "outcome": "Yes",
-        "value": 2194.6666,
+        "value": 2480.9275,
         "avgPrice": 0.3858,
         "slug": "mls-chi-vwh-2026-07-16-vwh"
       },
@@ -563,7 +829,7 @@
       "0x2307c8dd123f120f7d8a890646229f3b0211e182534e925e9604942317b7eddd|No": {
         "title": "Exact Score: Chicago Fire FC 3 - 3 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 917.3483,
+        "value": 914.9443,
         "avgPrice": 0.9739,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-3-3"
       },
@@ -584,21 +850,21 @@
       "0xbaaebdf982b987694de4f2dbf4605eead94012ada2c5507167a72102484bbedb|No": {
         "title": "Exact Score: Chicago Fire FC 2 - 2 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 592.515,
+        "value": 586.245,
         "avgPrice": 0.91,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-2-2"
       },
       "0x4aa3bbbfcca55802fe284e7f4fd47543832ed089d612311e3f643a6f6f57ff2e|No": {
         "title": "Exact Score: Chicago Fire FC 1 - 1 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 584.0625,
+        "value": 580.7812,
         "avgPrice": 0.8799,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-1-1"
       },
       "0xda9fcfe15a8a3132eb7836193db3cc96ffbf0bdc45943de1e372adee6b0ef214|No": {
         "title": "Exact Score: Chicago Fire FC 0 - 3 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 577.6682,
+        "value": 579.6143,
         "avgPrice": 0.9699,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-0-3"
       },
@@ -632,110 +898,222 @@
       }
     },
     "#5 HomeRunHazard": {
+      "0x2a959d1b0b958823f3e0504c6e561c3f11432cde60a609f07ae43853e96e765f|Detroit Tigers": {
+        "title": "Washington Nationals vs. Detroit Tigers",
+        "outcome": "Detroit Tigers",
+        "value": 23013.0202,
+        "avgPrice": 0.7273,
+        "slug": "mlb-wsh-det-2026-09-21"
+      },
       "0xe1810cf8925b6a7b130720ff838a14e428a1330613b0f0c7014d1e5cec1853a4|Under": {
         "title": "Minnesota Twins vs. San Francisco Giants: O/U 8.5",
         "outcome": "Under",
-        "value": 20046.9039,
+        "value": 19679.0708,
         "avgPrice": 0.5082,
         "slug": "mlb-min-sf-2026-09-21-total-8pt5"
-      },
-      "0x028749c5ef94707196b3bd509efb18caca280a38aba4d750ed215530804e3b7e|Over": {
-        "title": "Giants vs. Rams: O/U 47.5",
-        "outcome": "Over",
-        "value": 18901.9314,
-        "avgPrice": 0.49,
-        "slug": "nfl-nyg-la-2026-09-22-total-47pt5"
-      },
-      "0x55060420a9af868c5a97b4bfef2ce7f32191cc8d076533cad3225ce9245e81fe|Giants": {
-        "title": "Spread: Rams (-8.5)",
-        "outcome": "Giants",
-        "value": 7562.239,
-        "avgPrice": 0.58,
-        "slug": "nfl-nyg-la-2026-09-22-spread-home-8pt5"
-      },
-      "0x9e724ab9607323d70cebae0bca2cdea2704d7b8cd76d06169cf232e3dd5e2502|Baltimore Orioles": {
-        "title": "Toronto Blue Jays vs. Baltimore Orioles",
-        "outcome": "Baltimore Orioles",
-        "value": 5814.7353,
-        "avgPrice": 0.49,
-        "slug": "mlb-tor-bal-2026-09-21"
-      },
-      "0x198fd6be4942d3242009e54ccaf957b9f50f72b345534ff8a2c7c26f0626aa76|Over": {
-        "title": "Giants vs. Rams: O/U 45.5",
-        "outcome": "Over",
-        "value": 5311.0,
-        "avgPrice": 0.57,
-        "slug": "nfl-nyg-la-2026-09-22-total-45pt5"
       },
       "0x05877726250f4903cbe937cd159419b2be8a9a604f36ae38c062b10b090d4f68|Atlanta Dream": {
         "title": "Atlanta Dream vs. New York Liberty",
         "outcome": "Atlanta Dream",
-        "value": 5273.3743,
-        "avgPrice": 0.5223,
+        "value": 15051.1805,
+        "avgPrice": 0.5035,
         "slug": "wnba-atl-nyl-2026-09-21"
       },
-      "0xe6eb8333a63c0090e2780685cb5f4c9fe2bc15c7e1d7dda087bf0f27ac842857|Tohoku Rakuten Golden Eagles": {
-        "title": "Tohoku Rakuten Golden Eagles vs. Fukuoka SoftBank Hawks",
-        "outcome": "Tohoku Rakuten Golden Eagles",
-        "value": 4921.779,
-        "avgPrice": 0.433,
-        "slug": "npb-toh-fuk-2026-09-21"
+      "0xa590e64c23a615083a2bcedd3d6cb8ac8ac0bfaeb8baf3531af93d14da530ff0|Rams": {
+        "title": "Spread: Rams (-7.5)",
+        "outcome": "Rams",
+        "value": 14137.4632,
+        "avgPrice": 0.472,
+        "slug": "nfl-nyg-la-2026-09-22-spread-home-7pt5"
       },
-      "0x2a959d1b0b958823f3e0504c6e561c3f11432cde60a609f07ae43853e96e765f|Washington Nationals": {
-        "title": "Washington Nationals vs. Detroit Tigers",
-        "outcome": "Washington Nationals",
-        "value": 4516.9074,
-        "avgPrice": 0.4371,
-        "slug": "mlb-wsh-det-2026-09-21"
+      "0x9e724ab9607323d70cebae0bca2cdea2704d7b8cd76d06169cf232e3dd5e2502|Toronto Blue Jays": {
+        "title": "Toronto Blue Jays vs. Baltimore Orioles",
+        "outcome": "Toronto Blue Jays",
+        "value": 13880.9198,
+        "avgPrice": 0.606,
+        "slug": "mlb-tor-bal-2026-09-21"
+      },
+      "0x38657f1f6a893ee3702217d1af586e8651ee736d613f54180a6d82f81c586f87|Rams": {
+        "title": "Giants vs. Rams",
+        "outcome": "Rams",
+        "value": 13090.9336,
+        "avgPrice": 0.7988,
+        "slug": "nfl-nyg-la-2026-09-22"
+      },
+      "0x028749c5ef94707196b3bd509efb18caca280a38aba4d750ed215530804e3b7e|Over": {
+        "title": "Giants vs. Rams: O/U 47.5",
+        "outcome": "Over",
+        "value": 12219.4304,
+        "avgPrice": 0.49,
+        "slug": "nfl-nyg-la-2026-09-22-total-47pt5"
+      },
+      "0x05877726250f4903cbe937cd159419b2be8a9a604f36ae38c062b10b090d4f68|New York Liberty": {
+        "title": "Atlanta Dream vs. New York Liberty",
+        "outcome": "New York Liberty",
+        "value": 10544.9591,
+        "avgPrice": 0.5204,
+        "slug": "wnba-atl-nyl-2026-09-21"
+      },
+      "0xdea1ddffa3d2a4c26493e68f3d708b519ea6b069a247e770c1a6618e4eff695f|Detroit Tigers": {
+        "title": "Spread: Detroit Tigers (-1.5)",
+        "outcome": "Detroit Tigers",
+        "value": 8823.9271,
+        "avgPrice": 0.5385,
+        "slug": "mlb-wsh-det-2026-09-21-spread-home-1pt5"
+      },
+      "0xab906170ebd92007ac5cb8ae5cb4b6fce5ac1ee75d625ced3aab59ab944b0149|Rams": {
+        "title": "Spread: Rams (-6.5)",
+        "outcome": "Rams",
+        "value": 8670.9348,
+        "avgPrice": 0.5903,
+        "slug": "nfl-nyg-la-2026-09-22-spread-home-6pt5"
+      },
+      "0xab906170ebd92007ac5cb8ae5cb4b6fce5ac1ee75d625ced3aab59ab944b0149|Giants": {
+        "title": "Spread: Rams (-6.5)",
+        "outcome": "Giants",
+        "value": 8629.3237,
+        "avgPrice": 0.488,
+        "slug": "nfl-nyg-la-2026-09-22-spread-home-6pt5"
+      },
+      "0x664afb1a78b56c93c20081e44a68e941907fc0af509b66204e6a28ff4dac46ae|Rams": {
+        "title": "Spread: Rams (-10.5)",
+        "outcome": "Rams",
+        "value": 8137.3875,
+        "avgPrice": 0.4562,
+        "slug": "nfl-nyg-la-2026-09-22-spread-home-10pt5"
+      },
+      "0x55060420a9af868c5a97b4bfef2ce7f32191cc8d076533cad3225ce9245e81fe|Giants": {
+        "title": "Spread: Rams (-8.5)",
+        "outcome": "Giants",
+        "value": 7230.0764,
+        "avgPrice": 0.5451,
+        "slug": "nfl-nyg-la-2026-09-22-spread-home-8pt5"
       },
       "0x7a95a6f7dfaae94f0292d96064ff8a0fa94c0940ebee0f6fa0b6ba85915736fb|Atlanta Dream": {
         "title": "Spread: Atlanta Dream (-1.5)",
         "outcome": "Atlanta Dream",
-        "value": 4414.6006,
-        "avgPrice": 0.5056,
+        "value": 6555.6424,
+        "avgPrice": 0.4992,
         "slug": "wnba-atl-nyl-2026-09-21-spread-away-1pt5"
       },
       "0xe1810cf8925b6a7b130720ff838a14e428a1330613b0f0c7014d1e5cec1853a4|Over": {
         "title": "Minnesota Twins vs. San Francisco Giants: O/U 8.5",
         "outcome": "Over",
-        "value": 4247.9355,
-        "avgPrice": 0.4798,
+        "value": 6154.4108,
+        "avgPrice": 0.4739,
         "slug": "mlb-min-sf-2026-09-21-total-8pt5"
       },
-      "0x6659cb5686957db8b81924abe09e65c70dd2e5050ba74395644f31aa4a8174ee|Over": {
-        "title": "Washington Nationals vs. Detroit Tigers: O/U 8.5",
-        "outcome": "Over",
-        "value": 3903.5995,
-        "avgPrice": 0.4996,
-        "slug": "mlb-wsh-det-2026-09-21-total-8pt5"
-      },
-      "0x572756f18df447c94b28c8a24b90dc2082d9a04a001121675cf59aef2a7c7818|Over": {
-        "title": "Washington Nationals vs. Detroit Tigers: O/U 7.5",
-        "outcome": "Over",
-        "value": 3119.5768,
-        "avgPrice": 0.5799,
-        "slug": "mlb-wsh-det-2026-09-21-total-7pt5"
+      "0xfe2be14e4f9ebcb0a4201803ec52d915d2fa60a650d3d20e12822f62b8ba1e1f|Under": {
+        "title": "Giants vs. Rams: O/U 39.5",
+        "outcome": "Under",
+        "value": 5174.5394,
+        "avgPrice": 0.5099,
+        "slug": "nfl-nyg-la-2026-09-22-total-39pt5"
       },
       "0x60471001ff6784d834c0ec2e8c1c183389f48398e52e9f457f0bbfeea368bc96|Rams": {
         "title": "Spread: Rams (-4.5)",
         "outcome": "Rams",
-        "value": 3112.7337,
-        "avgPrice": 0.57,
+        "value": 5129.8222,
+        "avgPrice": 0.5654,
         "slug": "nfl-nyg-la-2026-09-22-spread-home-4pt5"
+      },
+      "0x1ec0da00954dbed9f9e886699060473564d07b6ffc4dea0b5c3d5d3cd03c4dea|Over": {
+        "title": "Toronto Blue Jays vs. Baltimore Orioles: O/U 8.5",
+        "outcome": "Over",
+        "value": 5123.2658,
+        "avgPrice": 0.5464,
+        "slug": "mlb-tor-bal-2026-09-21-total-8pt5"
+      },
+      "0x9e724ab9607323d70cebae0bca2cdea2704d7b8cd76d06169cf232e3dd5e2502|Baltimore Orioles": {
+        "title": "Toronto Blue Jays vs. Baltimore Orioles",
+        "outcome": "Baltimore Orioles",
+        "value": 4824.4923,
+        "avgPrice": 0.3511,
+        "slug": "mlb-tor-bal-2026-09-21"
+      },
+      "0x3f133ac32141bea83e6944c25a5273afbf04faee490688dde632a86fdc6e77f8|Under": {
+        "title": "Giants vs. Rams: O/U 43.5",
+        "outcome": "Under",
+        "value": 4010.5926,
+        "avgPrice": 0.4755,
+        "slug": "nfl-nyg-la-2026-09-22-total-43pt5"
       },
       "0x081f240146a954c1e8dfb5de956807509116e43380a0c60a786adac82234d864|Under": {
         "title": "Giants vs. Rams: O/U 49.5",
         "outcome": "Under",
-        "value": 2769.1836,
+        "value": 3598.3233,
         "avgPrice": 0.5599,
         "slug": "nfl-nyg-la-2026-09-22-total-49pt5"
+      },
+      "0xe6eb8333a63c0090e2780685cb5f4c9fe2bc15c7e1d7dda087bf0f27ac842857|Tohoku Rakuten Golden Eagles": {
+        "title": "Tohoku Rakuten Golden Eagles vs. Fukuoka SoftBank Hawks",
+        "outcome": "Tohoku Rakuten Golden Eagles",
+        "value": 3561.8137,
+        "avgPrice": 0.433,
+        "slug": "npb-toh-fuk-2026-09-21"
+      },
+      "0x198fd6be4942d3242009e54ccaf957b9f50f72b345534ff8a2c7c26f0626aa76|Over": {
+        "title": "Giants vs. Rams: O/U 45.5",
+        "outcome": "Over",
+        "value": 3513.5965,
+        "avgPrice": 0.5684,
+        "slug": "nfl-nyg-la-2026-09-22-total-45pt5"
+      },
+      "0x0daf4bf652bd1eff4167a06e4fdd81ea0344daaeb6afd7110e4bfc25fb808988|Under": {
+        "title": "Giants vs. Rams: O/U 41.5",
+        "outcome": "Under",
+        "value": 3369.5763,
+        "avgPrice": 0.5681,
+        "slug": "nfl-nyg-la-2026-09-22-total-41pt5"
+      },
+      "0xde1ddd3994f4eb4361b09450fe7c0e57b0ddb9c0424d8862cc8d5a6a50486253|LA": {
+        "title": "Spread: LA (-9.5)",
+        "outcome": "LA",
+        "value": 3351.4534,
+        "avgPrice": 0.57,
+        "slug": "nfl-nyg-la-2026-09-22-spread-home-9pt5"
       },
       "0xb8231bcab8295c400becbc609af369b6198660e7f56f1004b4b8302028269acb|Under": {
         "title": "Toronto Blue Jays vs. Baltimore Orioles: O/U 7.5",
         "outcome": "Under",
-        "value": 2671.7902,
-        "avgPrice": 0.4884,
+        "value": 3043.3292,
+        "avgPrice": 0.4876,
         "slug": "mlb-tor-bal-2026-09-21-total-7pt5"
+      },
+      "0x7a95a6f7dfaae94f0292d96064ff8a0fa94c0940ebee0f6fa0b6ba85915736fb|New York Liberty": {
+        "title": "Spread: Atlanta Dream (-1.5)",
+        "outcome": "New York Liberty",
+        "value": 2884.9085,
+        "avgPrice": 0.4983,
+        "slug": "wnba-atl-nyl-2026-09-21-spread-away-1pt5"
+      },
+      "0xfe2be14e4f9ebcb0a4201803ec52d915d2fa60a650d3d20e12822f62b8ba1e1f|Over": {
+        "title": "Giants vs. Rams: O/U 39.5",
+        "outcome": "Over",
+        "value": 2771.82,
+        "avgPrice": 0.5,
+        "slug": "nfl-nyg-la-2026-09-22-total-39pt5"
+      },
+      "0xbc6a32b625e17a2ec219e28c8b35d6fc35d56c95c9df7e27dcfd808fa2e8bf96|Over": {
+        "title": "Atlanta Dream vs. New York Liberty: O/U 177.5",
+        "outcome": "Over",
+        "value": 2736.3523,
+        "avgPrice": 0.4998,
+        "slug": "wnba-atl-nyl-2026-09-21-total-177pt5"
+      },
+      "0x38657f1f6a893ee3702217d1af586e8651ee736d613f54180a6d82f81c586f87|Giants": {
+        "title": "Giants vs. Rams",
+        "outcome": "Giants",
+        "value": 2438.8286,
+        "avgPrice": 0.1694,
+        "slug": "nfl-nyg-la-2026-09-22"
+      },
+      "0xa590e64c23a615083a2bcedd3d6cb8ac8ac0bfaeb8baf3531af93d14da530ff0|Giants": {
+        "title": "Spread: Rams (-7.5)",
+        "outcome": "Giants",
+        "value": 2228.5572,
+        "avgPrice": 0.5118,
+        "slug": "nfl-nyg-la-2026-09-22-spread-home-7pt5"
       },
       "0x7c51ca4fa62fa356430f6aaaad839888a475c9a791b089fb3e5c7717c6a39342|Barbora Palicova": {
         "title": "Makarska: Petra Marcinko vs Barbora Palicova",
@@ -744,12 +1122,61 @@
         "avgPrice": 0.3699,
         "slug": "wta-marcink-palicov-2026-06-04"
       },
+      "0x1ec0da00954dbed9f9e886699060473564d07b6ffc4dea0b5c3d5d3cd03c4dea|Under": {
+        "title": "Toronto Blue Jays vs. Baltimore Orioles: O/U 8.5",
+        "outcome": "Under",
+        "value": 1618.8931,
+        "avgPrice": 0.5217,
+        "slug": "mlb-tor-bal-2026-09-21-total-8pt5"
+      },
+      "0xb40360f4982c5f580028b8a2185b1ba00e7c309d47163d195e38cb8aab16b27c|Under": {
+        "title": "Giants vs. Rams: O/U 50.5",
+        "outcome": "Under",
+        "value": 1506.2364,
+        "avgPrice": 0.59,
+        "slug": "nfl-nyg-la-2026-09-22-total-50pt5"
+      },
+      "0xbc6a32b625e17a2ec219e28c8b35d6fc35d56c95c9df7e27dcfd808fa2e8bf96|Under": {
+        "title": "Atlanta Dream vs. New York Liberty: O/U 177.5",
+        "outcome": "Under",
+        "value": 1457.342,
+        "avgPrice": 0.4958,
+        "slug": "wnba-atl-nyl-2026-09-21-total-177pt5"
+      },
+      "0x39fa52060b6a11c0bb6a7fbb8f431647d9cfdf297a050ccf4c339b2c36cedf2f|New York Yankees": {
+        "title": "Tampa Bay Rays vs. New York Yankees",
+        "outcome": "New York Yankees",
+        "value": 1416.6075,
+        "avgPrice": 0.55,
+        "slug": "mlb-tb-nyy-2026-09-22"
+      },
+      "0xe77da12a410d2c3ccce92bed0c7f7646498018852088b79997a238b6ea18426c|Detroit Tigers": {
+        "title": "Washington Nationals vs. Detroit Tigers",
+        "outcome": "Detroit Tigers",
+        "value": 1412.0671,
+        "avgPrice": 0.58,
+        "slug": "mlb-wsh-det-2026-09-22"
+      },
       "0x3c5faef17d2779a366e6f050382677fc123eab819a1086b584a450b263d057a2|Under": {
         "title": "Dallas Wings vs. Phoenix Mercury: O/U 171.5",
         "outcome": "Under",
         "value": 1370.6023,
         "avgPrice": 0.46,
         "slug": "wnba-dal-phx-2026-09-21-total-171pt5"
+      },
+      "0x72a6d0723ece5e4e856311ae9289151b0f34be080568f113778aa10d93b53e6a|Philadelphia Phillies": {
+        "title": "Milwaukee Brewers vs. Philadelphia Phillies",
+        "outcome": "Philadelphia Phillies",
+        "value": 1319.0207,
+        "avgPrice": 0.55,
+        "slug": "mlb-mil-phi-2026-09-22"
+      },
+      "0x198fd6be4942d3242009e54ccaf957b9f50f72b345534ff8a2c7c26f0626aa76|Under": {
+        "title": "Giants vs. Rams: O/U 45.5",
+        "outcome": "Under",
+        "value": 1247.0977,
+        "avgPrice": 0.5419,
+        "slug": "nfl-nyg-la-2026-09-22-total-45pt5"
       },
       "0x381ea34de799962e25bad0e8bd3aae667c370b66f29a782f7c78ce0e303db406|Under": {
         "title": "Falcons vs. Packers: O/U 44.5",
@@ -765,19 +1192,19 @@
         "avgPrice": 0.6104,
         "slug": "wta-masarov-ryser-2026-07-18-match-total-23pt5"
       },
+      "0xecbe3da37e5c1360391e132a69f3ed349f7de21895336c9dfd15fce3d62fab6d|Kansas City Royals": {
+        "title": "Chicago White Sox vs. Kansas City Royals",
+        "outcome": "Kansas City Royals",
+        "value": 1103.615,
+        "avgPrice": 0.47,
+        "slug": "mlb-cws-kc-2026-09-22"
+      },
       "0xb8231bcab8295c400becbc609af369b6198660e7f56f1004b4b8302028269acb|Over": {
         "title": "Toronto Blue Jays vs. Baltimore Orioles: O/U 7.5",
         "outcome": "Over",
-        "value": 1195.3827,
-        "avgPrice": 0.51,
+        "value": 1043.6032,
+        "avgPrice": 0.5099,
         "slug": "mlb-tor-bal-2026-09-21-total-7pt5"
-      },
-      "0x572756f18df447c94b28c8a24b90dc2082d9a04a001121675cf59aef2a7c7818|Under": {
-        "title": "Washington Nationals vs. Detroit Tigers: O/U 7.5",
-        "outcome": "Under",
-        "value": 1107.7641,
-        "avgPrice": 0.4286,
-        "slug": "mlb-wsh-det-2026-09-21-total-7pt5"
       },
       "0x68d0f233e0c1b280ae869734140f5df73d59239356e75bd39667e11ba8d1bd59|Packers": {
         "title": "Spread: Packers (-7.5)",
@@ -785,13 +1212,6 @@
         "value": 869.8358,
         "avgPrice": 0.4599,
         "slug": "nfl-atl-gb-2026-09-25-spread-home-7pt5"
-      },
-      "0xdea1ddffa3d2a4c26493e68f3d708b519ea6b069a247e770c1a6618e4eff695f|Detroit Tigers": {
-        "title": "Spread: Detroit Tigers (-1.5)",
-        "outcome": "Detroit Tigers",
-        "value": 865.3806,
-        "avgPrice": 0.39,
-        "slug": "mlb-wsh-det-2026-09-21-spread-home-1pt5"
       },
       "0x37b15cb2c0a5189766a2d0b49e598dd47a3900939c5168ff98b5c1930010232d|Under": {
         "title": "Michelsen vs. Gea: Match O/U 23.5",
@@ -807,26 +1227,19 @@
         "avgPrice": 0.5167,
         "slug": "wnba-dal-phx-2026-09-21-total-171pt5"
       },
-      "0x35a576a8e1fa9ed1509e8c26478a9c12f60c18592007c90449c914724dcd5da8|Under": {
-        "title": "Washington Nationals vs. Detroit Tigers: O/U 9.5",
-        "outcome": "Under",
-        "value": 824.9659,
-        "avgPrice": 0.5999,
-        "slug": "mlb-wsh-det-2026-09-21-total-9pt5"
-      },
-      "0xfc76ed1f690b84bf7003c51d85a51c923b4b1470a5d8c9854a05f26002fe79ac|Under": {
-        "title": "Dallas Wings vs. Phoenix Mercury: O/U 173.5",
-        "outcome": "Under",
-        "value": 786.9319,
-        "avgPrice": 0.48,
-        "slug": "wnba-dal-phx-2026-09-21-total-173pt5"
-      },
       "0xcbb3da9d3f8feb5ecd19fad54b191b69525ac756f7fd4934c70a49dccb78029e|Phoenix Mercury": {
         "title": "Spread: Dallas Wings (-6.5)",
         "outcome": "Phoenix Mercury",
         "value": 785.232,
         "avgPrice": 0.5258,
         "slug": "wnba-dal-phx-2026-09-21-spread-away-6pt5"
+      },
+      "0xfc76ed1f690b84bf7003c51d85a51c923b4b1470a5d8c9854a05f26002fe79ac|Under": {
+        "title": "Dallas Wings vs. Phoenix Mercury: O/U 173.5",
+        "outcome": "Under",
+        "value": 770.7065,
+        "avgPrice": 0.48,
+        "slug": "wnba-dal-phx-2026-09-21-total-173pt5"
       },
       "0x2010cd76ac0d429f5a085dd0d357ea01f9fe8f8343d399e022cd404208e251db|Under": {
         "title": "Falcons vs. Packers: O/U 43.5",
@@ -842,12 +1255,47 @@
         "avgPrice": 0.46,
         "slug": "cfb-navy-uab-2026-09-25-spread-away-7pt5"
       },
+      "0x55060420a9af868c5a97b4bfef2ce7f32191cc8d076533cad3225ce9245e81fe|Rams": {
+        "title": "Spread: Rams (-8.5)",
+        "outcome": "Rams",
+        "value": 690.3593,
+        "avgPrice": 0.52,
+        "slug": "nfl-nyg-la-2026-09-22-spread-home-8pt5"
+      },
+      "0xe3ac92aff8c46ad0bd3df916cd4ee865988454e5458a73755665b75c16d0e998|Over": {
+        "title": "Washington Nationals vs. Detroit Tigers: O/U 10.5",
+        "outcome": "Over",
+        "value": 686.0489,
+        "avgPrice": 0.4434,
+        "slug": "mlb-wsh-det-2026-09-21-total-10pt5"
+      },
+      "0xe41dc4d79a9fc6865c5176125ab1df693ec76c49fb3c16eadcaeaf83459d50ba|Over": {
+        "title": "Toronto Blue Jays vs. Baltimore Orioles: O/U 9.5",
+        "outcome": "Over",
+        "value": 641.7722,
+        "avgPrice": 0.48,
+        "slug": "mlb-tor-bal-2026-09-21-total-9pt5"
+      },
       "0x2a34443a75f390096ef5f57be03574c54b878b250e2facd56ab6d192035a8350|Kia Tigers": {
         "title": "KBO: SSG Landers vs. Kia Tigers",
         "outcome": "Kia Tigers",
         "value": 640.8262,
         "avgPrice": 0.6841,
         "slug": "kbo-ssg-kia-2026-08-28"
+      },
+      "0x894af1930624f1eedf0adc64ce2a589e8dd2b31a2c288fc1a4aa94a54a2a361c|Under": {
+        "title": "Minnesota Twins vs. San Francisco Giants: O/U 6.5",
+        "outcome": "Under",
+        "value": 576.6755,
+        "avgPrice": 0.3151,
+        "slug": "mlb-min-sf-2026-09-21-total-6pt5"
+      },
+      "0xa7433553601e13767020e662fdf26b1a6115ac77ce96088a6ad000c3e2febde7|New York Liberty": {
+        "title": "Spread: Atlanta Dream (-2.5)",
+        "outcome": "New York Liberty",
+        "value": 551.112,
+        "avgPrice": 0.5399,
+        "slug": "wnba-atl-nyl-2026-09-21-spread-away-2pt5"
       },
       "0x5093835b821a34275bd1c67d4ef1d6cdd0c8d4733d794d0c2ff4f6a5b866104c|Minnesota Twins": {
         "title": "Spread: Minnesota Twins (-1.5)",
@@ -859,6 +1307,16 @@
     }
   },
   "announced": {
-    "0x9e724ab9607323d70cebae0bca2cdea2704d7b8cd76d06169cf232e3dd5e2502|Baltimore Orioles": 3
+    "0x664afb1a78b56c93c20081e44a68e941907fc0af509b66204e6a28ff4dac46ae|Rams": 3,
+    "0xa590e64c23a615083a2bcedd3d6cb8ac8ac0bfaeb8baf3531af93d14da530ff0|Rams": 3,
+    "0xab906170ebd92007ac5cb8ae5cb4b6fce5ac1ee75d625ced3aab59ab944b0149|Giants": 4,
+    "0x38657f1f6a893ee3702217d1af586e8651ee736d613f54180a6d82f81c586f87|Giants": 4,
+    "0x05877726250f4903cbe937cd159419b2be8a9a604f36ae38c062b10b090d4f68|New York Liberty": 3,
+    "0x7a95a6f7dfaae94f0292d96064ff8a0fa94c0940ebee0f6fa0b6ba85915736fb|Atlanta Dream": 3,
+    "0x9e724ab9607323d70cebae0bca2cdea2704d7b8cd76d06169cf232e3dd5e2502|Baltimore Orioles": 3,
+    "0x05877726250f4903cbe937cd159419b2be8a9a604f36ae38c062b10b090d4f68|Atlanta Dream": 4,
+    "0x38657f1f6a893ee3702217d1af586e8651ee736d613f54180a6d82f81c586f87|Rams": 3,
+    "0xa590e64c23a615083a2bcedd3d6cb8ac8ac0bfaeb8baf3531af93d14da530ff0|Giants": 3,
+    "0x081f240146a954c1e8dfb5de956807509116e43380a0c60a786adac82234d864|Under": 3
   }
 }
