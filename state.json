@@ -1,6 +1,41 @@
 {
   "seen": {
     "#1 Ferrari": {
+      "0xa8c72b8c2fc217438caad58074ff0fe0878b1d7b06daf6d588b87b78020152ba|Packers": {
+        "title": "Falcons vs. Packers",
+        "outcome": "Packers",
+        "value": 187861.0842,
+        "avgPrice": 0.68,
+        "slug": "nfl-atl-gb-2026-09-25"
+      },
+      "0xb865736cce51dfb32d4e97796dfc9be85972159f0cf03c255844c21456b3e17a|Falcons": {
+        "title": "Spread: Packers (-4.5)",
+        "outcome": "Falcons",
+        "value": 51012.5887,
+        "avgPrice": 0.48,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-4pt5"
+      },
+      "0xcb169452dc1771cc194ad61634b529c6df933c76b99fd28782f1c77f71f94955|Milwaukee Brewers": {
+        "title": "Milwaukee Brewers vs. Philadelphia Phillies",
+        "outcome": "Milwaukee Brewers",
+        "value": 45889.6547,
+        "avgPrice": 0.4513,
+        "slug": "mlb-mil-phi-2026-09-24"
+      },
+      "0x2010cd76ac0d429f5a085dd0d357ea01f9fe8f8343d399e022cd404208e251db|Over": {
+        "title": "Falcons vs. Packers: O/U 43.5",
+        "outcome": "Over",
+        "value": 45568.9082,
+        "avgPrice": 0.4699,
+        "slug": "nfl-atl-gb-2026-09-25-total-43pt5"
+      },
+      "0x3183c297a36aeeb71d3d004be049c49fe6afbab4d79eba63a3e803cd5c6e3611|Under": {
+        "title": "Cleveland Guardians vs. Boston Red Sox: O/U 6.5",
+        "outcome": "Under",
+        "value": 39483.6252,
+        "avgPrice": 0.4815,
+        "slug": "mlb-cle-bos-2026-09-24-total-6pt5"
+      },
       "0x1f8d995c49e6794c58dcd187b413a66c625bc5296e95f22844e300da7e4a66b4|Ann Li": {
         "title": "Monterrey Open: Maria Timofeeva vs Ann Li",
         "outcome": "Ann Li",
@@ -8,103 +43,110 @@
         "avgPrice": 0.5156,
         "slug": "wta-timofee-annli-2026-08-26"
       },
-      "0x64ee3ce1a5e5bede9b4d6b8d868571645d486338240b8d5281bda16fb6d33254|Andres Andrade": {
-        "title": "San Diego 2: Darwin Blanch vs Andres Andrade",
-        "outcome": "Andres Andrade",
-        "value": 19538.214,
-        "avgPrice": 0.2684,
-        "slug": "atp-blanc-andrade-2026-09-24"
-      },
-      "0xc159756df847ca238378e4934cf2cdce6c8d2a31919759d4e1151a82bcad427c|Gabriela Ruse": {
-        "title": "Korea Open: Anna Bondar vs Gabriela Ruse",
-        "outcome": "Gabriela Ruse",
-        "value": 12778.5453,
-        "avgPrice": 0.6322,
-        "slug": "wta-bondar-ruse-2026-09-25"
-      },
       "0xe33f9bbe0a2e2dcdaf5e447a3bccc3b242633c9051ffd2d95087e1cede1c0b6e|Under": {
         "title": "Milwaukee Brewers vs. Philadelphia Phillies: O/U 7.5",
         "outcome": "Under",
-        "value": 11981.9599,
-        "avgPrice": 0.4836,
+        "value": 18052.7681,
+        "avgPrice": 0.4844,
         "slug": "mlb-mil-phi-2026-09-24-total-7pt5"
-      },
-      "0x3183c297a36aeeb71d3d004be049c49fe6afbab4d79eba63a3e803cd5c6e3611|Under": {
-        "title": "Cleveland Guardians vs. Boston Red Sox: O/U 6.5",
-        "outcome": "Under",
-        "value": 11380.2083,
-        "avgPrice": 0.4799,
-        "slug": "mlb-cle-bos-2026-09-24-total-6pt5"
-      },
-      "0x1eb5dda409b8275fc0b76fd4e37096072cbf7d455ed6ae5e901d6a366b38bbfc|Colorado Rockies": {
-        "title": "Spread: Arizona Diamondbacks (-9.5)",
-        "outcome": "Colorado Rockies",
-        "value": 9407.5296,
-        "avgPrice": 0.4671,
-        "slug": "mlb-ari-col-2026-09-24-spread-away-9pt5"
-      },
-      "0xcb169452dc1771cc194ad61634b529c6df933c76b99fd28782f1c77f71f94955|Philadelphia Phillies": {
-        "title": "Milwaukee Brewers vs. Philadelphia Phillies",
-        "outcome": "Philadelphia Phillies",
-        "value": 7620.5971,
-        "avgPrice": 0.5399,
-        "slug": "mlb-mil-phi-2026-09-24"
-      },
-      "0xc8a63660041293f878c1783d3e3e19b46e58a494009cb0d613796380d118b1d6|Luis Felipe Miguel": {
-        "title": "M15 Columbia, SC: Evan Bynoe vs Luis Felipe Miguel",
-        "outcome": "Luis Felipe Miguel",
-        "value": 7566.0336,
-        "avgPrice": 0.7499,
-        "slug": "itf-bynoe1-miguel1-2026-09-24"
-      },
-      "0x64ee3ce1a5e5bede9b4d6b8d868571645d486338240b8d5281bda16fb6d33254|Darwin Blanch": {
-        "title": "San Diego 2: Darwin Blanch vs Andres Andrade",
-        "outcome": "Darwin Blanch",
-        "value": 6651.7716,
-        "avgPrice": 0.5969,
-        "slug": "atp-blanc-andrade-2026-09-24"
-      },
-      "0xdb252e71f7a032dda5dee19abc6298cb0f8a2beaae4e3a19f41dcdc34fb1db48|Over": {
-        "title": "Arizona Diamondbacks vs. Colorado Rockies: O/U 20.5",
-        "outcome": "Over",
-        "value": 6073.3446,
-        "avgPrice": 0.6555,
-        "slug": "mlb-ari-col-2026-09-24-total-20pt5"
-      },
-      "0x875c23fd6e26f4b3cda9997b5f942250dadb23611e57b3553974acb980d09fb4|Over": {
-        "title": "Cincinnati Reds vs. Atlanta Braves: O/U 7.5",
-        "outcome": "Over",
-        "value": 5324.656,
-        "avgPrice": 0.5281,
-        "slug": "mlb-cin-atl-2026-09-24-total-7pt5"
       },
       "0xf58048b24d8c5721ebcead0f0968caba593042058bcf8948aaf5d359fa1ade73|Tampa Bay Rays": {
         "title": "Tampa Bay Rays vs. New York Yankees",
         "outcome": "Tampa Bay Rays",
-        "value": 4975.6692,
-        "avgPrice": 0.4199,
+        "value": 10222.8727,
+        "avgPrice": 0.8499,
         "slug": "mlb-tb-nyy-2026-09-24"
       },
-      "0x2803bd354106ef599080ea2301d930d5c6a4cfc0a8d524ab70529d969ccdc43f|Emma Kamper": {
-        "title": "W50 Berkeley, CA: Emma Kamper vs Carson Branstine",
-        "outcome": "Emma Kamper",
-        "value": 4724.1687,
-        "avgPrice": 0.77,
-        "slug": "itf-kamper1-branst1-2026-09-24"
+      "0xfb7723570e5f574e9567d5635bba7b0c61c49fbfc36d8e872cff6617c5db4b25|Katie Volynets": {
+        "title": "Korea Open: Katie Volynets vs Kimberly Birrell",
+        "outcome": "Katie Volynets",
+        "value": 9527.4633,
+        "avgPrice": 0.7299,
+        "slug": "wta-volynet-birrell-2026-09-24"
       },
-      "0x20ac99063f5ebc5a19abfcc6db3f730b9c8ac7c974f8439cb78e8bfb3c94146e|Under": {
-        "title": "Tampa Bay Rays vs. New York Yankees: O/U 6.5",
+      "0x8d484216f8596e4c19be305a20fd2ce9614e3ae78229296a2cddd0a973be4139|Minnesota Lynx": {
+        "title": "Spread: Indiana Fever (-4.5)",
+        "outcome": "Minnesota Lynx",
+        "value": 8930.0832,
+        "avgPrice": 0.4943,
+        "slug": "wnba-ind-min-2026-09-24-spread-away-4pt5"
+      },
+      "0xbade5ba3e9d507f9c733bdab152ae14da4b63446fa98caffd4c608d0ab6ff54d|Coastal Carolina": {
+        "title": "Liberty vs. Coastal Carolina",
+        "outcome": "Coastal Carolina",
+        "value": 8711.0003,
+        "avgPrice": 0.3006,
+        "slug": "cfb-librty-coast-2026-09-24"
+      },
+      "0xc159756df847ca238378e4934cf2cdce6c8d2a31919759d4e1151a82bcad427c|Gabriela Ruse": {
+        "title": "Korea Open: Anna Bondar vs Gabriela Ruse",
+        "outcome": "Gabriela Ruse",
+        "value": 8291.7201,
+        "avgPrice": 0.6322,
+        "slug": "wta-bondar-ruse-2026-09-25"
+      },
+      "0x50039d3c40445db651e481363cbcff66d392bdfa15458b8e6033f0b930ac7df5|Botic van de Zandschulp": {
+        "title": "Chengdu Open: Nikoloz Basilashvili vs Botic van de Zandschulp",
+        "outcome": "Botic van de Zandschulp",
+        "value": 8023.5524,
+        "avgPrice": 0.639,
+        "slug": "atp-basilas-zandsch-2026-09-24"
+      },
+      "0xaaba03e832b1e2c7a65fd0e292898b69bc70b5241f6c95850d96b9d758661733|Boston Red Sox": {
+        "title": "Cleveland Guardians vs. Boston Red Sox",
+        "outcome": "Boston Red Sox",
+        "value": 6981.8592,
+        "avgPrice": 0.4927,
+        "slug": "mlb-cle-bos-2026-09-24"
+      },
+      "0x5ad8837287d35dffa862646bbb6fe194bd98fc1f976303287c6ef0891d148659|Cincinnati Reds": {
+        "title": "Spread: Atlanta Braves (-2.5)",
+        "outcome": "Cincinnati Reds",
+        "value": 6290.14,
+        "avgPrice": 0.6301,
+        "slug": "mlb-cin-atl-2026-09-24-spread-home-2pt5"
+      },
+      "0xdbb82cdcbccf31d9a28a45fcb55041993632ee3f8c20050d616883afb2a59f03|Under": {
+        "title": "Falcons vs. Packers: O/U 39.5",
         "outcome": "Under",
-        "value": 4390.938,
-        "avgPrice": 0.55,
-        "slug": "mlb-tb-nyy-2026-09-24-total-6pt5"
+        "value": 5656.357,
+        "avgPrice": 0.48,
+        "slug": "nfl-atl-gb-2026-09-25-total-39pt5"
+      },
+      "0x9909b352add3e48cee9da8b4f238ab36f4957c07afd45ab2b3cae8ee1da2dba9|Over": {
+        "title": "Houston Astros vs. Athletics: O/U 10.5",
+        "outcome": "Over",
+        "value": 4201.6011,
+        "avgPrice": 0.5169,
+        "slug": "mlb-hou-oak-2026-09-24-total-10pt5"
+      },
+      "0x381ea34de799962e25bad0e8bd3aae667c370b66f29a782f7c78ce0e303db406|Over": {
+        "title": "Falcons vs. Packers: O/U 44.5",
+        "outcome": "Over",
+        "value": 4062.5,
+        "avgPrice": 0.43,
+        "slug": "nfl-atl-gb-2026-09-25-total-44pt5"
+      },
+      "0xcea6288acbc2a449ff97b6f184b9bcc7789850b0ad569cda68a8f46deb7bdc01|Tampa Bay Rays": {
+        "title": "Spread: New York Yankees (-1.5)",
+        "outcome": "Tampa Bay Rays",
+        "value": 3910.3425,
+        "avgPrice": 0.6299,
+        "slug": "mlb-tb-nyy-2026-09-24-spread-home-1pt5"
       },
       "0xa1318fe0e004c1bd0cdd2267ea4bd1429f384a765d2ea9ac3345a50aaeacf37a|Over": {
         "title": "Indiana Fever vs. Minnesota Lynx: O/U 183.5",
         "outcome": "Over",
-        "value": 3772.7464,
-        "avgPrice": 0.4844,
+        "value": 3666.6204,
+        "avgPrice": 0.4868,
         "slug": "wnba-ind-min-2026-09-24-total-183pt5"
+      },
+      "0xf58048b24d8c5721ebcead0f0968caba593042058bcf8948aaf5d359fa1ade73|New York Yankees": {
+        "title": "Tampa Bay Rays vs. New York Yankees",
+        "outcome": "New York Yankees",
+        "value": 3537.546,
+        "avgPrice": 0.5994,
+        "slug": "mlb-tb-nyy-2026-09-24"
       },
       "0x3a5736b4d3b777663ab3b24aedb50f092bd96b50d154a9fc89388314f1ecaca2|Elsa Bonelli": {
         "title": "ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Sarina Schnyder vs Elsa Bonelli",
@@ -113,19 +155,19 @@
         "avgPrice": 0.5765,
         "slug": "itf-schnyde-bonelli-2026-08-26"
       },
+      "0xa69826a08aefbfb213677dc6c9e1203c53aef78aaf43a3728bce502b4e37d6ee|Atlanta Braves": {
+        "title": "Cincinnati Reds vs. Atlanta Braves",
+        "outcome": "Atlanta Braves",
+        "value": 3418.9226,
+        "avgPrice": 0.6471,
+        "slug": "mlb-cin-atl-2026-09-24"
+      },
       "0xe588eef99560e434aac555c96dc7aee2444574cd4085e9a44dbf4decf7f2e46e|Los Angeles Angels": {
         "title": "Los Angeles Angels vs. Seattle Mariners",
         "outcome": "Los Angeles Angels",
         "value": 3379.1235,
         "avgPrice": 0.3499,
         "slug": "mlb-laa-sea-2026-09-24"
-      },
-      "0x4e3f80c8629c3683b566152bbdb17812f3a76a5491b8b571b7fdc1bd9846a538|Colorado Rockies": {
-        "title": "Spread: Arizona Diamondbacks (-8.5)",
-        "outcome": "Colorado Rockies",
-        "value": 3127.425,
-        "avgPrice": 0.44,
-        "slug": "mlb-ari-col-2026-09-24-spread-away-8pt5"
       },
       "0x071b93629cb5c1fba9d2d2b7bf7909843e4b3bdc67368448762f2ab510f66037|Adrian Mannarino": {
         "title": "Chengdu Open: Alejandro Tabilo vs Adrian Mannarino",
@@ -134,6 +176,13 @@
         "avgPrice": 0.3971,
         "slug": "atp-tabilo-mannari-2026-09-24"
       },
+      "0x20ac99063f5ebc5a19abfcc6db3f730b9c8ac7c974f8439cb78e8bfb3c94146e|Under": {
+        "title": "Tampa Bay Rays vs. New York Yankees: O/U 6.5",
+        "outcome": "Under",
+        "value": 2849.2348,
+        "avgPrice": 0.55,
+        "slug": "mlb-tb-nyy-2026-09-24-total-6pt5"
+      },
       "0xaf8ecf1ec33269d90297afb9f7f78aa6f71f91f1867f0d469b0be85984bd6a8d|Over": {
         "title": "Levante UD vs. Athletic Club: O/U 2.5",
         "outcome": "Over",
@@ -141,19 +190,19 @@
         "avgPrice": 0.5499,
         "slug": "lal-lev-bil-2026-09-16-total-2pt5"
       },
-      "0x9909b352add3e48cee9da8b4f238ab36f4957c07afd45ab2b3cae8ee1da2dba9|Over": {
-        "title": "Houston Astros vs. Athletics: O/U 10.5",
-        "outcome": "Over",
-        "value": 2639.9363,
-        "avgPrice": 0.5099,
-        "slug": "mlb-hou-oak-2026-09-24-total-10pt5"
+      "0x475a6eaa6d9e06ef84c82a04115316fda088a22f6e0654b0caa06890f85991a9|Under": {
+        "title": "Tampa Bay Rays vs. New York Yankees: O/U 7.5",
+        "outcome": "Under",
+        "value": 2662.785,
+        "avgPrice": 0.6226,
+        "slug": "mlb-tb-nyy-2026-09-24-total-7pt5"
       },
-      "0xcea6288acbc2a449ff97b6f184b9bcc7789850b0ad569cda68a8f46deb7bdc01|Tampa Bay Rays": {
-        "title": "Spread: New York Yankees (-1.5)",
-        "outcome": "Tampa Bay Rays",
-        "value": 2613.7552,
-        "avgPrice": 0.6299,
-        "slug": "mlb-tb-nyy-2026-09-24-spread-home-1pt5"
+      "0xeca91a95659350b423a80c3fed0cea456c6a0dd6b4e9861b3628b5f1ba0a6c41|Over": {
+        "title": "Houston Astros vs. Athletics: O/U 11.5",
+        "outcome": "Over",
+        "value": 2434.6172,
+        "avgPrice": 0.4329,
+        "slug": "mlb-hou-oak-2026-09-24-total-11pt5"
       },
       "0x9af167ed361bdc016577401cd59cc05fee72a7aaf70b4a28616f8c6acca2b920|Luiza Fullana": {
         "title": "ITF WOMEN - SINGLES: W35 Barueri (Brazil), hard: Maria Fernanda Navarro vs Luiza Fullana",
@@ -183,6 +232,13 @@
         "avgPrice": 0.67,
         "slug": "itf-orlov-kumstat-2026-07-23"
       },
+      "0xbff13142f030c6dcd1361ee258ca69aebb08a5ca3acd2b43832522fa51a7c256|Milwaukee Brewers": {
+        "title": "Spread: Milwaukee Brewers (-1.5)",
+        "outcome": "Milwaukee Brewers",
+        "value": 2055.4552,
+        "avgPrice": 0.3441,
+        "slug": "mlb-mil-phi-2026-09-24-spread-away-1pt5"
+      },
       "0xf5af02426ee2efd1a8cea5b22992b80d42e5dd43dce4942d281f6c514a35a751|ASVEL Lyon-Villeurbanne": {
         "title": "ASVEL Lyon-Villeurbanne vs. Maccabi Tel Aviv",
         "outcome": "ASVEL Lyon-Villeurbanne",
@@ -204,26 +260,19 @@
         "avgPrice": 0.6038,
         "slug": "itf-zeltina-palicov-2026-08-17"
       },
-      "0x00e068a4013f7a47f4a92ab3ecffd532a68516b19ea14915daeb855508ad6b2c|Zalgiris Kaunas": {
-        "title": "KK Crvena Zvezda vs. Zalgiris Kaunas",
-        "outcome": "Zalgiris Kaunas",
-        "value": 1874.668,
-        "avgPrice": 0.473,
-        "slug": "euroleague-zvezda-kaunas-2026-09-24"
+      "0x68d0f233e0c1b280ae869734140f5df73d59239356e75bd39667e11ba8d1bd59|Falcons": {
+        "title": "Spread: Packers (-7.5)",
+        "outcome": "Falcons",
+        "value": 1878.3525,
+        "avgPrice": 0.5217,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-7pt5"
       },
       "0x0e4ccb3955941fd5d55d6b7496412a11a7334392272a5cc409bd0c22c69ca993|D.C. United SC": {
         "title": "Spread: FC Cincinnati (-1.5)",
         "outcome": "D.C. United SC",
-        "value": 1822.8958,
+        "value": 1798.4274,
         "avgPrice": 0.62,
         "slug": "mls-fcc-dcu-2026-09-05-spread-home-1pt5"
-      },
-      "0xd36cd39811ecba221e27bee58977a881254cb90a722d79c3a1ded3804faaeb25|Indiana Fever": {
-        "title": "Spread: Indiana Fever (-3.5)",
-        "outcome": "Indiana Fever",
-        "value": 1334.4815,
-        "avgPrice": 0.5216,
-        "slug": "wnba-ind-min-2026-09-24-spread-away-3pt5"
       },
       "0x100fc126c334eaa60632ebe683b906d42e58009d0768cecaecaa25ae3f82844f|Gianmarco Ferrari": {
         "title": "ITF Fano: Lorenzo Rottoli vs Gianmarco Ferrari",
@@ -232,19 +281,12 @@
         "avgPrice": 0.5886,
         "slug": "itf-rottoli-ferrar-2026-08-04"
       },
-      "0x3efa692cb8dab514aa39dd0047672c82e7354a0b5c4db5502cf3fc0a24a8c1fe|Anna Rogers": {
-        "title": "W50 Berkeley, CA: Yara Bartashevich vs Anna Rogers",
-        "outcome": "Anna Rogers",
-        "value": 1278.3605,
-        "avgPrice": 0.8195,
-        "slug": "itf-bartas1-rogers1-2026-09-24"
-      },
-      "0x4747716380a00206da73d80d8ab5b4b57b9bcdc8ddc8e5f0b7047237aa6b0fc7|Hanna Chang": {
-        "title": "W50 Berkeley, CA: Hanna Chang vs Alina Shcherbinina",
-        "outcome": "Hanna Chang",
-        "value": 1237.8846,
-        "avgPrice": 0.6566,
-        "slug": "itf-chang4-shcher2-2026-09-24"
+      "0xe5cdcbd145643259cace7741abdc04d8b9350802c3ad442484b0aa9e3b9f1cad|Under": {
+        "title": "Toronto Tempo vs. Connecticut Sun: O/U 166.5",
+        "outcome": "Under",
+        "value": 1240.9092,
+        "avgPrice": 0.5181,
+        "slug": "wnba-tor-conn-2026-09-24-total-166pt5"
       },
       "0x7aa71e47536cd611c9a7567bcd45752e171da74fae7c437a8c959fce8254c2c7|Stefan Vujic": {
         "title": "ITF Hillcrest: Preston Brown vs Stefan Vujic",
@@ -337,6 +379,13 @@
         "avgPrice": 0.73,
         "slug": "itf-daems-granweh-2026-07-23"
       },
+      "0xa8c72b8c2fc217438caad58074ff0fe0878b1d7b06daf6d588b87b78020152ba|Falcons": {
+        "title": "Falcons vs. Packers",
+        "outcome": "Falcons",
+        "value": 983.6241,
+        "avgPrice": 0.3,
+        "slug": "nfl-atl-gb-2026-09-25"
+      },
       "0xd73b81755d573d5abb591ab049ef6a5c535833296e8b1d3573558b6d12d686fe|Yes": {
         "title": "Will Vancouver Whitecaps FC win on 2026-07-16?",
         "outcome": "Yes",
@@ -344,12 +393,19 @@
         "avgPrice": 0.3949,
         "slug": "mls-chi-vwh-2026-07-16-vwh"
       },
-      "0xc720204c86fc3b0270b908558af9564ac317e8016dfc7c8d1e58d2f59b17db1e|Toronto Tempo": {
-        "title": "Spread: Connecticut Sun (-1.5)",
-        "outcome": "Toronto Tempo",
-        "value": 949.2165,
-        "avgPrice": 0.46,
-        "slug": "wnba-tor-conn-2026-09-24-spread-home-1pt5"
+      "0xb531c9bf50a40ac7ccd53c28f90b30962d685dabf265485274e469e319a5d459|MEIA NOITE": {
+        "title": "Counter-Strike: Low Cortisol vs MEIA NOITE (BO3) - ESL Challenger League South America Cup #2 Playoffs",
+        "outcome": "MEIA NOITE",
+        "value": 953.7654,
+        "avgPrice": 0.3756,
+        "slug": "cs2-lowcor1-meiano-2026-09-24"
+      },
+      "0x9c05f3051e98fd7700de317cd91b66e76af95d5069a7dee7320d37860850f78b|Under": {
+        "title": "Milwaukee Brewers vs. Philadelphia Phillies: O/U 8.5",
+        "outcome": "Under",
+        "value": 832.697,
+        "avgPrice": 0.6174,
+        "slug": "mlb-mil-phi-2026-09-24-total-8pt5"
       },
       "0x16a4eb4f9ba2c5601406f85e5a86decb01f265adae6fd57e208085651b302a56|KT Wiz": {
         "title": "KBO: Doosan Bears vs. KT Wiz",
@@ -365,19 +421,12 @@
         "avgPrice": 0.6982,
         "slug": "itf-tenguer-reco-2026-07-23"
       },
-      "0xbe4d0aaf67078d6fa350b3692e26f21bea72530fdba963e6e7623fee5dffb0a1|Barcelona": {
-        "title": "Barcelona vs. Anadolu Efes",
-        "outcome": "Barcelona",
-        "value": 728.0697,
-        "avgPrice": 0.4515,
-        "slug": "euroleague-barcelon-efes-2026-09-24"
-      },
-      "0x50039d3c40445db651e481363cbcff66d392bdfa15458b8e6033f0b930ac7df5|Botic van de Zandschulp": {
-        "title": "Chengdu Open: Nikoloz Basilashvili vs Botic van de Zandschulp",
-        "outcome": "Botic van de Zandschulp",
-        "value": 717.8421,
-        "avgPrice": 0.6288,
-        "slug": "atp-basilas-zandsch-2026-09-24"
+      "0xe9a358e666713845542fc87d822c6e6ced7fa5d22b3438ddb7b4d60546cc647f|Yawara Esports": {
+        "title": "Counter-Strike: Bounty Hunters Esports vs Yawara Esports (BO3) - ESL Challenger League South America Cup #2 Playoffs",
+        "outcome": "Yawara Esports",
+        "value": 685.8283,
+        "avgPrice": 0.5806,
+        "slug": "cs2-bhe-yaw-2026-09-24"
       },
       "0xe3c90c8836bbdcb619f6b749e7095458baca9be96cc81f125568bea771336207|Sobolieva": {
         "title": "Set 1 Winner: Samson vs Sobolieva",
@@ -386,19 +435,12 @@
         "avgPrice": 0.5179,
         "slug": "wta-samson-sobolie-2026-07-29-first-set-winner-Samson-vs-Sobolieva"
       },
-      "0x9c205c2bc632c0e87e07e7ef373c6144b493c2d28ed86291f80602d160e24bac|Ella McDonald": {
-        "title": "W50 Berkeley, CA: Ella McDonald vs Savannah Broadus",
-        "outcome": "Ella McDonald",
-        "value": 625.5012,
-        "avgPrice": 0.7794,
-        "slug": "itf-mcdona2-broadu1-2026-09-24"
-      },
-      "0x9175eaabbb366a7ef82bb06752415e0dc147b94b99598dad4cc5beabb025c003|Juan Carlos Prado": {
-        "title": "Buenos Aires 2: Juan Carlos Prado vs Valerio Aboian",
-        "outcome": "Juan Carlos Prado",
-        "value": 603.1546,
-        "avgPrice": 0.9317,
-        "slug": "atp-prado-aboian-2026-09-24"
+      "0x871a97e7496e45609f072952262b6b50ede89c60b28eee34217edc3c1b47ca85|Milwaukee Brewers": {
+        "title": "Spread: Milwaukee Brewers (-2.5)",
+        "outcome": "Milwaukee Brewers",
+        "value": 605.8517,
+        "avgPrice": 0.2318,
+        "slug": "mlb-mil-phi-2026-09-24-spread-away-2pt5"
       },
       "0xcba78f02cd07d809471ee9b21813b430d360262db259917a6709806d69e159ea|Dzumhur": {
         "title": "Set 1 Winner: Gaston vs Dzumhur",
@@ -409,250 +451,89 @@
       }
     },
     "#2 RN1": {
-      "0x80c7ab790a5ab37e11c79a5a658d729ac29e6e17aa2d3fc859e4a78c0d896369|Yes": {
-        "title": "Will Norway win on 2026-09-24?",
-        "outcome": "Yes",
-        "value": 46519.7686,
-        "avgPrice": 0.5631,
-        "slug": "unl-nor-den-2026-09-24-nor"
+      "0xa8c72b8c2fc217438caad58074ff0fe0878b1d7b06daf6d588b87b78020152ba|Packers": {
+        "title": "Falcons vs. Packers",
+        "outcome": "Packers",
+        "value": 16653.8484,
+        "avgPrice": 0.6963,
+        "slug": "nfl-atl-gb-2026-09-25"
       },
-      "0x1d0257434d8b0505b1a81b042166c58d29dd445b96a6fd0771e49521515bfa79|No": {
-        "title": "Will Germany win on 2026-09-24?",
-        "outcome": "No",
-        "value": 30813.2469,
-        "avgPrice": 0.3977,
-        "slug": "unl-nld-ger-2026-09-24-ger"
+      "0x68d0f233e0c1b280ae869734140f5df73d59239356e75bd39667e11ba8d1bd59|Falcons": {
+        "title": "Spread: Packers (-7.5)",
+        "outcome": "Falcons",
+        "value": 11448.2209,
+        "avgPrice": 0.5501,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-7pt5"
       },
-      "0x85112de6c2738c34cecb2b4382f1ed5e6a7ee16912d3d1c90a04c720cc9d39b2|Over": {
-        "title": "Netherlands vs. Germany: O/U 1.5",
+      "0x9116059331a4926e52b80d237b68749527a230e82a81ea9c3c8c3d80b26344e6|Connecticut Sun": {
+        "title": "Toronto Tempo vs. Connecticut Sun",
+        "outcome": "Connecticut Sun",
+        "value": 8377.7505,
+        "avgPrice": 0.5691,
+        "slug": "wnba-tor-conn-2026-09-24"
+      },
+      "0xb865736cce51dfb32d4e97796dfc9be85972159f0cf03c255844c21456b3e17a|Packers": {
+        "title": "Spread: Packers (-4.5)",
+        "outcome": "Packers",
+        "value": 5710.8888,
+        "avgPrice": 0.4821,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-4pt5"
+      },
+      "0xa8c72b8c2fc217438caad58074ff0fe0878b1d7b06daf6d588b87b78020152ba|Falcons": {
+        "title": "Falcons vs. Packers",
+        "outcome": "Falcons",
+        "value": 4282.0593,
+        "avgPrice": 0.3272,
+        "slug": "nfl-atl-gb-2026-09-25"
+      },
+      "0xb32449c2f4ae85b981f5a4a0d8b2a8b1f1e3208bd597d90c7503da114eb5921a|Packers": {
+        "title": "Spread: Packers (-5.5)",
+        "outcome": "Packers",
+        "value": 4125.45,
+        "avgPrice": 0.4657,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-5pt5"
+      },
+      "0xbade5ba3e9d507f9c733bdab152ae14da4b63446fa98caffd4c608d0ab6ff54d|Coastal Carolina": {
+        "title": "Liberty vs. Coastal Carolina",
+        "outcome": "Coastal Carolina",
+        "value": 4089.3326,
+        "avgPrice": 0.3499,
+        "slug": "cfb-librty-coast-2026-09-24"
+      },
+      "0x21d8410e9d6ba2f3d363bfda6a751c7fd9f69efd365d23a8c2c55f09074e151c|Coastal Carolina": {
+        "title": "Spread: Liberty (-6.5)",
+        "outcome": "Coastal Carolina",
+        "value": 3525.0,
+        "avgPrice": 0.49,
+        "slug": "cfb-librty-coast-2026-09-24-spread-away-6pt5"
+      },
+      "0xbade5ba3e9d507f9c733bdab152ae14da4b63446fa98caffd4c608d0ab6ff54d|Liberty": {
+        "title": "Liberty vs. Coastal Carolina",
+        "outcome": "Liberty",
+        "value": 3336.9,
+        "avgPrice": 0.63,
+        "slug": "cfb-librty-coast-2026-09-24"
+      },
+      "0x6468ba7a3bb910b249924ba4627c3ffda9536c83574149e37988966552182308|Falcons": {
+        "title": "Spread: Packers (-9.5)",
+        "outcome": "Falcons",
+        "value": 3271.6711,
+        "avgPrice": 0.5965,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-9pt5"
+      },
+      "0xda3e0a2909a36566b924ae81dccca215c3910ca8a6b175dfbeb5fea39fcc3d68|Over": {
+        "title": "Falcons vs. Packers: O/U 40.5",
         "outcome": "Over",
-        "value": 24496.4792,
-        "avgPrice": 0.6364,
-        "slug": "unl-nld-ger-2026-09-24-total-1pt5"
+        "value": 2856.48,
+        "avgPrice": 0.4823,
+        "slug": "nfl-atl-gb-2026-09-25-total-40pt5"
       },
-      "0xd93debbd95a949cae1ed205d385034f3d82c5b6c2a1d5b97d95cd53369c9dfce|Yes": {
-        "title": "Will Austria win on 2026-09-24?",
-        "outcome": "Yes",
-        "value": 17691.4854,
-        "avgPrice": 0.438,
-        "slug": "unl-aut-isr-2026-09-24-aut"
-      },
-      "0x306e6c2768f0296b1df24e64de203aaa36f0410c9bf03c0c8eea7f55da94f581|Over": {
-        "title": "Norway vs. Denmark: O/U 4.5",
-        "outcome": "Over",
-        "value": 16630.9956,
-        "avgPrice": 0.6651,
-        "slug": "unl-nor-den-2026-09-24-total-4pt5"
-      },
-      "0x64ee3ce1a5e5bede9b4d6b8d868571645d486338240b8d5281bda16fb6d33254|Andres Andrade": {
-        "title": "San Diego 2: Darwin Blanch vs Andres Andrade",
-        "outcome": "Andres Andrade",
-        "value": 16467.768,
-        "avgPrice": 0.2919,
-        "slug": "atp-blanc-andrade-2026-09-24"
-      },
-      "0x64ee3ce1a5e5bede9b4d6b8d868571645d486338240b8d5281bda16fb6d33254|Darwin Blanch": {
-        "title": "San Diego 2: Darwin Blanch vs Andres Andrade",
-        "outcome": "Darwin Blanch",
-        "value": 15564.3094,
-        "avgPrice": 0.7033,
-        "slug": "atp-blanc-andrade-2026-09-24"
-      },
-      "0x09e819216b4af7ea6610f4f3ed54c01a3a90bb00ac9abd2aeb9e612ff836e858|No": {
-        "title": "Will Denmark win on 2026-09-24?",
-        "outcome": "No",
-        "value": 12401.0251,
-        "avgPrice": 0.8545,
-        "slug": "unl-nor-den-2026-09-24-den"
-      },
-      "0x13df4015147ebf3e6f9c649e8026e3804f76fc57606c541d651e7ff0ab49ce84|No": {
-        "title": "Will Norway vs. Denmark end in a draw?",
-        "outcome": "No",
-        "value": 12280.0119,
-        "avgPrice": 0.7228,
-        "slug": "unl-nor-den-2026-09-24-draw"
-      },
-      "0x1c3bc46e58e22baa012a8a94be7c1b7325514aa884cfe34fb43ab502f11b8422|No": {
-        "title": "Will Serbia win on 2026-09-24?",
-        "outcome": "No",
-        "value": 12138.9305,
-        "avgPrice": 0.6516,
-        "slug": "unl-ser-grc-2026-09-24-ser"
-      },
-      "0x7ff1e79522e56e2c791377f8d28e40302e6e00c12bb2f097c7ef1f9ddc3bd2cf|Denmark": {
-        "title": "Spread: Norway (-1.5)",
-        "outcome": "Denmark",
-        "value": 11502.6743,
-        "avgPrice": 0.7851,
-        "slug": "unl-nor-den-2026-09-24-spread-home-1pt5"
-      },
-      "0xa5c246a9c99e8326ca8814f26abb6dba8f1c3553bb83819a5719ac1731c0fc37|No": {
-        "title": "Will Israel win on 2026-09-24?",
-        "outcome": "No",
-        "value": 10463.6509,
-        "avgPrice": 0.9556,
-        "slug": "unl-aut-isr-2026-09-24-isr"
-      },
-      "0x396d2b6565ba0d4ab59f73be233d1a894894e21cc66a966f58c74d4414585100|Over": {
-        "title": "Serbia vs. Greece: O/U 2.5",
-        "outcome": "Over",
-        "value": 9225.1232,
-        "avgPrice": 0.5229,
-        "slug": "unl-ser-grc-2026-09-24-total-2pt5"
-      },
-      "0xcaead6e30ef7a18dd1315cca08f02eccd089d1353a509441043c8c099cb9359c|Over": {
-        "title": "Austria vs. Israel: O/U 2.5",
-        "outcome": "Over",
-        "value": 8127.4909,
-        "avgPrice": 0.4162,
-        "slug": "unl-aut-isr-2026-09-24-total-2pt5"
-      },
-      "0x894892ef0645068be24cafa8bf1ef644d99b5d6e1a9ff6079edbea82ef035d88|No": {
-        "title": "Will Wales win on 2026-09-24?",
-        "outcome": "No",
-        "value": 7772.196,
-        "avgPrice": 0.9836,
-        "slug": "unl-prt-wal-2026-09-24-wal"
-      },
-      "0x9175eaabbb366a7ef82bb06752415e0dc147b94b99598dad4cc5beabb025c003|Juan Carlos Prado": {
-        "title": "Buenos Aires 2: Juan Carlos Prado vs Valerio Aboian",
-        "outcome": "Juan Carlos Prado",
-        "value": 7293.2301,
-        "avgPrice": 0.7826,
-        "slug": "atp-prado-aboian-2026-09-24"
-      },
-      "0xe8bf8b45e58d34a80bdcb2b596d8a09e9b4f4ab5d87a199191195852d6530de5|No": {
-        "title": "Will Liechtenstein win on 2026-09-24?",
-        "outcome": "No",
-        "value": 6208.375,
-        "avgPrice": 0.9707,
-        "slug": "unl-lie-lit-2026-09-24-lie"
-      },
-      "0xeb3478a53a06cb221676e497c8c19f54329afe38eed2c1a92c4dd35812054c00|No": {
-        "title": "Will Netherlands win on 2026-09-24?",
-        "outcome": "No",
-        "value": 5563.9808,
-        "avgPrice": 0.6765,
-        "slug": "unl-nld-ger-2026-09-24-nld"
-      },
-      "0xaee42718035598341c72524681a68e7a9b60e26bb1c3b2ac2cdda6cf9fa4c2dc|Yes": {
-        "title": "Will Portugal win on 2026-09-24?",
-        "outcome": "Yes",
-        "value": 5516.5922,
-        "avgPrice": 0.9332,
-        "slug": "unl-prt-wal-2026-09-24-prt"
-      },
-      "0x50f84fe988662f52b5de0bdd24e35a4c5c6318ab1c658f04aaf601de79430203|Yes": {
-        "title": "Will Greece win on 2026-09-24?",
-        "outcome": "Yes",
-        "value": 5511.3784,
-        "avgPrice": 0.1557,
-        "slug": "unl-ser-grc-2026-09-24-grc"
-      },
-      "0xf33d5ea80637b714b9322bf63483cc6b630ae0358f4f91de5e54105614e64243|Under": {
-        "title": "Netherlands vs. Germany: O/U 2.5",
-        "outcome": "Under",
-        "value": 4617.7253,
-        "avgPrice": 0.5983,
-        "slug": "unl-nld-ger-2026-09-24-total-2pt5"
-      },
-      "0x4666552413ab85f716e5997bfaa6df856115673e9dab8be7d9c4298a17287d95|No": {
-        "title": "Exact Score: Liechtenstein 1 - 2 Lithuania?",
-        "outcome": "No",
-        "value": 4607.6907,
-        "avgPrice": 0.9624,
-        "slug": "unl-lie-lit-2026-09-24-exact-score-1-2"
-      },
-      "0xfb358a4e11e47f1ae009ea969deab70048208d20f1e1216b2d15b9ced455ae19|Under": {
-        "title": "Portugal vs. Wales: O/U 2.5",
-        "outcome": "Under",
-        "value": 4524.1256,
-        "avgPrice": 0.5532,
-        "slug": "unl-prt-wal-2026-09-24-total-2pt5"
-      },
-      "0x12efe4cf8e9261ade5c996464022eeaaaf815d100a015b8a6b36047e7facb509|Denmark": {
-        "title": "Spread: Norway (-2.5)",
-        "outcome": "Denmark",
-        "value": 4432.3827,
-        "avgPrice": 0.95,
-        "slug": "unl-nor-den-2026-09-24-spread-home-2pt5"
-      },
-      "0x101f95cb3090fc36458db05410bdb004d90dafa1f05a9bd56c453442219f82af|Under": {
-        "title": "Kosovo vs. Republic of Ireland: O/U 1.5",
-        "outcome": "Under",
-        "value": 3848.8758,
-        "avgPrice": 0.7811,
-        "slug": "unl-kvx-ire-2026-09-24-total-1pt5"
-      },
-      "0x3ec73d4a450cc595aa1494cfc2f95aead08d9cc8f425ba39aa99cd96735443b0|Under": {
-        "title": "Norway vs. Denmark: O/U 5.5",
-        "outcome": "Under",
-        "value": 3733.4593,
-        "avgPrice": 0.6414,
-        "slug": "unl-nor-den-2026-09-24-total-5pt5"
-      },
-      "0x38fa08c3aae0ad2f0818a343a5e352ac0ca9c695ff41fef43aee091f5d944120|No": {
-        "title": "Exact Score: Norway 2 - 2 Denmark?",
-        "outcome": "No",
-        "value": 3495.92,
-        "avgPrice": 0.9246,
-        "slug": "unl-nor-den-2026-09-24-exact-score-2-2"
-      },
-      "0x946f0eaf894d6e57d9037b37f7bc92071997fac04c360b16c1c16aef688b836e|No": {
-        "title": "Exact Score: Austria 2 - 3 Israel?",
-        "outcome": "No",
-        "value": 3305.0133,
-        "avgPrice": 0.9963,
-        "slug": "unl-aut-isr-2026-09-24-exact-score-2-3"
-      },
-      "0xd3fc1e0245484c1cc36e22339f8819383735ae9c4f027443e2552cbf199e9c57|Under": {
-        "title": "Portugal vs. Wales: O/U 1.5",
-        "outcome": "Under",
-        "value": 3148.8231,
-        "avgPrice": 0.4774,
-        "slug": "unl-prt-wal-2026-09-24-total-1pt5"
-      },
-      "0x51d10bdb3c646372d0dc70dbebce17ab56cca514e977ca356af50f0aa974719c|Over": {
-        "title": "Norway vs. Denmark: O/U 3.5",
-        "outcome": "Over",
-        "value": 3128.1577,
-        "avgPrice": 0.9119,
-        "slug": "unl-nor-den-2026-09-24-total-3pt5"
-      },
-      "0x066261a98aa0829c79a4f342303b3021fc5a707a8554af3e17c6d21dad57be68|Under": {
-        "title": "Netherlands vs. Germany: O/U 4.5",
-        "outcome": "Under",
-        "value": 3102.448,
-        "avgPrice": 0.9895,
-        "slug": "unl-nld-ger-2026-09-24-total-4pt5"
-      },
-      "0xfe4e3285d5617e1a928271f4e21cb920a4e49727b968ed6155e43992165b1add|Yes": {
-        "title": "Netherlands vs. Germany: Both Teams to Score",
-        "outcome": "Yes",
-        "value": 2956.5572,
-        "avgPrice": 0.2729,
-        "slug": "unl-nld-ger-2026-09-24-btts"
-      },
-      "0x97ee8e0eb80dcaea7c3e4b72f95a7ad97b6625e8ef16e022695d675ff812c3f3|No": {
-        "title": "Exact Score: Austria 1 - 3 Israel?",
-        "outcome": "No",
-        "value": 2938.53,
-        "avgPrice": 0.997,
-        "slug": "unl-aut-isr-2026-09-24-exact-score-1-3"
-      },
-      "0xccdf8662d73ddbb2e0c61effc5c5f6c9d8949cdb3d848c67f8c4933c2c37a91c|Yes": {
-        "title": "Will Lithuania win on 2026-09-24?",
-        "outcome": "Yes",
-        "value": 2706.466,
-        "avgPrice": 0.9694,
-        "slug": "unl-lie-lit-2026-09-24-lit"
-      },
-      "0xf5877a35f344411c12c8d701999ead94e3f2a62307265f73e562586604377cd3|No": {
-        "title": "Will Austria vs. Israel end in a draw?",
-        "outcome": "No",
-        "value": 2449.1252,
-        "avgPrice": 0.6636,
-        "slug": "unl-aut-isr-2026-09-24-draw"
+      "0x41d36b0722b183dfab56b2653ca475d94431a78308579321cf290bcc82ad1b38|Minnesota Lynx": {
+        "title": "Indiana Fever vs. Minnesota Lynx",
+        "outcome": "Minnesota Lynx",
+        "value": 2695.9299,
+        "avgPrice": 0.6817,
+        "slug": "wnba-ind-min-2026-09-24"
       },
       "0x8f9a4ff725d4f23ac1eea6c611a21193a629de0a6af74f8a28c08fef37908183|Under": {
         "title": "Levante UD vs. Athletic Club: O/U 4.5",
@@ -661,96 +542,61 @@
         "avgPrice": 0.85,
         "slug": "lal-lev-bil-2026-09-16-total-4pt5"
       },
-      "0xf6248bb4304ed2ce23903f6c21d6d97231bdfbdd8e73ec44f448c1477d9580dc|Yes": {
-        "title": "Will Kosovo win on 2026-09-24?",
-        "outcome": "Yes",
-        "value": 2293.6907,
-        "avgPrice": 0.5103,
-        "slug": "unl-kvx-ire-2026-09-24-kvx"
-      },
-      "0x18e27cfd1d49950097a523e3d709497471cda364d7b74d8f1798a0e078f96880|Over": {
-        "title": "Norway vs. Denmark: O/U 2.5",
-        "outcome": "Over",
-        "value": 2285.2368,
-        "avgPrice": 0.9286,
-        "slug": "unl-nor-den-2026-09-24-total-2pt5"
-      },
-      "0x3c18809443418a6168904fbbfa06f0351da44f68ce18518c7bc64664f4d92060|Netherlands": {
-        "title": "Spread: Germany (-1.5)",
-        "outcome": "Netherlands",
-        "value": 2236.493,
-        "avgPrice": 0.78,
-        "slug": "unl-nld-ger-2026-09-24-spread-away-1pt5"
-      },
-      "0x1f93794c5d4c724485598fac09918aa986f61c91c76e0884c70f074dca4403c5|Over": {
-        "title": "Netherlands vs. Germany: 1st Half O/U 0.5",
-        "outcome": "Over",
-        "value": 2184.2044,
-        "avgPrice": 0.5064,
-        "slug": "unl-nld-ger-2026-09-24-first-half-total-0pt5"
-      },
-      "0x1e55da832cfadeb30127a892fc0d8c2484330441ae6c3f6e2cc970a4a25ff48f|Under": {
-        "title": "Liechtenstein vs. Lithuania: 1st Half O/U 1.5",
+      "0xf35bb1a9b7cd8289096ebcc275d71d790c2418886d877beacc580076645105e5|Under": {
+        "title": "Liberty vs. Coastal Carolina: O/U 53.5",
         "outcome": "Under",
-        "value": 2116.872,
-        "avgPrice": 0.7123,
-        "slug": "unl-lie-lit-2026-09-24-first-half-total-1pt5"
+        "value": 2272.1336,
+        "avgPrice": 0.5909,
+        "slug": "cfb-librty-coast-2026-09-24-total-53pt5"
       },
-      "0xff1a3938fc79ed2bc5e7f2fddf0606ada20671b0b2fbbb368a758e1f0f78440a|No": {
-        "title": "Will Republic of Ireland win on 2026-09-24?",
-        "outcome": "No",
-        "value": 2083.6798,
-        "avgPrice": 0.8887,
-        "slug": "unl-kvx-ire-2026-09-24-ire"
+      "0xbcdffacc8afe46fc39ee725be2bc02c5eb12fe58839cfec225c37af614d36857|Liberty": {
+        "title": "Spread: Liberty (-3.5)",
+        "outcome": "Liberty",
+        "value": 2232.45,
+        "avgPrice": 0.5524,
+        "slug": "cfb-librty-coast-2026-09-24-spread-away-3pt5"
       },
-      "0x1724eb8b6a776fdc3b04687a1c7159229087941d2d415e15d688878ce02a2030|Germany": {
-        "title": "Spread: Netherlands (-1.5)",
-        "outcome": "Germany",
-        "value": 2061.9085,
-        "avgPrice": 0.9035,
-        "slug": "unl-nld-ger-2026-09-24-spread-home-1pt5"
+      "0xbcdffacc8afe46fc39ee725be2bc02c5eb12fe58839cfec225c37af614d36857|Coastal Carolina": {
+        "title": "Spread: Liberty (-3.5)",
+        "outcome": "Coastal Carolina",
+        "value": 2174.8725,
+        "avgPrice": 0.5144,
+        "slug": "cfb-librty-coast-2026-09-24-spread-away-3pt5"
       },
       "0xc159756df847ca238378e4934cf2cdce6c8d2a31919759d4e1151a82bcad427c|Anna Bondar": {
         "title": "Korea Open: Anna Bondar vs Gabriela Ruse",
         "outcome": "Anna Bondar",
-        "value": 1875.0,
+        "value": 1975.0,
         "avgPrice": 0.37,
         "slug": "wta-bondar-ruse-2026-09-25"
       },
-      "0xb55e9e92a0dd0ca653ab168da3864ede178d0d5ae0de02a3c028bd742b1ad141|Over": {
-        "title": "Austria vs. Israel: 1st Half O/U 0.5",
-        "outcome": "Over",
-        "value": 1789.3406,
-        "avgPrice": 0.4117,
-        "slug": "unl-aut-isr-2026-09-24-first-half-total-0pt5"
+      "0x9e20ee49eca6e71294aaa487d52edaa5ba806b29e4976e53bab99143bba50b02|Liberty": {
+        "title": "Spread: Liberty (-2.5)",
+        "outcome": "Liberty",
+        "value": 1966.5,
+        "avgPrice": 0.65,
+        "slug": "cfb-librty-coast-2026-09-24-spread-away-2pt5"
       },
-      "0xab924acf2ed288dbdd6554e0f7b014a989be4f79df13ac9de224996c6445e140|Under": {
-        "title": "Netherlands vs. Germany: 1st Half O/U 1.5",
-        "outcome": "Under",
-        "value": 1760.1669,
-        "avgPrice": 0.5623,
-        "slug": "unl-nld-ger-2026-09-24-first-half-total-1pt5"
+      "0xb865736cce51dfb32d4e97796dfc9be85972159f0cf03c255844c21456b3e17a|Falcons": {
+        "title": "Spread: Packers (-4.5)",
+        "outcome": "Falcons",
+        "value": 1960.0762,
+        "avgPrice": 0.4302,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-4pt5"
       },
-      "0x097af908cb68024a277f08c4fa3d012953e27c81878dc05629f807e351072c3b|Yes": {
-        "title": "Germany leading at halftime?",
-        "outcome": "Yes",
-        "value": 1722.6182,
-        "avgPrice": 0.6003,
-        "slug": "unl-nld-ger-2026-09-24-halftime-result-away"
+      "0xb32449c2f4ae85b981f5a4a0d8b2a8b1f1e3208bd597d90c7503da114eb5921a|Falcons": {
+        "title": "Spread: Packers (-5.5)",
+        "outcome": "Falcons",
+        "value": 1898.3763,
+        "avgPrice": 0.4871,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-5pt5"
       },
-      "0xaead392a26204b505fda041ba2d315e9f5ce5fd0d6a57909c77aac843e8761cf|Yes": {
-        "title": "Will Netherlands vs. Germany end in a draw?",
-        "outcome": "Yes",
-        "value": 1669.5174,
-        "avgPrice": 0.2132,
-        "slug": "unl-nld-ger-2026-09-24-draw"
-      },
-      "0x1f0160eb802926e0b2dad06c0b77cc60a3fa8c5f90336b5b4db58715df075192|No": {
-        "title": "Exact Score: Norway 1 - 1 Denmark?",
-        "outcome": "No",
-        "value": 1611.094,
-        "avgPrice": 0.9,
-        "slug": "unl-nor-den-2026-09-24-exact-score-1-1"
+      "0xa521c94a731238963361c72aca6703925ea311e4d7c9eddc853d7720f1149fb1|Packers": {
+        "title": "Spread: Falcons (-1.5)",
+        "outcome": "Packers",
+        "value": 1868.325,
+        "avgPrice": 0.6978,
+        "slug": "nfl-atl-gb-2026-09-25-spread-away-1pt5"
       },
       "0x6d447780b411db6c9cf92db9c916eef4474df7c5c970243d9ef1f277640f1314|No": {
         "title": "Athletic Club leading at halftime?",
@@ -759,75 +605,103 @@
         "avgPrice": 0.6595,
         "slug": "lal-lev-bil-2026-09-16-halftime-result-away"
       },
-      "0x6bd8337377f307259baf4a8f6064a0a2d00ba319b3e33094043264b4e5f3e59d|Austria": {
-        "title": "Spread: Austria (-1.5)",
-        "outcome": "Austria",
-        "value": 1548.2255,
-        "avgPrice": 0.23,
-        "slug": "unl-aut-isr-2026-09-24-spread-home-1pt5"
+      "0xa977476818c97a9e69f5899dadedf373ce951030d10a04fab554b7f766dcc6dc|Packers": {
+        "title": "Spread: Falcons (-2.5)",
+        "outcome": "Packers",
+        "value": 1568.225,
+        "avgPrice": 0.71,
+        "slug": "nfl-atl-gb-2026-09-25-spread-away-2pt5"
       },
-      "0x3ac2c563c40958cf762f5146015ade310f9347259f0babe28cee6e7066b8bdd3|No": {
-        "title": "Exact Score: Norway 0 - 3 Denmark?",
-        "outcome": "No",
-        "value": 1483.258,
-        "avgPrice": 0.994,
-        "slug": "unl-nor-den-2026-09-24-exact-score-0-3"
+      "0x9e20ee49eca6e71294aaa487d52edaa5ba806b29e4976e53bab99143bba50b02|Coastal Carolina": {
+        "title": "Spread: Liberty (-2.5)",
+        "outcome": "Coastal Carolina",
+        "value": 1549.6246,
+        "avgPrice": 0.48,
+        "slug": "cfb-librty-coast-2026-09-24-spread-away-2pt5"
       },
-      "0x8197321073c39a31e7f8d68aa9c95aa44132dfabf7142a4f790d3419882b02c9|No": {
-        "title": "Exact Score: Norway 2 - 1 Denmark?",
-        "outcome": "No",
-        "value": 1473.263,
-        "avgPrice": 0.91,
-        "slug": "unl-nor-den-2026-09-24-exact-score-2-1"
+      "0x2010cd76ac0d429f5a085dd0d357ea01f9fe8f8343d399e022cd404208e251db|Under": {
+        "title": "Falcons vs. Packers: O/U 43.5",
+        "outcome": "Under",
+        "value": 1530.4261,
+        "avgPrice": 0.5749,
+        "slug": "nfl-atl-gb-2026-09-25-total-43pt5"
       },
-      "0xef73f64c593f36c587e4c3e9e4fca7183729312ee969ddbeb5d759a50b87ad28|No": {
-        "title": "Exact Score: Austria 0 - 3 Israel?",
-        "outcome": "No",
-        "value": 1459.27,
-        "avgPrice": 0.995,
-        "slug": "unl-aut-isr-2026-09-24-exact-score-0-3"
+      "0x389b32f3adbde0fabc2ab7e9f1b31db34d07132e667f410c232ba2775d2f7609|Packers": {
+        "title": "Spread: Packers (-1.5)",
+        "outcome": "Packers",
+        "value": 1479.36,
+        "avgPrice": 0.65,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-1pt5"
+      },
+      "0xa7ae797ee86a196cf60c408752144259ba5c720b89e893927698cdfe69400d78|Packers": {
+        "title": "Spread: Packers (-2.5)",
+        "outcome": "Packers",
+        "value": 1349.12,
+        "avgPrice": 0.63,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-2pt5"
       },
       "0x26ed821183a70581861c5cc721e980befe1fb47d1dd97b82b4a981eee2a96176|Under": {
         "title": "US Amal Tiznit vs. IR Tanger: O/U 4.5",
         "outcome": "Under",
-        "value": 1264.3835,
+        "value": 1270.7404,
         "avgPrice": 0.3969,
         "slug": "mar1-tiz-irt-2026-09-24-total-4pt5"
       },
-      "0xc5a9cb29375ee1899493a9e4f2401dd38c26d1ffdfe99b3ea680e9863a27b944|No": {
-        "title": "Exact Score: Netherlands 0 - 0 Germany?",
-        "outcome": "No",
-        "value": 1249.51,
-        "avgPrice": 0.9265,
-        "slug": "unl-nld-ger-2026-09-24-exact-score-0-0"
+      "0x5736a6556d114677da05bcd88191a5547631728b6bb513cc462f3d52763c4173|Packers": {
+        "title": "Spread: Packers (-3.5)",
+        "outcome": "Packers",
+        "value": 1194.5953,
+        "avgPrice": 0.55,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-3pt5"
       },
-      "0x538a323ccc92e1992a69fa76d7075f2157583408f240e227a8f5bc79b1ec6a75|No": {
-        "title": "Exact Score: Austria 0 - 1 Israel?",
-        "outcome": "No",
-        "value": 1249.375,
-        "avgPrice": 0.943,
-        "slug": "unl-aut-isr-2026-09-24-exact-score-0-1"
+      "0xc720204c86fc3b0270b908558af9564ac317e8016dfc7c8d1e58d2f59b17db1e|Connecticut Sun": {
+        "title": "Spread: Connecticut Sun (-1.5)",
+        "outcome": "Connecticut Sun",
+        "value": 1081.0038,
+        "avgPrice": 0.5329,
+        "slug": "wnba-tor-conn-2026-09-24-spread-home-1pt5"
       },
-      "0xaf873864be060cc6374dc22efbf2354bdea061baefd81876d3fe9973cc7fe9b0|No": {
-        "title": "Exact Score: Norway 2 - 3 Denmark?",
-        "outcome": "No",
-        "value": 1229.385,
-        "avgPrice": 0.967,
-        "slug": "unl-nor-den-2026-09-24-exact-score-2-3"
+      "0xc7814a45bbe783d04da039c85ef1172fcedb31efbeee57f9814fae31c73fd36c|Falcons": {
+        "title": "Spread: Packers (-6.5)",
+        "outcome": "Falcons",
+        "value": 1078.7871,
+        "avgPrice": 0.5103,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-6pt5"
       },
-      "0xcd9310a42bfce42e79926fedb5be9c80fbfad5309b0d8054c7c326ca896220fa|No": {
-        "title": "Exact Score: Portugal 0 - 1 Wales?",
-        "outcome": "No",
-        "value": 1099.45,
-        "avgPrice": 0.988,
-        "slug": "unl-prt-wal-2026-09-24-exact-score-0-1"
+      "0x47b71492a7b38fb628e2192de2dd7d061a83d07f7d9519555de3f3b1493104bc|Over": {
+        "title": "Falcons vs. Packers: O/U 37.5",
+        "outcome": "Over",
+        "value": 1055.7,
+        "avgPrice": 0.54,
+        "slug": "nfl-atl-gb-2026-09-25-total-37pt5"
       },
-      "0x89a0c14547e55d65a91e705f3c6412d554d5473cc4047f3bcf64348b95d7a724|No": {
-        "title": "Portugal vs. Wales: Both Teams to Score",
-        "outcome": "No",
-        "value": 893.4338,
-        "avgPrice": 0.8556,
-        "slug": "unl-prt-wal-2026-09-24-btts"
+      "0xc7814a45bbe783d04da039c85ef1172fcedb31efbeee57f9814fae31c73fd36c|Packers": {
+        "title": "Spread: Packers (-6.5)",
+        "outcome": "Packers",
+        "value": 1020.3,
+        "avgPrice": 0.51,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-6pt5"
+      },
+      "0x94360c86c0364b042b3a5377690806e16c903ee31a1d1c51df0713dcc334ecd6|Liberty": {
+        "title": "Spread: Liberty (-7.5)",
+        "outcome": "Liberty",
+        "value": 1016.5,
+        "avgPrice": 0.47,
+        "slug": "cfb-librty-coast-2026-09-24-spread-away-7pt5"
+      },
+      "0x7aa9f65ac3517b87c77f8764880295cc169592f47b2b12b127d795bf3849e118|Falcons": {
+        "title": "Spread: Packers (-14.5)",
+        "outcome": "Falcons",
+        "value": 1015.2,
+        "avgPrice": 0.79,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-14pt5"
+      },
+      "0x50039d3c40445db651e481363cbcff66d392bdfa15458b8e6033f0b930ac7df5|Nikoloz Basilashvili": {
+        "title": "Chengdu Open: Nikoloz Basilashvili vs Botic van de Zandschulp",
+        "outcome": "Nikoloz Basilashvili",
+        "value": 978.9138,
+        "avgPrice": 0.36,
+        "slug": "atp-basilas-zandsch-2026-09-24"
       },
       "0xc133482d19ef3092d91c90c6e9261e8ffd141870608a3549bbffe31c6ac506f8|Lotte Giants": {
         "title": "KBO: LG Twins vs. Lotte Giants",
@@ -836,68 +710,54 @@
         "avgPrice": 0.3865,
         "slug": "kbo-lg-lot-2026-08-28"
       },
-      "0xd1437350255d9524e5c1095b11d2bc08dec084f755f62794452b4309e83a22d5|No": {
-        "title": "Exact Score: Netherlands 1 - 2 Germany?",
-        "outcome": "No",
-        "value": 809.595,
-        "avgPrice": 0.88,
-        "slug": "unl-nld-ger-2026-09-24-exact-score-1-2"
+      "0x1a6d0c587111334691601cdf5463a67cd940f0e488210d27995ce1f0f254b1d5|Packers": {
+        "title": "Spread: Packers (-10.5)",
+        "outcome": "Packers",
+        "value": 805.5,
+        "avgPrice": 0.39,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-10pt5"
       },
-      "0x84fa1d8bfb0466b8fbe3bbfa9cd1c581806f7b1a291623e8fce574028b501335|No": {
-        "title": "Exact Score: Norway 3 - 0 Denmark?",
-        "outcome": "No",
-        "value": 775.5679,
-        "avgPrice": 0.932,
-        "slug": "unl-nor-den-2026-09-24-exact-score-3-0"
+      "0x6468ba7a3bb910b249924ba4627c3ffda9536c83574149e37988966552182308|Packers": {
+        "title": "Spread: Packers (-9.5)",
+        "outcome": "Packers",
+        "value": 788.88,
+        "avgPrice": 0.36,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-9pt5"
       },
-      "0xf01aac444b6589b6b2934d38e5a5fde753c5c7025bbb55619458e9bcb5963aac|Over": {
-        "title": "Norway vs. Denmark: O/U 1.5",
-        "outcome": "Over",
-        "value": 768.1157,
-        "avgPrice": 0.8,
-        "slug": "unl-nor-den-2026-09-24-total-1pt5"
-      },
-      "0x94e13cf8fc4cd98eed64619944add9adc83ca2f644e5503a986d546d006ae9d0|No": {
-        "title": "Lithuania leading at halftime?",
-        "outcome": "No",
-        "value": 761.619,
-        "avgPrice": 0.7759,
-        "slug": "unl-lie-lit-2026-09-24-halftime-result-away"
-      },
-      "0x53b278eceef253ffde585e8d201b1bf13d23d90a6c22ddf55b0d78a39119ef95|Yes": {
-        "title": "Norway leading at halftime?",
-        "outcome": "Yes",
-        "value": 735.1022,
-        "avgPrice": 0.7765,
-        "slug": "unl-nor-den-2026-09-24-halftime-result-home"
-      },
-      "0xd502b70ed9f899da7f01318a92b07186c72086e0a0230c14d77b0ebf985d6437|Under": {
-        "title": "Netherlands vs. Germany: O/U 3.5",
+      "0x898be6a3b118b3d95f2720f8785de64565e344074ab88f1bc6116802e81c55bd|Under": {
+        "title": "Falcons vs. Packers: O/U 55.5",
         "outcome": "Under",
-        "value": 555.8913,
-        "avgPrice": 0.6915,
-        "slug": "unl-nld-ger-2026-09-24-total-3pt5"
-      },
-      "0xc07ffff1cd15c74fe62404b6ef98d04d5aeceefc57f24f767c65db5c8deeec1f|Under": {
-        "title": "Austria vs. Israel: 1st Half O/U 2.5",
-        "outcome": "Under",
-        "value": 555.4868,
+        "value": 741.65,
         "avgPrice": 0.83,
-        "slug": "unl-aut-isr-2026-09-24-first-half-total-2pt5"
+        "slug": "nfl-atl-gb-2026-09-25-total-55pt5"
       },
-      "0xe160c744abf747d45029662dd1a19c6c233dca30af16340d0cb32ff37b885bfe|Under": {
-        "title": "Portugal vs. Wales: 1st Half O/U 1.5",
-        "outcome": "Under",
-        "value": 534.5025,
-        "avgPrice": 0.5753,
-        "slug": "unl-prt-wal-2026-09-24-first-half-total-1pt5"
+      "0x4823a234b3256426d51bd8fb18c210b8b72e2cebd010f8792be1d59712ad4b21|Packers": {
+        "title": "Spread: Packers (-13.5)",
+        "outcome": "Packers",
+        "value": 652.915,
+        "avgPrice": 0.28,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-13pt5"
       },
-      "0x160fa7071eca07368372e14178d9959446b6b135348619e564d4125f906919d0|No": {
-        "title": "Will Serbia vs. Greece end in a draw?",
+      "0x2010cd76ac0d429f5a085dd0d357ea01f9fe8f8343d399e022cd404208e251db|Over": {
+        "title": "Falcons vs. Packers: O/U 43.5",
+        "outcome": "Over",
+        "value": 650.2777,
+        "avgPrice": 0.3705,
+        "slug": "nfl-atl-gb-2026-09-25-total-43pt5"
+      },
+      "0x8a08c1432aef48a1d2207d656ac117c23d7afa44720495726495dd9e8d742586|No": {
+        "title": "Will Millonarios FC win on 2026-09-24?",
         "outcome": "No",
-        "value": 500.2601,
-        "avgPrice": 0.4624,
-        "slug": "unl-ser-grc-2026-09-24-draw"
+        "value": 608.97,
+        "avgPrice": 0.8,
+        "slug": "col1-atn-mif-2026-09-24-mif"
+      },
+      "0x41d36b0722b183dfab56b2653ca475d94431a78308579321cf290bcc82ad1b38|Indiana Fever": {
+        "title": "Indiana Fever vs. Minnesota Lynx",
+        "outcome": "Indiana Fever",
+        "value": 540.1912,
+        "avgPrice": 0.2591,
+        "slug": "wnba-ind-min-2026-09-24"
       }
     },
     "#3 2C": {
@@ -915,33 +775,47 @@
         "avgPrice": 0.5,
         "slug": "2026-balance-of-power-d-senate-d-house-949"
       },
-      "0x80c7ab790a5ab37e11c79a5a658d729ac29e6e17aa2d3fc859e4a78c0d896369|Yes": {
-        "title": "Will Norway win on 2026-09-24?",
-        "outcome": "Yes",
-        "value": 553161.9128,
-        "avgPrice": 0.9989,
-        "slug": "unl-nor-den-2026-09-24-nor"
-      },
-      "0xb865736cce51dfb32d4e97796dfc9be85972159f0cf03c255844c21456b3e17a|Packers": {
-        "title": "Spread: Packers (-4.5)",
-        "outcome": "Packers",
-        "value": 103054.3182,
-        "avgPrice": 0.5,
-        "slug": "nfl-atl-gb-2026-09-25-spread-home-4pt5"
-      },
       "0x2010cd76ac0d429f5a085dd0d357ea01f9fe8f8343d399e022cd404208e251db|Over": {
         "title": "Falcons vs. Packers: O/U 43.5",
         "outcome": "Over",
-        "value": 42271.399,
-        "avgPrice": 0.48,
+        "value": 153553.1643,
+        "avgPrice": 0.4736,
         "slug": "nfl-atl-gb-2026-09-25-total-43pt5"
       },
-      "0x1d0257434d8b0505b1a81b042166c58d29dd445b96a6fd0771e49521515bfa79|No": {
-        "title": "Will Germany win on 2026-09-24?",
-        "outcome": "No",
-        "value": 30055.5047,
-        "avgPrice": 0.6199,
-        "slug": "unl-nld-ger-2026-09-24-ger"
+      "0xb32449c2f4ae85b981f5a4a0d8b2a8b1f1e3208bd597d90c7503da114eb5921a|Packers": {
+        "title": "Spread: Packers (-5.5)",
+        "outcome": "Packers",
+        "value": 82134.3923,
+        "avgPrice": 0.48,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-5pt5"
+      },
+      "0xcb169452dc1771cc194ad61634b529c6df933c76b99fd28782f1c77f71f94955|Milwaukee Brewers": {
+        "title": "Milwaukee Brewers vs. Philadelphia Phillies",
+        "outcome": "Milwaukee Brewers",
+        "value": 68905.2786,
+        "avgPrice": 0.6818,
+        "slug": "mlb-mil-phi-2026-09-24"
+      },
+      "0x96e80362c4b266c21ee973705d579561e5d937047dddcd22af87d9c4bb6d4180|Under": {
+        "title": "Falcons vs. Packers: O/U 45.5",
+        "outcome": "Under",
+        "value": 38895.941,
+        "avgPrice": 0.59,
+        "slug": "nfl-atl-gb-2026-09-25-total-45pt5"
+      },
+      "0xaaba03e832b1e2c7a65fd0e292898b69bc70b5241f6c95850d96b9d758661733|Cleveland Guardians": {
+        "title": "Cleveland Guardians vs. Boston Red Sox",
+        "outcome": "Cleveland Guardians",
+        "value": 32737.4709,
+        "avgPrice": 0.4599,
+        "slug": "mlb-cle-bos-2026-09-24"
+      },
+      "0x68d0f233e0c1b280ae869734140f5df73d59239356e75bd39667e11ba8d1bd59|Falcons": {
+        "title": "Spread: Packers (-7.5)",
+        "outcome": "Falcons",
+        "value": 25258.2293,
+        "avgPrice": 0.61,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-7pt5"
       },
       "0x2745c38ff0617cb345c1d2df19b4f74ea777508e07411e88eeb6ab3affcda2a2|No": {
         "title": "Will Bitcoin dip to $35,000 by December 31, 2026?",
@@ -950,33 +824,40 @@
         "avgPrice": 0.8499,
         "slug": "will-bitcoin-dip-to-35000-by-december-31-2026-744-877-748-219-467-465-646-211-122-947-537-552-555-361-972-954-635-887-657-996-643"
       },
-      "0x381ea34de799962e25bad0e8bd3aae667c370b66f29a782f7c78ce0e303db406|Over": {
-        "title": "Falcons vs. Packers: O/U 44.5",
-        "outcome": "Over",
-        "value": 18865.5871,
-        "avgPrice": 0.44,
-        "slug": "nfl-atl-gb-2026-09-25-total-44pt5"
+      "0xa8c72b8c2fc217438caad58074ff0fe0878b1d7b06daf6d588b87b78020152ba|Falcons": {
+        "title": "Falcons vs. Packers",
+        "outcome": "Falcons",
+        "value": 19426.6321,
+        "avgPrice": 0.3118,
+        "slug": "nfl-atl-gb-2026-09-25"
       },
-      "0x64a5ce26cf37db3c70c641d6cb68dda4f34d185f5faa2aaf0f0cb78105ce085f|Arizona Diamondbacks": {
-        "title": "Arizona Diamondbacks vs. Colorado Rockies",
-        "outcome": "Arizona Diamondbacks",
-        "value": 18766.0061,
-        "avgPrice": 0.8012,
-        "slug": "mlb-ari-col-2026-09-24"
+      "0xb865736cce51dfb32d4e97796dfc9be85972159f0cf03c255844c21456b3e17a|Falcons": {
+        "title": "Spread: Packers (-4.5)",
+        "outcome": "Falcons",
+        "value": 12568.6391,
+        "avgPrice": 0.4799,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-4pt5"
       },
-      "0x64ee3ce1a5e5bede9b4d6b8d868571645d486338240b8d5281bda16fb6d33254|Darwin Blanch": {
-        "title": "San Diego 2: Darwin Blanch vs Andres Andrade",
-        "outcome": "Darwin Blanch",
-        "value": 5935.5682,
-        "avgPrice": 0.6399,
-        "slug": "atp-blanc-andrade-2026-09-24"
+      "0xc7814a45bbe783d04da039c85ef1172fcedb31efbeee57f9814fae31c73fd36c|Falcons": {
+        "title": "Spread: Packers (-6.5)",
+        "outcome": "Falcons",
+        "value": 8428.3745,
+        "avgPrice": 0.55,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-6pt5"
       },
-      "0xb32449c2f4ae85b981f5a4a0d8b2a8b1f1e3208bd597d90c7503da114eb5921a|Packers": {
-        "title": "Spread: Packers (-5.5)",
+      "0xa8c72b8c2fc217438caad58074ff0fe0878b1d7b06daf6d588b87b78020152ba|Packers": {
+        "title": "Falcons vs. Packers",
         "outcome": "Packers",
-        "value": 5171.6352,
-        "avgPrice": 0.48,
-        "slug": "nfl-atl-gb-2026-09-25-spread-home-5pt5"
+        "value": 6108.4023,
+        "avgPrice": 0.68,
+        "slug": "nfl-atl-gb-2026-09-25"
+      },
+      "0x5736a6556d114677da05bcd88191a5547631728b6bb513cc462f3d52763c4173|Packers": {
+        "title": "Spread: Packers (-3.5)",
+        "outcome": "Packers",
+        "value": 4594.3978,
+        "avgPrice": 0.54,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-3pt5"
       },
       "0xf44cf137562b90cf6205e0b81a03aa63001c491e4d8f04c0098bfb9233f9d04f|No": {
         "title": "Will Philadelphia 76ers win the 2027 NBA Finals?",
@@ -985,12 +866,12 @@
         "avgPrice": 0.8604,
         "slug": "will-philadelphia-76ers-win-the-2027-nba-finals"
       },
-      "0xc7814a45bbe783d04da039c85ef1172fcedb31efbeee57f9814fae31c73fd36c|Falcons": {
-        "title": "Spread: Packers (-6.5)",
-        "outcome": "Falcons",
-        "value": 3595.4417,
-        "avgPrice": 0.55,
-        "slug": "nfl-atl-gb-2026-09-25-spread-home-6pt5"
+      "0x381ea34de799962e25bad0e8bd3aae667c370b66f29a782f7c78ce0e303db406|Over": {
+        "title": "Falcons vs. Packers: O/U 44.5",
+        "outcome": "Over",
+        "value": 4478.2231,
+        "avgPrice": 0.44,
+        "slug": "nfl-atl-gb-2026-09-25-total-44pt5"
       },
       "0xaea50c46b138456d358138b2c1737f22cc692ac199e2cfa0c1e86e2babf9e37b|FUT Esports": {
         "title": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs",
@@ -1020,33 +901,33 @@
         "avgPrice": 0.3599,
         "slug": "nfl-sea-kc-2026-08-29"
       },
-      "0xeaac45b1b812b49ad0dc0affd3a29c9f3a20d8774ed1f29699a8cb1b19c1655f|Wales": {
-        "title": "Spread: Portugal (-1.5)",
-        "outcome": "Wales",
-        "value": 2582.3181,
-        "avgPrice": 0.3699,
-        "slug": "unl-prt-wal-2026-09-24-spread-home-1pt5"
-      },
-      "0xeb3478a53a06cb221676e497c8c19f54329afe38eed2c1a92c4dd35812054c00|No": {
-        "title": "Will Netherlands win on 2026-09-24?",
-        "outcome": "No",
-        "value": 2033.1829,
-        "avgPrice": 0.6001,
-        "slug": "unl-nld-ger-2026-09-24-nld"
+      "0xa69826a08aefbfb213677dc6c9e1203c53aef78aaf43a3728bce502b4e37d6ee|Atlanta Braves": {
+        "title": "Cincinnati Reds vs. Atlanta Braves",
+        "outcome": "Atlanta Braves",
+        "value": 2603.2458,
+        "avgPrice": 0.5899,
+        "slug": "mlb-cin-atl-2026-09-24"
       },
       "0x46991c8a2b6494ac93efb82d0a98096746eb822213d9489b6c5bf75358687f68|Yes": {
         "title": "Will Athletic Club win on 2026-09-16?",
         "outcome": "Yes",
-        "value": 1789.5696,
+        "value": 1750.2384,
         "avgPrice": 0.38,
         "slug": "lal-lev-bil-2026-09-16-bil"
+      },
+      "0x48db35770ab4fbcdb56783e25c5aedd1af5ee1f666942989e6c5a656cdae3ea0|Sabres": {
+        "title": "Sabres vs. Red Wings",
+        "outcome": "Sabres",
+        "value": 876.4812,
+        "avgPrice": 0.2999,
+        "slug": "nhl-buf-det-2026-09-24"
       }
     },
     "#4 SwissTony": {
       "0xdee53c872dfc5f633345aa8e953958961e3d2daf3aabed82a715f8a42ee33875|No": {
         "title": "Exact Score: Chicago Fire FC 0 - 2 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 3216.4198,
+        "value": 3220.1817,
         "avgPrice": 0.9499,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-0-2"
       },
@@ -1067,7 +948,7 @@
       "0x7beb03b48f520e43ae2e217fefe3a48f6948018d3da07678e22708463789afa0|No": {
         "title": "Exact Score: Chicago Fire FC 3 - 2 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 1166.1618,
+        "value": 1168.005,
         "avgPrice": 0.9583,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-3-2"
       },
@@ -1081,7 +962,7 @@
       "0xda7d05262b576bc81ac8efb3b85017c4c2806243f61cb29b4177ba5830f7bb73|LG Twins": {
         "title": "KBO: Hanwha Eagles vs. LG Twins",
         "outcome": "LG Twins",
-        "value": 705.6291,
+        "value": 703.2977,
         "avgPrice": 0.507,
         "slug": "kbo-han-lg-2026-07-05"
       },
@@ -1099,24 +980,24 @@
         "avgPrice": 0.91,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-2-2"
       },
-      "0x4aa3bbbfcca55802fe284e7f4fd47543832ed089d612311e3f643a6f6f57ff2e|No": {
-        "title": "Exact Score: Chicago Fire FC 1 - 1 Vancouver Whitecaps FC?",
-        "outcome": "No",
-        "value": 587.3437,
-        "avgPrice": 0.8799,
-        "slug": "mls-chi-vwh-2026-07-16-exact-score-1-1"
-      },
       "0xda9fcfe15a8a3132eb7836193db3cc96ffbf0bdc45943de1e372adee6b0ef214|No": {
         "title": "Exact Score: Chicago Fire FC 0 - 3 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 577.0195,
+        "value": 577.9925,
         "avgPrice": 0.9699,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-0-3"
+      },
+      "0x4aa3bbbfcca55802fe284e7f4fd47543832ed089d612311e3f643a6f6f57ff2e|No": {
+        "title": "Exact Score: Chicago Fire FC 1 - 1 Vancouver Whitecaps FC?",
+        "outcome": "No",
+        "value": 574.2187,
+        "avgPrice": 0.8799,
+        "slug": "mls-chi-vwh-2026-07-16-exact-score-1-1"
       },
       "0x60d0badc8638ae1c41a4506c2205af08e0775b655c83d9abf34ba1a74da9b18c|No": {
         "title": "Exact Score: Chicago Fire FC 1 - 3 Vancouver Whitecaps FC?",
         "outcome": "No",
-        "value": 557.9003,
+        "value": 556.286,
         "avgPrice": 0.9467,
         "slug": "mls-chi-vwh-2026-07-16-exact-score-1-3"
       },
@@ -1146,65 +1027,121 @@
       "0x522f64ea4548bbed0edf8bbb0b59007c1a55e033b76f06cadaa2118afd1bfe9e|Commanders": {
         "title": "Spread: Seahawks (-7.5)",
         "outcome": "Commanders",
-        "value": 43646.1461,
+        "value": 42798.6481,
         "avgPrice": 0.5115,
         "slug": "nfl-sea-was-2026-09-27-spread-away-7pt5"
-      },
-      "0x20ac99063f5ebc5a19abfcc6db3f730b9c8ac7c974f8439cb78e8bfb3c94146e|Under": {
-        "title": "Tampa Bay Rays vs. New York Yankees: O/U 6.5",
-        "outcome": "Under",
-        "value": 22036.8034,
-        "avgPrice": 0.5497,
-        "slug": "mlb-tb-nyy-2026-09-24-total-6pt5"
       },
       "0x68d0f233e0c1b280ae869734140f5df73d59239356e75bd39667e11ba8d1bd59|Falcons": {
         "title": "Spread: Packers (-7.5)",
         "outcome": "Falcons",
-        "value": 20564.5603,
-        "avgPrice": 0.6012,
+        "value": 42135.5736,
+        "avgPrice": 0.5956,
         "slug": "nfl-atl-gb-2026-09-25-spread-home-7pt5"
+      },
+      "0xcb169452dc1771cc194ad61634b529c6df933c76b99fd28782f1c77f71f94955|Milwaukee Brewers": {
+        "title": "Milwaukee Brewers vs. Philadelphia Phillies",
+        "outcome": "Milwaukee Brewers",
+        "value": 31915.2502,
+        "avgPrice": 0.5134,
+        "slug": "mlb-mil-phi-2026-09-24"
+      },
+      "0x20ac99063f5ebc5a19abfcc6db3f730b9c8ac7c974f8439cb78e8bfb3c94146e|Under": {
+        "title": "Tampa Bay Rays vs. New York Yankees: O/U 6.5",
+        "outcome": "Under",
+        "value": 24869.5812,
+        "avgPrice": 0.5497,
+        "slug": "mlb-tb-nyy-2026-09-24-total-6pt5"
       },
       "0xb865736cce51dfb32d4e97796dfc9be85972159f0cf03c255844c21456b3e17a|Packers": {
         "title": "Spread: Packers (-4.5)",
         "outcome": "Packers",
-        "value": 20203.45,
-        "avgPrice": 0.5034,
+        "value": 23490.9207,
+        "avgPrice": 0.5033,
         "slug": "nfl-atl-gb-2026-09-25-spread-home-4pt5"
       },
-      "0xda3e0a2909a36566b924ae81dccca215c3910ca8a6b175dfbeb5fea39fcc3d68|Over": {
-        "title": "Falcons vs. Packers: O/U 40.5",
-        "outcome": "Over",
-        "value": 16039.3596,
-        "avgPrice": 0.58,
-        "slug": "nfl-atl-gb-2026-09-25-total-40pt5"
+      "0xf58048b24d8c5721ebcead0f0968caba593042058bcf8948aaf5d359fa1ade73|Tampa Bay Rays": {
+        "title": "Tampa Bay Rays vs. New York Yankees",
+        "outcome": "Tampa Bay Rays",
+        "value": 23203.526,
+        "avgPrice": 0.5821,
+        "slug": "mlb-tb-nyy-2026-09-24"
       },
       "0x2010cd76ac0d429f5a085dd0d357ea01f9fe8f8343d399e022cd404208e251db|Under": {
         "title": "Falcons vs. Packers: O/U 43.5",
         "outcome": "Under",
-        "value": 15252.7538,
-        "avgPrice": 0.5133,
+        "value": 21885.8173,
+        "avgPrice": 0.5138,
         "slug": "nfl-atl-gb-2026-09-25-total-43pt5"
-      },
-      "0xc7814a45bbe783d04da039c85ef1172fcedb31efbeee57f9814fae31c73fd36c|Falcons": {
-        "title": "Spread: Packers (-6.5)",
-        "outcome": "Falcons",
-        "value": 14076.8202,
-        "avgPrice": 0.55,
-        "slug": "nfl-atl-gb-2026-09-25-spread-home-6pt5"
       },
       "0xb32449c2f4ae85b981f5a4a0d8b2a8b1f1e3208bd597d90c7503da114eb5921a|Falcons": {
         "title": "Spread: Packers (-5.5)",
         "outcome": "Falcons",
-        "value": 13234.4597,
-        "avgPrice": 0.5097,
+        "value": 21784.8062,
+        "avgPrice": 0.5096,
         "slug": "nfl-atl-gb-2026-09-25-spread-home-5pt5"
+      },
+      "0xa69826a08aefbfb213677dc6c9e1203c53aef78aaf43a3728bce502b4e37d6ee|Atlanta Braves": {
+        "title": "Cincinnati Reds vs. Atlanta Braves",
+        "outcome": "Atlanta Braves",
+        "value": 21116.0422,
+        "avgPrice": 0.7432,
+        "slug": "mlb-cin-atl-2026-09-24"
       },
       "0xb865736cce51dfb32d4e97796dfc9be85972159f0cf03c255844c21456b3e17a|Falcons": {
         "title": "Spread: Packers (-4.5)",
         "outcome": "Falcons",
-        "value": 13033.6411,
-        "avgPrice": 0.4836,
+        "value": 21080.2538,
+        "avgPrice": 0.4893,
         "slug": "nfl-atl-gb-2026-09-25-spread-home-4pt5"
+      },
+      "0x3183c297a36aeeb71d3d004be049c49fe6afbab4d79eba63a3e803cd5c6e3611|Under": {
+        "title": "Cleveland Guardians vs. Boston Red Sox: O/U 6.5",
+        "outcome": "Under",
+        "value": 21058.3205,
+        "avgPrice": 0.4825,
+        "slug": "mlb-cle-bos-2026-09-24-total-6pt5"
+      },
+      "0xda3e0a2909a36566b924ae81dccca215c3910ca8a6b175dfbeb5fea39fcc3d68|Over": {
+        "title": "Falcons vs. Packers: O/U 40.5",
+        "outcome": "Over",
+        "value": 20121.3983,
+        "avgPrice": 0.5786,
+        "slug": "nfl-atl-gb-2026-09-25-total-40pt5"
+      },
+      "0x9116059331a4926e52b80d237b68749527a230e82a81ea9c3c8c3d80b26344e6|Connecticut Sun": {
+        "title": "Toronto Tempo vs. Connecticut Sun",
+        "outcome": "Connecticut Sun",
+        "value": 18017.773,
+        "avgPrice": 0.5704,
+        "slug": "wnba-tor-conn-2026-09-24"
+      },
+      "0x70b6bd23d93cae417841677c61a023330d2bc0f27ac7482b3cf9921a7749cfe5|Over": {
+        "title": "Falcons vs. Packers: O/U 41.5",
+        "outcome": "Over",
+        "value": 16902.5207,
+        "avgPrice": 0.5432,
+        "slug": "nfl-atl-gb-2026-09-25-total-41pt5"
+      },
+      "0xc7814a45bbe783d04da039c85ef1172fcedb31efbeee57f9814fae31c73fd36c|Falcons": {
+        "title": "Spread: Packers (-6.5)",
+        "outcome": "Falcons",
+        "value": 15293.8301,
+        "avgPrice": 0.5405,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-6pt5"
+      },
+      "0x2010cd76ac0d429f5a085dd0d357ea01f9fe8f8343d399e022cd404208e251db|Over": {
+        "title": "Falcons vs. Packers: O/U 43.5",
+        "outcome": "Over",
+        "value": 15181.359,
+        "avgPrice": 0.4763,
+        "slug": "nfl-atl-gb-2026-09-25-total-43pt5"
+      },
+      "0xdbb82cdcbccf31d9a28a45fcb55041993632ee3f8c20050d616883afb2a59f03|Under": {
+        "title": "Falcons vs. Packers: O/U 39.5",
+        "outcome": "Under",
+        "value": 13395.7214,
+        "avgPrice": 0.4799,
+        "slug": "nfl-atl-gb-2026-09-25-total-39pt5"
       },
       "0x7a5d47de6d6e3e4fe402307bb10b36f563a02e5b231af171259053806efc6ee6|Over": {
         "title": "Rams vs. Broncos: O/U 44.5",
@@ -1213,12 +1150,61 @@
         "avgPrice": 0.485,
         "slug": "nfl-la-den-2026-09-28-total-44pt5"
       },
-      "0xcb169452dc1771cc194ad61634b529c6df933c76b99fd28782f1c77f71f94955|Philadelphia Phillies": {
-        "title": "Milwaukee Brewers vs. Philadelphia Phillies",
-        "outcome": "Philadelphia Phillies",
-        "value": 10911.303,
-        "avgPrice": 0.5398,
-        "slug": "mlb-mil-phi-2026-09-24"
+      "0xaf4f9b7fe87016bab487aaa27e2c458a51d9750f8d58a6b7f4ba5d7106c12ea8|Under": {
+        "title": "Tampa Bay Rays vs. New York Yankees: O/U 5.5",
+        "outcome": "Under",
+        "value": 10452.684,
+        "avgPrice": 0.455,
+        "slug": "mlb-tb-nyy-2026-09-24-total-5pt5"
+      },
+      "0xc7814a45bbe783d04da039c85ef1172fcedb31efbeee57f9814fae31c73fd36c|Packers": {
+        "title": "Spread: Packers (-6.5)",
+        "outcome": "Packers",
+        "value": 9608.8145,
+        "avgPrice": 0.446,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-6pt5"
+      },
+      "0x381ea34de799962e25bad0e8bd3aae667c370b66f29a782f7c78ce0e303db406|Over": {
+        "title": "Falcons vs. Packers: O/U 44.5",
+        "outcome": "Over",
+        "value": 9210.1057,
+        "avgPrice": 0.4569,
+        "slug": "nfl-atl-gb-2026-09-25-total-44pt5"
+      },
+      "0x475a6eaa6d9e06ef84c82a04115316fda088a22f6e0654b0caa06890f85991a9|Under": {
+        "title": "Tampa Bay Rays vs. New York Yankees: O/U 7.5",
+        "outcome": "Under",
+        "value": 9022.3678,
+        "avgPrice": 0.6016,
+        "slug": "mlb-tb-nyy-2026-09-24-total-7pt5"
+      },
+      "0xa69826a08aefbfb213677dc6c9e1203c53aef78aaf43a3728bce502b4e37d6ee|Cincinnati Reds": {
+        "title": "Cincinnati Reds vs. Atlanta Braves",
+        "outcome": "Cincinnati Reds",
+        "value": 8972.6601,
+        "avgPrice": 0.2717,
+        "slug": "mlb-cin-atl-2026-09-24"
+      },
+      "0x68d0f233e0c1b280ae869734140f5df73d59239356e75bd39667e11ba8d1bd59|Packers": {
+        "title": "Spread: Packers (-7.5)",
+        "outcome": "Packers",
+        "value": 8300.2626,
+        "avgPrice": 0.4173,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-7pt5"
+      },
+      "0x41d36b0722b183dfab56b2653ca475d94431a78308579321cf290bcc82ad1b38|Minnesota Lynx": {
+        "title": "Indiana Fever vs. Minnesota Lynx",
+        "outcome": "Minnesota Lynx",
+        "value": 8245.9348,
+        "avgPrice": 0.5247,
+        "slug": "wnba-ind-min-2026-09-24"
+      },
+      "0x96e80362c4b266c21ee973705d579561e5d937047dddcd22af87d9c4bb6d4180|Over": {
+        "title": "Falcons vs. Packers: O/U 45.5",
+        "outcome": "Over",
+        "value": 8018.1297,
+        "avgPrice": 0.4104,
+        "slug": "nfl-atl-gb-2026-09-25-total-45pt5"
       },
       "0xa710f35bbdcd027fb5bd3c468e920a2d9b70a46593c9d0512db0035a226b02fc|Hawai'i": {
         "title": "Spread: Hawai'i (-2.5)",
@@ -1234,19 +1220,26 @@
         "avgPrice": 0.4499,
         "slug": "cfb-hawaii-wyom-2026-09-26-spread-away-3pt5"
       },
+      "0xaaba03e832b1e2c7a65fd0e292898b69bc70b5241f6c95850d96b9d758661733|Cleveland Guardians": {
+        "title": "Cleveland Guardians vs. Boston Red Sox",
+        "outcome": "Cleveland Guardians",
+        "value": 7181.8589,
+        "avgPrice": 0.6089,
+        "slug": "mlb-cle-bos-2026-09-24"
+      },
+      "0xa8c72b8c2fc217438caad58074ff0fe0878b1d7b06daf6d588b87b78020152ba|Packers": {
+        "title": "Falcons vs. Packers",
+        "outcome": "Packers",
+        "value": 6834.3357,
+        "avgPrice": 0.75,
+        "slug": "nfl-atl-gb-2026-09-25"
+      },
       "0xd007ef5d658f3a99ec7a39624bf0c59f0d2b18ccd5cffd61e65e6c7e77304e25|Rams": {
         "title": "Rams vs. Broncos",
         "outcome": "Rams",
-        "value": 6822.5373,
+        "value": 6699.6087,
         "avgPrice": 0.56,
         "slug": "nfl-la-den-2026-09-28"
-      },
-      "0x381ea34de799962e25bad0e8bd3aae667c370b66f29a782f7c78ce0e303db406|Over": {
-        "title": "Falcons vs. Packers: O/U 44.5",
-        "outcome": "Over",
-        "value": 6775.7435,
-        "avgPrice": 0.471,
-        "slug": "nfl-atl-gb-2026-09-25-total-44pt5"
       },
       "0xdff427fce82c22dca74075108b8d6dbe6c97395225b60e20f10ab782e221727c|Chiefs": {
         "title": "Spread: Chiefs (-10.5)",
@@ -1268,20 +1261,6 @@
         "value": 6325.1,
         "avgPrice": 0.5,
         "slug": "nfl-hou-ind-2026-09-27-spread-away-2pt5"
-      },
-      "0xc7814a45bbe783d04da039c85ef1172fcedb31efbeee57f9814fae31c73fd36c|Packers": {
-        "title": "Spread: Packers (-6.5)",
-        "outcome": "Packers",
-        "value": 6270.3345,
-        "avgPrice": 0.4401,
-        "slug": "nfl-atl-gb-2026-09-25-spread-home-6pt5"
-      },
-      "0x2010cd76ac0d429f5a085dd0d357ea01f9fe8f8343d399e022cd404208e251db|Over": {
-        "title": "Falcons vs. Packers: O/U 43.5",
-        "outcome": "Over",
-        "value": 6192.4315,
-        "avgPrice": 0.4906,
-        "slug": "nfl-atl-gb-2026-09-25-total-43pt5"
       },
       "0x4e0c84b11fd7c5cafab53a460a74e7f045e55cf38fba8441dfada8f7fe371996|Vikings": {
         "title": "Spread: Vikings (-1.5)",
@@ -1311,6 +1290,27 @@
         "avgPrice": 0.49,
         "slug": "nfl-cin-pit-2026-09-27-total-42pt5"
       },
+      "0x1d72b7d3a1d58cb36a760620031b9bd8b38002ef9dcd1a07d04d221757571a1c|Over": {
+        "title": "Falcons vs. Packers: O/U 42.5",
+        "outcome": "Over",
+        "value": 5882.2592,
+        "avgPrice": 0.5061,
+        "slug": "nfl-atl-gb-2026-09-25-total-42pt5"
+      },
+      "0xaaba03e832b1e2c7a65fd0e292898b69bc70b5241f6c95850d96b9d758661733|Boston Red Sox": {
+        "title": "Cleveland Guardians vs. Boston Red Sox",
+        "outcome": "Boston Red Sox",
+        "value": 5879.9203,
+        "avgPrice": 0.4619,
+        "slug": "mlb-cle-bos-2026-09-24"
+      },
+      "0xbade5ba3e9d507f9c733bdab152ae14da4b63446fa98caffd4c608d0ab6ff54d|Liberty": {
+        "title": "Liberty vs. Coastal Carolina",
+        "outcome": "Liberty",
+        "value": 5823.3927,
+        "avgPrice": 0.6028,
+        "slug": "cfb-librty-coast-2026-09-24"
+      },
       "0x65d317dcf1f2d48c20023a4deb8eb49ca0b0b0b10226408338ca807dcfe4be50|Commanders": {
         "title": "Spread: Seahawks (-14.5)",
         "outcome": "Commanders",
@@ -1318,12 +1318,19 @@
         "avgPrice": 0.73,
         "slug": "nfl-sea-was-2026-09-27-spread-away-14pt5"
       },
-      "0xaf4f9b7fe87016bab487aaa27e2c458a51d9750f8d58a6b7f4ba5d7106c12ea8|Under": {
-        "title": "Tampa Bay Rays vs. New York Yankees: O/U 5.5",
-        "outcome": "Under",
-        "value": 5345.34,
-        "avgPrice": 0.451,
-        "slug": "mlb-tb-nyy-2026-09-24-total-5pt5"
+      "0xb32449c2f4ae85b981f5a4a0d8b2a8b1f1e3208bd597d90c7503da114eb5921a|Packers": {
+        "title": "Spread: Packers (-5.5)",
+        "outcome": "Packers",
+        "value": 5237.3594,
+        "avgPrice": 0.4896,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-5pt5"
+      },
+      "0xa8c72b8c2fc217438caad58074ff0fe0878b1d7b06daf6d588b87b78020152ba|Falcons": {
+        "title": "Falcons vs. Packers",
+        "outcome": "Falcons",
+        "value": 4782.7336,
+        "avgPrice": 0.3236,
+        "slug": "nfl-atl-gb-2026-09-25"
       },
       "0x8fb5a90e9e996b9bdb740fc06683300a8174222ebaa67468fa906354bfc2da2d|Tennessee": {
         "title": "Spread: Texas (-4.5)",
@@ -1335,30 +1342,37 @@
       "0xe522f3373851119575554454e3ef2108c043230c5369dd7f8cfc05e481d598a0|LSU": {
         "title": "Spread: LSU (-9.5)",
         "outcome": "LSU",
-        "value": 4545.5751,
+        "value": 4591.49,
         "avgPrice": 0.47,
         "slug": "cfb-txam-lsu-2026-09-26-spread-home-9pt5"
       },
-      "0x3183c297a36aeeb71d3d004be049c49fe6afbab4d79eba63a3e803cd5c6e3611|Under": {
-        "title": "Cleveland Guardians vs. Boston Red Sox: O/U 6.5",
+      "0xda3e0a2909a36566b924ae81dccca215c3910ca8a6b175dfbeb5fea39fcc3d68|Under": {
+        "title": "Falcons vs. Packers: O/U 40.5",
         "outcome": "Under",
-        "value": 4388.8005,
-        "avgPrice": 0.4799,
-        "slug": "mlb-cle-bos-2026-09-24-total-6pt5"
+        "value": 4534.692,
+        "avgPrice": 0.5261,
+        "slug": "nfl-atl-gb-2026-09-25-total-40pt5"
       },
-      "0xcb169452dc1771cc194ad61634b529c6df933c76b99fd28782f1c77f71f94955|Milwaukee Brewers": {
+      "0x381ea34de799962e25bad0e8bd3aae667c370b66f29a782f7c78ce0e303db406|Under": {
+        "title": "Falcons vs. Packers: O/U 44.5",
+        "outcome": "Under",
+        "value": 4251.1975,
+        "avgPrice": 0.5119,
+        "slug": "nfl-atl-gb-2026-09-25-total-44pt5"
+      },
+      "0x389b32f3adbde0fabc2ab7e9f1b31db34d07132e667f410c232ba2775d2f7609|Falcons": {
+        "title": "Spread: Packers (-1.5)",
+        "outcome": "Falcons",
+        "value": 4015.2909,
+        "avgPrice": 0.3495,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-1pt5"
+      },
+      "0xcb169452dc1771cc194ad61634b529c6df933c76b99fd28782f1c77f71f94955|Philadelphia Phillies": {
         "title": "Milwaukee Brewers vs. Philadelphia Phillies",
-        "outcome": "Milwaukee Brewers",
-        "value": 4137.8082,
-        "avgPrice": 0.4403,
+        "outcome": "Philadelphia Phillies",
+        "value": 3988.6225,
+        "avgPrice": 0.3684,
         "slug": "mlb-mil-phi-2026-09-24"
-      },
-      "0xa2ea4ca038cddd9e0f1b91bcdaef369073407de6e94269740e6837d4e9e31291|Colorado Rockies": {
-        "title": "Spread: Arizona Diamondbacks (-5.5)",
-        "outcome": "Colorado Rockies",
-        "value": 4050.0,
-        "avgPrice": 0.33,
-        "slug": "mlb-ari-col-2026-09-24-spread-away-5pt5"
       },
       "0xe6eb8333a63c0090e2780685cb5f4c9fe2bc15c7e1d7dda087bf0f27ac842857|Tohoku Rakuten Golden Eagles": {
         "title": "Tohoku Rakuten Golden Eagles vs. Fukuoka SoftBank Hawks",
@@ -1367,10 +1381,17 @@
         "avgPrice": 0.433,
         "slug": "npb-toh-fuk-2026-09-21"
       },
+      "0x4c28bed9f4914b3e7132b561e09f7d34fee8ec6e3a3cf41f45de956df86e4b67|Minnesota Lynx": {
+        "title": "Spread: Indiana Fever (-2.5)",
+        "outcome": "Minnesota Lynx",
+        "value": 3743.1639,
+        "avgPrice": 0.4031,
+        "slug": "wnba-ind-min-2026-09-24-spread-away-2pt5"
+      },
       "0xf25aa31fd56fa7789570095708b64b62d075705674ae3ba75481399563f918d4|Commanders": {
         "title": "Spread: Seahawks (-6.5)",
         "outcome": "Commanders",
-        "value": 3619.722,
+        "value": 3536.51,
         "avgPrice": 0.447,
         "slug": "nfl-sea-was-2026-09-27-spread-away-6pt5"
       },
@@ -1381,13 +1402,6 @@
         "avgPrice": 0.5254,
         "slug": "mlb-sd-lad-2026-09-24-total-7pt5"
       },
-      "0x381ea34de799962e25bad0e8bd3aae667c370b66f29a782f7c78ce0e303db406|Under": {
-        "title": "Falcons vs. Packers: O/U 44.5",
-        "outcome": "Under",
-        "value": 3464.7151,
-        "avgPrice": 0.5112,
-        "slug": "nfl-atl-gb-2026-09-25-total-44pt5"
-      },
       "0xf69d6daa1c2dcbe54c04f9da172979fa136619a4d789de33c3d9a5394891c3eb|Under": {
         "title": "Las Vegas Aces vs. Phoenix Mercury: O/U 175.5",
         "outcome": "Under",
@@ -1395,26 +1409,12 @@
         "avgPrice": 0.5116,
         "slug": "wnba-las-phx-2026-09-24-total-175pt5"
       },
-      "0x4cef1e23736832f26c49b4244b8e7f47c4ba5cee1c867a1d8e8a53878f7b760a|Under": {
-        "title": "Liberty vs. Coastal Carolina: O/U 49.5",
-        "outcome": "Under",
-        "value": 3432.2194,
-        "avgPrice": 0.4871,
-        "slug": "cfb-librty-coast-2026-09-24-total-49pt5"
-      },
-      "0x1de27f4b3e94214c8e727aa90c59e3eacab81f8112180b4cbecc94991fcf67ac|Over": {
-        "title": "Oregon vs. USC: O/U 62.5",
-        "outcome": "Over",
-        "value": 3431.875,
-        "avgPrice": 0.48,
-        "slug": "cfb-ore-usc-2026-09-26-total-62pt5"
-      },
-      "0xdb252e71f7a032dda5dee19abc6298cb0f8a2beaae4e3a19f41dcdc34fb1db48|Under": {
-        "title": "Arizona Diamondbacks vs. Colorado Rockies: O/U 20.5",
-        "outcome": "Under",
-        "value": 3406.8982,
-        "avgPrice": 0.3765,
-        "slug": "mlb-ari-col-2026-09-24-total-20pt5"
+      "0x21d8410e9d6ba2f3d363bfda6a751c7fd9f69efd365d23a8c2c55f09074e151c|Coastal Carolina": {
+        "title": "Spread: Liberty (-6.5)",
+        "outcome": "Coastal Carolina",
+        "value": 3415.4672,
+        "avgPrice": 0.51,
+        "slug": "cfb-librty-coast-2026-09-24-spread-away-6pt5"
       },
       "0x2a42bd7f35fda795520b3abc78869a537c60ad29c55a9bb605d8cf13a34a2b2f|USC": {
         "title": "Spread: Oregon (-2.5)",
@@ -1423,10 +1423,31 @@
         "avgPrice": 0.4496,
         "slug": "cfb-ore-usc-2026-09-26-spread-away-2pt5"
       },
+      "0x1de27f4b3e94214c8e727aa90c59e3eacab81f8112180b4cbecc94991fcf67ac|Over": {
+        "title": "Oregon vs. USC: O/U 62.5",
+        "outcome": "Over",
+        "value": 3359.625,
+        "avgPrice": 0.48,
+        "slug": "cfb-ore-usc-2026-09-26-total-62pt5"
+      },
+      "0x5736a6556d114677da05bcd88191a5547631728b6bb513cc462f3d52763c4173|Falcons": {
+        "title": "Spread: Packers (-3.5)",
+        "outcome": "Falcons",
+        "value": 3234.0234,
+        "avgPrice": 0.4453,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-3pt5"
+      },
+      "0x87948edb2185e1f9bae32c4c0eef6f6af6cdd3f819906587ea54bc9e9d0304d3|Under": {
+        "title": "Falcons vs. Packers: O/U 46.5",
+        "outcome": "Under",
+        "value": 3206.4239,
+        "avgPrice": 0.5752,
+        "slug": "nfl-atl-gb-2026-09-25-total-46pt5"
+      },
       "0xe3fe15e68d6d4d502228abaee82e7762adb7529c8543b81fc5eb524150d24f6f|Over": {
         "title": "Oregon State vs. UTEP: O/U 55.5",
         "outcome": "Over",
-        "value": 2988.7879,
+        "value": 3047.9718,
         "avgPrice": 0.5041,
         "slug": "cfb-oregst-utep-2026-09-26-total-55pt5"
       },
@@ -1437,40 +1458,75 @@
         "avgPrice": 0.5149,
         "slug": "cfb-tulsa-ark-2026-09-26-total-51pt5"
       },
-      "0x68d0f233e0c1b280ae869734140f5df73d59239356e75bd39667e11ba8d1bd59|Packers": {
-        "title": "Spread: Packers (-7.5)",
-        "outcome": "Packers",
-        "value": 2873.775,
-        "avgPrice": 0.3985,
-        "slug": "nfl-atl-gb-2026-09-25-spread-home-7pt5"
-      },
-      "0x87948edb2185e1f9bae32c4c0eef6f6af6cdd3f819906587ea54bc9e9d0304d3|Under": {
-        "title": "Falcons vs. Packers: O/U 46.5",
-        "outcome": "Under",
-        "value": 2732.2344,
-        "avgPrice": 0.5752,
-        "slug": "nfl-atl-gb-2026-09-25-total-46pt5"
-      },
-      "0xaf4f9b7fe87016bab487aaa27e2c458a51d9750f8d58a6b7f4ba5d7106c12ea8|Over": {
-        "title": "Tampa Bay Rays vs. New York Yankees: O/U 5.5",
-        "outcome": "Over",
-        "value": 2553.5584,
-        "avgPrice": 0.5498,
-        "slug": "mlb-tb-nyy-2026-09-24-total-5pt5"
-      },
-      "0x20ac99063f5ebc5a19abfcc6db3f730b9c8ac7c974f8439cb78e8bfb3c94146e|Over": {
-        "title": "Tampa Bay Rays vs. New York Yankees: O/U 6.5",
-        "outcome": "Over",
-        "value": 2523.4641,
-        "avgPrice": 0.497,
-        "slug": "mlb-tb-nyy-2026-09-24-total-6pt5"
+      "0xc720204c86fc3b0270b908558af9564ac317e8016dfc7c8d1e58d2f59b17db1e|Connecticut Sun": {
+        "title": "Spread: Connecticut Sun (-1.5)",
+        "outcome": "Connecticut Sun",
+        "value": 2850.9904,
+        "avgPrice": 0.5259,
+        "slug": "wnba-tor-conn-2026-09-24-spread-home-1pt5"
       },
       "0xa1318fe0e004c1bd0cdd2267ea4bd1429f384a765d2ea9ac3345a50aaeacf37a|Under": {
         "title": "Indiana Fever vs. Minnesota Lynx: O/U 183.5",
         "outcome": "Under",
-        "value": 2455.1146,
+        "value": 2846.9746,
         "avgPrice": 0.506,
         "slug": "wnba-ind-min-2026-09-24-total-183pt5"
+      },
+      "0x45c5f2f2a580c0900e98add2d1689c0cb214b84b9c5a024df8f093d4f19dbbb5|Coastal Carolina": {
+        "title": "Spread: Liberty (-4.5)",
+        "outcome": "Coastal Carolina",
+        "value": 2785.7641,
+        "avgPrice": 0.51,
+        "slug": "cfb-librty-coast-2026-09-24-spread-away-4pt5"
+      },
+      "0x7846dc2afb2df924db758c57a58b81fa5102c874fbcb9da89bf1b6fd61ad6b2d|Florida": {
+        "title": "Spread: Florida (-2.5)",
+        "outcome": "Florida",
+        "value": 2745.7951,
+        "avgPrice": 0.5688,
+        "slug": "cfb-miss-fl-2026-09-26-spread-home-2pt5"
+      },
+      "0x9c05f3051e98fd7700de317cd91b66e76af95d5069a7dee7320d37860850f78b|Under": {
+        "title": "Milwaukee Brewers vs. Philadelphia Phillies: O/U 8.5",
+        "outcome": "Under",
+        "value": 2686.5061,
+        "avgPrice": 0.6117,
+        "slug": "mlb-mil-phi-2026-09-24-total-8pt5"
+      },
+      "0xeb10daeb75b8fcf16f901b75bce4fba67ecf346360175e761160464f0bc8c483|Under": {
+        "title": "Cleveland Guardians vs. Boston Red Sox: O/U 7.5",
+        "outcome": "Under",
+        "value": 2636.0217,
+        "avgPrice": 0.5893,
+        "slug": "mlb-cle-bos-2026-09-24-total-7pt5"
+      },
+      "0x5ad8837287d35dffa862646bbb6fe194bd98fc1f976303287c6ef0891d148659|Cincinnati Reds": {
+        "title": "Spread: Atlanta Braves (-2.5)",
+        "outcome": "Cincinnati Reds",
+        "value": 2628.056,
+        "avgPrice": 0.62,
+        "slug": "mlb-cin-atl-2026-09-24-spread-home-2pt5"
+      },
+      "0xe33f9bbe0a2e2dcdaf5e447a3bccc3b242633c9051ffd2d95087e1cede1c0b6e|Under": {
+        "title": "Milwaukee Brewers vs. Philadelphia Phillies: O/U 7.5",
+        "outcome": "Under",
+        "value": 2590.3834,
+        "avgPrice": 0.4919,
+        "slug": "mlb-mil-phi-2026-09-24-total-7pt5"
+      },
+      "0x20ac99063f5ebc5a19abfcc6db3f730b9c8ac7c974f8439cb78e8bfb3c94146e|Over": {
+        "title": "Tampa Bay Rays vs. New York Yankees: O/U 6.5",
+        "outcome": "Over",
+        "value": 2464.0147,
+        "avgPrice": 0.4742,
+        "slug": "mlb-tb-nyy-2026-09-24-total-6pt5"
+      },
+      "0x4cef1e23736832f26c49b4244b8e7f47c4ba5cee1c867a1d8e8a53878f7b760a|Under": {
+        "title": "Liberty vs. Coastal Carolina: O/U 49.5",
+        "outcome": "Under",
+        "value": 2426.8218,
+        "avgPrice": 0.4871,
+        "slug": "cfb-librty-coast-2026-09-24-total-49pt5"
       },
       "0xf0a93ae0c1d4d7585d0877b18beead69e0602b41264fc8172e4b6ec6bd5e6e0d|Under": {
         "title": "Missouri vs. Mississippi State: O/U 58.5",
@@ -1479,6 +1535,13 @@
         "avgPrice": 0.49,
         "slug": "cfb-missr-mspst-2026-09-26-total-58pt5"
       },
+      "0xaf4f9b7fe87016bab487aaa27e2c458a51d9750f8d58a6b7f4ba5d7106c12ea8|Over": {
+        "title": "Tampa Bay Rays vs. New York Yankees: O/U 5.5",
+        "outcome": "Over",
+        "value": 2342.7141,
+        "avgPrice": 0.5498,
+        "slug": "mlb-tb-nyy-2026-09-24-total-5pt5"
+      },
       "0xcb1a64d8eabe325370d1062fedaddf1ed1a0620297445173d763914e771e973a|Ohio State": {
         "title": "Spread: Ohio State (-26.5)",
         "outcome": "Ohio State",
@@ -1486,12 +1549,12 @@
         "avgPrice": 0.51,
         "slug": "cfb-ill-ohiost-2026-09-26-spread-home-26pt5"
       },
-      "0x64a5ce26cf37db3c70c641d6cb68dda4f34d185f5faa2aaf0f0cb78105ce085f|Arizona Diamondbacks": {
-        "title": "Arizona Diamondbacks vs. Colorado Rockies",
-        "outcome": "Arizona Diamondbacks",
-        "value": 2243.3143,
-        "avgPrice": 0.63,
-        "slug": "mlb-ari-col-2026-09-24"
+      "0xf74ca2cdec9c31cbf29bd6b718b69e54593078abdd22c895ac5010421da55d66|Under": {
+        "title": "Toronto Tempo vs. Connecticut Sun: O/U 167.5",
+        "outcome": "Under",
+        "value": 2278.4214,
+        "avgPrice": 0.4712,
+        "slug": "wnba-tor-conn-2026-09-24-total-167pt5"
       },
       "0xee20241f6afc5b6ce17ca7a9efce58c63c033a51bd35d53cbfc2a62c1edc9861|Over": {
         "title": "San Diego Padres vs. Los Angeles Dodgers: O/U 6.5",
@@ -1500,12 +1563,12 @@
         "avgPrice": 0.6197,
         "slug": "mlb-sd-lad-2026-09-24-total-6pt5"
       },
-      "0xa69826a08aefbfb213677dc6c9e1203c53aef78aaf43a3728bce502b4e37d6ee|Cincinnati Reds": {
-        "title": "Cincinnati Reds vs. Atlanta Braves",
-        "outcome": "Cincinnati Reds",
-        "value": 2029.8849,
-        "avgPrice": 0.3178,
-        "slug": "mlb-cin-atl-2026-09-24"
+      "0x3b054b5953fc2699c45b56f03c80ce2ddc1b8ef45b59b2325d1f69fd7fdf5410|Under": {
+        "title": "Cleveland Guardians vs. Boston Red Sox: O/U 8.5",
+        "outcome": "Under",
+        "value": 2060.89,
+        "avgPrice": 0.64,
+        "slug": "mlb-cle-bos-2026-09-24-total-8pt5"
       },
       "0xba4b2f42c21ad946b28fae064ac7596b9b18093738ebbb76d984586989ba2fdd|UCF": {
         "title": "Spread: TCU (-2.5)",
@@ -1528,6 +1591,20 @@
         "avgPrice": 0.3699,
         "slug": "wta-marcink-palicov-2026-06-04"
       },
+      "0xa705e54cf48783e453e633de5c272b2d2f9d02e30a777f6bbbfe9b14cd0270b6|Under": {
+        "title": "Milwaukee Brewers vs. Philadelphia Phillies: O/U 9.5",
+        "outcome": "Under",
+        "value": 1904.64,
+        "avgPrice": 0.63,
+        "slug": "mlb-mil-phi-2026-09-24-total-9pt5"
+      },
+      "0xbcdffacc8afe46fc39ee725be2bc02c5eb12fe58839cfec225c37af614d36857|Liberty": {
+        "title": "Spread: Liberty (-3.5)",
+        "outcome": "Liberty",
+        "value": 1879.3273,
+        "avgPrice": 0.415,
+        "slug": "cfb-librty-coast-2026-09-24-spread-away-3pt5"
+      },
       "0xe5a54eaf6a6b729ed0a9b5e1247662b4177ac3a7692086b748a2ed101b2a0673|Ole Miss": {
         "title": "Ole Miss vs. Florida",
         "outcome": "Ole Miss",
@@ -1535,12 +1612,19 @@
         "avgPrice": 0.4,
         "slug": "cfb-miss-fl-2026-09-26"
       },
-      "0xeb10daeb75b8fcf16f901b75bce4fba67ecf346360175e761160464f0bc8c483|Over": {
-        "title": "Cleveland Guardians vs. Boston Red Sox: O/U 7.5",
-        "outcome": "Over",
-        "value": 1868.9069,
-        "avgPrice": 0.3948,
-        "slug": "mlb-cle-bos-2026-09-24-total-7pt5"
+      "0xf2e8e3951d394abf52e690e87772853afd872961ff56c44decfd700f7f06a752|Washington Mystics": {
+        "title": "Chicago Sky vs. Washington Mystics",
+        "outcome": "Washington Mystics",
+        "value": 1781.8068,
+        "avgPrice": 0.9147,
+        "slug": "wnba-chi-wsh-2026-09-24"
+      },
+      "0x9116059331a4926e52b80d237b68749527a230e82a81ea9c3c8c3d80b26344e6|Toronto Tempo": {
+        "title": "Toronto Tempo vs. Connecticut Sun",
+        "outcome": "Toronto Tempo",
+        "value": 1774.6578,
+        "avgPrice": 0.413,
+        "slug": "wnba-tor-conn-2026-09-24"
       },
       "0x9297d7254b40d737fa4c6e80bd8f684483302600cc2c403bdbe60fc2f848d70e|Minnesota": {
         "title": "Spread: Washington (-10.5)",
@@ -1549,26 +1633,19 @@
         "avgPrice": 0.5186,
         "slug": "cfb-minnst-wash-2026-09-26-spread-home-10pt5"
       },
-      "0xa74fa3c71b223f04dda39c32721707462d59cfc49dc939b766e899cd9af9f0d6|Under": {
-        "title": "Las Vegas Aces vs. Phoenix Mercury: O/U 174.5",
+      "0x96e80362c4b266c21ee973705d579561e5d937047dddcd22af87d9c4bb6d4180|Under": {
+        "title": "Falcons vs. Packers: O/U 45.5",
         "outcome": "Under",
-        "value": 1697.7747,
-        "avgPrice": 0.5074,
-        "slug": "wnba-las-phx-2026-09-24-total-174pt5"
+        "value": 1718.2207,
+        "avgPrice": 0.5736,
+        "slug": "nfl-atl-gb-2026-09-25-total-45pt5"
       },
-      "0xeb10daeb75b8fcf16f901b75bce4fba67ecf346360175e761160464f0bc8c483|Under": {
-        "title": "Cleveland Guardians vs. Boston Red Sox: O/U 7.5",
-        "outcome": "Under",
-        "value": 1687.6117,
-        "avgPrice": 0.5893,
-        "slug": "mlb-cle-bos-2026-09-24-total-7pt5"
-      },
-      "0x1eb5dda409b8275fc0b76fd4e37096072cbf7d455ed6ae5e901d6a366b38bbfc|Colorado Rockies": {
-        "title": "Spread: Arizona Diamondbacks (-9.5)",
-        "outcome": "Colorado Rockies",
-        "value": 1682.2279,
-        "avgPrice": 0.5292,
-        "slug": "mlb-ari-col-2026-09-24-spread-away-9pt5"
+      "0x522f64ea4548bbed0edf8bbb0b59007c1a55e033b76f06cadaa2118afd1bfe9e|Seahawks": {
+        "title": "Spread: Seahawks (-7.5)",
+        "outcome": "Seahawks",
+        "value": 1694.2717,
+        "avgPrice": 0.46,
+        "slug": "nfl-sea-was-2026-09-27-spread-away-7pt5"
       },
       "0xb6db51b1ab710f3d9ff81fa3dbd39839e88c3e647bdeea7bce1242a2ec18e02d|Hawai'i": {
         "title": "Hawai'i vs. Wyoming",
@@ -1577,12 +1654,26 @@
         "avgPrice": 0.57,
         "slug": "cfb-hawaii-wyom-2026-09-26"
       },
-      "0x522f64ea4548bbed0edf8bbb0b59007c1a55e033b76f06cadaa2118afd1bfe9e|Seahawks": {
-        "title": "Spread: Seahawks (-7.5)",
-        "outcome": "Seahawks",
-        "value": 1660.0439,
-        "avgPrice": 0.46,
-        "slug": "nfl-sea-was-2026-09-27-spread-away-7pt5"
+      "0xa74fa3c71b223f04dda39c32721707462d59cfc49dc939b766e899cd9af9f0d6|Under": {
+        "title": "Las Vegas Aces vs. Phoenix Mercury: O/U 174.5",
+        "outcome": "Under",
+        "value": 1664.8082,
+        "avgPrice": 0.5074,
+        "slug": "wnba-las-phx-2026-09-24-total-174pt5"
+      },
+      "0x9909b352add3e48cee9da8b4f238ab36f4957c07afd45ab2b3cae8ee1da2dba9|Under": {
+        "title": "Houston Astros vs. Athletics: O/U 10.5",
+        "outcome": "Under",
+        "value": 1651.34,
+        "avgPrice": 0.4735,
+        "slug": "mlb-hou-oak-2026-09-24-total-10pt5"
+      },
+      "0x45c5f2f2a580c0900e98add2d1689c0cb214b84b9c5a024df8f093d4f19dbbb5|Liberty": {
+        "title": "Spread: Liberty (-4.5)",
+        "outcome": "Liberty",
+        "value": 1622.5621,
+        "avgPrice": 0.39,
+        "slug": "cfb-librty-coast-2026-09-24-spread-away-4pt5"
       },
       "0xffa83f9cbfe2cd1bfb6ac4cfcc4d89307e86e10067d367e8fd22186b177dabd7|Arkansas": {
         "title": "Spread: Arkansas (-6.5)",
@@ -1591,13 +1682,6 @@
         "avgPrice": 0.5399,
         "slug": "cfb-tulsa-ark-2026-09-26-spread-home-6pt5"
       },
-      "0x9909b352add3e48cee9da8b4f238ab36f4957c07afd45ab2b3cae8ee1da2dba9|Under": {
-        "title": "Houston Astros vs. Athletics: O/U 10.5",
-        "outcome": "Under",
-        "value": 1607.775,
-        "avgPrice": 0.4738,
-        "slug": "mlb-hou-oak-2026-09-24-total-10pt5"
-      },
       "0xe397e2dffb9a10a5a43d809b1714613c35e78777b96e6e31f485b9c9e4958f7e|Over": {
         "title": "Chargers vs. Bills: O/U 49.5",
         "outcome": "Over",
@@ -1605,12 +1689,26 @@
         "avgPrice": 0.52,
         "slug": "nfl-lac-buf-2026-09-27-total-49pt5"
       },
+      "0x1a6d0c587111334691601cdf5463a67cd940f0e488210d27995ce1f0f254b1d5|Falcons": {
+        "title": "Spread: Packers (-10.5)",
+        "outcome": "Falcons",
+        "value": 1583.694,
+        "avgPrice": 0.6182,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-10pt5"
+      },
       "0xa78c477a9283ea6fb05f016013eb3f4e03980f65b724e1e7ab9d9f7611d661aa|Florida": {
         "title": "Spread: Florida (-3.5)",
         "outcome": "Florida",
         "value": 1577.0782,
         "avgPrice": 0.4692,
         "slug": "cfb-miss-fl-2026-09-26-spread-home-3pt5"
+      },
+      "0x41d36b0722b183dfab56b2653ca475d94431a78308579321cf290bcc82ad1b38|Indiana Fever": {
+        "title": "Indiana Fever vs. Minnesota Lynx",
+        "outcome": "Indiana Fever",
+        "value": 1555.1911,
+        "avgPrice": 0.5157,
+        "slug": "wnba-ind-min-2026-09-24"
       },
       "0x6279263699b61de2c12eee12bd52f23bc6ffec3eb16eb0db4cb18050db923d89|Toledo": {
         "title": "Spread: Toledo (-2.5)",
@@ -1626,6 +1724,13 @@
         "avgPrice": 0.53,
         "slug": "cfb-hawaii-wyom-2026-09-26-spread-away-3pt5"
       },
+      "0x0058c8f2487ad961207352744b2f48f84e98a7f01d206a3cfd1f8aa2cbb91e51|Tampa Bay Rays": {
+        "title": "Spread: Tampa Bay Rays (-2.5)",
+        "outcome": "Tampa Bay Rays",
+        "value": 1506.4807,
+        "avgPrice": 0.3557,
+        "slug": "mlb-tb-nyy-2026-09-24-spread-away-2pt5"
+      },
       "0x15c56a6e41e61c9dbf3bf19abd2b311b8fd76cc837db96166d843ba908f7b8d9|Washington State": {
         "title": "Spread: Arizona (-10.5)",
         "outcome": "Washington State",
@@ -1640,13 +1745,6 @@
         "avgPrice": 0.49,
         "slug": "cfb-nmx-nmxst-2026-09-26-total-48pt5"
       },
-      "0x3b054b5953fc2699c45b56f03c80ce2ddc1b8ef45b59b2325d1f69fd7fdf5410|Under": {
-        "title": "Cleveland Guardians vs. Boston Red Sox: O/U 8.5",
-        "outcome": "Under",
-        "value": 1467.44,
-        "avgPrice": 0.64,
-        "slug": "mlb-cle-bos-2026-09-24-total-8pt5"
-      },
       "0xbe81e0ccc448b5ff77399f2c15c01a1a5ed5028bf7e2ce19d025f91e90fd6f94|Fresno State": {
         "title": "Spread: Fresno State (-13.5)",
         "outcome": "Fresno State",
@@ -1660,13 +1758,6 @@
         "value": 1440.7347,
         "avgPrice": 0.51,
         "slug": "cfb-jmad-old-2026-09-26-spread-away-6pt5"
-      },
-      "0xa705e54cf48783e453e633de5c272b2d2f9d02e30a777f6bbbfe9b14cd0270b6|Under": {
-        "title": "Milwaukee Brewers vs. Philadelphia Phillies: O/U 9.5",
-        "outcome": "Under",
-        "value": 1433.6,
-        "avgPrice": 0.63,
-        "slug": "mlb-mil-phi-2026-09-24-total-9pt5"
       },
       "0x5bfe5a67ea30e245a271acbe88e9991dc13cbd5a7f2cef455adcdff0487f865b|Fresno State": {
         "title": "Spread: Fresno State (-12.5)",
@@ -1717,19 +1808,19 @@
         "avgPrice": 0.44,
         "slug": "cfb-ballst-kentst-2026-09-26-spread-home-2pt5"
       },
-      "0xe3fe15e68d6d4d502228abaee82e7762adb7529c8543b81fc5eb524150d24f6f|Under": {
-        "title": "Oregon State vs. UTEP: O/U 55.5",
-        "outcome": "Under",
-        "value": 1366.2346,
-        "avgPrice": 0.5,
-        "slug": "cfb-oregst-utep-2026-09-26-total-55pt5"
-      },
       "0x7fd61986b46541500af6c07da226f2f07fd71efd8c9e4dbe12a57dbe75287afe|Over": {
         "title": "South Florida vs. Bowling Green: O/U 48.5",
         "outcome": "Over",
         "value": 1340.6588,
         "avgPrice": 0.5098,
         "slug": "cfb-sfl-bowlgr-2026-09-26-total-48pt5"
+      },
+      "0xe3fe15e68d6d4d502228abaee82e7762adb7529c8543b81fc5eb524150d24f6f|Under": {
+        "title": "Oregon State vs. UTEP: O/U 55.5",
+        "outcome": "Under",
+        "value": 1338.6339,
+        "avgPrice": 0.5,
+        "slug": "cfb-oregst-utep-2026-09-26-total-55pt5"
       },
       "0xe0bd7c4bbbfb7b3c9c244bd9bef0902612c4bfc1cffee39c2bc44b44feb966db|Under": {
         "title": "Florida Atlantic vs. Louisiana-Monroe: O/U 57.5",
@@ -1745,13 +1836,6 @@
         "avgPrice": 0.48,
         "slug": "cfb-unlv-akron-2026-09-26-total-52pt5"
       },
-      "0xbcdffacc8afe46fc39ee725be2bc02c5eb12fe58839cfec225c37af614d36857|Liberty": {
-        "title": "Spread: Liberty (-3.5)",
-        "outcome": "Liberty",
-        "value": 1286.6812,
-        "avgPrice": 0.415,
-        "slug": "cfb-librty-coast-2026-09-24-spread-away-3pt5"
-      },
       "0xc9bb406ae667d2db13770ae4f2cf6d76c29284361f75034d476b76041b7c073a|Under": {
         "title": "UMass vs. Sacramento State: O/U 50.5",
         "outcome": "Under",
@@ -1759,12 +1843,12 @@
         "avgPrice": 0.5497,
         "slug": "cfb-umass-sacst-2026-09-26-total-50pt5"
       },
-      "0xf74ca2cdec9c31cbf29bd6b718b69e54593078abdd22c895ac5010421da55d66|Under": {
-        "title": "Toronto Tempo vs. Connecticut Sun: O/U 167.5",
-        "outcome": "Under",
-        "value": 1275.5078,
-        "avgPrice": 0.4647,
-        "slug": "wnba-tor-conn-2026-09-24-total-167pt5"
+      "0xf35bb1a9b7cd8289096ebcc275d71d790c2418886d877beacc580076645105e5|Over": {
+        "title": "Liberty vs. Coastal Carolina: O/U 53.5",
+        "outcome": "Over",
+        "value": 1276.8,
+        "avgPrice": 0.3748,
+        "slug": "cfb-librty-coast-2026-09-24-total-53pt5"
       },
       "0x680d3afbceb12814c67f1160df8d86cfcdb2599a6ad0526864a6834023c298c4|Southern Miss": {
         "title": "Spread: Tulane (-18.5)",
@@ -1780,13 +1864,6 @@
         "avgPrice": 0.53,
         "slug": "cfb-sdst-toledo-2026-09-26-total-50pt5"
       },
-      "0xf9fccc56c3e62e66f6a04a54370152f2394c3270dceea0d8f9aefb4d1c9623f3|Over": {
-        "title": "San Diego Padres vs. Los Angeles Dodgers: O/U 8.5",
-        "outcome": "Over",
-        "value": 1252.0816,
-        "avgPrice": 0.4384,
-        "slug": "mlb-sd-lad-2026-09-24-total-8pt5"
-      },
       "0xc66f93eac22a9d5f13178b18cd3ce177c5c20fb11e54823a85b426bf3469f8aa|Over": {
         "title": "Arizona vs. Washington State: O/U 49.5",
         "outcome": "Over",
@@ -1794,12 +1871,19 @@
         "avgPrice": 0.46,
         "slug": "cfb-arz-washst-2026-09-26-total-49pt5"
       },
-      "0x475a6eaa6d9e06ef84c82a04115316fda088a22f6e0654b0caa06890f85991a9|Under": {
-        "title": "Tampa Bay Rays vs. New York Yankees: O/U 7.5",
+      "0xce4da58ef9515d26ad72564a68fd38725655bb1510fdeb825002555a3f16091a|Under": {
+        "title": "Toronto Tempo vs. Connecticut Sun: O/U 168.5",
         "outcome": "Under",
-        "value": 1245.0627,
-        "avgPrice": 0.6106,
-        "slug": "mlb-tb-nyy-2026-09-24-total-7pt5"
+        "value": 1230.3169,
+        "avgPrice": 0.4865,
+        "slug": "wnba-tor-conn-2026-09-24-total-168pt5"
+      },
+      "0xf9fccc56c3e62e66f6a04a54370152f2394c3270dceea0d8f9aefb4d1c9623f3|Over": {
+        "title": "San Diego Padres vs. Los Angeles Dodgers: O/U 8.5",
+        "outcome": "Over",
+        "value": 1223.945,
+        "avgPrice": 0.4384,
+        "slug": "mlb-sd-lad-2026-09-24-total-8pt5"
       },
       "0x873c16717fef843256324ffd5d8b6a5f6745bc0c67f3ea412cd66682af7810b8|Under": {
         "title": "Masarova vs. Ryser: Match O/U 23.5",
@@ -1808,12 +1892,12 @@
         "avgPrice": 0.6104,
         "slug": "wta-masarov-ryser-2026-07-18-match-total-23pt5"
       },
-      "0xeca91a95659350b423a80c3fed0cea456c6a0dd6b4e9861b3628b5f1ba0a6c41|Under": {
-        "title": "Houston Astros vs. Athletics: O/U 11.5",
-        "outcome": "Under",
-        "value": 1212.5704,
-        "avgPrice": 0.5797,
-        "slug": "mlb-hou-oak-2026-09-24-total-11pt5"
+      "0xca17a1af7eeaa72fa65d7cc919e0e78c6937c013239b3ab49e198d12bfef0fde|Coastal Carolina": {
+        "title": "Spread: Liberty (-1.5)",
+        "outcome": "Coastal Carolina",
+        "value": 1207.9559,
+        "avgPrice": 0.4695,
+        "slug": "cfb-librty-coast-2026-09-24-spread-away-1pt5"
       },
       "0x0f000093665acd0f2acefcbd535c602139404ccc7a1c7877a70b7f26e4a06046|Minnesota": {
         "title": "Spread: Washington (-9.5)",
@@ -1822,19 +1906,19 @@
         "avgPrice": 0.47,
         "slug": "cfb-minnst-wash-2026-09-26-spread-home-9pt5"
       },
-      "0xe33f9bbe0a2e2dcdaf5e447a3bccc3b242633c9051ffd2d95087e1cede1c0b6e|Under": {
-        "title": "Milwaukee Brewers vs. Philadelphia Phillies: O/U 7.5",
+      "0xeca91a95659350b423a80c3fed0cea456c6a0dd6b4e9861b3628b5f1ba0a6c41|Under": {
+        "title": "Houston Astros vs. Athletics: O/U 11.5",
         "outcome": "Under",
-        "value": 1143.6519,
-        "avgPrice": 0.4515,
-        "slug": "mlb-mil-phi-2026-09-24-total-7pt5"
+        "value": 1150.3873,
+        "avgPrice": 0.5797,
+        "slug": "mlb-hou-oak-2026-09-24-total-11pt5"
       },
-      "0xce4da58ef9515d26ad72564a68fd38725655bb1510fdeb825002555a3f16091a|Over": {
-        "title": "Toronto Tempo vs. Connecticut Sun: O/U 168.5",
-        "outcome": "Over",
-        "value": 1116.3718,
-        "avgPrice": 0.4957,
-        "slug": "wnba-tor-conn-2026-09-24-total-168pt5"
+      "0xd36cd39811ecba221e27bee58977a881254cb90a722d79c3a1ded3804faaeb25|Minnesota Lynx": {
+        "title": "Spread: Indiana Fever (-3.5)",
+        "outcome": "Minnesota Lynx",
+        "value": 1139.0095,
+        "avgPrice": 0.45,
+        "slug": "wnba-ind-min-2026-09-24-spread-away-3pt5"
       },
       "0x54b66fa39fb9e230c295d23dd8a9590c5891507e36478eefebba695612735977|Florida Atlantic": {
         "title": "Spread: Florida Atlantic (-12.5)",
@@ -1842,20 +1926,6 @@
         "value": 1086.3206,
         "avgPrice": 0.5292,
         "slug": "cfb-flatl-lamon-2026-09-26-spread-away-12pt5"
-      },
-      "0x45c5f2f2a580c0900e98add2d1689c0cb214b84b9c5a024df8f093d4f19dbbb5|Liberty": {
-        "title": "Spread: Liberty (-4.5)",
-        "outcome": "Liberty",
-        "value": 1077.1631,
-        "avgPrice": 0.39,
-        "slug": "cfb-librty-coast-2026-09-24-spread-away-4pt5"
-      },
-      "0x305df3161a511bc821c7754e781549dc4ac2e8019fcd7cf292fef06991c43548|Falcons": {
-        "title": "Spread: Packers (-8.5)",
-        "outcome": "Falcons",
-        "value": 1074.039,
-        "avgPrice": 0.62,
-        "slug": "nfl-atl-gb-2026-09-25-spread-home-8pt5"
       },
       "0xeb523a23fffe6b04db598573d1a709b5e45d8500cc81c2829e8e12d4e0632f34|Over": {
         "title": "Hawai'i vs. Wyoming: O/U 43.5",
@@ -1867,9 +1937,16 @@
       "0xa7e757895dd243b522638c88ae255718b8154c42dfabe8d656c13628b040ff9c|Phoenix Mercury": {
         "title": "Spread: Las Vegas Aces (-9.5)",
         "outcome": "Phoenix Mercury",
-        "value": 1012.1611,
-        "avgPrice": 0.4927,
+        "value": 1025.5601,
+        "avgPrice": 0.4923,
         "slug": "wnba-las-phx-2026-09-24-spread-away-9pt5"
+      },
+      "0x305df3161a511bc821c7754e781549dc4ac2e8019fcd7cf292fef06991c43548|Falcons": {
+        "title": "Spread: Packers (-8.5)",
+        "outcome": "Falcons",
+        "value": 1018.132,
+        "avgPrice": 0.6203,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-8pt5"
       },
       "0x0dee2d10538d1a77471d481e345cbdbdba408c3bfaf01022e46c2b393b3904a8|Under": {
         "title": "Los Angeles Angels vs. Seattle Mariners: O/U 7.5",
@@ -1885,26 +1962,26 @@
         "avgPrice": 0.79,
         "slug": "nfl-atl-gb-2026-09-25-spread-away-3pt5"
       },
-      "0xc720204c86fc3b0270b908558af9564ac317e8016dfc7c8d1e58d2f59b17db1e|Connecticut Sun": {
-        "title": "Spread: Connecticut Sun (-1.5)",
-        "outcome": "Connecticut Sun",
-        "value": 963.226,
-        "avgPrice": 0.5199,
-        "slug": "wnba-tor-conn-2026-09-24-spread-home-1pt5"
-      },
-      "0x9c05f3051e98fd7700de317cd91b66e76af95d5069a7dee7320d37860850f78b|Under": {
-        "title": "Milwaukee Brewers vs. Philadelphia Phillies: O/U 8.5",
+      "0x70b6bd23d93cae417841677c61a023330d2bc0f27ac7482b3cf9921a7749cfe5|Under": {
+        "title": "Falcons vs. Packers: O/U 41.5",
         "outcome": "Under",
-        "value": 896.6479,
-        "avgPrice": 0.56,
-        "slug": "mlb-mil-phi-2026-09-24-total-8pt5"
+        "value": 899.0279,
+        "avgPrice": 0.4402,
+        "slug": "nfl-atl-gb-2026-09-25-total-41pt5"
       },
-      "0x5736a6556d114677da05bcd88191a5547631728b6bb513cc462f3d52763c4173|Falcons": {
-        "title": "Spread: Packers (-3.5)",
-        "outcome": "Falcons",
-        "value": 891.8,
-        "avgPrice": 0.4325,
-        "slug": "nfl-atl-gb-2026-09-25-spread-home-3pt5"
+      "0x47b71492a7b38fb628e2192de2dd7d061a83d07f7d9519555de3f3b1493104bc|Under": {
+        "title": "Falcons vs. Packers: O/U 37.5",
+        "outcome": "Under",
+        "value": 880.88,
+        "avgPrice": 0.46,
+        "slug": "nfl-atl-gb-2026-09-25-total-37pt5"
+      },
+      "0xc04b0113a4e303f9ff9267c7984569bfae646042db73d27233e8b00c7fc1a179|San Diego Padres": {
+        "title": "San Diego Padres vs. Los Angeles Dodgers",
+        "outcome": "San Diego Padres",
+        "value": 852.2785,
+        "avgPrice": 0.37,
+        "slug": "mlb-sd-lad-2026-09-24"
       },
       "0xcafe61c800275dc64cadfb93ca92cf6e894ac0e0982a1629469f7a47f052408b|Over": {
         "title": "Utah vs. Iowa State: O/U 50.5",
@@ -1927,19 +2004,26 @@
         "avgPrice": 0.58,
         "slug": "nfl-lac-buf-2026-09-27-total-47pt5"
       },
-      "0xc04b0113a4e303f9ff9267c7984569bfae646042db73d27233e8b00c7fc1a179|San Diego Padres": {
-        "title": "San Diego Padres vs. Los Angeles Dodgers",
-        "outcome": "San Diego Padres",
-        "value": 830.7018,
-        "avgPrice": 0.37,
-        "slug": "mlb-sd-lad-2026-09-24"
+      "0x6468ba7a3bb910b249924ba4627c3ffda9536c83574149e37988966552182308|Packers": {
+        "title": "Spread: Packers (-9.5)",
+        "outcome": "Packers",
+        "value": 816.9485,
+        "avgPrice": 0.42,
+        "slug": "nfl-atl-gb-2026-09-25-spread-home-9pt5"
       },
-      "0x9c05f3051e98fd7700de317cd91b66e76af95d5069a7dee7320d37860850f78b|Over": {
-        "title": "Milwaukee Brewers vs. Philadelphia Phillies: O/U 8.5",
+      "0xde79e2e57d1e3417c26931dd80760c09cc6ceef10a052f0ad1aa8dc771e6760b|Cincinnati Reds": {
+        "title": "Spread: Atlanta Braves (-1.5)",
+        "outcome": "Cincinnati Reds",
+        "value": 807.7663,
+        "avgPrice": 0.4403,
+        "slug": "mlb-cin-atl-2026-09-24-spread-home-1pt5"
+      },
+      "0xeca91a95659350b423a80c3fed0cea456c6a0dd6b4e9861b3628b5f1ba0a6c41|Over": {
+        "title": "Houston Astros vs. Athletics: O/U 11.5",
         "outcome": "Over",
-        "value": 808.2016,
-        "avgPrice": 0.47,
-        "slug": "mlb-mil-phi-2026-09-24-total-8pt5"
+        "value": 795.3047,
+        "avgPrice": 0.4196,
+        "slug": "mlb-hou-oak-2026-09-24-total-11pt5"
       },
       "0xb3f529085f6fbeacfcf78825f496c2c6a3de1387d6484b9ee85871bc4713aa00|Los Angeles Sparks": {
         "title": "Spread: Golden State Valkyries (-11.5)",
@@ -1948,31 +2032,17 @@
         "avgPrice": 0.5191,
         "slug": "wnba-gsv-la-2026-09-24-spread-away-11pt5"
       },
-      "0x4e3f80c8629c3683b566152bbdb17812f3a76a5491b8b571b7fdc1bd9846a538|Arizona Diamondbacks": {
-        "title": "Spread: Arizona Diamondbacks (-8.5)",
-        "outcome": "Arizona Diamondbacks",
-        "value": 784.3258,
-        "avgPrice": 0.6487,
-        "slug": "mlb-ari-col-2026-09-24-spread-away-8pt5"
-      },
-      "0xce4da58ef9515d26ad72564a68fd38725655bb1510fdeb825002555a3f16091a|Under": {
-        "title": "Toronto Tempo vs. Connecticut Sun: O/U 168.5",
-        "outcome": "Under",
-        "value": 778.3637,
-        "avgPrice": 0.4865,
-        "slug": "wnba-tor-conn-2026-09-24-total-168pt5"
-      },
       "0x67c87ac3a25b21d2d69eae095238a186bfd4b909691dc64e8a0fbd3283e00e79|Navy": {
         "title": "Spread: Navy (-7.5)",
         "outcome": "Navy",
-        "value": 771.4725,
+        "value": 789.2075,
         "avgPrice": 0.4574,
         "slug": "cfb-navy-uab-2026-09-25-spread-away-7pt5"
       },
       "0xbf18e81124cb65f8212ae5da7c96aa8176a41fe53d64178db62df5843fe3e6c3|Notre Dame": {
         "title": "Notre Dame vs. Purdue",
         "outcome": "Notre Dame",
-        "value": 765.0893,
+        "value": 764.6896,
         "avgPrice": 0.9578,
         "slug": "cfb-nd-pur-2026-09-26"
       },
@@ -2011,13 +2081,6 @@
         "avgPrice": 0.5283,
         "slug": "cfb-col-bayl-2026-09-26-spread-home-9pt5"
       },
-      "0x25c1f9d2653875136815578b7c3bcd2d25900a7ba183041516f892f0c99390c6|Under": {
-        "title": "Chicago Sky vs. Washington Mystics: O/U 167.5",
-        "outcome": "Under",
-        "value": 682.697,
-        "avgPrice": 0.4605,
-        "slug": "wnba-chi-wsh-2026-09-24-total-167pt5"
-      },
       "0xb6aa25d57ca3f6c8d3181396bf94123d9b33ecb17a980e2554870851bb70bd83|Sam Houston": {
         "title": "Spread: Texas Tech (-34.5)",
         "outcome": "Sam Houston",
@@ -2028,16 +2091,16 @@
       "0x2a34443a75f390096ef5f57be03574c54b878b250e2facd56ab6d192035a8350|Kia Tigers": {
         "title": "KBO: SSG Landers vs. Kia Tigers",
         "outcome": "Kia Tigers",
-        "value": 669.5199,
+        "value": 668.9573,
         "avgPrice": 0.6841,
         "slug": "kbo-ssg-kia-2026-08-28"
       },
-      "0x1eb5dda409b8275fc0b76fd4e37096072cbf7d455ed6ae5e901d6a366b38bbfc|Arizona Diamondbacks": {
-        "title": "Spread: Arizona Diamondbacks (-9.5)",
-        "outcome": "Arizona Diamondbacks",
-        "value": 666.2941,
-        "avgPrice": 0.5915,
-        "slug": "mlb-ari-col-2026-09-24-spread-away-9pt5"
+      "0x88c5619b7eb9d24285447ea4e0b5c6dab32d3876fbe7142f04f83d9c2f7314e8|Over": {
+        "title": "Chicago Sky vs. Washington Mystics: O/U 168.5",
+        "outcome": "Over",
+        "value": 665.1437,
+        "avgPrice": 0.5065,
+        "slug": "wnba-chi-wsh-2026-09-24-total-168pt5"
       },
       "0x8b653203e31fe14dc5b5f3d6e1afa5408cd5017c1118221708671ef4f7047747|Nebraska": {
         "title": "Nebraska vs. Michigan State",
@@ -2045,6 +2108,27 @@
         "value": 660.6043,
         "avgPrice": 0.65,
         "slug": "cfb-nebr-mst-2026-09-26"
+      },
+      "0x4cef1e23736832f26c49b4244b8e7f47c4ba5cee1c867a1d8e8a53878f7b760a|Over": {
+        "title": "Liberty vs. Coastal Carolina: O/U 49.5",
+        "outcome": "Over",
+        "value": 656.5,
+        "avgPrice": 0.51,
+        "slug": "cfb-librty-coast-2026-09-24-total-49pt5"
+      },
+      "0x9909b352add3e48cee9da8b4f238ab36f4957c07afd45ab2b3cae8ee1da2dba9|Over": {
+        "title": "Houston Astros vs. Athletics: O/U 10.5",
+        "outcome": "Over",
+        "value": 655.3429,
+        "avgPrice": 0.5085,
+        "slug": "mlb-hou-oak-2026-09-24-total-10pt5"
+      },
+      "0x9240915f096dba390806a43f9250e6790356ba8c49f4256467c079fb1bf0cdbd|Milwaukee Brewers": {
+        "title": "Spread: Philadelphia Phillies (-1.5)",
+        "outcome": "Milwaukee Brewers",
+        "value": 652.2501,
+        "avgPrice": 0.6292,
+        "slug": "mlb-mil-phi-2026-09-24-spread-home-1pt5"
       },
       "0xc63c25b995dc4d40abe1bef6f36483a1a0e9cec2fc4a713fee1a2209d68c650b|Army": {
         "title": "Army vs. Temple",
@@ -2060,13 +2144,6 @@
         "avgPrice": 0.54,
         "slug": "nfl-phi-chi-2026-09-29-total-42pt5"
       },
-      "0x9116059331a4926e52b80d237b68749527a230e82a81ea9c3c8c3d80b26344e6|Toronto Tempo": {
-        "title": "Toronto Tempo vs. Connecticut Sun",
-        "outcome": "Toronto Tempo",
-        "value": 632.8893,
-        "avgPrice": 0.4413,
-        "slug": "wnba-tor-conn-2026-09-24"
-      },
       "0xc8b284d95326b2cb35355f74b47f791d7b97cd02114e56fb55e81bf4d02a00dd|Over": {
         "title": "Chiefs vs. Dolphins: O/U 46.5",
         "outcome": "Over",
@@ -2074,12 +2151,12 @@
         "avgPrice": 0.48,
         "slug": "nfl-kc-mia-2026-09-27-total-46pt5"
       },
-      "0x9909b352add3e48cee9da8b4f238ab36f4957c07afd45ab2b3cae8ee1da2dba9|Over": {
-        "title": "Houston Astros vs. Athletics: O/U 10.5",
+      "0xf74ca2cdec9c31cbf29bd6b718b69e54593078abdd22c895ac5010421da55d66|Over": {
+        "title": "Toronto Tempo vs. Connecticut Sun: O/U 167.5",
         "outcome": "Over",
-        "value": 630.8441,
-        "avgPrice": 0.5085,
-        "slug": "mlb-hou-oak-2026-09-24-total-10pt5"
+        "value": 621.806,
+        "avgPrice": 0.4972,
+        "slug": "wnba-tor-conn-2026-09-24-total-167pt5"
       },
       "0xc5e68bfe6fc92c1528f05f0e8bb07b36230e4415bcbdab1da46d99b162e35d41|Under": {
         "title": "Texas A&M vs. LSU: O/U 50.5",
@@ -2095,12 +2172,12 @@
         "avgPrice": 0.46,
         "slug": "cfb-ore-usc-2026-09-26-spread-away-3pt5"
       },
-      "0xd36cd39811ecba221e27bee58977a881254cb90a722d79c3a1ded3804faaeb25|Minnesota Lynx": {
-        "title": "Spread: Indiana Fever (-3.5)",
-        "outcome": "Minnesota Lynx",
-        "value": 579.0495,
-        "avgPrice": 0.45,
-        "slug": "wnba-ind-min-2026-09-24-spread-away-3pt5"
+      "0xe5cdcbd145643259cace7741abdc04d8b9350802c3ad442484b0aa9e3b9f1cad|Over": {
+        "title": "Toronto Tempo vs. Connecticut Sun: O/U 166.5",
+        "outcome": "Over",
+        "value": 557.7232,
+        "avgPrice": 0.4795,
+        "slug": "wnba-tor-conn-2026-09-24-total-166pt5"
       },
       "0x41bfcf355318b0cdb18a06c014ea4f3075986084326f9ad93bc87a33efc0e947|Over": {
         "title": "Nebraska vs. Michigan State: O/U 48.5",
@@ -2109,19 +2186,26 @@
         "avgPrice": 0.51,
         "slug": "cfb-nebr-mst-2026-09-26-total-48pt5"
       },
-      "0xdb252e71f7a032dda5dee19abc6298cb0f8a2beaae4e3a19f41dcdc34fb1db48|Over": {
-        "title": "Arizona Diamondbacks vs. Colorado Rockies: O/U 20.5",
+      "0xce4da58ef9515d26ad72564a68fd38725655bb1510fdeb825002555a3f16091a|Over": {
+        "title": "Toronto Tempo vs. Connecticut Sun: O/U 168.5",
         "outcome": "Over",
-        "value": 555.0468,
-        "avgPrice": 0.5186,
-        "slug": "mlb-ari-col-2026-09-24-total-20pt5"
+        "value": 554.6099,
+        "avgPrice": 0.4958,
+        "slug": "wnba-tor-conn-2026-09-24-total-168pt5"
       },
-      "0x96e80362c4b266c21ee973705d579561e5d937047dddcd22af87d9c4bb6d4180|Under": {
-        "title": "Falcons vs. Packers: O/U 45.5",
+      "0xe41ccc453f624eb69a56952475bfcf9c0b4ad5ad1eee8266a04b1dc499312bf4|Washington Mystics": {
+        "title": "Spread: Washington Mystics (-13.5)",
+        "outcome": "Washington Mystics",
+        "value": 536.2653,
+        "avgPrice": 0.4907,
+        "slug": "wnba-chi-wsh-2026-09-24-spread-home-13pt5"
+      },
+      "0x25c1f9d2653875136815578b7c3bcd2d25900a7ba183041516f892f0c99390c6|Under": {
+        "title": "Chicago Sky vs. Washington Mystics: O/U 167.5",
         "outcome": "Under",
-        "value": 535.4908,
-        "avgPrice": 0.5461,
-        "slug": "nfl-atl-gb-2026-09-25-total-45pt5"
+        "value": 529.2063,
+        "avgPrice": 0.4605,
+        "slug": "wnba-chi-wsh-2026-09-24-total-167pt5"
       },
       "0x7a55fe83cd57ffe87f3dd3634e157f75c95ea6c91e6475f20ea1526716df7c51|Georgia": {
         "title": "Oklahoma vs. Georgia",
@@ -2130,30 +2214,25 @@
         "avgPrice": 0.83,
         "slug": "cfb-okl-ga-2026-09-26"
       },
-      "0x5e78823081102fba03648898abf14ad0ce1bc36ee72b3ab55b0a991356462ec9|Over": {
-        "title": "Arizona Diamondbacks vs. Colorado Rockies: O/U 19.5",
-        "outcome": "Over",
-        "value": 521.9356,
-        "avgPrice": 0.4223,
-        "slug": "mlb-ari-col-2026-09-24-total-19pt5"
-      },
       "0xbc7540449b27f2a74aad088e1b339faafce6eea6f5cee78f1f315ee6e5e27aa1|Under": {
         "title": "UMass vs. Sacramento State: O/U 48.5",
         "outcome": "Under",
         "value": 520.289,
         "avgPrice": 0.48,
         "slug": "cfb-umass-sacst-2026-09-26-total-48pt5"
-      },
-      "0x4cef1e23736832f26c49b4244b8e7f47c4ba5cee1c867a1d8e8a53878f7b760a|Over": {
-        "title": "Liberty vs. Coastal Carolina: O/U 49.5",
-        "outcome": "Over",
-        "value": 510.05,
-        "avgPrice": 0.51,
-        "slug": "cfb-librty-coast-2026-09-24-total-49pt5"
       }
     }
   },
   "announced": {
-    "0x64ee3ce1a5e5bede9b4d6b8d868571645d486338240b8d5281bda16fb6d33254|Darwin Blanch": 3
+    "0xa8c72b8c2fc217438caad58074ff0fe0878b1d7b06daf6d588b87b78020152ba|Packers": 4,
+    "0xb865736cce51dfb32d4e97796dfc9be85972159f0cf03c255844c21456b3e17a|Falcons": 4,
+    "0xcb169452dc1771cc194ad61634b529c6df933c76b99fd28782f1c77f71f94955|Milwaukee Brewers": 3,
+    "0x2010cd76ac0d429f5a085dd0d357ea01f9fe8f8343d399e022cd404208e251db|Over": 4,
+    "0x381ea34de799962e25bad0e8bd3aae667c370b66f29a782f7c78ce0e303db406|Over": 3,
+    "0xa69826a08aefbfb213677dc6c9e1203c53aef78aaf43a3728bce502b4e37d6ee|Atlanta Braves": 3,
+    "0x68d0f233e0c1b280ae869734140f5df73d59239356e75bd39667e11ba8d1bd59|Falcons": 4,
+    "0xa8c72b8c2fc217438caad58074ff0fe0878b1d7b06daf6d588b87b78020152ba|Falcons": 4,
+    "0xb32449c2f4ae85b981f5a4a0d8b2a8b1f1e3208bd597d90c7503da114eb5921a|Packers": 3,
+    "0xc7814a45bbe783d04da039c85ef1172fcedb31efbeee57f9814fae31c73fd36c|Falcons": 3
   }
 }
