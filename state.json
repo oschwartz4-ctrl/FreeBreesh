@@ -1,6 +1,13 @@
 {
   "seen": {
     "#1 Ferrari": {
+      "0xea42e2d0291355ff2fa225471536f3162498e1e94b1657383e31ca25cac19cfb|Kings": {
+        "title": "Kings vs. Rangers",
+        "outcome": "Kings",
+        "value": 40653.8605,
+        "avgPrice": 0.4499,
+        "slug": "nhl-lak-nyr-2026-10-26"
+      },
       "0x1f8d995c49e6794c58dcd187b413a66c625bc5296e95f22844e300da7e4a66b4|Ann Li": {
         "title": "Monterrey Open: Maria Timofeeva vs Ann Li",
         "outcome": "Ann Li",
@@ -8,47 +15,117 @@
         "avgPrice": 0.5156,
         "slug": "wta-timofee-annli-2026-08-26"
       },
-      "0xf32138ed7dcf7be746e441d7add21e14c3f7d160929796b0a4867f53e490a402|Matteo Berrettini": {
-        "title": "Erste Bank Open: Matteo Berrettini vs Tomas Etcheverry",
-        "outcome": "Matteo Berrettini",
-        "value": 13181.3628,
-        "avgPrice": 0.7196,
-        "slug": "atp-berrett-etcheve-2026-10-27"
-      },
-      "0x94def0ffd89805072edd55247b14e5e43482647367220455ee33e64d3242b65d|Timberwolves": {
-        "title": "Spread: Cavaliers (-4.5)",
-        "outcome": "Timberwolves",
-        "value": 7213.6307,
-        "avgPrice": 0.51,
-        "slug": "nba-min-cle-2026-10-26-spread-home-4pt5"
+      "0xcabe86f531002c79e680777d7570a668a4dc27c26ac05a26649b998605995684|Cowboys": {
+        "title": "Cowboys vs. Eagles",
+        "outcome": "Cowboys",
+        "value": 16774.9227,
+        "avgPrice": 0.6699,
+        "slug": "nfl-dal-phi-2026-10-27"
       },
       "0x4dad87ef5612585a9cb82e969a2f0cbe5db228a6665766918ec78e7ab42a83e0|Casper Ruud": {
         "title": "Swiss Indoors Basel: Dominic Stephan Stricker vs Casper Ruud",
         "outcome": "Casper Ruud",
-        "value": 7212.7091,
-        "avgPrice": 0.7099,
+        "value": 16652.7542,
+        "avgPrice": 0.6946,
         "slug": "atp-stricke-ruud-2026-10-27"
       },
-      "0x0eb47c7fa5d192a5d9904a063fd37082548d3001bd644727430ab0696065e006|Under": {
-        "title": "Paris Saint-Germain FC vs. Olympique Lyonnais: O/U 3.5",
-        "outcome": "Under",
-        "value": 5032.5027,
-        "avgPrice": 0.5099,
-        "slug": "fl1-psg-lyo-2026-10-25-total-3pt5"
+      "0x174ee908d208f8e0747589ec0b4f8ac7da329cd00d1418559cee838687cb13e9|Mavericks": {
+        "title": "Spread: Heat (-8.5)",
+        "outcome": "Mavericks",
+        "value": 16266.9557,
+        "avgPrice": 0.5346,
+        "slug": "nba-dal-mia-2026-10-26-spread-home-8pt5"
       },
-      "0x9395644c0bf6d9e17f3cede991974e89908ed81bc717166ddef3d1c2a810fe1f|Celtics": {
+      "0x0c836469c0fd71f40ad39d71a88b2422dd980df31e6cf9ea8b4200a51278e6a9|Bulls": {
+        "title": "Spread: Celtics (-14.5)",
+        "outcome": "Bulls",
+        "value": 13666.9917,
+        "avgPrice": 0.51,
+        "slug": "nba-chi-bos-2026-10-26-spread-home-14pt5"
+      },
+      "0x94def0ffd89805072edd55247b14e5e43482647367220455ee33e64d3242b65d|Timberwolves": {
+        "title": "Spread: Cavaliers (-4.5)",
+        "outcome": "Timberwolves",
+        "value": 7609.9023,
+        "avgPrice": 0.5092,
+        "slug": "nba-min-cle-2026-10-26-spread-home-4pt5"
+      },
+      "0x4ac56ed82cda229122ac7514da21ea82661055c73c1e3668adacd5ec7030fdef|Warriors": {
+        "title": "Spread: Nuggets (-7.5)",
+        "outcome": "Warriors",
+        "value": 6773.0174,
+        "avgPrice": 0.5099,
+        "slug": "nba-gsw-den-2026-10-26-spread-home-7pt5"
+      },
+      "0x591f5fe6ff84e81b531d36bc42265e5017d96e216e052331a4accba083f36de4|Otto Virtanen": {
+        "title": "Brest: Matteo Martineau vs Otto Virtanen",
+        "outcome": "Otto Virtanen",
+        "value": 6299.8511,
+        "avgPrice": 0.9415,
+        "slug": "atp-martin-virtane-2026-10-27"
+      },
+      "0x6f22d2b7c295f187d30322064615f212f2f86f558c5193823c3c3931b4f1d1d7|LOS": {
+        "title": "LoL: LOS vs Team Secret Whales - Game 1 Winner",
+        "outcome": "LOS",
+        "value": 6080.9487,
+        "avgPrice": 0.3682,
+        "slug": "lol-los-tsw-2026-10-26-game1"
+      },
+      "0x593831d3e45940982175cec5141796ed9cffa34b18390e800656d4dae7a16a8e|Over": {
+        "title": "Sevilla FC vs. CA Osasuna: O/U 2.5",
+        "outcome": "Over",
+        "value": 5786.8566,
+        "avgPrice": 0.4322,
+        "slug": "lal-sev-osa-2026-10-26-total-2pt5"
+      },
+      "0x9395644c0bf6d9e17f3cede991974e89908ed81bc717166ddef3d1c2a810fe1f|Bulls": {
         "title": "Spread: Celtics (-13.5)",
-        "outcome": "Celtics",
-        "value": 4672.1042,
-        "avgPrice": 0.5199,
+        "outcome": "Bulls",
+        "value": 5592.594,
+        "avgPrice": 0.47,
         "slug": "nba-chi-bos-2026-10-26-spread-home-13pt5"
       },
-      "0xd669976916d8ad0eb3cf82d7399e92f1242bc8e5b4c4c7f49816d00906f28670|Alex de Minaur": {
-        "title": "Erste Bank Open: Tomas Machac vs Alex de Minaur",
-        "outcome": "Alex de Minaur",
-        "value": 4232.5396,
-        "avgPrice": 0.6899,
-        "slug": "atp-machac-minaur-2026-10-26"
+      "0x2f47031d7c6a58e14ed5492f69dea4e234f372e4262adb6e146e9ade3e934caf|Heat": {
+        "title": "Spread: Heat (-7.5)",
+        "outcome": "Heat",
+        "value": 4988.5654,
+        "avgPrice": 0.53,
+        "slug": "nba-dal-mia-2026-10-26-spread-home-7pt5"
+      },
+      "0xc4d9b9fae8e834b801118d654b379718231a3b2a1a5b05ff058c7b70ca495170|Tomasz Berkieta": {
+        "title": "Sioux Falls: Spencer Johnson vs Tomasz Berkieta",
+        "outcome": "Tomasz Berkieta",
+        "value": 4885.0187,
+        "avgPrice": 0.2106,
+        "slug": "atp-johnso-berkiet-2026-10-26"
+      },
+      "0x3a059fc663e7c29601c26589749efcf87ea7ad8b784fdc5a1b52cb7356a6c90b|Under": {
+        "title": "Red Wings vs. Oilers: O/U 6.5",
+        "outcome": "Under",
+        "value": 4830.1735,
+        "avgPrice": 0.4599,
+        "slug": "nhl-det-edm-2026-10-26-total-6pt5"
+      },
+      "0x536c443eb8c17dad4d7f13798d7036b554daa6851ff3cd3b0e2a13bcd7946122|Over": {
+        "title": "Milwaukee Brewers vs. Tampa Bay Rays: O/U 6.5",
+        "outcome": "Over",
+        "value": 4810.8762,
+        "avgPrice": 0.5799,
+        "slug": "mlb-mil-tb-2026-10-26-total-6pt5"
+      },
+      "0x08fc183472682b970598f3b5888a42e6a2b6313b886a91ff033b64e4ba7e6529|Under": {
+        "title": "CD Santa Clara vs. Sport Lisboa e Benfica: 1st Half O/U 1.5",
+        "outcome": "Under",
+        "value": 4252.509,
+        "avgPrice": 0.6599,
+        "slug": "por-cds-ben-2026-10-26-first-half-total-1pt5"
+      },
+      "0x5533d43d4720554338aa124d54759e539acf9f19787bcdb9dbe2bea0214661ac|Jazz": {
+        "title": "Spread: Jazz (-1.5)",
+        "outcome": "Jazz",
+        "value": 3918.5769,
+        "avgPrice": 0.5,
+        "slug": "nba-mem-uta-2026-10-26-spread-home-1pt5"
       },
       "0x3a5736b4d3b777663ab3b24aedb50f092bd96b50d154a9fc89388314f1ecaca2|Elsa Bonelli": {
         "title": "ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Sarina Schnyder vs Elsa Bonelli",
@@ -57,12 +134,19 @@
         "avgPrice": 0.5765,
         "slug": "itf-schnyde-bonelli-2026-08-26"
       },
-      "0xc4a430b8a7403846189ed2623e1d5c3db871c5a8d616816fec0e71ac93612b26|Mariano Navone": {
-        "title": "Swiss Indoors Basel: Valentin Vacherot vs Mariano Navone",
-        "outcome": "Mariano Navone",
-        "value": 2734.6217,
-        "avgPrice": 0.2617,
-        "slug": "atp-vachero-navone-2026-10-27"
+      "0x39908d8509cf41b0fb8e32724fabccbd570bfec14f22e9ecbfade5c88dfffe96|Suns": {
+        "title": "Spread: Thunder (-10.5)",
+        "outcome": "Suns",
+        "value": 3468.9619,
+        "avgPrice": 0.5644,
+        "slug": "nba-phx-okc-2026-10-26-spread-home-10pt5"
+      },
+      "0x8390b1a3b47101f7e3b83370b3b7a4666eec199eef5cc58d33520f7dec2195a3|Bucks": {
+        "title": "Spread: Pacers (-4.5)",
+        "outcome": "Bucks",
+        "value": 2722.0358,
+        "avgPrice": 0.5,
+        "slug": "nba-ind-mil-2026-10-26-spread-away-4pt5"
       },
       "0x9af167ed361bdc016577401cd59cc05fee72a7aaf70b4a28616f8c6acca2b920|Luiza Fullana": {
         "title": "ITF WOMEN - SINGLES: W35 Barueri (Brazil), hard: Maria Fernanda Navarro vs Luiza Fullana",
@@ -92,6 +176,13 @@
         "avgPrice": 0.67,
         "slug": "itf-orlov-kumstat-2026-07-23"
       },
+      "0x103466bf616ea8367554ee63b5e968b9796fc6b33da08863db234201fec40f6c|Learner Tien": {
+        "title": "Erste Bank Open: Luca Van Assche vs Learner Tien",
+        "outcome": "Learner Tien",
+        "value": 2072.433,
+        "avgPrice": 0.7,
+        "slug": "atp-assche-tien-2026-10-27"
+      },
       "0x4c7b0e07dfb705ca8004abf7dd591e62a35dae69c7b27de634b7aed4573c8483|Tereza Valentova": {
         "title": "Livesport Prague Open: Eva Lys vs Tereza Valentova",
         "outcome": "Tereza Valentova",
@@ -106,6 +197,13 @@
         "avgPrice": 0.6038,
         "slug": "itf-zeltina-palicov-2026-08-17"
       },
+      "0x0eb47c7fa5d192a5d9904a063fd37082548d3001bd644727430ab0696065e006|Over": {
+        "title": "Paris Saint-Germain FC vs. Olympique Lyonnais: O/U 3.5",
+        "outcome": "Over",
+        "value": 1587.3855,
+        "avgPrice": 0.4906,
+        "slug": "fl1-psg-lyo-2026-10-25-total-3pt5"
+      },
       "0x100fc126c334eaa60632ebe683b906d42e58009d0768cecaecaa25ae3f82844f|Gianmarco Ferrari": {
         "title": "ITF Fano: Lorenzo Rottoli vs Gianmarco Ferrari",
         "outcome": "Gianmarco Ferrari",
@@ -119,6 +217,34 @@
         "value": 1280.2953,
         "avgPrice": 0.5051,
         "slug": "lal-ray-bil-2026-10-10-first-half-total-0pt5"
+      },
+      "0x822330c73c35ab6a57305dfa7ef6bc19595a9a80a0679a4da4e15fdd83aec551|Over": {
+        "title": "CR Flamengo vs. CA Mineiro: O/U 3.5",
+        "outcome": "Over",
+        "value": 1255.2626,
+        "avgPrice": 0.3899,
+        "slug": "bra-fla-cam-2026-10-26-total-3pt5"
+      },
+      "0xc4d9b9fae8e834b801118d654b379718231a3b2a1a5b05ff058c7b70ca495170|Spencer Johnson": {
+        "title": "Sioux Falls: Spencer Johnson vs Tomasz Berkieta",
+        "outcome": "Spencer Johnson",
+        "value": 1253.6057,
+        "avgPrice": 0.4307,
+        "slug": "atp-johnso-berkiet-2026-10-26"
+      },
+      "0x08b5c42d5cca3b83ac1c041ba696b2da37bef3e1b5d4746a78afb963b370bec0|Under": {
+        "title": "Be\u015fikta\u015f JK vs. Rams Ba\u015fak\u015fehir FK: 1st Half O/U 0.5",
+        "outcome": "Under",
+        "value": 1241.259,
+        "avgPrice": 0.4675,
+        "slug": "tur-bes-iba-2026-10-26-first-half-total-0pt5"
+      },
+      "0xc7ad23f4bd4cda36beb108f4ea0a6c4eedb90e5cf5e607a909587b3f146ab875|Rositsa Dencheva": {
+        "title": "Courmayeur: Rositsa Dencheva vs Gabriela Knutson",
+        "outcome": "Rositsa Dencheva",
+        "value": 1231.9361,
+        "avgPrice": 0.2806,
+        "slug": "wta-denchev-knutson-2026-10-26"
       },
       "0x7aa71e47536cd611c9a7567bcd45752e171da74fae7c437a8c959fce8254c2c7|Stefan Vujic": {
         "title": "ITF Hillcrest: Preston Brown vs Stefan Vujic",
@@ -155,6 +281,13 @@
         "avgPrice": 0.56,
         "slug": "atp-michels-draper-2026-07-27"
       },
+      "0x877b605f7fdf67409c1ccbd28e5f97bf87fa8c051275695980ac37f7e6054d9a|Under": {
+        "title": "\u00c7aykur Rizespor vs. Trabzonspor: 1st Half O/U 2.5",
+        "outcome": "Under",
+        "value": 1164.6074,
+        "avgPrice": 0.6599,
+        "slug": "tur-riz-tra-2026-10-26-first-half-total-2pt5"
+      },
       "0x40f185c1b5621294c5c461bb1e6dd5dd035820eb0372af1ecf82fbe9f6a1adbe|Oscar Weightman": {
         "title": "Roehampton: Ali Habib vs Oscar Weightman",
         "outcome": "Oscar Weightman",
@@ -186,16 +319,16 @@
       "0xea83da0f880872e5a9ac39ca5ea06f643871ec9dacf4306eabd56949da983df2|Under": {
         "title": "Rayo Vallecano de Madrid vs. Athletic Club: O/U 2.5",
         "outcome": "Under",
-        "value": 1139.9343,
+        "value": 1148.771,
         "avgPrice": 0.5499,
         "slug": "lal-ray-bil-2026-10-10-total-2pt5"
       },
-      "0xa54c879381ac29a0d6c2706b3655a443cdd971e9b5066b6c5a90eafdf9395faf|Moez Echargui": {
-        "title": "Brest: Moez Echargui vs Benjamin Hassan",
-        "outcome": "Moez Echargui",
-        "value": 1073.5929,
-        "avgPrice": 0.8,
-        "slug": "atp-echargu-hassan-2026-10-26"
+      "0xae9d8af8b2d27031a484462b24c4343df700b0638105c4f61580470d0615fac1|Bulls": {
+        "title": "Spread: Celtics (-15.5)",
+        "outcome": "Bulls",
+        "value": 1113.3532,
+        "avgPrice": 0.55,
+        "slug": "nba-chi-bos-2026-10-26-spread-home-15pt5"
       },
       "0xd5775d8d33445e6f5c14b584c0f54535d4b2255b8cdfa9b69697f86969327718|Svyatoslav Gulin": {
         "title": "Prague: Marek Gengel vs Svyatoslav Gulin",
@@ -211,12 +344,19 @@
         "avgPrice": 0.73,
         "slug": "itf-daems-granweh-2026-07-23"
       },
-      "0xd23b8a0890be12b8562af5760d0a615e57d4d1a54b61b93cb84f476cc4c3ed2e|Legacy": {
-        "title": "Map Handicap: LGC (-1.5) vs Liquid (+1.5)",
-        "outcome": "Legacy",
-        "value": 924.2921,
-        "avgPrice": 0.39,
-        "slug": "cs2-tl1-lgc-2026-10-26-map-handicap-home-1pt5"
+      "0xed21f7eca26207a485eaaaa950ad208c01ced4cb066129cb3eaa7829c04b113b|Flames": {
+        "title": "Maple Leafs vs. Flames",
+        "outcome": "Flames",
+        "value": 1000.8134,
+        "avgPrice": 0.4499,
+        "slug": "nhl-tor-cal-2026-10-26"
+      },
+      "0x4962e8dcc4ad6be7a0dd004101ceaf87b8b31e3bf32e854e19d28f2b4aee2463|No": {
+        "title": "Will Odense BK win on 2026-10-26?",
+        "outcome": "No",
+        "value": 962.7425,
+        "avgPrice": 0.6347,
+        "slug": "den-kob-ode-2026-10-26-ode"
       },
       "0x16a4eb4f9ba2c5601406f85e5a86decb01f265adae6fd57e208085651b302a56|KT Wiz": {
         "title": "KBO: Doosan Bears vs. KT Wiz",
@@ -224,6 +364,27 @@
         "value": 790.6373,
         "avgPrice": 0.5688,
         "slug": "kbo-doo-kt-2026-07-21"
+      },
+      "0xfc0fb3cea958a81d95566b09e5769cd9992efd31f497860705342f2810ffe71a|LOS": {
+        "title": "LoL: LOS vs Team Secret Whales (BO3) - Worlds Group Stage",
+        "outcome": "LOS",
+        "value": 771.825,
+        "avgPrice": 0.6099,
+        "slug": "lol-los-tsw-2026-10-26"
+      },
+      "0x69542ee7bb54e89db34b3e2423f04f841622246e44b2f361a3a61546e113cc0a|Yes": {
+        "title": "Will Be\u015fikta\u015f JK win on 2026-10-26?",
+        "outcome": "Yes",
+        "value": 765.4884,
+        "avgPrice": 0.5488,
+        "slug": "tur-bes-iba-2026-10-26-bes"
+      },
+      "0xfc0fb3cea958a81d95566b09e5769cd9992efd31f497860705342f2810ffe71a|Team Secret Whales": {
+        "title": "LoL: LOS vs Team Secret Whales (BO3) - Worlds Group Stage",
+        "outcome": "Team Secret Whales",
+        "value": 763.5844,
+        "avgPrice": 0.3899,
+        "slug": "lol-los-tsw-2026-10-26"
       },
       "0x84ed0eea4e7c92fd0f3d9134c955584a7ebfdaef14283892b47513d4b77a568d|Alexandre Reco": {
         "title": "ITF Rognac: Loic Namigandet Tenguere vs Alexandre Reco",
@@ -246,12 +407,47 @@
         "avgPrice": 0.5179,
         "slug": "wta-samson-sobolie-2026-07-29-first-set-winner-Samson-vs-Sobolieva"
       },
-      "0x242e0c10850405b62a8dcc26eee411bb562f54acfaab0ad2036eca7d0913a744|FURIA": {
-        "title": "Map Handicap: TS (-1.5) vs FURIA (+1.5)",
-        "outcome": "FURIA",
-        "value": 518.13,
-        "avgPrice": 0.67,
-        "slug": "cs2-ts7-furia-2026-10-26-map-handicap-away-1pt5"
+      "0xc3e0bc46877cd741bd5b34a959397de9dd717532401f88cb25532aab213bdb17|CD Santa Clara": {
+        "title": "Spread: Sport Lisboa e Benfica (-1.5)",
+        "outcome": "CD Santa Clara",
+        "value": 645.25,
+        "avgPrice": 0.53,
+        "slug": "por-cds-ben-2026-10-26-spread-away-1pt5"
+      },
+      "0x431c2f623e4fec18a3a20f7d5191e09091a1f8ebcfa2c069865968484a5c2c71|No": {
+        "title": "Will \u00c7aykur Rizespor win on 2026-10-26?",
+        "outcome": "No",
+        "value": 621.6887,
+        "avgPrice": 0.597,
+        "slug": "tur-riz-tra-2026-10-26-riz"
+      },
+      "0x3fff509faffa1cc28f426fbfa30354a39ee429628a80eef0a17f68c2868b1944|Under": {
+        "title": "Galatasaray SK vs. Fenerbah\u00e7e SK: O/U 3.5",
+        "outcome": "Under",
+        "value": 579.8139,
+        "avgPrice": 0.6,
+        "slug": "tur-gal-fen-2026-10-26-total-3pt5"
+      },
+      "0x93a8510aad56aa2a4af5a7e89f091dc5db39e768d10953539034f9969bd12e78|No": {
+        "title": "Will Sport Lisboa e Benfica win on 2026-10-26?",
+        "outcome": "No",
+        "value": 520.4714,
+        "avgPrice": 0.6084,
+        "slug": "por-cds-ben-2026-10-26-ben"
+      },
+      "0xe59bef319d2d5324621eb5d225b0437e3457ddcac91e284d1d0fc7072e9660db|Yes": {
+        "title": "Will Paris Saint-Germain FC win on 2026-10-25?",
+        "outcome": "Yes",
+        "value": 517.2471,
+        "avgPrice": 0.72,
+        "slug": "fl1-psg-lyo-2026-10-25-psg"
+      },
+      "0xdd1ba88eb34abf4065f42ea6ecd9e58103e9dfaa46a242bac0c54c434940ac6c|Over": {
+        "title": "Cowboys vs. Eagles: O/U 44.5",
+        "outcome": "Over",
+        "value": 512.2702,
+        "avgPrice": 0.4728,
+        "slug": "nfl-dal-phi-2026-10-27-total-44pt5"
       },
       "0xcba78f02cd07d809471ee9b21813b430d360262db259917a6709806d69e159ea|Dzumhur": {
         "title": "Set 1 Winner: Gaston vs Dzumhur",
@@ -262,40 +458,75 @@
       }
     },
     "#2 RN1": {
-      "0xbf37c4670d63a250f5837c12636615950a03434219cced86f4da545d8087ebb0|TYLOO": {
-        "title": "Counter-Strike: 9z vs TYLOO (BO3) - PGL Masters Bucharest Group Stage",
-        "outcome": "TYLOO",
-        "value": 44094.9331,
-        "avgPrice": 0.4315,
-        "slug": "cs2-9z-tyloo-2026-10-26"
+      "0x429326ce2ed4ed916deb3aa0f68ac8d7af4a70ea988657aa98b5dcddd0fefc72|DENDELE CS": {
+        "title": "Counter-Strike: G2 vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage",
+        "outcome": "DENDELE CS",
+        "value": 64231.5635,
+        "avgPrice": 0.5876,
+        "slug": "cs2-g2-dendel-2026-10-26"
       },
-      "0xb13ba69dcf37ae1505e0ff78c6f24e578e3c6089b93fadcc4ca26622be48f881|TYLOO": {
-        "title": "Map Handicap: 9z (-1.5) vs TYLOO (+1.5)",
-        "outcome": "TYLOO",
-        "value": 29646.135,
-        "avgPrice": 0.2384,
-        "slug": "cs2-9z-tyloo-2026-10-26-map-handicap-away-1pt5"
+      "0xbd4fe2aba0cf9da148f4df8d3e2429e8e82078e3c425ffba7e0ec43757b429f1|Under": {
+        "title": "Al Quwa Al Jawiya vs. Pakhtakor: O/U 2.5",
+        "outcome": "Under",
+        "value": 18573.2857,
+        "avgPrice": 0.5075,
+        "slug": "acle-quw-pak-2026-10-26-total-2pt5"
       },
-      "0x330a6fd5cdba13202d6599302d58bd07117908ca266d65f3707abc4647bea4d1|FURIA": {
-        "title": "Counter-Strike: Spirit vs FURIA - Map 1 Winner",
-        "outcome": "FURIA",
-        "value": 7986.0301,
-        "avgPrice": 0.3932,
-        "slug": "cs2-ts7-furia-2026-10-26-game1"
+      "0xc7ad23f4bd4cda36beb108f4ea0a6c4eedb90e5cf5e607a909587b3f146ab875|Gabriela Knutson": {
+        "title": "Courmayeur: Rositsa Dencheva vs Gabriela Knutson",
+        "outcome": "Gabriela Knutson",
+        "value": 16148.3107,
+        "avgPrice": 0.8334,
+        "slug": "wta-denchev-knutson-2026-10-26"
       },
-      "0x330a6fd5cdba13202d6599302d58bd07117908ca266d65f3707abc4647bea4d1|Spirit": {
-        "title": "Counter-Strike: Spirit vs FURIA - Map 1 Winner",
-        "outcome": "Spirit",
-        "value": 7841.2829,
-        "avgPrice": 0.4289,
-        "slug": "cs2-ts7-furia-2026-10-26-game1"
+      "0xb583a4de432090a156e59946c9144497c27708395c8fecebc7a2ffcb23d70dd9|Under": {
+        "title": "Paris Saint-Germain FC vs. Olympique Lyonnais: 1st Half O/U 1.5",
+        "outcome": "Under",
+        "value": 12405.298,
+        "avgPrice": 0.4751,
+        "slug": "fl1-psg-lyo-2026-10-25-first-half-total-1pt5"
       },
-      "0x039ec0e7cc9597a0224258151005f498eff177578dbf9af32f11bb3a0d2540e8|Robin Catry": {
-        "title": "Brest: Calvin Hemery vs Robin Catry",
-        "outcome": "Robin Catry",
-        "value": 7688.8423,
-        "avgPrice": 0.8408,
-        "slug": "atp-hemery-catry-2026-10-26"
+      "0x93a8510aad56aa2a4af5a7e89f091dc5db39e768d10953539034f9969bd12e78|No": {
+        "title": "Will Sport Lisboa e Benfica win on 2026-10-26?",
+        "outcome": "No",
+        "value": 12265.2536,
+        "avgPrice": 0.4585,
+        "slug": "por-cds-ben-2026-10-26-ben"
+      },
+      "0x42fe76953c627900522759ab78221de45d2124b97c53e600e0d98c4bf13fcb53|Over": {
+        "title": "Be\u015fikta\u015f JK vs. Rams Ba\u015fak\u015fehir FK: O/U 1.5",
+        "outcome": "Over",
+        "value": 10159.405,
+        "avgPrice": 0.4376,
+        "slug": "tur-bes-iba-2026-10-26-total-1pt5"
+      },
+      "0x591f5fe6ff84e81b531d36bc42265e5017d96e216e052331a4accba083f36de4|Otto Virtanen": {
+        "title": "Brest: Matteo Martineau vs Otto Virtanen",
+        "outcome": "Otto Virtanen",
+        "value": 9405.3521,
+        "avgPrice": 0.8912,
+        "slug": "atp-martin-virtane-2026-10-27"
+      },
+      "0x69542ee7bb54e89db34b3e2423f04f841622246e44b2f361a3a61546e113cc0a|Yes": {
+        "title": "Will Be\u015fikta\u015f JK win on 2026-10-26?",
+        "outcome": "Yes",
+        "value": 9181.5575,
+        "avgPrice": 0.7597,
+        "slug": "tur-bes-iba-2026-10-26-bes"
+      },
+      "0xe59bef319d2d5324621eb5d225b0437e3457ddcac91e284d1d0fc7072e9660db|Yes": {
+        "title": "Will Paris Saint-Germain FC win on 2026-10-25?",
+        "outcome": "Yes",
+        "value": 8517.81,
+        "avgPrice": 0.7175,
+        "slug": "fl1-psg-lyo-2026-10-25-psg"
+      },
+      "0x1a0befa472d1227f924d9feade62941750eadf2b5e4d2636467a2a38fe9f4a55|Yes": {
+        "title": "Will Al Ahli Saudi FC win on 2026-10-26?",
+        "outcome": "Yes",
+        "value": 7832.173,
+        "avgPrice": 0.6943,
+        "slug": "acle-aas-alg-2026-10-26-aas"
       },
       "0x3e4d20cb627ab0bcfab0e7fb48753765b3436dd121999befd2596572a6d2dc36|No": {
         "title": "Will Athletic Club win on 2026-10-10?",
@@ -304,26 +535,75 @@
         "avgPrice": 0.6228,
         "slug": "lal-ray-bil-2026-10-10-bil"
       },
-      "0x54034fbaabbfd49d1b6da62745bc03f4b6acecbc8e58baa513521cfdfc92a083|Nuno Borges": {
-        "title": "Swiss Indoors Basel: Mika Brunold vs Nuno Borges",
-        "outcome": "Nuno Borges",
-        "value": 5591.0523,
-        "avgPrice": 0.9842,
-        "slug": "atp-brunold-borges-2026-10-26"
+      "0x431c2f623e4fec18a3a20f7d5191e09091a1f8ebcfa2c069865968484a5c2c71|No": {
+        "title": "Will \u00c7aykur Rizespor win on 2026-10-26?",
+        "outcome": "No",
+        "value": 7304.1101,
+        "avgPrice": 0.3878,
+        "slug": "tur-riz-tra-2026-10-26-riz"
       },
-      "0xf32138ed7dcf7be746e441d7add21e14c3f7d160929796b0a4867f53e490a402|Matteo Berrettini": {
-        "title": "Erste Bank Open: Matteo Berrettini vs Tomas Etcheverry",
-        "outcome": "Matteo Berrettini",
-        "value": 4774.6115,
-        "avgPrice": 0.83,
-        "slug": "atp-berrett-etcheve-2026-10-27"
+      "0x5ede026a3b54ee6f50d08d2985b8d8e0855ae9c480ee2d48e6b949175d983fd7|Yes": {
+        "title": "Will CD Santa Clara win on 2026-10-26?",
+        "outcome": "Yes",
+        "value": 6402.0787,
+        "avgPrice": 0.306,
+        "slug": "por-cds-ben-2026-10-26-cds"
       },
-      "0x242e0c10850405b62a8dcc26eee411bb562f54acfaab0ad2036eca7d0913a744|FURIA": {
-        "title": "Map Handicap: TS (-1.5) vs FURIA (+1.5)",
-        "outcome": "FURIA",
-        "value": 4435.4077,
-        "avgPrice": 0.6226,
-        "slug": "cs2-ts7-furia-2026-10-26-map-handicap-away-1pt5"
+      "0xc8874b73487dbe1edef3e663fa8d2a4f7d993a7bb08c635e906a4f3d97219965|No": {
+        "title": "Will Al Qadsiah win on 2026-10-26?",
+        "outcome": "No",
+        "value": 6271.9428,
+        "avgPrice": 0.4093,
+        "slug": "acle-qad-sad-2026-10-26-qad"
+      },
+      "0xecdcf409afbe3351a60fab2710a16017540ded129aea9ca06824924c122af9db|Yes": {
+        "title": "Will Galatasaray SK win on 2026-10-26?",
+        "outcome": "Yes",
+        "value": 5436.6312,
+        "avgPrice": 0.7834,
+        "slug": "tur-gal-fen-2026-10-26-gal"
+      },
+      "0x4962e8dcc4ad6be7a0dd004101ceaf87b8b31e3bf32e854e19d28f2b4aee2463|No": {
+        "title": "Will Odense BK win on 2026-10-26?",
+        "outcome": "No",
+        "value": 5019.3172,
+        "avgPrice": 0.7368,
+        "slug": "den-kob-ode-2026-10-26-ode"
+      },
+      "0xecdcf409afbe3351a60fab2710a16017540ded129aea9ca06824924c122af9db|No": {
+        "title": "Will Galatasaray SK win on 2026-10-26?",
+        "outcome": "No",
+        "value": 4669.8549,
+        "avgPrice": 0.4525,
+        "slug": "tur-gal-fen-2026-10-26-gal"
+      },
+      "0x780f0e196bf4b680c1bf91a9eb43d868739798fb6f9884196d878e1232ba6058|Over": {
+        "title": "Al Ahli Saudi FC vs. Al Gharafa SC: O/U 2.5",
+        "outcome": "Over",
+        "value": 4379.6182,
+        "avgPrice": 0.5827,
+        "slug": "acle-aas-alg-2026-10-26-total-2pt5"
+      },
+      "0xabd274bd03f44861ed4df17f7eb3efccae36279371bd6b20e562094841e03dcc|Under": {
+        "title": "FC K\u00f8benhavn vs. Odense BK: 1st Half O/U 1.5",
+        "outcome": "Under",
+        "value": 4272.3515,
+        "avgPrice": 0.5772,
+        "slug": "den-kob-ode-2026-10-26-first-half-total-1pt5"
+      },
+      "0x62e5db8279bdc6cafa889e705dffe0ac2bee1576408eb9718e0a17bafa36105c|No": {
+        "title": "Exact Score: Paris Saint-Germain FC 1 - 0 Olympique Lyonnais?",
+        "outcome": "No",
+        "value": 4121.0312,
+        "avgPrice": 0.92,
+        "slug": "fl1-psg-lyo-2026-10-25-exact-score-1-0"
+      },
+      "0x992cab226322fe0df0b655d9dee447c81cd13433c2d7840b49220669dd136002|DENDELE CS": {
+        "title": "Map Handicap: G2 (-1.5) vs DENDELE CS (+1.5)",
+        "outcome": "DENDELE CS",
+        "value": 4041.9843,
+        "avgPrice": 0.6014,
+        "slug": "cs2-g2-dendel-2026-10-26-map-handicap-away-1pt5"
       },
       "0x3e4d20cb627ab0bcfab0e7fb48753765b3436dd121999befd2596572a6d2dc36|Yes": {
         "title": "Will Athletic Club win on 2026-10-10?",
@@ -332,33 +612,82 @@
         "avgPrice": 0.3789,
         "slug": "lal-ray-bil-2026-10-10-bil"
       },
-      "0x4da254a6cd0748f186b4de896f0b949e5072d2d00fa162e39d83fb5d93260bc1|No": {
-        "title": "Will Al-Ittihad Club win on 2026-10-26?",
+      "0xfc2ee5a6ee04563a9a7ec2bab43efb2680ba36a012bae1d0770710cfe692da78|No": {
+        "title": "Will Rams Ba\u015fak\u015fehir FK win on 2026-10-26?",
         "outcome": "No",
-        "value": 3131.089,
-        "avgPrice": 0.5419,
-        "slug": "acle-nef-itj-2026-10-26-itj"
+        "value": 3379.5047,
+        "avgPrice": 0.8965,
+        "slug": "tur-bes-iba-2026-10-26-iba"
+      },
+      "0xfa2365f37867df07abcd247651ca73eb8a15a07bc88a3540c173cb1acf4ce9ce|Under": {
+        "title": "Be\u015fikta\u015f JK vs. Rams Ba\u015fak\u015fehir FK: O/U 3.5",
+        "outcome": "Under",
+        "value": 3135.2782,
+        "avgPrice": 0.8593,
+        "slug": "tur-bes-iba-2026-10-26-total-3pt5"
+      },
+      "0xaefe476bd8d11b6bf305170d9894627cab6c341cf943faa4a48bb2cfd2bc7654|No": {
+        "title": "Exact Score: Galatasaray SK 1 - 3 Fenerbah\u00e7e SK?",
+        "outcome": "No",
+        "value": 3124.437,
+        "avgPrice": 0.9852,
+        "slug": "tur-gal-fen-2026-10-26-exact-score-1-3"
+      },
+      "0xec50fa14764e4c4bf027ab73f1e74c17486a23e2242a6627670cf4fee6e77c60|Over": {
+        "title": "\u00c7aykur Rizespor vs. Trabzonspor: O/U 6.5",
+        "outcome": "Over",
+        "value": 2997.8899,
+        "avgPrice": 0.0475,
+        "slug": "tur-riz-tra-2026-10-26-total-6pt5"
+      },
+      "0x769638290aa4256e0c8f47d82b066bb61303623149012e030486e4fc70c20507|Under": {
+        "title": "FC K\u00f8benhavn vs. Odense BK: O/U 2.5",
+        "outcome": "Under",
+        "value": 2995.1758,
+        "avgPrice": 0.5686,
+        "slug": "den-kob-ode-2026-10-26-total-2pt5"
+      },
+      "0x6f72ce87abf347f1fd7591ac76e402249614e49a7847513641feca99d5536a6a|No": {
+        "title": "Will Fenerbah\u00e7e SK win on 2026-10-26?",
+        "outcome": "No",
+        "value": 2824.7215,
+        "avgPrice": 0.9715,
+        "slug": "tur-gal-fen-2026-10-26-fen"
+      },
+      "0xaa51a4b9f51139d55784635f5e1d36d23308714a024baa40da46a7c0861b2cb1|Over": {
+        "title": "Galatasaray SK vs. Fenerbah\u00e7e SK: 1st Half O/U 1.5",
+        "outcome": "Over",
+        "value": 2758.7499,
+        "avgPrice": 0.2651,
+        "slug": "tur-gal-fen-2026-10-26-first-half-total-1pt5"
       },
       "0x018c51c3a0d4b0fc33dfdee4c32b3f480522bcbf075a022b0efbcab8b1998cb2|Yes": {
         "title": "Rayo Vallecano de Madrid leading at halftime?",
         "outcome": "Yes",
-        "value": 2732.7986,
+        "value": 2701.3872,
         "avgPrice": 0.2099,
         "slug": "lal-ray-bil-2026-10-10-halftime-result-home"
       },
-      "0xae85a598289a2cfff1baea1078ae1e8646d6cd947537c75eb838dd22f74c35c7|Arthur Fery": {
-        "title": "Erste Bank Open: Arthur Fery vs Jacob Fearnley",
-        "outcome": "Arthur Fery",
-        "value": 2325.0,
-        "avgPrice": 0.45,
-        "slug": "atp-fery-fearnle-2026-10-26"
+      "0x630843c78f9cd6a1385ba03390b2875861f58cb659e2fb853a1de06542e069da|Under": {
+        "title": "Be\u015fikta\u015f JK vs. Rams Ba\u015fak\u015fehir FK: O/U 2.5",
+        "outcome": "Under",
+        "value": 2458.5491,
+        "avgPrice": 0.8551,
+        "slug": "tur-bes-iba-2026-10-26-total-2pt5"
       },
-      "0x4b093664cfd7b2228fc217ac81a844d2f236fbb1681c480ae97aceef52fb366f|Over": {
-        "title": "Persebaya Surabaya vs. Madura United: O/U 2.5",
+      "0x9ca57196f79cb80cb556f6c7b3b773f26f600f9fa15e3b0fbbfce3bdb5371771|Over": {
+        "title": "Galatasaray SK vs. Fenerbah\u00e7e SK: O/U 2.5",
         "outcome": "Over",
-        "value": 2199.1122,
-        "avgPrice": 0.503,
-        "slug": "idn1-ps-mau-2026-10-26-total-2pt5"
+        "value": 2330.2957,
+        "avgPrice": 0.6056,
+        "slug": "tur-gal-fen-2026-10-26-total-2pt5"
+      },
+      "0x20736b570967ec2365bfaccce3eed63724a3048b04ce8f0c333974b179549c90|No": {
+        "title": "Will FC K\u00f8benhavn win on 2026-10-26?",
+        "outcome": "No",
+        "value": 2303.5121,
+        "avgPrice": 0.6095,
+        "slug": "den-kob-ode-2026-10-26-kob"
       },
       "0xc0dfdca45e0cd9977eccc5c1860e803c94db2a5d5c5f0af0d039c628711c3828|Under": {
         "title": "Rayo Vallecano de Madrid vs. Athletic Club: O/U 3.5",
@@ -370,37 +699,44 @@
       "0xa0996a2e100ea502040335bf116a5ce635fa214d25b8ecd6e8eeb0d1541575de|No": {
         "title": "Will Rayo Vallecano de Madrid win on 2026-10-10?",
         "outcome": "No",
-        "value": 2174.198,
+        "value": 2190.1847,
         "avgPrice": 0.6792,
         "slug": "lal-ray-bil-2026-10-10-ray"
       },
-      "0x4f55de04c20cb169b7595571548fce9b4194d2f78a4c3b72b3e0774bc966510e|Under": {
-        "title": "Bhayangkara Presisi Lampung FC vs. PSM Makassar: O/U 0.5",
+      "0xb77827f1514413f9935b5eaaa49bd0b1ec2b0624c7d100e3aa3c0818715b14d5|Under": {
+        "title": "Al Ahli Saudi FC vs. Al Gharafa SC: O/U 3.5",
         "outcome": "Under",
-        "value": 2161.5183,
-        "avgPrice": 0.6198,
-        "slug": "idn1-bpi-mak-2026-10-26-total-0pt5"
+        "value": 2116.9909,
+        "avgPrice": 0.6752,
+        "slug": "acle-aas-alg-2026-10-26-total-3pt5"
       },
-      "0xa7375b5835880d68d6c21aabfbbefb8bf9475266316c9239c4376743891e6b02|Over": {
-        "title": "FK Neftchi Fargona vs. Al-Ittihad Club: O/U 2.5",
+      "0x5ede026a3b54ee6f50d08d2985b8d8e0855ae9c480ee2d48e6b949175d983fd7|No": {
+        "title": "Will CD Santa Clara win on 2026-10-26?",
+        "outcome": "No",
+        "value": 2082.7249,
+        "avgPrice": 0.8814,
+        "slug": "por-cds-ben-2026-10-26-cds"
+      },
+      "0x3fff509faffa1cc28f426fbfa30354a39ee429628a80eef0a17f68c2868b1944|Over": {
+        "title": "Galatasaray SK vs. Fenerbah\u00e7e SK: O/U 3.5",
         "outcome": "Over",
-        "value": 2149.7186,
-        "avgPrice": 0.5449,
-        "slug": "acle-nef-itj-2026-10-26-total-2pt5"
+        "value": 2025.6389,
+        "avgPrice": 0.5038,
+        "slug": "tur-gal-fen-2026-10-26-total-3pt5"
       },
-      "0x8b7a921e9a97750b52a6bd6bfbe79847b9f82b68a1df10a3cf6d23bccbdc8c4c|Spirit": {
-        "title": "Counter-Strike: Spirit vs FURIA (BO3) - PGL Masters Bucharest Group Stage",
-        "outcome": "Spirit",
-        "value": 2080.6253,
-        "avgPrice": 0.6919,
-        "slug": "cs2-ts7-furia-2026-10-26"
+      "0x58c4fc86615525ce1da2d53f1a23467c9fcbcbbef4fc79640b350418fd489023|Jessica Pieri": {
+        "title": "Courmayeur: Jessica Pieri vs Elizara Yaneva",
+        "outcome": "Jessica Pieri",
+        "value": 1942.3811,
+        "avgPrice": 0.24,
+        "slug": "wta-pieri-yaneva-2026-10-26"
       },
-      "0xa54c879381ac29a0d6c2706b3655a443cdd971e9b5066b6c5a90eafdf9395faf|Moez Echargui": {
-        "title": "Brest: Moez Echargui vs Benjamin Hassan",
-        "outcome": "Moez Echargui",
-        "value": 1965.0656,
-        "avgPrice": 0.9669,
-        "slug": "atp-echargu-hassan-2026-10-26"
+      "0x891e1936068dee0806fa0def09b507faeb6bb608677f32680a61397677bca1d8|Yes": {
+        "title": "Will Stade de Reims win on 2026-10-26?",
+        "outcome": "Yes",
+        "value": 1875.0,
+        "avgPrice": 0.41,
+        "slug": "fr2-usb-rei-2026-10-26-rei"
       },
       "0x95abc56a0a7053a62e4b74d1d0e2705a09244557e971ea2c23c27611798fd015|Rayo Vallecano de Madrid": {
         "title": "Spread: Athletic Club (-1.5)",
@@ -412,16 +748,23 @@
       "0xea83da0f880872e5a9ac39ca5ea06f643871ec9dacf4306eabd56949da983df2|Over": {
         "title": "Rayo Vallecano de Madrid vs. Athletic Club: O/U 2.5",
         "outcome": "Over",
-        "value": 1764.9183,
+        "value": 1740.0603,
         "avgPrice": 0.3804,
         "slug": "lal-ray-bil-2026-10-10-total-2pt5"
       },
-      "0x8b7a921e9a97750b52a6bd6bfbe79847b9f82b68a1df10a3cf6d23bccbdc8c4c|FURIA": {
-        "title": "Counter-Strike: Spirit vs FURIA (BO3) - PGL Masters Bucharest Group Stage",
-        "outcome": "FURIA",
-        "value": 1726.5165,
-        "avgPrice": 0.3168,
-        "slug": "cs2-ts7-furia-2026-10-26"
+      "0xd153dfd91ed58a80d48990e7ae3f3f33c745231aca4f0ca350cfabdfde97071b|Benjamin Willwerth": {
+        "title": "Sioux Falls: Sebastian Dominko vs Benjamin Willwerth",
+        "outcome": "Benjamin Willwerth",
+        "value": 1725.0,
+        "avgPrice": 0.33,
+        "slug": "atp-dominko-willwer-2026-10-26"
+      },
+      "0xf40c3101fa51eec7ad5451b39585b743b324eebc84e574018189ba2ef4b4899a|Over": {
+        "title": "Paris Saint-Germain FC vs. Olympique Lyonnais: O/U 0.5",
+        "outcome": "Over",
+        "value": 1702.29,
+        "avgPrice": 0.962,
+        "slug": "fl1-psg-lyo-2026-10-25-total-0pt5"
       },
       "0x2cddca6f004aaecf57433d7f3194dee41189012c5a6e205e3177727415423aa0|Under": {
         "title": "Rayo Vallecano de Madrid vs. Athletic Club: O/U 5.5",
@@ -430,12 +773,47 @@
         "avgPrice": 0.957,
         "slug": "lal-ray-bil-2026-10-10-total-5pt5"
       },
-      "0x242e0c10850405b62a8dcc26eee411bb562f54acfaab0ad2036eca7d0913a744|Spirit": {
-        "title": "Map Handicap: TS (-1.5) vs FURIA (+1.5)",
-        "outcome": "Spirit",
-        "value": 1563.2705,
-        "avgPrice": 0.3799,
-        "slug": "cs2-ts7-furia-2026-10-26-map-handicap-away-1pt5"
+      "0x46ac3c53d9dc2a0a0200e37a7a09731b368f074ef7c8018bfe2e02df33deae9e|Yes": {
+        "title": "Will Trabzonspor win on 2026-10-26?",
+        "outcome": "Yes",
+        "value": 1671.4938,
+        "avgPrice": 0.2327,
+        "slug": "tur-riz-tra-2026-10-26-tra"
+      },
+      "0x1e65349b61e1c21833d1de120188a06b4798e38f9d60377dfcd9828bc132d17c|Over": {
+        "title": "Paris Saint-Germain FC vs. Olympique Lyonnais: O/U 2.5",
+        "outcome": "Over",
+        "value": 1661.7014,
+        "avgPrice": 0.71,
+        "slug": "fl1-psg-lyo-2026-10-25-total-2pt5"
+      },
+      "0xc9ff1a57ef8d19dada1c47e76f654483ab1d3c1d301d57634154e22065f88c07|Over": {
+        "title": "Al Qadsiah vs. Al Sadd SC: O/U 0.5",
+        "outcome": "Over",
+        "value": 1612.4284,
+        "avgPrice": 0.6741,
+        "slug": "acle-qad-sad-2026-10-26-total-0pt5"
+      },
+      "0x955cc75f86cfef19c0b102e34579e924abbbe626fc0db7d65261a70af3edf91a|No": {
+        "title": "Exact Score: CD Santa Clara 0 - 1 Sport Lisboa e Benfica?",
+        "outcome": "No",
+        "value": 1594.7022,
+        "avgPrice": 0.8443,
+        "slug": "por-cds-ben-2026-10-26-exact-score-0-1"
+      },
+      "0x1520262408f5b65dc736835b33353cb693e612cac370067f7f67b6c8043429a9|Over": {
+        "title": "Paris Saint-Germain FC vs. Olympique Lyonnais: 1st Half O/U 0.5",
+        "outcome": "Over",
+        "value": 1586.0,
+        "avgPrice": 0.69,
+        "slug": "fl1-psg-lyo-2026-10-25-first-half-total-0pt5"
+      },
+      "0x5d7fd1fe5e2034f245a87c54c0a69160b9530208692b43f9592597f0ca489223|No": {
+        "title": "Will Be\u015fikta\u015f JK vs. Rams Ba\u015fak\u015fehir FK end in a draw?",
+        "outcome": "No",
+        "value": 1570.2145,
+        "avgPrice": 0.82,
+        "slug": "tur-bes-iba-2026-10-26-draw"
       },
       "0x210ef3ee277c5b3b2648c847ba05748cfacaf7c1fdb64d6bdb92f09e282e3cd1|No": {
         "title": "Will Boluspor win on 2026-10-14?",
@@ -451,19 +829,33 @@
         "avgPrice": 0.645,
         "slug": "lal-ray-bil-2026-10-10-total-1pt5"
       },
-      "0xda0c1c216d7f296bfafbdb73f6bdfa76153638c5c07adeda0ec20b6526d57da5|Yes": {
-        "title": "Will Persebaya Surabaya win on 2026-10-26?",
-        "outcome": "Yes",
-        "value": 1489.5448,
-        "avgPrice": 0.5853,
-        "slug": "idn1-ps-mau-2026-10-26-ps"
+      "0x9ae5b2f5a26301730d3c90f06ebdba98587ac779f44770ba16e859983d2c1887|No": {
+        "title": "Will \u00c7aykur Rizespor vs. Trabzonspor end in a draw?",
+        "outcome": "No",
+        "value": 1442.6982,
+        "avgPrice": 0.83,
+        "slug": "tur-riz-tra-2026-10-26-draw"
       },
-      "0x5cc46cc3f19edbac79acd38b3cba29ba01868697683537b7189925e5d52f55bb|Over": {
-        "title": "FK Neftchi Fargona vs. Al-Ittihad Club: O/U 3.5",
-        "outcome": "Over",
-        "value": 1320.041,
-        "avgPrice": 0.48,
-        "slug": "acle-nef-itj-2026-10-26-total-3pt5"
+      "0x13bbde866cddf2150c51e8b6137884e14fc98999270c08228e6b871af37d2cfa|Yes": {
+        "title": "\u00c7aykur Rizespor vs. Trabzonspor: Both Teams to Score",
+        "outcome": "Yes",
+        "value": 1414.2925,
+        "avgPrice": 0.77,
+        "slug": "tur-riz-tra-2026-10-26-btts"
+      },
+      "0xd2c3cf9435ce508ab0627519529a559f642cbcdeaa2fa4084eb2b0c56967cd7f|No": {
+        "title": "Will Sepsi OSK win on 2026-10-25?",
+        "outcome": "No",
+        "value": 1306.2101,
+        "avgPrice": 0.986,
+        "slug": "rou1-sep-ucc-2026-10-25-sep"
+      },
+      "0x6cf973953a22290b6117894c86478655adc90bf97d714d3625f61984476461f8|No": {
+        "title": "Will Al Gharafa SC win on 2026-10-26?",
+        "outcome": "No",
+        "value": 1279.3169,
+        "avgPrice": 0.9766,
+        "slug": "acle-aas-alg-2026-10-26-alg"
       },
       "0xd2c63ff48b004b1b4ff8b7da99945157018fb84a8845970290355ee746f57a5c|Under": {
         "title": "Rayo Vallecano de Madrid vs. Athletic Club: 1st Half O/U 1.5",
@@ -472,47 +864,145 @@
         "avgPrice": 0.75,
         "slug": "lal-ray-bil-2026-10-10-first-half-total-1pt5"
       },
+      "0xdf22815c004fde6ba4a3a8e596e60c9e57e3646c50edc3d0ac26ef6bedd152c6|Over": {
+        "title": "Al Ahli Saudi FC vs. Al Gharafa SC: O/U 1.5",
+        "outcome": "Over",
+        "value": 1220.3895,
+        "avgPrice": 0.96,
+        "slug": "acle-aas-alg-2026-10-26-total-1pt5"
+      },
       "0x2bdd8ef81b99411215059306f9c01c1ed913717affcaa1f7bea7c7bc66f0e445|Under": {
         "title": "Al Qadsiah vs. Al Sadd SC: O/U 6.5",
         "outcome": "Under",
-        "value": 1126.9,
-        "avgPrice": 0.97,
+        "value": 1202.8395,
+        "avgPrice": 0.9689,
         "slug": "acle-qad-sad-2026-10-26-total-6pt5"
       },
-      "0xdb3d77e5a0eeed998c449c06198ced8c180a039304b9efd2b328c6926e206326|Under": {
-        "title": "Persebaya Surabaya vs. Madura United: 1st Half O/U 1.5",
-        "outcome": "Under",
-        "value": 1079.46,
-        "avgPrice": 0.6,
-        "slug": "idn1-ps-mau-2026-10-26-first-half-total-1pt5"
+      "0x9e2ac25d94c115a3dff6b8d55f4cddd5e8b75ca53e873c08418e85647efcd3c6|Over": {
+        "title": "Maccabi Haifa FC vs. Hapoel Be`er Sheva FC: O/U 2.5",
+        "outcome": "Over",
+        "value": 1196.4436,
+        "avgPrice": 0.4586,
+        "slug": "isr-mah-hbs-2026-10-26-total-2pt5"
       },
-      "0xc4a430b8a7403846189ed2623e1d5c3db871c5a8d616816fec0e71ac93612b26|Mariano Navone": {
-        "title": "Swiss Indoors Basel: Valentin Vacherot vs Mariano Navone",
-        "outcome": "Mariano Navone",
-        "value": 1009.1749,
-        "avgPrice": 0.1431,
-        "slug": "atp-vachero-navone-2026-10-27"
+      "0x93a8510aad56aa2a4af5a7e89f091dc5db39e768d10953539034f9969bd12e78|Yes": {
+        "title": "Will Sport Lisboa e Benfica win on 2026-10-26?",
+        "outcome": "Yes",
+        "value": 1193.5751,
+        "avgPrice": 0.7096,
+        "slug": "por-cds-ben-2026-10-26-ben"
+      },
+      "0x4c2357b59b002bd21de75c88178553a95d575b2afb503bc36822157b788e8ead|Andrew Fenty": {
+        "title": "Sioux Falls: Timo Legout vs Andrew Fenty",
+        "outcome": "Andrew Fenty",
+        "value": 1138.725,
+        "avgPrice": 0.39,
+        "slug": "atp-legout-fenty-2026-10-26"
+      },
+      "0xf7024188f31b8f682e1755e253ace77ef2ae3d1a6546f88958473e13d64f108a|Paris Saint-Germain FC": {
+        "title": "Spread: Paris Saint-Germain FC (-1.5)",
+        "outcome": "Paris Saint-Germain FC",
+        "value": 1134.5789,
+        "avgPrice": 0.5,
+        "slug": "fl1-psg-lyo-2026-10-25-spread-home-1pt5"
+      },
+      "0x1b6cfeb8013a2283d431067738fa29ed9a76137c4ee2bbcc7826b15ab65079cb|No": {
+        "title": "Fenerbah\u00e7e SK leading at halftime?",
+        "outcome": "No",
+        "value": 999.5,
+        "avgPrice": 0.75,
+        "slug": "tur-gal-fen-2026-10-26-halftime-result-away"
       },
       "0xc482402c65935c66d26b3322f0000d01320f01d1bd76394c86892c8d977c3a1f|Under": {
         "title": "Rayo Vallecano de Madrid vs. Athletic Club: O/U 0.5",
         "outcome": "Under",
-        "value": 986.91,
+        "value": 972.18,
         "avgPrice": 0.11,
         "slug": "lal-ray-bil-2026-10-10-total-0pt5"
       },
-      "0xb6f9b64e4f93ed6bf7ed0f9e729c4e3a9a2536fdaf8e5d4dd9bc001dd950a145|No": {
-        "title": "Will Xorazm Fk Urganch win on 2026-10-26?",
+      "0x86c234865bfcea494f32d00c58353accf3d6bfa8af5467c3105d570a9bfd4554|No": {
+        "title": "Exact Score: Be\u015fikta\u015f JK 0 - 0 Rams Ba\u015fak\u015fehir FK?",
         "outcome": "No",
-        "value": 831.334,
-        "avgPrice": 0.95,
-        "slug": "uzb1-xor-nav-2026-10-26-xor"
+        "value": 950.5245,
+        "avgPrice": 0.9407,
+        "slug": "tur-bes-iba-2026-10-26-exact-score-0-0"
       },
-      "0x1730c2a746934cddd6c35a2bdbeaeb69b99fe43181421c1193664c2486813065|Under": {
-        "title": "CD Santa Clara vs. Sport Lisboa e Benfica: O/U 1.5",
+      "0x3da8b800571125d189d3280d224d77dd1caf9fe04bd98b758d8a6ad1ffab137a|No": {
+        "title": "Will FC Andorra win on 2026-10-26?",
+        "outcome": "No",
+        "value": 940.9386,
+        "avgPrice": 0.55,
+        "slug": "es2-and-bur-2026-10-26-and"
+      },
+      "0x94def0ffd89805072edd55247b14e5e43482647367220455ee33e64d3242b65d|Cavaliers": {
+        "title": "Spread: Cavaliers (-4.5)",
+        "outcome": "Cavaliers",
+        "value": 883.75,
+        "avgPrice": 0.5014,
+        "slug": "nba-min-cle-2026-10-26-spread-home-4pt5"
+      },
+      "0xe59bef319d2d5324621eb5d225b0437e3457ddcac91e284d1d0fc7072e9660db|No": {
+        "title": "Will Paris Saint-Germain FC win on 2026-10-25?",
+        "outcome": "No",
+        "value": 881.5256,
+        "avgPrice": 0.2849,
+        "slug": "fl1-psg-lyo-2026-10-25-psg"
+      },
+      "0xc4d9b9fae8e834b801118d654b379718231a3b2a1a5b05ff058c7b70ca495170|Tomasz Berkieta": {
+        "title": "Sioux Falls: Spencer Johnson vs Tomasz Berkieta",
+        "outcome": "Tomasz Berkieta",
+        "value": 877.9683,
+        "avgPrice": 0.2612,
+        "slug": "atp-johnso-berkiet-2026-10-26"
+      },
+      "0x446ddec9e9235f6c8080edc7dfe5b9d8194de1e8e1e3ac443845c7a1e9d5610e|Over": {
+        "title": "FC K\u00f8benhavn vs. Odense BK: O/U 1.5",
+        "outcome": "Over",
+        "value": 870.7843,
+        "avgPrice": 0.5923,
+        "slug": "den-kob-ode-2026-10-26-total-1pt5"
+      },
+      "0x3c67418ad637a92cd7fea85671d2e870591d4d0df3b0b86b7524b998410e24b9|Yes": {
+        "title": "Will FC K\u00f8benhavn vs. Odense BK end in a draw?",
+        "outcome": "Yes",
+        "value": 797.8846,
+        "avgPrice": 0.7868,
+        "slug": "den-kob-ode-2026-10-26-draw"
+      },
+      "0x04e9e58d95ff7c61ed4eb920024914f75b9a3311311dc8ca7013f906cdd69192|Tampa Bay Rays": {
+        "title": "Spread: Milwaukee Brewers (-2.5)",
+        "outcome": "Tampa Bay Rays",
+        "value": 774.4269,
+        "avgPrice": 0.73,
+        "slug": "mlb-mil-tb-2026-10-26-spread-away-2pt5"
+      },
+      "0xebd834aeb0656700d928cc3590d61fd4d8320efdc1e9930a9caffe91a09da3ac|No": {
+        "title": "Exact Score: Al Ahli Saudi FC 1 - 3 Al Gharafa SC?",
+        "outcome": "No",
+        "value": 769.615,
+        "avgPrice": 0.994,
+        "slug": "acle-aas-alg-2026-10-26-exact-score-1-3"
+      },
+      "0x7d1efe0009a9da932d4b11e66cf1d5f6d54a78c0be19766722f117cf4cccfe96|Under": {
+        "title": "Paris Saint-Germain FC vs. Olympique Lyonnais: O/U 1.5",
         "outcome": "Under",
-        "value": 796.202,
-        "avgPrice": 0.19,
-        "slug": "por-cds-ben-2026-10-26-total-1pt5"
+        "value": 765.2829,
+        "avgPrice": 0.1993,
+        "slug": "fl1-psg-lyo-2026-10-25-total-1pt5"
+      },
+      "0x08b5c42d5cca3b83ac1c041ba696b2da37bef3e1b5d4746a78afb963b370bec0|Under": {
+        "title": "Be\u015fikta\u015f JK vs. Rams Ba\u015fak\u015fehir FK: 1st Half O/U 0.5",
+        "outcome": "Under",
+        "value": 756.3998,
+        "avgPrice": 0.5067,
+        "slug": "tur-bes-iba-2026-10-26-first-half-total-0pt5"
+      },
+      "0xe37dd76f16d16fa409e8c77110fa97e7f58606399350b7d2a48927eb7643086b|No": {
+        "title": "Exact Score: Galatasaray SK 2 - 3 Fenerbah\u00e7e SK?",
+        "outcome": "No",
+        "value": 751.3625,
+        "avgPrice": 0.992,
+        "slug": "tur-gal-fen-2026-10-26-exact-score-2-3"
       },
       "0xc0dfdca45e0cd9977eccc5c1860e803c94db2a5d5c5f0af0d039c628711c3828|Over": {
         "title": "Rayo Vallecano de Madrid vs. Athletic Club: O/U 3.5",
@@ -521,19 +1011,12 @@
         "avgPrice": 0.1711,
         "slug": "lal-ray-bil-2026-10-10-total-3pt5"
       },
-      "0xbbae023c466e03c1a4e9948164a598cde649dbe8d77e428cca2545b5a6b9e7c0|No": {
-        "title": "Exact Score: Persebaya Surabaya 2 - 1 Madura United?",
-        "outcome": "No",
-        "value": 733.633,
-        "avgPrice": 0.66,
-        "slug": "idn1-ps-mau-2026-10-26-exact-score-2-1"
-      },
-      "0x6e84ff947f617d58e70f111ac1e05ee41761f86441753227e6dbc3f39e0d1c81|FURIA": {
-        "title": "Counter-Strike: Spirit vs FURIA - Map 2 Winner",
-        "outcome": "FURIA",
-        "value": 710.5629,
-        "avgPrice": 0.3234,
-        "slug": "cs2-ts7-furia-2026-10-26-game2"
+      "0x4ab067d94a24830d72391b323bfa860d48c9fadf08440a0dc1653b6a88d60d95|Over": {
+        "title": "Al Quwa Al Jawiya vs. Pakhtakor: O/U 1.5",
+        "outcome": "Over",
+        "value": 685.0802,
+        "avgPrice": 0.45,
+        "slug": "acle-quw-pak-2026-10-26-total-1pt5"
       },
       "0x167dee4fcf65b41354dcf32b9361bd1ac1a5c0f784e13085071b6e28ce338646|Over": {
         "title": "Umraniyespor vs. Boluspor: O/U 2.5",
@@ -542,19 +1025,40 @@
         "avgPrice": 0.5789,
         "slug": "tur2-umr-bol-2026-10-14-total-2pt5"
       },
-      "0x17e0e3e7609bbfe4af1c98195a2e7c34952dc472292382e7afb5cfee66c484a8|Under": {
-        "title": "Games Total: O/U 2.5",
-        "outcome": "Under",
-        "value": 656.2453,
-        "avgPrice": 0.4722,
-        "slug": "cs2-ts7-furia-2026-10-26-total-games-2pt5"
+      "0x94def0ffd89805072edd55247b14e5e43482647367220455ee33e64d3242b65d|Timberwolves": {
+        "title": "Spread: Cavaliers (-4.5)",
+        "outcome": "Timberwolves",
+        "value": 667.7797,
+        "avgPrice": 0.5037,
+        "slug": "nba-min-cle-2026-10-26-spread-home-4pt5"
       },
-      "0xc73627d83f2ce9cef1aa5642ec274e666341eca47e78e642d719078f912c3e47|No": {
-        "title": "Rayo Vallecano de Madrid vs. Athletic Club: Draw at halftime?",
-        "outcome": "No",
-        "value": 640.7948,
-        "avgPrice": 0.4502,
-        "slug": "lal-ray-bil-2026-10-10-halftime-result-draw"
+      "0xbc8f782ae774643ace50f340bddefbc2d5ea130e50f072cc3abb86139280f6be|Timberwolves": {
+        "title": "Spread: Cavaliers (-5.5)",
+        "outcome": "Timberwolves",
+        "value": 658.0821,
+        "avgPrice": 0.5404,
+        "slug": "nba-min-cle-2026-10-26-spread-home-5pt5"
+      },
+      "0xe4f79ea1bd4cb473a7a02156880152e26024c648419c42dbcafbbe30215ce0b3|Under": {
+        "title": "CD Santa Clara vs. Sport Lisboa e Benfica: O/U 2.5",
+        "outcome": "Under",
+        "value": 649.4388,
+        "avgPrice": 0.3319,
+        "slug": "por-cds-ben-2026-10-26-total-2pt5"
+      },
+      "0x50717c0d729bf3e36ec548b8204b0f75a4f2d04abf39ea4e0233aee1fa391433|Over": {
+        "title": "CD Santa Clara vs. Sport Lisboa e Benfica: O/U 4.5",
+        "outcome": "Over",
+        "value": 642.4494,
+        "avgPrice": 0.18,
+        "slug": "por-cds-ben-2026-10-26-total-4pt5"
+      },
+      "0xa02f438a1783b82cc7440615d8e29886554ea79cac692e0f77592201b7a45042|Cavaliers": {
+        "title": "Spread: Cavaliers (-2.5)",
+        "outcome": "Cavaliers",
+        "value": 574.9759,
+        "avgPrice": 0.5675,
+        "slug": "nba-min-cle-2026-10-26-spread-home-2pt5"
       },
       "0xfb4f43c5928fc8c68bed1a114798afe2cca4b2b55694d0add490cf2a589c5787|Under": {
         "title": "Rayo Vallecano de Madrid vs. Athletic Club: O/U 1.5",
@@ -563,63 +1067,147 @@
         "avgPrice": 0.36,
         "slug": "lal-ray-bil-2026-10-10-total-1pt5"
       },
-      "0x94def0ffd89805072edd55247b14e5e43482647367220455ee33e64d3242b65d|Timberwolves": {
-        "title": "Spread: Cavaliers (-4.5)",
-        "outcome": "Timberwolves",
-        "value": 566.0107,
-        "avgPrice": 0.5136,
-        "slug": "nba-min-cle-2026-10-26-spread-home-4pt5"
+      "0x4ea4e05bbababf0c746ba08b1ab5fc14aa5818282d0d476deb426f9a699c3615|No": {
+        "title": "Will NK Istra 1961 win on 2026-10-26?",
+        "outcome": "No",
+        "value": 532.2885,
+        "avgPrice": 0.9261,
+        "slug": "hr1-ist-haj-2026-10-26-ist"
+      },
+      "0x1730c2a746934cddd6c35a2bdbeaeb69b99fe43181421c1193664c2486813065|Under": {
+        "title": "CD Santa Clara vs. Sport Lisboa e Benfica: O/U 1.5",
+        "outcome": "Under",
+        "value": 522.9942,
+        "avgPrice": 0.1887,
+        "slug": "por-cds-ben-2026-10-26-total-1pt5"
+      },
+      "0xda344e1ed9eda0eb00095de21e3694ddea087769bc5c30d448d88241b9d23009|Cavaliers": {
+        "title": "Spread: Cavaliers (-3.5)",
+        "outcome": "Cavaliers",
+        "value": 516.0199,
+        "avgPrice": 0.5273,
+        "slug": "nba-min-cle-2026-10-26-spread-home-3pt5"
+      },
+      "0xc73627d83f2ce9cef1aa5642ec274e666341eca47e78e642d719078f912c3e47|No": {
+        "title": "Rayo Vallecano de Madrid vs. Athletic Club: Draw at halftime?",
+        "outcome": "No",
+        "value": 513.653,
+        "avgPrice": 0.4502,
+        "slug": "lal-ray-bil-2026-10-10-halftime-result-draw"
+      },
+      "0x103466bf616ea8367554ee63b5e968b9796fc6b33da08863db234201fec40f6c|Luca Van Assche": {
+        "title": "Erste Bank Open: Luca Van Assche vs Learner Tien",
+        "outcome": "Luca Van Assche",
+        "value": 510.5999,
+        "avgPrice": 0.24,
+        "slug": "atp-assche-tien-2026-10-27"
+      },
+      "0x1652e62f8f685a4f09a057af0138d0dc8eb0043e74865d90ee9fd4f616e7e019|No": {
+        "title": "Will CD Santa Clara vs. Sport Lisboa e Benfica end in a draw?",
+        "outcome": "No",
+        "value": 507.35,
+        "avgPrice": 0.8,
+        "slug": "por-cds-ben-2026-10-26-draw"
+      },
+      "0xbd4fe2aba0cf9da148f4df8d3e2429e8e82078e3c425ffba7e0ec43757b429f1|Over": {
+        "title": "Al Quwa Al Jawiya vs. Pakhtakor: O/U 2.5",
+        "outcome": "Over",
+        "value": 505.0625,
+        "avgPrice": 0.1521,
+        "slug": "acle-quw-pak-2026-10-26-total-2pt5"
       }
     },
     "#3 2C": {
       "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37|No": {
         "title": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
         "outcome": "No",
-        "value": 140848.21,
+        "value": 137067.05,
         "avgPrice": 0.72,
         "slug": "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel"
       },
       "0xcb9c2e0c83ff1f14f9fb9a21195008c37a46dad712a5b61ea370a8a64d605c76|No": {
         "title": "Will Jeremiah Smith win the 2026 Heisman Trophy?",
         "outcome": "No",
-        "value": 84273.3264,
+        "value": 85764.8897,
         "avgPrice": 0.3999,
         "slug": "will-jeremiah-smith-win-the-2026-heisman-trophy-20260731185756307"
       },
       "0xf137b480d9969c45716c067f5702503fce14fda10caa5f0b28919eb6543d9393|No": {
         "title": "Will Dallas Cowboys win the 2026 NFC East?",
         "outcome": "No",
-        "value": 71760.3437,
+        "value": 72334.4265,
         "avgPrice": 0.5099,
         "slug": "will-dallas-cowboys-win-the-2026-nfc-east"
+      },
+      "0x6f22d2b7c295f187d30322064615f212f2f86f558c5193823c3c3931b4f1d1d7|LOS": {
+        "title": "LoL: LOS vs Team Secret Whales - Game 1 Winner",
+        "outcome": "LOS",
+        "value": 49975.0,
+        "avgPrice": 0.33,
+        "slug": "lol-los-tsw-2026-10-26-game1"
+      },
+      "0xfc0fb3cea958a81d95566b09e5769cd9992efd31f497860705342f2810ffe71a|Team Secret Whales": {
+        "title": "LoL: LOS vs Team Secret Whales (BO3) - Worlds Group Stage",
+        "outcome": "Team Secret Whales",
+        "value": 23371.0334,
+        "avgPrice": 0.6625,
+        "slug": "lol-los-tsw-2026-10-26"
+      },
+      "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a|No": {
+        "title": "Will Harry Kane win the 2026 Ballon d'Or?",
+        "outcome": "No",
+        "value": 23082.5024,
+        "avgPrice": 0.26,
+        "slug": "will-harry-kane-win-the-2026-ballon-dor"
       },
       "0x2745c38ff0617cb345c1d2df19b4f74ea777508e07411e88eeb6ab3affcda2a2|No": {
         "title": "Will Bitcoin dip to $35,000 by December 31, 2026?",
         "outcome": "No",
-        "value": 19425.8516,
+        "value": 19445.8474,
         "avgPrice": 0.8499,
         "slug": "will-bitcoin-dip-to-35000-by-december-31-2026-744-877-748-219-467-465-646-211-122-947-537-552-555-361-972-954-635-887-657-996-643"
       },
       "0x98c266979031b3ee6c87ea5b8b671be0e242e13f9be4c123ff2c21ef46ff62c3|No": {
         "title": "Will Gen.G win Worlds 2026?",
         "outcome": "No",
-        "value": 16232.1652,
+        "value": 15550.1415,
         "avgPrice": 0.66,
         "slug": "will-genptg-win-worlds-2026"
       },
       "0xc288967f4bee42292b3c1516fe640c19d7805f8ed949bfcabf989b0eb5e70554|No": {
         "title": "Will Bilibili Gaming win Worlds 2026?",
         "outcome": "No",
-        "value": 14212.3494,
+        "value": 14053.5522,
         "avgPrice": 0.8299,
         "slug": "will-bilibili-gaming-win-worlds-2026"
+      },
+      "0x1f54b58352f8a79234c8e964adcb1c5eae32b8532b068b3868a69ce63136a139|No": {
+        "title": "Will Paris Saint-Germain FC vs. Olympique Lyonnais end in a draw?",
+        "outcome": "No",
+        "value": 9972.0466,
+        "avgPrice": 0.8399,
+        "slug": "fl1-psg-lyo-2026-10-25-draw"
+      },
+      "0x429326ce2ed4ed916deb3aa0f68ac8d7af4a70ea988657aa98b5dcddd0fefc72|DENDELE CS": {
+        "title": "Counter-Strike: G2 vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage",
+        "outcome": "DENDELE CS",
+        "value": 9604.9851,
+        "avgPrice": 0.6199,
+        "slug": "cs2-g2-dendel-2026-10-26"
       },
       "0xe96dbaceb816e80063bec945a76ac915cba4341bdf1ef704f722bfc9054aad09|Yes": {
         "title": "Will Anthropic have the highest IPO Market Cap 2026?",
         "outcome": "Yes",
-        "value": 7827.2222,
+        "value": 6473.224,
         "avgPrice": 0.4799,
         "slug": "will-anthropic-have-the-highest-ipo-market-cap-2026-673"
+      },
+      "0x52a8b97d1178edab22237eb56cbcd93773209b4b51c56393ee0270dcd32bb9cc|No": {
+        "title": "Will Galatasaray SK vs. Fenerbah\u00e7e SK end in a draw?",
+        "outcome": "No",
+        "value": 6380.5417,
+        "avgPrice": 0.7399,
+        "slug": "tur-gal-fen-2026-10-26-draw"
       },
       "0x3e4d20cb627ab0bcfab0e7fb48753765b3436dd121999befd2596572a6d2dc36|Yes": {
         "title": "Will Athletic Club win on 2026-10-10?",
@@ -631,9 +1219,16 @@
       "0xf44cf137562b90cf6205e0b81a03aa63001c491e4d8f04c0098bfb9233f9d04f|No": {
         "title": "Will Philadelphia 76ers win the 2027 NBA Finals?",
         "outcome": "No",
-        "value": 4575.8798,
+        "value": 4622.283,
         "avgPrice": 0.8604,
         "slug": "will-philadelphia-76ers-win-the-2027-nba-finals"
+      },
+      "0xf40c3101fa51eec7ad5451b39585b743b324eebc84e574018189ba2ef4b4899a|Under": {
+        "title": "Paris Saint-Germain FC vs. Olympique Lyonnais: O/U 0.5",
+        "outcome": "Under",
+        "value": 3028.5606,
+        "avgPrice": 0.0469,
+        "slug": "fl1-psg-lyo-2026-10-25-total-0pt5"
       },
       "0xe326d1abf5fb59b82ecfdff3348e75f90561eace327ba1bdc8d38d045ddbe775|No": {
         "title": "Will Bitcoin dip to $25,000 by December 31, 2026?",
@@ -641,6 +1236,34 @@
         "value": 2933.9908,
         "avgPrice": 0.92,
         "slug": "will-bitcoin-dip-to-25000-by-december-31-2026-948-243-253-666-115-787-981-282-573-719-186-417-762-754-486-851-278-145-417-178-244"
+      },
+      "0x933a46875ed1d7c77dc6cd97b831606b33c636a87632bc0cc94a0716d5184c2a|CD Santa Clara": {
+        "title": "Spread: CD Santa Clara (-1.5)",
+        "outcome": "CD Santa Clara",
+        "value": 1611.0702,
+        "avgPrice": 0.025,
+        "slug": "por-cds-ben-2026-10-26-spread-home-1pt5"
+      },
+      "0x805b0872d02b155b3f5118441ebb30f00ec5854f1e5cf842bcf8c4f93f72165d|Cavaliers": {
+        "title": "Timberwolves vs. Cavaliers",
+        "outcome": "Cavaliers",
+        "value": 1154.9515,
+        "avgPrice": 0.61,
+        "slug": "nba-min-cle-2026-10-26"
+      },
+      "0x4962e8dcc4ad6be7a0dd004101ceaf87b8b31e3bf32e854e19d28f2b4aee2463|No": {
+        "title": "Will Odense BK win on 2026-10-26?",
+        "outcome": "No",
+        "value": 735.57,
+        "avgPrice": 0.5,
+        "slug": "den-kob-ode-2026-10-26-ode"
+      },
+      "0xfc0fb3cea958a81d95566b09e5769cd9992efd31f497860705342f2810ffe71a|LOS": {
+        "title": "LoL: LOS vs Team Secret Whales (BO3) - Worlds Group Stage",
+        "outcome": "LOS",
+        "value": 524.4319,
+        "avgPrice": 0.61,
+        "slug": "lol-los-tsw-2026-10-26"
       }
     },
     "#4 SwissTony": {},
@@ -648,8 +1271,8 @@
       "0x805b0872d02b155b3f5118441ebb30f00ec5854f1e5cf842bcf8c4f93f72165d|Cavaliers": {
         "title": "Timberwolves vs. Cavaliers",
         "outcome": "Cavaliers",
-        "value": 26330.2122,
-        "avgPrice": 0.5999,
+        "value": 54727.691,
+        "avgPrice": 0.6125,
         "slug": "nba-min-cle-2026-10-26"
       },
       "0xf39e1772d186637753895adb2346e8772c0a3a1b86136080de9e0ce6e8aef86b|Eagles": {
@@ -659,33 +1282,264 @@
         "avgPrice": 0.7059,
         "slug": "nfl-dal-phi-2026-10-27-spread-away-10pt5"
       },
-      "0x9395644c0bf6d9e17f3cede991974e89908ed81bc717166ddef3d1c2a810fe1f|Celtics": {
-        "title": "Spread: Celtics (-13.5)",
-        "outcome": "Celtics",
-        "value": 8295.3009,
-        "avgPrice": 0.5134,
-        "slug": "nba-chi-bos-2026-10-26-spread-home-13pt5"
-      },
       "0x805b0872d02b155b3f5118441ebb30f00ec5854f1e5cf842bcf8c4f93f72165d|Timberwolves": {
         "title": "Timberwolves vs. Cavaliers",
         "outcome": "Timberwolves",
-        "value": 8275.9652,
-        "avgPrice": 0.3943,
+        "value": 18651.306,
+        "avgPrice": 0.3761,
         "slug": "nba-min-cle-2026-10-26"
+      },
+      "0xc8db30dc65ee15777af031f125a92649160b014f56b42c03fe4eff8820c3af5f|Wizards": {
+        "title": "Spread: Hornets (-2.5)",
+        "outcome": "Wizards",
+        "value": 18448.5788,
+        "avgPrice": 0.4864,
+        "slug": "nba-was-cha-2026-10-26-spread-home-2pt5"
+      },
+      "0x783c29afb8dbe0157a4cd3ed43a69cc5e848e566736dc602b8fc414b19af384a|Suns": {
+        "title": "Spread: Thunder (-8.5)",
+        "outcome": "Suns",
+        "value": 16336.945,
+        "avgPrice": 0.4899,
+        "slug": "nba-phx-okc-2026-10-26-spread-home-8pt5"
+      },
+      "0x9118a595cbc0ce7e058878581986de79992d90cbb9f0a846a73c6447518c93ae|Thunder": {
+        "title": "Suns vs. Thunder",
+        "outcome": "Thunder",
+        "value": 15793.4747,
+        "avgPrice": 0.7652,
+        "slug": "nba-phx-okc-2026-10-26"
+      },
+      "0x8390b1a3b47101f7e3b83370b3b7a4666eec199eef5cc58d33520f7dec2195a3|Pacers": {
+        "title": "Spread: Pacers (-4.5)",
+        "outcome": "Pacers",
+        "value": 14791.0889,
+        "avgPrice": 0.49,
+        "slug": "nba-ind-mil-2026-10-26-spread-away-4pt5"
+      },
+      "0x83fa7a1a2a281cbfd3c730e0e30e89cd5876c4118e883a2e58a25af15f0976ba|Hawks": {
+        "title": "Spread: Rockets (-5.5)",
+        "outcome": "Hawks",
+        "value": 13593.4312,
+        "avgPrice": 0.5299,
+        "slug": "nba-atl-hou-2026-10-26-spread-home-5pt5"
+      },
+      "0x05c58093abe70b2cfb524571acbf923ed61f930ad3bf03fa60f18b55dc5f3de6|Wizards": {
+        "title": "Spread: Hornets (-1.5)",
+        "outcome": "Wizards",
+        "value": 13197.0861,
+        "avgPrice": 0.4519,
+        "slug": "nba-was-cha-2026-10-26-spread-home-1pt5"
+      },
+      "0xb4f418a7adc2356eee252b0206f8cf2febaa1a34db34dfb96c58098340a4e603|Heat": {
+        "title": "Mavericks vs. Heat",
+        "outcome": "Heat",
+        "value": 13070.0913,
+        "avgPrice": 0.7166,
+        "slug": "nba-dal-mia-2026-10-26"
+      },
+      "0x2f47031d7c6a58e14ed5492f69dea4e234f372e4262adb6e146e9ade3e934caf|Heat": {
+        "title": "Spread: Heat (-7.5)",
+        "outcome": "Heat",
+        "value": 13027.3489,
+        "avgPrice": 0.5141,
+        "slug": "nba-dal-mia-2026-10-26-spread-home-7pt5"
+      },
+      "0xda344e1ed9eda0eb00095de21e3694ddea087769bc5c30d448d88241b9d23009|Cavaliers": {
+        "title": "Spread: Cavaliers (-3.5)",
+        "outcome": "Cavaliers",
+        "value": 12993.3949,
+        "avgPrice": 0.5294,
+        "slug": "nba-min-cle-2026-10-26-spread-home-3pt5"
+      },
+      "0x004c6bb19b0d51bfb1e3a75257a0463af49a129213eca5af2c75ba8899368d64|Over": {
+        "title": "Warriors vs. Nuggets: O/U 237.5",
+        "outcome": "Over",
+        "value": 12446.7991,
+        "avgPrice": 0.4698,
+        "slug": "nba-gsw-den-2026-10-26-total-237pt5"
+      },
+      "0xcc6f030425e3ab2dbc90b4a2ebbaead9873901ad3add7346a6f7b2eaf4b4979b|Over": {
+        "title": "Bulls vs. Celtics: O/U 233.5",
+        "outcome": "Over",
+        "value": 12369.4037,
+        "avgPrice": 0.4897,
+        "slug": "nba-chi-bos-2026-10-26-total-233pt5"
+      },
+      "0xf737f56dd9293ef53904c13b52e348489e33a4b8de8a8afc10906535ef4a2a5d|Kings": {
+        "title": "Spread: Rangers (-1.5)",
+        "outcome": "Kings",
+        "value": 12098.9497,
+        "avgPrice": 0.6699,
+        "slug": "nhl-lak-nyr-2026-10-26-spread-home-1pt5"
+      },
+      "0x174ee908d208f8e0747589ec0b4f8ac7da329cd00d1418559cee838687cb13e9|Mavericks": {
+        "title": "Spread: Heat (-8.5)",
+        "outcome": "Mavericks",
+        "value": 11700.5738,
+        "avgPrice": 0.5273,
+        "slug": "nba-dal-mia-2026-10-26-spread-home-8pt5"
+      },
+      "0x5533d43d4720554338aa124d54759e539acf9f19787bcdb9dbe2bea0214661ac|Jazz": {
+        "title": "Spread: Jazz (-1.5)",
+        "outcome": "Jazz",
+        "value": 11227.1448,
+        "avgPrice": 0.4867,
+        "slug": "nba-mem-uta-2026-10-26-spread-home-1pt5"
+      },
+      "0x0c836469c0fd71f40ad39d71a88b2422dd980df31e6cf9ea8b4200a51278e6a9|Bulls": {
+        "title": "Spread: Celtics (-14.5)",
+        "outcome": "Bulls",
+        "value": 10755.397,
+        "avgPrice": 0.5066,
+        "slug": "nba-chi-bos-2026-10-26-spread-home-14pt5"
+      },
+      "0x60a81cbaa1f7b5263ea14e4a0e7fd73fdfdc03a9e8725defb5f25c7f007f95c8|Over": {
+        "title": "Grizzlies vs. Jazz: O/U 238.5",
+        "outcome": "Over",
+        "value": 10554.1141,
+        "avgPrice": 0.4864,
+        "slug": "nba-mem-uta-2026-10-26-total-238pt5"
+      },
+      "0x2f47031d7c6a58e14ed5492f69dea4e234f372e4262adb6e146e9ade3e934caf|Mavericks": {
+        "title": "Spread: Heat (-7.5)",
+        "outcome": "Mavericks",
+        "value": 10474.6299,
+        "avgPrice": 0.4681,
+        "slug": "nba-dal-mia-2026-10-26-spread-home-7pt5"
+      },
+      "0x9118a595cbc0ce7e058878581986de79992d90cbb9f0a846a73c6447518c93ae|Suns": {
+        "title": "Suns vs. Thunder",
+        "outcome": "Suns",
+        "value": 9383.7914,
+        "avgPrice": 0.2465,
+        "slug": "nba-phx-okc-2026-10-26"
+      },
+      "0x94def0ffd89805072edd55247b14e5e43482647367220455ee33e64d3242b65d|Timberwolves": {
+        "title": "Spread: Cavaliers (-4.5)",
+        "outcome": "Timberwolves",
+        "value": 9363.9969,
+        "avgPrice": 0.4666,
+        "slug": "nba-min-cle-2026-10-26-spread-home-4pt5"
+      },
+      "0x83fa7a1a2a281cbfd3c730e0e30e89cd5876c4118e883a2e58a25af15f0976ba|Rockets": {
+        "title": "Spread: Rockets (-5.5)",
+        "outcome": "Rockets",
+        "value": 9287.3518,
+        "avgPrice": 0.465,
+        "slug": "nba-atl-hou-2026-10-26-spread-home-5pt5"
+      },
+      "0x591f5fe6ff84e81b531d36bc42265e5017d96e216e052331a4accba083f36de4|Otto Virtanen": {
+        "title": "Brest: Matteo Martineau vs Otto Virtanen",
+        "outcome": "Otto Virtanen",
+        "value": 8714.3477,
+        "avgPrice": 0.896,
+        "slug": "atp-martin-virtane-2026-10-27"
+      },
+      "0x05c58093abe70b2cfb524571acbf923ed61f930ad3bf03fa60f18b55dc5f3de6|Hornets": {
+        "title": "Spread: Hornets (-1.5)",
+        "outcome": "Hornets",
+        "value": 8596.2747,
+        "avgPrice": 0.5357,
+        "slug": "nba-was-cha-2026-10-26-spread-home-1pt5"
+      },
+      "0xa942003b99fac1f3e86a9091c21403d0dfdb9fc33940deee3d1193b6b86f11ab|Under": {
+        "title": "Milwaukee Brewers vs. Tampa Bay Rays: O/U 7.5",
+        "outcome": "Under",
+        "value": 8554.1654,
+        "avgPrice": 0.5482,
+        "slug": "mlb-mil-tb-2026-10-26-total-7pt5"
       },
       "0x62e2987c2c0f046e4709eb840bbf2881d37e2727ef7258c5e797979c3ec878ed|Over": {
         "title": "Mavericks vs. Heat: O/U 237.5",
         "outcome": "Over",
-        "value": 8168.3077,
+        "value": 8462.6611,
         "avgPrice": 0.5079,
         "slug": "nba-dal-mia-2026-10-26-total-237pt5"
+      },
+      "0x9395644c0bf6d9e17f3cede991974e89908ed81bc717166ddef3d1c2a810fe1f|Celtics": {
+        "title": "Spread: Celtics (-13.5)",
+        "outcome": "Celtics",
+        "value": 8453.3066,
+        "avgPrice": 0.5134,
+        "slug": "nba-chi-bos-2026-10-26-spread-home-13pt5"
+      },
+      "0x93092d0bb14ce2bb6973197a125fd4a20cd65b6d67c95c4801638562ac27bd46|Thunder": {
+        "title": "Spread: Thunder (-9.5)",
+        "outcome": "Thunder",
+        "value": 8369.1335,
+        "avgPrice": 0.5147,
+        "slug": "nba-phx-okc-2026-10-26-spread-home-9pt5"
+      },
+      "0x93092d0bb14ce2bb6973197a125fd4a20cd65b6d67c95c4801638562ac27bd46|Suns": {
+        "title": "Spread: Thunder (-9.5)",
+        "outcome": "Suns",
+        "value": 8359.9633,
+        "avgPrice": 0.5354,
+        "slug": "nba-phx-okc-2026-10-26-spread-home-9pt5"
+      },
+      "0x03614ac59b8baf11813d38e834eec2181f58349562c83a2a5387ab132a1bf093|Thunder": {
+        "title": "Spread: Thunder (-7.5)",
+        "outcome": "Thunder",
+        "value": 8331.0992,
+        "avgPrice": 0.5858,
+        "slug": "nba-phx-okc-2026-10-26-spread-home-7pt5"
+      },
+      "0xa02f438a1783b82cc7440615d8e29886554ea79cac692e0f77592201b7a45042|Cavaliers": {
+        "title": "Spread: Cavaliers (-2.5)",
+        "outcome": "Cavaliers",
+        "value": 8234.4712,
+        "avgPrice": 0.5835,
+        "slug": "nba-min-cle-2026-10-26-spread-home-2pt5"
+      },
+      "0xec0fdcf2331c128b832da07d112d2c64eb3a169eef841ab04457d9fdedc61c7d|Heat": {
+        "title": "Spread: Heat (-6.5)",
+        "outcome": "Heat",
+        "value": 8132.6464,
+        "avgPrice": 0.5412,
+        "slug": "nba-dal-mia-2026-10-26-spread-home-6pt5"
       },
       "0x9395644c0bf6d9e17f3cede991974e89908ed81bc717166ddef3d1c2a810fe1f|Bulls": {
         "title": "Spread: Celtics (-13.5)",
         "outcome": "Bulls",
-        "value": 7256.6156,
+        "value": 7103.8448,
         "avgPrice": 0.48,
         "slug": "nba-chi-bos-2026-10-26-spread-home-13pt5"
+      },
+      "0xc2420014e79db551a99c3f767e607826c6e38121e9b944b620443022f50956b3|Celtics": {
+        "title": "Bulls vs. Celtics",
+        "outcome": "Celtics",
+        "value": 7027.57,
+        "avgPrice": 0.8586,
+        "slug": "nba-chi-bos-2026-10-26"
+      },
+      "0x0c7ba0d3cfad736aa9d87b445f33fd77f12410ab4e0de3bb19acea730299f936|Thunder": {
+        "title": "Spread: Thunder (-6.5)",
+        "outcome": "Thunder",
+        "value": 7015.7876,
+        "avgPrice": 0.5722,
+        "slug": "nba-phx-okc-2026-10-26-spread-home-6pt5"
+      },
+      "0x8390b1a3b47101f7e3b83370b3b7a4666eec199eef5cc58d33520f7dec2195a3|Bucks": {
+        "title": "Spread: Pacers (-4.5)",
+        "outcome": "Bucks",
+        "value": 6753.8675,
+        "avgPrice": 0.498,
+        "slug": "nba-ind-mil-2026-10-26-spread-away-4pt5"
+      },
+      "0x601a35941bf6970372c036efd9a00767c7a722932cf0614a88ed0e44dc54bc1b|Warriors": {
+        "title": "Warriors vs. Nuggets",
+        "outcome": "Warriors",
+        "value": 6607.0212,
+        "avgPrice": 0.2933,
+        "slug": "nba-gsw-den-2026-10-26"
+      },
+      "0xa31bbb6bd8591de313b822402c5f059cb6e3b088ab3c393199990577506a4577|Over": {
+        "title": "Bulls vs. Celtics: O/U 232.5",
+        "outcome": "Over",
+        "value": 6426.9308,
+        "avgPrice": 0.5205,
+        "slug": "nba-chi-bos-2026-10-26-total-232pt5"
       },
       "0x9829ba6f032529882c6d6d8067111d4c71d05dcb25d8ceca364ff4f274018752|Tampa Bay Rays": {
         "title": "Spread: Milwaukee Brewers (-1.5)",
@@ -694,12 +1548,40 @@
         "avgPrice": 0.65,
         "slug": "mlb-mil-tb-2026-10-26-spread-away-1pt5"
       },
-      "0x54034fbaabbfd49d1b6da62745bc03f4b6acecbc8e58baa513521cfdfc92a083|Nuno Borges": {
-        "title": "Swiss Indoors Basel: Mika Brunold vs Nuno Borges",
-        "outcome": "Nuno Borges",
-        "value": 6261.7175,
-        "avgPrice": 0.7143,
-        "slug": "atp-brunold-borges-2026-10-26"
+      "0xdb49f021d4ae8e0b6182a179ceb55f790f3987d2714fc3e36ca6f2798b33f736|Hawks": {
+        "title": "Spread: Rockets (-4.5)",
+        "outcome": "Hawks",
+        "value": 6268.8772,
+        "avgPrice": 0.4796,
+        "slug": "nba-atl-hou-2026-10-26-spread-home-4pt5"
+      },
+      "0x401c1614a93ddc098c97338b5452d887f4ca1617a4445c2a1a966b6aa58e28d7|Jazz": {
+        "title": "Grizzlies vs. Jazz",
+        "outcome": "Jazz",
+        "value": 6209.5204,
+        "avgPrice": 0.51,
+        "slug": "nba-mem-uta-2026-10-26"
+      },
+      "0xcc6f030425e3ab2dbc90b4a2ebbaead9873901ad3add7346a6f7b2eaf4b4979b|Under": {
+        "title": "Bulls vs. Celtics: O/U 233.5",
+        "outcome": "Under",
+        "value": 6152.92,
+        "avgPrice": 0.5,
+        "slug": "nba-chi-bos-2026-10-26-total-233pt5"
+      },
+      "0xfa2d3d28a54dcf3f601b169d7dfacac5624c72baad7b8e4bd40a518d2d757156|Pacers": {
+        "title": "Spread: Pacers (-2.5)",
+        "outcome": "Pacers",
+        "value": 6065.6853,
+        "avgPrice": 0.5686,
+        "slug": "nba-ind-mil-2026-10-26-spread-away-2pt5"
+      },
+      "0x4c782bf6837afba76d760cba484a28c9b1ed011765d5a12be3d8a64c9e201b65|Bucks": {
+        "title": "Pacers vs. Bucks",
+        "outcome": "Bucks",
+        "value": 6024.2752,
+        "avgPrice": 0.39,
+        "slug": "nba-ind-mil-2026-10-26"
       },
       "0x601a35941bf6970372c036efd9a00767c7a722932cf0614a88ed0e44dc54bc1b|Nuggets": {
         "title": "Warriors vs. Nuggets",
@@ -708,26 +1590,89 @@
         "avgPrice": 0.7044,
         "slug": "nba-gsw-den-2026-10-26"
       },
+      "0x401c1614a93ddc098c97338b5452d887f4ca1617a4445c2a1a966b6aa58e28d7|Grizzlies": {
+        "title": "Grizzlies vs. Jazz",
+        "outcome": "Grizzlies",
+        "value": 6021.0139,
+        "avgPrice": 0.4785,
+        "slug": "nba-mem-uta-2026-10-26"
+      },
+      "0x2e8af92842cf727e8674e298c2cfd9358dc5f1cd262484b3e5ee3746d724c6e4|Under": {
+        "title": "Warriors vs. Nuggets: O/U 233.5",
+        "outcome": "Under",
+        "value": 5808.3065,
+        "avgPrice": 0.445,
+        "slug": "nba-gsw-den-2026-10-26-total-233pt5"
+      },
+      "0xd720ba5e43baf77aa36b49d8c4c10ccaf1f5375ed2d6c2888cdeb47058708239|Warriors": {
+        "title": "Spread: Nuggets (-8.5)",
+        "outcome": "Warriors",
+        "value": 5484.6838,
+        "avgPrice": 0.55,
+        "slug": "nba-gsw-den-2026-10-26-spread-home-8pt5"
+      },
+      "0x5533d43d4720554338aa124d54759e539acf9f19787bcdb9dbe2bea0214661ac|Grizzlies": {
+        "title": "Spread: Jazz (-1.5)",
+        "outcome": "Grizzlies",
+        "value": 5417.9427,
+        "avgPrice": 0.494,
+        "slug": "nba-mem-uta-2026-10-26-spread-home-1pt5"
+      },
       "0x92fd40ec594ca08e2fbeff954076c159cdb34383862e3642e0ac30596cde5994|Under": {
         "title": "Wizards vs. Hornets: O/U 229.5",
         "outcome": "Under",
-        "value": 5192.4404,
+        "value": 5291.3441,
         "avgPrice": 0.5147,
         "slug": "nba-was-cha-2026-10-26-total-229pt5"
       },
-      "0x8390b1a3b47101f7e3b83370b3b7a4666eec199eef5cc58d33520f7dec2195a3|Bucks": {
-        "title": "Spread: Pacers (-4.5)",
-        "outcome": "Bucks",
-        "value": 5178.3113,
-        "avgPrice": 0.4975,
-        "slug": "nba-ind-mil-2026-10-26-spread-away-4pt5"
+      "0xa31bbb6bd8591de313b822402c5f059cb6e3b088ab3c393199990577506a4577|Under": {
+        "title": "Bulls vs. Celtics: O/U 232.5",
+        "outcome": "Under",
+        "value": 5272.7646,
+        "avgPrice": 0.4704,
+        "slug": "nba-chi-bos-2026-10-26-total-232pt5"
       },
-      "0x9cb1e23d74f1cf5841a5bb915503d1290f793f3fa34aa7291157cd1c82ae7e3f|Wizards": {
-        "title": "Wizards vs. Hornets",
-        "outcome": "Wizards",
-        "value": 4847.3716,
-        "avgPrice": 0.4487,
-        "slug": "nba-was-cha-2026-10-26"
+      "0x4ac56ed82cda229122ac7514da21ea82661055c73c1e3668adacd5ec7030fdef|Nuggets": {
+        "title": "Spread: Nuggets (-7.5)",
+        "outcome": "Nuggets",
+        "value": 5245.0702,
+        "avgPrice": 0.489,
+        "slug": "nba-gsw-den-2026-10-26-spread-home-7pt5"
+      },
+      "0x783c29afb8dbe0157a4cd3ed43a69cc5e848e566736dc602b8fc414b19af384a|Thunder": {
+        "title": "Spread: Thunder (-8.5)",
+        "outcome": "Thunder",
+        "value": 5212.5826,
+        "avgPrice": 0.4906,
+        "slug": "nba-phx-okc-2026-10-26-spread-home-8pt5"
+      },
+      "0xdc3bcaa542d682ecbc81a07c2308cd3c46a4c18d06cda17d062ca1cc23b26511|Eagles": {
+        "title": "Spread: Cowboys (-3.5)",
+        "outcome": "Eagles",
+        "value": 5138.0207,
+        "avgPrice": 0.46,
+        "slug": "nfl-dal-phi-2026-10-27-spread-away-3pt5"
+      },
+      "0x2300f0f2b30e1c7efc72639bdacfe0c4e625726ebf2fc936a9eebd77b962079e|Over": {
+        "title": "Suns vs. Thunder: O/U 218.5",
+        "outcome": "Over",
+        "value": 5051.1837,
+        "avgPrice": 0.5567,
+        "slug": "nba-phx-okc-2026-10-26-total-218pt5"
+      },
+      "0x94def0ffd89805072edd55247b14e5e43482647367220455ee33e64d3242b65d|Cavaliers": {
+        "title": "Spread: Cavaliers (-4.5)",
+        "outcome": "Cavaliers",
+        "value": 4966.7896,
+        "avgPrice": 0.504,
+        "slug": "nba-min-cle-2026-10-26-spread-home-4pt5"
+      },
+      "0xdb49f021d4ae8e0b6182a179ceb55f790f3987d2714fc3e36ca6f2798b33f736|Rockets": {
+        "title": "Spread: Rockets (-4.5)",
+        "outcome": "Rockets",
+        "value": 4930.412,
+        "avgPrice": 0.51,
+        "slug": "nba-atl-hou-2026-10-26-spread-home-4pt5"
       },
       "0x3892d274bec9467bf997552c3332c9c83476450f62d36cd029854cf5e8b51a7f|Over": {
         "title": "Pacers vs. Bucks: O/U 240.5",
@@ -736,19 +1681,26 @@
         "avgPrice": 0.4757,
         "slug": "nba-ind-mil-2026-10-26-total-240pt5"
       },
-      "0xf32138ed7dcf7be746e441d7add21e14c3f7d160929796b0a4867f53e490a402|Matteo Berrettini": {
-        "title": "Erste Bank Open: Matteo Berrettini vs Tomas Etcheverry",
-        "outcome": "Matteo Berrettini",
-        "value": 4776.6671,
-        "avgPrice": 0.9327,
-        "slug": "atp-berrett-etcheve-2026-10-27"
+      "0x9cb1e23d74f1cf5841a5bb915503d1290f793f3fa34aa7291157cd1c82ae7e3f|Wizards": {
+        "title": "Wizards vs. Hornets",
+        "outcome": "Wizards",
+        "value": 4629.5122,
+        "avgPrice": 0.4487,
+        "slug": "nba-was-cha-2026-10-26"
       },
-      "0x2300f0f2b30e1c7efc72639bdacfe0c4e625726ebf2fc936a9eebd77b962079e|Over": {
-        "title": "Suns vs. Thunder: O/U 218.5",
-        "outcome": "Over",
-        "value": 4642.576,
-        "avgPrice": 0.557,
-        "slug": "nba-phx-okc-2026-10-26-total-218pt5"
+      "0xbc8f782ae774643ace50f340bddefbc2d5ea130e50f072cc3abb86139280f6be|Cavaliers": {
+        "title": "Spread: Cavaliers (-5.5)",
+        "outcome": "Cavaliers",
+        "value": 4540.112,
+        "avgPrice": 0.4551,
+        "slug": "nba-min-cle-2026-10-26-spread-home-5pt5"
+      },
+      "0x60a81cbaa1f7b5263ea14e4a0e7fd73fdfdc03a9e8725defb5f25c7f007f95c8|Under": {
+        "title": "Grizzlies vs. Jazz: O/U 238.5",
+        "outcome": "Under",
+        "value": 4537.0469,
+        "avgPrice": 0.513,
+        "slug": "nba-mem-uta-2026-10-26-total-238pt5"
       },
       "0x32d156fe49581f9d371b8dd326c314ae6b1ff85190f053a6fd7bee88b87699bf|Packers": {
         "title": "Spread: Packers (-4.5)",
@@ -757,60 +1709,67 @@
         "avgPrice": 0.47,
         "slug": "nfl-car-gb-2026-10-30-spread-home-4pt5"
       },
-      "0xc2420014e79db551a99c3f767e607826c6e38121e9b944b620443022f50956b3|Celtics": {
-        "title": "Bulls vs. Celtics",
-        "outcome": "Celtics",
-        "value": 4224.4235,
-        "avgPrice": 0.8642,
-        "slug": "nba-chi-bos-2026-10-26"
+      "0xda344e1ed9eda0eb00095de21e3694ddea087769bc5c30d448d88241b9d23009|Timberwolves": {
+        "title": "Spread: Cavaliers (-3.5)",
+        "outcome": "Timberwolves",
+        "value": 4274.5657,
+        "avgPrice": 0.4524,
+        "slug": "nba-min-cle-2026-10-26-spread-home-3pt5"
       },
-      "0x62e2987c2c0f046e4709eb840bbf2881d37e2727ef7258c5e797979c3ec878ed|Under": {
-        "title": "Mavericks vs. Heat: O/U 237.5",
-        "outcome": "Under",
-        "value": 4137.6367,
-        "avgPrice": 0.4976,
-        "slug": "nba-dal-mia-2026-10-26-total-237pt5"
+      "0xf409dc03d7152f593797e9a72e8f07ca4332d9fb7b85bcffefb0c2b66ee74dbd|Timberwolves": {
+        "title": "Spread: Cavaliers (-7.5)",
+        "outcome": "Timberwolves",
+        "value": 4166.666,
+        "avgPrice": 0.5899,
+        "slug": "nba-min-cle-2026-10-26-spread-home-7pt5"
       },
       "0x2e8af92842cf727e8674e298c2cfd9358dc5f1cd262484b3e5ee3746d724c6e4|Over": {
         "title": "Warriors vs. Nuggets: O/U 233.5",
         "outcome": "Over",
-        "value": 4123.215,
-        "avgPrice": 0.5233,
+        "value": 4136.5871,
+        "avgPrice": 0.5235,
         "slug": "nba-gsw-den-2026-10-26-total-233pt5"
       },
-      "0xda344e1ed9eda0eb00095de21e3694ddea087769bc5c30d448d88241b9d23009|Cavaliers": {
-        "title": "Spread: Cavaliers (-3.5)",
-        "outcome": "Cavaliers",
-        "value": 4097.1743,
-        "avgPrice": 0.53,
-        "slug": "nba-min-cle-2026-10-26-spread-home-3pt5"
+      "0x4ac56ed82cda229122ac7514da21ea82661055c73c1e3668adacd5ec7030fdef|Warriors": {
+        "title": "Spread: Nuggets (-7.5)",
+        "outcome": "Warriors",
+        "value": 4094.2603,
+        "avgPrice": 0.5169,
+        "slug": "nba-gsw-den-2026-10-26-spread-home-7pt5"
       },
-      "0x05c58093abe70b2cfb524571acbf923ed61f930ad3bf03fa60f18b55dc5f3de6|Hornets": {
-        "title": "Spread: Hornets (-1.5)",
-        "outcome": "Hornets",
-        "value": 3786.4145,
-        "avgPrice": 0.5309,
-        "slug": "nba-was-cha-2026-10-26-spread-home-1pt5"
+      "0x62e2987c2c0f046e4709eb840bbf2881d37e2727ef7258c5e797979c3ec878ed|Under": {
+        "title": "Mavericks vs. Heat: O/U 237.5",
+        "outcome": "Under",
+        "value": 3951.6755,
+        "avgPrice": 0.4976,
+        "slug": "nba-dal-mia-2026-10-26-total-237pt5"
+      },
+      "0x3a059fc663e7c29601c26589749efcf87ea7ad8b784fdc5a1b52cb7356a6c90b|Over": {
+        "title": "Red Wings vs. Oilers: O/U 6.5",
+        "outcome": "Over",
+        "value": 3928.2856,
+        "avgPrice": 0.54,
+        "slug": "nhl-det-edm-2026-10-26-total-6pt5"
+      },
+      "0x71f213e61c056b47ce6ff6a5576211504cc53f712c7d091717f1c70874dcca6a|Timberwolves": {
+        "title": "Spread: Cavaliers (-6.5)",
+        "outcome": "Timberwolves",
+        "value": 3849.4965,
+        "avgPrice": 0.5428,
+        "slug": "nba-min-cle-2026-10-26-spread-home-6pt5"
       },
       "0xea0b51f2ad72087eb8b997f2af6b1d2882bfda1981bf80f58161e996e93dd69f|Bulls": {
         "title": "Spread: Celtics (-16.5)",
         "outcome": "Bulls",
-        "value": 3768.84,
+        "value": 3736.35,
         "avgPrice": 0.5801,
         "slug": "nba-chi-bos-2026-10-26-spread-home-16pt5"
-      },
-      "0xc4a430b8a7403846189ed2623e1d5c3db871c5a8d616816fec0e71ac93612b26|Valentin Vacherot": {
-        "title": "Swiss Indoors Basel: Valentin Vacherot vs Mariano Navone",
-        "outcome": "Valentin Vacherot",
-        "value": 3283.9233,
-        "avgPrice": 0.7512,
-        "slug": "atp-vachero-navone-2026-10-27"
       },
       "0x4f37c2468637e3898f8bd2bfcfb75c95c105cd35872f72621fdce315fb02fc12|Under": {
         "title": "Warriors vs. Nuggets: O/U 235.5",
         "outcome": "Under",
-        "value": 3143.7378,
-        "avgPrice": 0.5155,
+        "value": 3673.1122,
+        "avgPrice": 0.5075,
         "slug": "nba-gsw-den-2026-10-26-total-235pt5"
       },
       "0x4f37c2468637e3898f8bd2bfcfb75c95c105cd35872f72621fdce315fb02fc12|Over": {
@@ -820,68 +1779,96 @@
         "avgPrice": 0.4645,
         "slug": "nba-gsw-den-2026-10-26-total-235pt5"
       },
-      "0xb4f418a7adc2356eee252b0206f8cf2febaa1a34db34dfb96c58098340a4e603|Heat": {
-        "title": "Mavericks vs. Heat",
-        "outcome": "Heat",
-        "value": 2859.444,
-        "avgPrice": 0.7454,
-        "slug": "nba-dal-mia-2026-10-26"
-      },
-      "0x2e8af92842cf727e8674e298c2cfd9358dc5f1cd262484b3e5ee3746d724c6e4|Under": {
-        "title": "Warriors vs. Nuggets: O/U 233.5",
-        "outcome": "Under",
-        "value": 2707.7827,
-        "avgPrice": 0.4623,
-        "slug": "nba-gsw-den-2026-10-26-total-233pt5"
-      },
       "0x3892d274bec9467bf997552c3332c9c83476450f62d36cd029854cf5e8b51a7f|Under": {
         "title": "Pacers vs. Bucks: O/U 240.5",
         "outcome": "Under",
-        "value": 2461.7962,
-        "avgPrice": 0.5411,
+        "value": 2840.1542,
+        "avgPrice": 0.5409,
         "slug": "nba-ind-mil-2026-10-26-total-240pt5"
       },
-      "0x94def0ffd89805072edd55247b14e5e43482647367220455ee33e64d3242b65d|Timberwolves": {
-        "title": "Spread: Cavaliers (-4.5)",
-        "outcome": "Timberwolves",
-        "value": 2438.2291,
-        "avgPrice": 0.5001,
-        "slug": "nba-min-cle-2026-10-26-spread-home-4pt5"
+      "0xfb91c58d83955a670bbcf6f853172f391d713919e8fd7cbbfdf81302f5e6bd29|Heat": {
+        "title": "Spread: Heat (-5.5)",
+        "outcome": "Heat",
+        "value": 2801.748,
+        "avgPrice": 0.59,
+        "slug": "nba-dal-mia-2026-10-26-spread-home-5pt5"
+      },
+      "0xc7ad23f4bd4cda36beb108f4ea0a6c4eedb90e5cf5e607a909587b3f146ab875|Gabriela Knutson": {
+        "title": "Courmayeur: Rositsa Dencheva vs Gabriela Knutson",
+        "outcome": "Gabriela Knutson",
+        "value": 2709.8285,
+        "avgPrice": 0.8299,
+        "slug": "wta-denchev-knutson-2026-10-26"
       },
       "0x468c0c3b26bbe1cf475490cf64350e424f8f39f337a2ebd61a357ddcb8a06741|Under": {
         "title": "Timberwolves vs. Cavaliers: O/U 234.5",
         "outcome": "Under",
-        "value": 2422.7503,
+        "value": 2657.9688,
         "avgPrice": 0.5262,
         "slug": "nba-min-cle-2026-10-26-total-234pt5"
+      },
+      "0xbc8f782ae774643ace50f340bddefbc2d5ea130e50f072cc3abb86139280f6be|Timberwolves": {
+        "title": "Spread: Cavaliers (-5.5)",
+        "outcome": "Timberwolves",
+        "value": 2548.0301,
+        "avgPrice": 0.5154,
+        "slug": "nba-min-cle-2026-10-26-spread-home-5pt5"
+      },
+      "0x92fd40ec594ca08e2fbeff954076c159cdb34383862e3642e0ac30596cde5994|Over": {
+        "title": "Wizards vs. Hornets: O/U 229.5",
+        "outcome": "Over",
+        "value": 2477.08,
+        "avgPrice": 0.4713,
+        "slug": "nba-was-cha-2026-10-26-total-229pt5"
+      },
+      "0x9225eac5fbb82bbb301bcd26435354e98570a9eca02ecb3c279a71b4c3c1c758|Bucks": {
+        "title": "Spread: Pacers (-7.5)",
+        "outcome": "Bucks",
+        "value": 2331.2757,
+        "avgPrice": 0.6099,
+        "slug": "nba-ind-mil-2026-10-26-spread-away-7pt5"
       },
       "0x89ce5af0a8dbed126f8e1b373123ecf3d739cd85ef810d905968ccb650d445cd|Over": {
         "title": "Warriors vs. Nuggets: O/U 232.5",
         "outcome": "Over",
-        "value": 2360.0977,
+        "value": 2320.4322,
         "avgPrice": 0.5561,
         "slug": "nba-gsw-den-2026-10-26-total-232pt5"
+      },
+      "0x291855a29d5c7e0072e0df4c5450c4db96f507a52481a1e00ec48cecd5309e30|Cavaliers": {
+        "title": "Spread: Cavaliers (-1.5)",
+        "outcome": "Cavaliers",
+        "value": 2297.6494,
+        "avgPrice": 0.5977,
+        "slug": "nba-min-cle-2026-10-26-spread-home-1pt5"
       },
       "0xa4de7d3d823693e4aed1d4c853fdc43b9d097388a9c9f147e0628f811a6c55ba|Under": {
         "title": "Bulls vs. Celtics: O/U 235.5",
         "outcome": "Under",
-        "value": 2300.575,
+        "value": 2220.555,
         "avgPrice": 0.5155,
         "slug": "nba-chi-bos-2026-10-26-total-235pt5"
+      },
+      "0x39908d8509cf41b0fb8e32724fabccbd570bfec14f22e9ecbfade5c88dfffe96|Thunder": {
+        "title": "Spread: Thunder (-10.5)",
+        "outcome": "Thunder",
+        "value": 2041.9762,
+        "avgPrice": 0.43,
+        "slug": "nba-phx-okc-2026-10-26-spread-home-10pt5"
+      },
+      "0x338889eaa9c7bb4b61916d6745745825b0e42cd6a6ea752e0465dd2ae868774c|Over": {
+        "title": "Suns vs. Thunder: O/U 220.5",
+        "outcome": "Over",
+        "value": 2035.8274,
+        "avgPrice": 0.5147,
+        "slug": "nba-phx-okc-2026-10-26-total-220pt5"
       },
       "0x1484fee1da321c43f25626943a428a212a00dfba5596e598e5186e2cfe576262|Over": {
         "title": "Wizards vs. Hornets: O/U 230.5",
         "outcome": "Over",
-        "value": 2030.9805,
+        "value": 1963.2811,
         "avgPrice": 0.4806,
         "slug": "nba-was-cha-2026-10-26-total-230pt5"
-      },
-      "0x8390b1a3b47101f7e3b83370b3b7a4666eec199eef5cc58d33520f7dec2195a3|Pacers": {
-        "title": "Spread: Pacers (-4.5)",
-        "outcome": "Pacers",
-        "value": 2024.9591,
-        "avgPrice": 0.49,
-        "slug": "nba-ind-mil-2026-10-26-spread-away-4pt5"
       },
       "0x7c51ca4fa62fa356430f6aaaad839888a475c9a791b089fb3e5c7717c6a39342|Barbora Palicova": {
         "title": "Makarska: Petra Marcinko vs Barbora Palicova",
@@ -890,117 +1877,124 @@
         "avgPrice": 0.3699,
         "slug": "wta-marcink-palicov-2026-06-04"
       },
-      "0x601a35941bf6970372c036efd9a00767c7a722932cf0614a88ed0e44dc54bc1b|Warriors": {
-        "title": "Warriors vs. Nuggets",
-        "outcome": "Warriors",
-        "value": 1857.3509,
-        "avgPrice": 0.3018,
-        "slug": "nba-gsw-den-2026-10-26"
-      },
-      "0x92fd40ec594ca08e2fbeff954076c159cdb34383862e3642e0ac30596cde5994|Over": {
-        "title": "Wizards vs. Hornets: O/U 229.5",
-        "outcome": "Over",
-        "value": 1856.6153,
-        "avgPrice": 0.4755,
-        "slug": "nba-was-cha-2026-10-26-total-229pt5"
-      },
-      "0x94def0ffd89805072edd55247b14e5e43482647367220455ee33e64d3242b65d|Cavaliers": {
-        "title": "Spread: Cavaliers (-4.5)",
-        "outcome": "Cavaliers",
-        "value": 1830.0303,
-        "avgPrice": 0.49,
-        "slug": "nba-min-cle-2026-10-26-spread-home-4pt5"
+      "0xec0fdcf2331c128b832da07d112d2c64eb3a169eef841ab04457d9fdedc61c7d|Mavericks": {
+        "title": "Spread: Heat (-6.5)",
+        "outcome": "Mavericks",
+        "value": 1919.7536,
+        "avgPrice": 0.4154,
+        "slug": "nba-dal-mia-2026-10-26-spread-home-6pt5"
       },
       "0x4c782bf6837afba76d760cba484a28c9b1ed011765d5a12be3d8a64c9e201b65|Pacers": {
         "title": "Pacers vs. Bucks",
         "outcome": "Pacers",
-        "value": 1801.4997,
-        "avgPrice": 0.6098,
+        "value": 1850.488,
+        "avgPrice": 0.6094,
         "slug": "nba-ind-mil-2026-10-26"
       },
-      "0x04f3605e0164924758924e70bed164d70756b57250a2f420fe39e46ee4df6538|Under": {
-        "title": "Bulls vs. Celtics: O/U 234.5",
+      "0xc2420014e79db551a99c3f767e607826c6e38121e9b944b620443022f50956b3|Bulls": {
+        "title": "Bulls vs. Celtics",
+        "outcome": "Bulls",
+        "value": 1821.6104,
+        "avgPrice": 0.131,
+        "slug": "nba-chi-bos-2026-10-26"
+      },
+      "0x71f213e61c056b47ce6ff6a5576211504cc53f712c7d091717f1c70874dcca6a|Cavaliers": {
+        "title": "Spread: Cavaliers (-6.5)",
+        "outcome": "Cavaliers",
+        "value": 1821.432,
+        "avgPrice": 0.4593,
+        "slug": "nba-min-cle-2026-10-26-spread-home-6pt5"
+      },
+      "0xae9d8af8b2d27031a484462b24c4343df700b0638105c4f61580470d0615fac1|Bulls": {
+        "title": "Spread: Celtics (-15.5)",
+        "outcome": "Bulls",
+        "value": 1806.592,
+        "avgPrice": 0.54,
+        "slug": "nba-chi-bos-2026-10-26-spread-home-15pt5"
+      },
+      "0x3a059fc663e7c29601c26589749efcf87ea7ad8b784fdc5a1b52cb7356a6c90b|Under": {
+        "title": "Red Wings vs. Oilers: O/U 6.5",
         "outcome": "Under",
-        "value": 1687.4997,
-        "avgPrice": 0.4903,
-        "slug": "nba-chi-bos-2026-10-26-total-234pt5"
-      },
-      "0x401c1614a93ddc098c97338b5452d887f4ca1617a4445c2a1a966b6aa58e28d7|Grizzlies": {
-        "title": "Grizzlies vs. Jazz",
-        "outcome": "Grizzlies",
-        "value": 1662.8034,
-        "avgPrice": 0.4746,
-        "slug": "nba-mem-uta-2026-10-26"
-      },
-      "0x4ac56ed82cda229122ac7514da21ea82661055c73c1e3668adacd5ec7030fdef|Nuggets": {
-        "title": "Spread: Nuggets (-7.5)",
-        "outcome": "Nuggets",
-        "value": 1628.1017,
-        "avgPrice": 0.5099,
-        "slug": "nba-gsw-den-2026-10-26-spread-home-7pt5"
-      },
-      "0x9cb1e23d74f1cf5841a5bb915503d1290f793f3fa34aa7291157cd1c82ae7e3f|Hornets": {
-        "title": "Wizards vs. Hornets",
-        "outcome": "Hornets",
-        "value": 1568.0803,
-        "avgPrice": 0.5357,
-        "slug": "nba-was-cha-2026-10-26"
+        "value": 1729.7721,
+        "avgPrice": 0.465,
+        "slug": "nhl-det-edm-2026-10-26-total-6pt5"
       },
       "0x2a4fb711b2ca0ba828f8e99423ed315216269b64e66359a51967465616d5882e|Over": {
         "title": "Mavericks vs. Heat: O/U 235.5",
         "outcome": "Over",
-        "value": 1566.8232,
+        "value": 1645.1644,
         "avgPrice": 0.5594,
         "slug": "nba-dal-mia-2026-10-26-total-235pt5"
       },
-      "0x9118a595cbc0ce7e058878581986de79992d90cbb9f0a846a73c6447518c93ae|Thunder": {
-        "title": "Suns vs. Thunder",
-        "outcome": "Thunder",
-        "value": 1559.5673,
-        "avgPrice": 0.7698,
-        "slug": "nba-phx-okc-2026-10-26"
+      "0xe1e81d0118b0a2a3c19a2a79d85fc462670e53aa278e0be3e08356d2d0ced4cc|Under": {
+        "title": "Mavericks vs. Heat: O/U 241.5",
+        "outcome": "Under",
+        "value": 1630.7485,
+        "avgPrice": 0.5103,
+        "slug": "nba-dal-mia-2026-10-26-total-241pt5"
+      },
+      "0x04f3605e0164924758924e70bed164d70756b57250a2f420fe39e46ee4df6538|Under": {
+        "title": "Bulls vs. Celtics: O/U 234.5",
+        "outcome": "Under",
+        "value": 1626.6889,
+        "avgPrice": 0.4903,
+        "slug": "nba-chi-bos-2026-10-26-total-234pt5"
+      },
+      "0x9cb1e23d74f1cf5841a5bb915503d1290f793f3fa34aa7291157cd1c82ae7e3f|Hornets": {
+        "title": "Wizards vs. Hornets",
+        "outcome": "Hornets",
+        "value": 1624.5877,
+        "avgPrice": 0.5357,
+        "slug": "nba-was-cha-2026-10-26"
       },
       "0x1484fee1da321c43f25626943a428a212a00dfba5596e598e5186e2cfe576262|Under": {
         "title": "Wizards vs. Hornets: O/U 230.5",
         "outcome": "Under",
-        "value": 1506.6678,
-        "avgPrice": 0.5332,
+        "value": 1583.2408,
+        "avgPrice": 0.5338,
         "slug": "nba-was-cha-2026-10-26-total-230pt5"
       },
-      "0x401c1614a93ddc098c97338b5452d887f4ca1617a4445c2a1a966b6aa58e28d7|Jazz": {
-        "title": "Grizzlies vs. Jazz",
-        "outcome": "Jazz",
-        "value": 1483.0596,
-        "avgPrice": 0.51,
-        "slug": "nba-mem-uta-2026-10-26"
+      "0x03d676ba04a619b1df89cfd8c837d34a1ae74784bf450c52620c41d6e5c58ac0|Under": {
+        "title": "Pacers vs. Bucks: O/U 238.5",
+        "outcome": "Under",
+        "value": 1578.6347,
+        "avgPrice": 0.4895,
+        "slug": "nba-ind-mil-2026-10-26-total-238pt5"
       },
-      "0xc4a430b8a7403846189ed2623e1d5c3db871c5a8d616816fec0e71ac93612b26|Mariano Navone": {
-        "title": "Swiss Indoors Basel: Valentin Vacherot vs Mariano Navone",
-        "outcome": "Mariano Navone",
-        "value": 1465.9671,
-        "avgPrice": 0.321,
-        "slug": "atp-vachero-navone-2026-10-27"
+      "0x338889eaa9c7bb4b61916d6745745825b0e42cd6a6ea752e0465dd2ae868774c|Under": {
+        "title": "Suns vs. Thunder: O/U 220.5",
+        "outcome": "Under",
+        "value": 1548.8041,
+        "avgPrice": 0.49,
+        "slug": "nba-phx-okc-2026-10-26-total-220pt5"
       },
       "0x36270dc021065db11158bee3192092968d61f716c85b28c6b1afc77cf831934b|Under": {
         "title": "Wizards vs. Hornets: O/U 227.5",
         "outcome": "Under",
-        "value": 1445.5951,
+        "value": 1506.4623,
         "avgPrice": 0.4697,
         "slug": "nba-was-cha-2026-10-26-total-227pt5"
-      },
-      "0xda344e1ed9eda0eb00095de21e3694ddea087769bc5c30d448d88241b9d23009|Timberwolves": {
-        "title": "Spread: Cavaliers (-3.5)",
-        "outcome": "Timberwolves",
-        "value": 1394.3245,
-        "avgPrice": 0.48,
-        "slug": "nba-min-cle-2026-10-26-spread-home-3pt5"
       },
       "0x412e00496741eeb58bea89203f05bcac2797355564b65341ec5942abb10f0fe4|Hornets": {
         "title": "Spread: Hornets (-3.5)",
         "outcome": "Hornets",
-        "value": 1375.9029,
+        "value": 1468.6604,
         "avgPrice": 0.467,
         "slug": "nba-was-cha-2026-10-26-spread-home-3pt5"
+      },
+      "0xc8db30dc65ee15777af031f125a92649160b014f56b42c03fe4eff8820c3af5f|Hornets": {
+        "title": "Spread: Hornets (-2.5)",
+        "outcome": "Hornets",
+        "value": 1428.2086,
+        "avgPrice": 0.4761,
+        "slug": "nba-was-cha-2026-10-26-spread-home-2pt5"
+      },
+      "0x83341659dd7f3f8c6eeb5a3c6a8f00b655c81b08f38277f94444050e1394efcd|Mavericks": {
+        "title": "Spread: Heat (-9.5)",
+        "outcome": "Mavericks",
+        "value": 1361.2492,
+        "avgPrice": 0.5599,
+        "slug": "nba-dal-mia-2026-10-26-spread-home-9pt5"
       },
       "0xa0a7af7638fea1857f2b781cd8aed33b730494d432f26b0c6946447390c93b92|Hawks": {
         "title": "Hawks vs. Rockets",
@@ -1009,19 +2003,12 @@
         "avgPrice": 0.3328,
         "slug": "nba-atl-hou-2026-10-26"
       },
-      "0xc8db30dc65ee15777af031f125a92649160b014f56b42c03fe4eff8820c3af5f|Hornets": {
-        "title": "Spread: Hornets (-2.5)",
-        "outcome": "Hornets",
-        "value": 1345.012,
-        "avgPrice": 0.4761,
-        "slug": "nba-was-cha-2026-10-26-spread-home-2pt5"
-      },
-      "0x2f47031d7c6a58e14ed5492f69dea4e234f372e4262adb6e146e9ade3e934caf|Mavericks": {
-        "title": "Spread: Heat (-7.5)",
-        "outcome": "Mavericks",
-        "value": 1291.4305,
-        "avgPrice": 0.44,
-        "slug": "nba-dal-mia-2026-10-26-spread-home-7pt5"
+      "0x33c7aef717f512ce10ac33f33887f50a68b0aa2e8e1e14aceafea996bf57b1fe|Nuggets": {
+        "title": "Spread: Nuggets (-5.5)",
+        "outcome": "Nuggets",
+        "value": 1255.7407,
+        "avgPrice": 0.5931,
+        "slug": "nba-gsw-den-2026-10-26-spread-home-5pt5"
       },
       "0x873c16717fef843256324ffd5d8b6a5f6745bc0c67f3ea412cd66682af7810b8|Under": {
         "title": "Masarova vs. Ryser: Match O/U 23.5",
@@ -1030,96 +2017,110 @@
         "avgPrice": 0.6104,
         "slug": "wta-masarov-ryser-2026-07-18-match-total-23pt5"
       },
-      "0x33c7aef717f512ce10ac33f33887f50a68b0aa2e8e1e14aceafea996bf57b1fe|Nuggets": {
-        "title": "Spread: Nuggets (-5.5)",
-        "outcome": "Nuggets",
-        "value": 1210.6912,
-        "avgPrice": 0.595,
-        "slug": "nba-gsw-den-2026-10-26-spread-home-5pt5"
-      },
-      "0x2a4fb711b2ca0ba828f8e99423ed315216269b64e66359a51967465616d5882e|Under": {
-        "title": "Mavericks vs. Heat: O/U 235.5",
-        "outcome": "Under",
-        "value": 1175.176,
-        "avgPrice": 0.4894,
-        "slug": "nba-dal-mia-2026-10-26-total-235pt5"
+      "0xc4d9b9fae8e834b801118d654b379718231a3b2a1a5b05ff058c7b70ca495170|Tomasz Berkieta": {
+        "title": "Sioux Falls: Spencer Johnson vs Tomasz Berkieta",
+        "outcome": "Tomasz Berkieta",
+        "value": 1167.2428,
+        "avgPrice": 0.1879,
+        "slug": "atp-johnso-berkiet-2026-10-26"
       },
       "0x2300f0f2b30e1c7efc72639bdacfe0c4e625726ebf2fc936a9eebd77b962079e|Under": {
         "title": "Suns vs. Thunder: O/U 218.5",
         "outcome": "Under",
-        "value": 1168.8638,
+        "value": 1117.4851,
         "avgPrice": 0.4699,
         "slug": "nba-phx-okc-2026-10-26-total-218pt5"
       },
-      "0x60a81cbaa1f7b5263ea14e4a0e7fd73fdfdc03a9e8725defb5f25c7f007f95c8|Over": {
-        "title": "Grizzlies vs. Jazz: O/U 238.5",
-        "outcome": "Over",
-        "value": 1157.1469,
-        "avgPrice": 0.5,
-        "slug": "nba-mem-uta-2026-10-26-total-238pt5"
+      "0x2a4fb711b2ca0ba828f8e99423ed315216269b64e66359a51967465616d5882e|Under": {
+        "title": "Mavericks vs. Heat: O/U 235.5",
+        "outcome": "Under",
+        "value": 1087.0378,
+        "avgPrice": 0.4894,
+        "slug": "nba-dal-mia-2026-10-26-total-235pt5"
       },
-      "0x0c836469c0fd71f40ad39d71a88b2422dd980df31e6cf9ea8b4200a51278e6a9|Bulls": {
-        "title": "Spread: Celtics (-14.5)",
-        "outcome": "Bulls",
-        "value": 1078.3035,
-        "avgPrice": 0.5194,
-        "slug": "nba-chi-bos-2026-10-26-spread-home-14pt5"
+      "0x5e1b236b3e5dd062f005bf5283bb248b54c820601869234da56524929309df95|Suns": {
+        "title": "Spread: Thunder (-11.5)",
+        "outcome": "Suns",
+        "value": 1074.2433,
+        "avgPrice": 0.5866,
+        "slug": "nba-phx-okc-2026-10-26-spread-home-11pt5"
+      },
+      "0x412e00496741eeb58bea89203f05bcac2797355564b65341ec5942abb10f0fe4|Wizards": {
+        "title": "Spread: Hornets (-3.5)",
+        "outcome": "Wizards",
+        "value": 1061.6818,
+        "avgPrice": 0.549,
+        "slug": "nba-was-cha-2026-10-26-spread-home-3pt5"
+      },
+      "0x6bfd188222d125a90db9d474e8eaf1daf644b1830f1e1b8baa974009b994e200|Over": {
+        "title": "Timberwolves vs. Cavaliers: O/U 232.5",
+        "outcome": "Over",
+        "value": 1052.3947,
+        "avgPrice": 0.4823,
+        "slug": "nba-min-cle-2026-10-26-total-232pt5"
       },
       "0x3e5dab364ce5d5be651c1e9afac62577be5d7680497606e401afd06f5ea068af|Packers": {
         "title": "Panthers vs. Packers",
         "outcome": "Packers",
-        "value": 1063.4196,
+        "value": 1047.1842,
         "avgPrice": 0.6448,
         "slug": "nfl-car-gb-2026-10-30"
       },
       "0x779318e9e3139b81d551cbfe78077f5ed6e7fea06e27b1bf7fc3ae68322297ed|Panthers": {
         "title": "Spread: Packers (-3.5)",
         "outcome": "Panthers",
-        "value": 1014.4036,
+        "value": 1024.7547,
         "avgPrice": 0.48,
         "slug": "nfl-car-gb-2026-10-30-spread-home-3pt5"
-      },
-      "0xee9aabce090fd19a765a144aed280761c39bb1094e97b9fe0603c6cb3c1e124e|Under": {
-        "title": "Berrettini vs. Etcheverry: Match O/U 23.5",
-        "outcome": "Under",
-        "value": 995.0,
-        "avgPrice": 0.52,
-        "slug": "atp-berrett-etcheve-2026-10-27-match-total-23pt5"
-      },
-      "0xec0fdcf2331c128b832da07d112d2c64eb3a169eef841ab04457d9fdedc61c7d|Mavericks": {
-        "title": "Spread: Heat (-6.5)",
-        "outcome": "Mavericks",
-        "value": 972.445,
-        "avgPrice": 0.41,
-        "slug": "nba-dal-mia-2026-10-26-spread-home-6pt5"
-      },
-      "0xa31bbb6bd8591de313b822402c5f059cb6e3b088ab3c393199990577506a4577|Under": {
-        "title": "Bulls vs. Celtics: O/U 232.5",
-        "outcome": "Under",
-        "value": 950.6226,
-        "avgPrice": 0.4728,
-        "slug": "nba-chi-bos-2026-10-26-total-232pt5"
       },
       "0x114fb8a9b7e4a960e3ea107bcf9a2b9035fade5bbb180a4cbacd581b397e3ff3|Over": {
         "title": "Florida Atlantic vs. North Texas: O/U 75.5",
         "outcome": "Over",
-        "value": 924.3015,
+        "value": 941.9073,
         "avgPrice": 0.5033,
         "slug": "cfb-flatl-ntx-2026-10-29-total-75pt5"
       },
-      "0xa02f438a1783b82cc7440615d8e29886554ea79cac692e0f77592201b7a45042|Cavaliers": {
-        "title": "Spread: Cavaliers (-2.5)",
-        "outcome": "Cavaliers",
-        "value": 896.9688,
-        "avgPrice": 0.5596,
-        "slug": "nba-min-cle-2026-10-26-spread-home-2pt5"
+      "0x138509074836c4756925eeefadb95e7d8fe702bf7b2455eb1d95a35be56bae83|Timberwolves": {
+        "title": "Spread: Cavaliers (-8.5)",
+        "outcome": "Timberwolves",
+        "value": 891.875,
+        "avgPrice": 0.62,
+        "slug": "nba-min-cle-2026-10-26-spread-home-8pt5"
       },
-      "0x8bb959732ade8ec18c49498edf1eb1aa93664cbee5b65109f89b8a0ca8ff201e|Under": {
-        "title": "Cowboys vs. Eagles: O/U 46.5",
+      "0xfb91c58d83955a670bbcf6f853172f391d713919e8fd7cbbfdf81302f5e6bd29|Mavericks": {
+        "title": "Spread: Heat (-5.5)",
+        "outcome": "Mavericks",
+        "value": 878.7295,
+        "avgPrice": 0.4156,
+        "slug": "nba-dal-mia-2026-10-26-spread-home-5pt5"
+      },
+      "0xed21f7eca26207a485eaaaa950ad208c01ced4cb066129cb3eaa7829c04b113b|Flames": {
+        "title": "Maple Leafs vs. Flames",
+        "outcome": "Flames",
+        "value": 860.364,
+        "avgPrice": 0.4399,
+        "slug": "nhl-tor-cal-2026-10-26"
+      },
+      "0x04f3605e0164924758924e70bed164d70756b57250a2f420fe39e46ee4df6538|Over": {
+        "title": "Bulls vs. Celtics: O/U 234.5",
+        "outcome": "Over",
+        "value": 856.5168,
+        "avgPrice": 0.4626,
+        "slug": "nba-chi-bos-2026-10-26-total-234pt5"
+      },
+      "0x03d676ba04a619b1df89cfd8c837d34a1ae74784bf450c52620c41d6e5c58ac0|Over": {
+        "title": "Pacers vs. Bucks: O/U 238.5",
+        "outcome": "Over",
+        "value": 855.2465,
+        "avgPrice": 0.5017,
+        "slug": "nba-ind-mil-2026-10-26-total-238pt5"
+      },
+      "0x20ff82a7378a0a4947021014bba644af02f41e442beb6561a356e1d2bd7edcbf|Under": {
+        "title": "Kings vs. Rangers: O/U 5.5",
         "outcome": "Under",
-        "value": 844.9489,
-        "avgPrice": 0.58,
-        "slug": "nfl-dal-phi-2026-10-27-total-46pt5"
+        "value": 847.1091,
+        "avgPrice": 0.46,
+        "slug": "nhl-lak-nyr-2026-10-26-total-5pt5"
       },
       "0x37b15cb2c0a5189766a2d0b49e598dd47a3900939c5168ff98b5c1930010232d|Under": {
         "title": "Michelsen vs. Gea: Match O/U 23.5",
@@ -1128,124 +2129,166 @@
         "avgPrice": 0.57,
         "slug": "atp-michels-gea-2026-07-20-match-total-23pt5"
       },
-      "0x20ff82a7378a0a4947021014bba644af02f41e442beb6561a356e1d2bd7edcbf|Under": {
-        "title": "Kings vs. Rangers: O/U 5.5",
+      "0x8bb959732ade8ec18c49498edf1eb1aa93664cbee5b65109f89b8a0ca8ff201e|Under": {
+        "title": "Cowboys vs. Eagles: O/U 46.5",
         "outcome": "Under",
-        "value": 828.8917,
-        "avgPrice": 0.46,
-        "slug": "nhl-lak-nyr-2026-10-26-total-5pt5"
+        "value": 830.5053,
+        "avgPrice": 0.58,
+        "slug": "nfl-dal-phi-2026-10-27-total-46pt5"
       },
       "0x41d0b9ef2c8ba9aa5465c11e155e7bd6cfdc51e0595d91f1f9f6ca59f5fcc9e1|Cowboys": {
         "title": "Spread: Eagles (-3.5)",
         "outcome": "Cowboys",
-        "value": 820.1045,
+        "value": 809.7888,
         "avgPrice": 0.7874,
         "slug": "nfl-dal-phi-2026-10-27-spread-home-3pt5"
       },
-      "0xfa2d3d28a54dcf3f601b169d7dfacac5624c72baad7b8e4bd40a518d2d757156|Pacers": {
-        "title": "Spread: Pacers (-2.5)",
-        "outcome": "Pacers",
-        "value": 815.4571,
-        "avgPrice": 0.5601,
-        "slug": "nba-ind-mil-2026-10-26-spread-away-2pt5"
-      },
-      "0x93092d0bb14ce2bb6973197a125fd4a20cd65b6d67c95c4801638562ac27bd46|Suns": {
-        "title": "Spread: Thunder (-9.5)",
-        "outcome": "Suns",
-        "value": 784.2562,
-        "avgPrice": 0.499,
-        "slug": "nba-phx-okc-2026-10-26-spread-home-9pt5"
+      "0x4c2357b59b002bd21de75c88178553a95d575b2afb503bc36822157b788e8ead|Timo Legout": {
+        "title": "Sioux Falls: Timo Legout vs Andrew Fenty",
+        "outcome": "Timo Legout",
+        "value": 792.54,
+        "avgPrice": 0.8139,
+        "slug": "atp-legout-fenty-2026-10-26"
       },
       "0xeee44133a6dbcd5c74a3362f347392eb43137713de394a14c1156957093950fc|Under": {
         "title": "Wizards vs. Hornets: O/U 232.5",
         "outcome": "Under",
-        "value": 773.3786,
+        "value": 779.8234,
         "avgPrice": 0.547,
         "slug": "nba-was-cha-2026-10-26-total-232pt5"
+      },
+      "0x39908d8509cf41b0fb8e32724fabccbd570bfec14f22e9ecbfade5c88dfffe96|Suns": {
+        "title": "Spread: Thunder (-10.5)",
+        "outcome": "Suns",
+        "value": 777.3597,
+        "avgPrice": 0.52,
+        "slug": "nba-phx-okc-2026-10-26-spread-home-10pt5"
+      },
+      "0xc4d9b9fae8e834b801118d654b379718231a3b2a1a5b05ff058c7b70ca495170|Spencer Johnson": {
+        "title": "Sioux Falls: Spencer Johnson vs Tomasz Berkieta",
+        "outcome": "Spencer Johnson",
+        "value": 766.361,
+        "avgPrice": 0.8946,
+        "slug": "atp-johnso-berkiet-2026-10-26"
+      },
+      "0x718b6811d2a3148110ea63ea6c0c3eefc5e23fd5cc94c7700bf5a4050848a0fa|Mavericks": {
+        "title": "Spread: Heat (-10.5)",
+        "outcome": "Mavericks",
+        "value": 759.8827,
+        "avgPrice": 0.5991,
+        "slug": "nba-dal-mia-2026-10-26-spread-home-10pt5"
+      },
+      "0x103466bf616ea8367554ee63b5e968b9796fc6b33da08863db234201fec40f6c|Luca Van Assche": {
+        "title": "Erste Bank Open: Luca Van Assche vs Learner Tien",
+        "outcome": "Luca Van Assche",
+        "value": 757.5995,
+        "avgPrice": 0.3199,
+        "slug": "atp-assche-tien-2026-10-27"
       },
       "0x895e88e581d17782bcc0441293cdfa78985a3d46162a10649dc23af95801aa04|Over": {
         "title": "Warriors vs. Nuggets: O/U 231.5",
         "outcome": "Over",
-        "value": 725.8045,
+        "value": 731.7054,
         "avgPrice": 0.5709,
         "slug": "nba-gsw-den-2026-10-26-total-231pt5"
       },
       "0xa1f89d878957703989145bf5ee839b725c16f8a011708e3eecc853cf403b2a0c|Hornets": {
         "title": "Spread: Wizards (-1.5)",
         "outcome": "Hornets",
-        "value": 695.75,
+        "value": 719.95,
         "avgPrice": 0.56,
         "slug": "nba-was-cha-2026-10-26-spread-away-1pt5"
       },
-      "0xa54c879381ac29a0d6c2706b3655a443cdd971e9b5066b6c5a90eafdf9395faf|Moez Echargui": {
-        "title": "Brest: Moez Echargui vs Benjamin Hassan",
-        "outcome": "Moez Echargui",
-        "value": 686.2866,
-        "avgPrice": 0.8376,
-        "slug": "atp-echargu-hassan-2026-10-26"
+      "0xf7674932383db624e93077628160912c255f3f7bb97dcce9c9376798040a4619|Hornets": {
+        "title": "Spread: Hornets (-5.5)",
+        "outcome": "Hornets",
+        "value": 703.2072,
+        "avgPrice": 0.3898,
+        "slug": "nba-was-cha-2026-10-26-spread-home-5pt5"
       },
-      "0xe6dcdbb9a8eebe0e938d8b492427316b7290a42213c3e9108a101dca0f18f114|Lucas Poullain": {
-        "title": "Brest: Lucas Poullain vs Matisse Bobichon",
-        "outcome": "Lucas Poullain",
-        "value": 660.4603,
-        "avgPrice": 0.6,
-        "slug": "atp-poullai-bobicho-2026-10-26"
-      },
-      "0x05c58093abe70b2cfb524571acbf923ed61f930ad3bf03fa60f18b55dc5f3de6|Wizards": {
-        "title": "Spread: Hornets (-1.5)",
-        "outcome": "Wizards",
-        "value": 640.1052,
-        "avgPrice": 0.4658,
-        "slug": "nba-was-cha-2026-10-26-spread-home-1pt5"
+      "0x004c6bb19b0d51bfb1e3a75257a0463af49a129213eca5af2c75ba8899368d64|Under": {
+        "title": "Warriors vs. Nuggets: O/U 237.5",
+        "outcome": "Under",
+        "value": 688.01,
+        "avgPrice": 0.53,
+        "slug": "nba-gsw-den-2026-10-26-total-237pt5"
       },
       "0x321f24adbdf940fc7ec01d918491d1075d8ad7735f66b79cb9787cc0cc287185|Bucks": {
         "title": "Spread: Pacers (-6.5)",
         "outcome": "Bucks",
-        "value": 604.0375,
+        "value": 670.7025,
         "avgPrice": 0.58,
         "slug": "nba-ind-mil-2026-10-26-spread-away-6pt5"
       },
-      "0xa31bbb6bd8591de313b822402c5f059cb6e3b088ab3c393199990577506a4577|Over": {
-        "title": "Bulls vs. Celtics: O/U 232.5",
-        "outcome": "Over",
-        "value": 596.8611,
-        "avgPrice": 0.5346,
-        "slug": "nba-chi-bos-2026-10-26-total-232pt5"
-      },
-      "0x338889eaa9c7bb4b61916d6745745825b0e42cd6a6ea752e0465dd2ae868774c|Over": {
-        "title": "Suns vs. Thunder: O/U 220.5",
-        "outcome": "Over",
-        "value": 588.4209,
-        "avgPrice": 0.5031,
-        "slug": "nba-phx-okc-2026-10-26-total-220pt5"
+      "0xbea27a176a1a48fa098cef06497b576700f4bcba9449f8928e3b151b41d2867f|UCF": {
+        "title": "Spread: UCF (-1.5)",
+        "outcome": "UCF",
+        "value": 602.553,
+        "avgPrice": 0.4545,
+        "slug": "cfb-bayl-ucf-2026-10-30-spread-home-1pt5"
       },
       "0xa4de7d3d823693e4aed1d4c853fdc43b9d097388a9c9f147e0628f811a6c55ba|Over": {
         "title": "Bulls vs. Celtics: O/U 235.5",
         "outcome": "Over",
-        "value": 560.8964,
+        "value": 587.2916,
         "avgPrice": 0.4604,
         "slug": "nba-chi-bos-2026-10-26-total-235pt5"
       },
-      "0x338889eaa9c7bb4b61916d6745745825b0e42cd6a6ea752e0465dd2ae868774c|Under": {
-        "title": "Suns vs. Thunder: O/U 220.5",
-        "outcome": "Under",
-        "value": 542.9316,
-        "avgPrice": 0.4901,
-        "slug": "nba-phx-okc-2026-10-26-total-220pt5"
+      "0xd80df9940989068c281cccb5547462d65c27f1a59ab5dd6efb60358d37efa3b7|Jazz": {
+        "title": "Spread: Grizzlies (-2.5)",
+        "outcome": "Jazz",
+        "value": 583.4929,
+        "avgPrice": 0.5792,
+        "slug": "nba-mem-uta-2026-10-26-spread-away-2pt5"
       },
-      "0x83fa7a1a2a281cbfd3c730e0e30e89cd5876c4118e883a2e58a25af15f0976ba|Hawks": {
-        "title": "Spread: Rockets (-5.5)",
-        "outcome": "Hawks",
-        "value": 517.7302,
-        "avgPrice": 0.5295,
-        "slug": "nba-atl-hou-2026-10-26-spread-home-5pt5"
+      "0x57602860c0764a8c1ae984bf933c9d683e2668ab38f4eab809328636e2608c68|Under": {
+        "title": "Grizzlies vs. Jazz: O/U 240.5",
+        "outcome": "Under",
+        "value": 579.6919,
+        "avgPrice": 0.5595,
+        "slug": "nba-mem-uta-2026-10-26-total-240pt5"
+      },
+      "0x6d6cd9a5d997fb66c77e61f439b710c6e0c3fe09e8e46d2b6ebd31070fd84f92|Over": {
+        "title": "Mavericks vs. Heat: O/U 239.5",
+        "outcome": "Over",
+        "value": 563.9388,
+        "avgPrice": 0.4877,
+        "slug": "nba-dal-mia-2026-10-26-total-239pt5"
+      },
+      "0x518a574cadc2fd69f81c14d864da67126c6db1fbdccae7a526a02484890a464d|Nuggets": {
+        "title": "Spread: Nuggets (-4.5)",
+        "outcome": "Nuggets",
+        "value": 533.3428,
+        "avgPrice": 0.5965,
+        "slug": "nba-gsw-den-2026-10-26-spread-home-4pt5"
+      },
+      "0x83341659dd7f3f8c6eeb5a3c6a8f00b655c81b08f38277f94444050e1394efcd|Heat": {
+        "title": "Spread: Heat (-9.5)",
+        "outcome": "Heat",
+        "value": 523.8507,
+        "avgPrice": 0.43,
+        "slug": "nba-dal-mia-2026-10-26-spread-home-9pt5"
+      },
+      "0xc7ad23f4bd4cda36beb108f4ea0a6c4eedb90e5cf5e607a909587b3f146ab875|Rositsa Dencheva": {
+        "title": "Courmayeur: Rositsa Dencheva vs Gabriela Knutson",
+        "outcome": "Rositsa Dencheva",
+        "value": 509.9599,
+        "avgPrice": 0.2691,
+        "slug": "wta-denchev-knutson-2026-10-26"
+      },
+      "0x6bfd188222d125a90db9d474e8eaf1daf644b1830f1e1b8baa974009b994e200|Under": {
+        "title": "Timberwolves vs. Cavaliers: O/U 232.5",
+        "outcome": "Under",
+        "value": 501.5068,
+        "avgPrice": 0.4963,
+        "slug": "nba-min-cle-2026-10-26-total-232pt5"
       }
     }
   },
   "announced": {
-    "0xf32138ed7dcf7be746e441d7add21e14c3f7d160929796b0a4867f53e490a402|Matteo Berrettini": 3,
     "0x94def0ffd89805072edd55247b14e5e43482647367220455ee33e64d3242b65d|Timberwolves": 3,
-    "0xc4a430b8a7403846189ed2623e1d5c3db871c5a8d616816fec0e71ac93612b26|Mariano Navone": 3,
-    "0xa54c879381ac29a0d6c2706b3655a443cdd971e9b5066b6c5a90eafdf9395faf|Moez Echargui": 3
+    "0x591f5fe6ff84e81b531d36bc42265e5017d96e216e052331a4accba083f36de4|Otto Virtanen": 3,
+    "0xc4d9b9fae8e834b801118d654b379718231a3b2a1a5b05ff058c7b70ca495170|Tomasz Berkieta": 3,
+    "0x4962e8dcc4ad6be7a0dd004101ceaf87b8b31e3bf32e854e19d28f2b4aee2463|No": 3
   }
 }
