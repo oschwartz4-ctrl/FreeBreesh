@@ -1,54 +1,33 @@
 {
   "seen": {
     "#1 Ferrari": {
-      "0xa3e8ef111c104c3b3d56ca06d6aa42dd0b28b3ba319c169ac5a836170be4b353|Broncos": {
-        "title": "Chiefs vs. Broncos",
-        "outcome": "Broncos",
-        "value": 117476.2591,
-        "avgPrice": 0.438,
-        "slug": "nfl-kc-den-2026-11-01"
+      "0x83197d7b5052586479ce2549e14f0a78ddbac08f234a35b1a51e3f7b272bb917|Eagles": {
+        "title": "Eagles vs. Commanders",
+        "outcome": "Eagles",
+        "value": 132994.1707,
+        "avgPrice": 0.4837,
+        "slug": "nfl-phi-was-2026-11-02"
       },
-      "0x7d5cc8736995d2972511abdd054005c066df956e2e508784c4dc086a15bcac14|Flyers": {
-        "title": "Utah vs. Flyers",
-        "outcome": "Flyers",
-        "value": 102237.05,
-        "avgPrice": 0.3954,
-        "slug": "nhl-utah-phi-2026-11-01"
+      "0x83197d7b5052586479ce2549e14f0a78ddbac08f234a35b1a51e3f7b272bb917|Commanders": {
+        "title": "Eagles vs. Commanders",
+        "outcome": "Commanders",
+        "value": 76867.6453,
+        "avgPrice": 0.4199,
+        "slug": "nfl-phi-was-2026-11-02"
       },
-      "0x9dedf734db84bef6ddc0ca4bd5e15c53cb273f96983d4e39d4d3e9633ef112ea|Patriots": {
-        "title": "Patriots vs. Dolphins",
-        "outcome": "Patriots",
-        "value": 81536.7277,
-        "avgPrice": 0.5265,
-        "slug": "nfl-ne-mia-2026-11-01"
-      },
-      "0x0397ef87ab7d459cd00824e2705c33850dc233d72ea681ffb202b544fa0be7eb|Under": {
-        "title": "Celtics vs. Magic: O/U 222.5",
+      "0x9168ff92c2a441b02faddb080fdea71b4b915b5da812ba443645ead929b66a11|Under": {
+        "title": "Eagles vs. Commanders: O/U 42.5",
         "outcome": "Under",
-        "value": 49156.5111,
-        "avgPrice": 0.5099,
-        "slug": "nba-bos-orl-2026-11-01-total-222pt5"
+        "value": 61118.0283,
+        "avgPrice": 0.5499,
+        "slug": "nfl-phi-was-2026-11-02-total-42pt5"
       },
-      "0x431da6b0a1c4f856599208732d7323118d7de244b26a360b42c84596653b24a6|Celtics": {
-        "title": "Celtics vs. Magic",
-        "outcome": "Celtics",
-        "value": 38199.8842,
-        "avgPrice": 0.7449,
-        "slug": "nba-bos-orl-2026-11-01"
-      },
-      "0x4677ae95cebc3b2202e8738771e793a1c87a0ac29677b7334b1fa5b315a5a2fe|Wild": {
-        "title": "Wild vs. Capitals",
-        "outcome": "Wild",
-        "value": 34618.0758,
-        "avgPrice": 0.75,
-        "slug": "nhl-min-wsh-2026-11-01"
-      },
-      "0x02b7dbadd467341ec0cf54af3c562c0781484ffa2856475ce8866b04b56736a0|Raptors": {
-        "title": "Spread: Lakers (-2.5)",
-        "outcome": "Raptors",
-        "value": 33257.0572,
-        "avgPrice": 0.4699,
-        "slug": "nba-tor-lal-2026-11-01-spread-home-2pt5"
+      "0xedd2e744dc1b99eb626a9718c3fbff5f4f879b111376cad47e6f253c1c546d6c|Over": {
+        "title": "Clippers vs. Warriors: O/U 219.5",
+        "outcome": "Over",
+        "value": 38950.8123,
+        "avgPrice": 0.52,
+        "slug": "nba-lac-gsw-2026-11-01-total-219pt5"
       },
       "0x1f8d995c49e6794c58dcd187b413a66c625bc5296e95f22844e300da7e4a66b4|Ann Li": {
         "title": "Monterrey Open: Maria Timofeeva vs Ann Li",
@@ -57,131 +36,89 @@
         "avgPrice": 0.5156,
         "slug": "wta-timofee-annli-2026-08-26"
       },
-      "0xaaa06fa5ee61d2ef85563a6ea89ea4f235532297415c21a58a3aaacf53f823e0|Patriots": {
-        "title": "Spread: Dolphins (-3.5)",
-        "outcome": "Patriots",
-        "value": 26326.8699,
-        "avgPrice": 0.5573,
-        "slug": "nfl-ne-mia-2026-11-01-spread-home-3pt5"
-      },
-      "0x60d91a8f8f3ba5ad1eb74193b864e3f1d5de14ef87766dba5f3cef5b2c130ca6|Flyers": {
-        "title": "Spread: Utah (-1.5)",
-        "outcome": "Flyers",
-        "value": 25723.419,
-        "avgPrice": 0.6292,
-        "slug": "nhl-utah-phi-2026-11-01-spread-away-1pt5"
-      },
-      "0x7c94de3139d15741f361423e0e374ead2a1256dfa8f8f0292ff0abd3b10164fc|Dolphins": {
-        "title": "Spread: Patriots (-6.5)",
-        "outcome": "Dolphins",
-        "value": 23078.1304,
-        "avgPrice": 0.4799,
-        "slug": "nfl-ne-mia-2026-11-01-spread-away-6pt5"
-      },
-      "0xc10ecfad4d975cce207190678f4592f69d9f6641e1bbd941f467fba87ece90ea|Oilers": {
-        "title": "Oilers vs. Rangers",
-        "outcome": "Oilers",
-        "value": 16799.0448,
-        "avgPrice": 0.4599,
-        "slug": "nhl-edm-nyr-2026-11-01"
-      },
-      "0x4e47995cb0f17625ba2ab34b05af180cbabb34207d1e7f7c8516d84a7f0273d7|Chargers": {
-        "title": "Chargers vs. Rams",
-        "outcome": "Chargers",
-        "value": 16795.9041,
-        "avgPrice": 0.1882,
-        "slug": "nfl-lac-la-2026-11-01"
-      },
-      "0x5b45890ba4d6ffbed68921fb06ebd948ad52dcb75fd4e4d744b9a086fa52b1ab|Broncos": {
-        "title": "Spread: Chiefs (-1.5)",
-        "outcome": "Broncos",
-        "value": 15647.91,
-        "avgPrice": 0.5331,
-        "slug": "nfl-kc-den-2026-11-01-spread-away-1pt5"
-      },
-      "0xe23c9d151cfe6b414aae0f0d567eb8dd45345f1c5cf53e9ed218fafa62a5f0f1|Rams": {
-        "title": "Spread: Rams (-6.5)",
-        "outcome": "Rams",
-        "value": 15530.3527,
-        "avgPrice": 0.4845,
-        "slug": "nfl-lac-la-2026-11-01-spread-home-6pt5"
-      },
-      "0xefdb30410d2abdee80673ff4805c8b8def82796e533a784523ec9fe02d653635|Ducks": {
-        "title": "Senators vs. Ducks",
-        "outcome": "Ducks",
-        "value": 12679.8871,
+      "0x02b7dbadd467341ec0cf54af3c562c0781484ffa2856475ce8866b04b56736a0|Raptors": {
+        "title": "Spread: Lakers (-2.5)",
+        "outcome": "Raptors",
+        "value": 25747.3991,
         "avgPrice": 0.4699,
-        "slug": "nhl-ott-ana-2026-11-01"
+        "slug": "nba-tor-lal-2026-11-01-spread-home-2pt5"
       },
-      "0x8339e89b36a05f19c9f1435956c1eddd8a3feeadb54fe90621cc0f1ec3fe42a7|Rams": {
-        "title": "Spread: Rams (-8.5)",
-        "outcome": "Rams",
-        "value": 11619.4162,
-        "avgPrice": 0.4699,
-        "slug": "nfl-lac-la-2026-11-01-spread-home-8pt5"
+      "0x625ead1a358e56fe02423abe3711ea2190c3ac3ea5a123a63b471746bc7b5e63|Kenta Miyoshi": {
+        "title": "Charlottesville: Dominick Mosejczuk vs Kenta Miyoshi",
+        "outcome": "Kenta Miyoshi",
+        "value": 13659.2981,
+        "avgPrice": 0.7826,
+        "slug": "atp-mosejcz-miyoshi-2026-11-01"
       },
-      "0x57aaf90134c50dea622e63f8f0d7e16261b2ad12716fae23d8002a50752f4c4b|Clippers": {
-        "title": "Spread: Warriors (-2.5)",
-        "outcome": "Clippers",
-        "value": 10209.2392,
-        "avgPrice": 0.5205,
-        "slug": "nba-lac-gsw-2026-11-01-spread-home-2pt5"
+      "0xf993d7a95d1e4974f4b768f2a0860d924348bbcb28ba6aee1539b7a4f721e2bb|Under": {
+        "title": "Eagles vs. Commanders: O/U 40.5",
+        "outcome": "Under",
+        "value": 13161.3684,
+        "avgPrice": 0.4796,
+        "slug": "nfl-phi-was-2026-11-02-total-40pt5"
       },
-      "0x1f879a0da3c89e534a37d64a0bf35f6eefe37c016c75805392adec3e5e9ddae0|Celtics": {
-        "title": "Spread: Celtics (-6.5)",
-        "outcome": "Celtics",
-        "value": 8964.2489,
-        "avgPrice": 0.5199,
-        "slug": "nba-bos-orl-2026-11-01-spread-away-6pt5"
+      "0x43e0988de9d2480476e13b2aa5929ed662aab7566b2afdccf6972362c79554c1|Under": {
+        "title": "Eagles vs. Commanders: O/U 44.5",
+        "outcome": "Under",
+        "value": 11140.4124,
+        "avgPrice": 0.492,
+        "slug": "nfl-phi-was-2026-11-02-total-44pt5"
       },
-      "0x3945f32108352122d3b69ed6a51dd0837227e880d11fe81921543bf1adbb92b4|Pacers": {
-        "title": "Nets vs. Pacers",
-        "outcome": "Pacers",
-        "value": 8455.2639,
-        "avgPrice": 0.5615,
-        "slug": "nba-bkn-ind-2026-11-01"
+      "0x0f5dd5da2efdf04117e5b21fc400564c9b72de35b0bcf1282b5d99d4cc72d31f|Under": {
+        "title": "Raptors vs. Lakers: O/U 223.5",
+        "outcome": "Under",
+        "value": 10033.8003,
+        "avgPrice": 0.5087,
+        "slug": "nba-tor-lal-2026-11-01-total-223pt5"
       },
       "0x1c1a285c027642fbf69d5870c43cbf7317454369d236a12408c236dfd09b2600|Under": {
         "title": "Raptors vs. Lakers: O/U 225.5",
         "outcome": "Under",
-        "value": 8143.7055,
+        "value": 10005.1239,
         "avgPrice": 0.5114,
         "slug": "nba-tor-lal-2026-11-01-total-225pt5"
-      },
-      "0x1731fafcdf38cac7d343c4deea1d7aeb5d77bdcaa73feeaaeccf2228b4add5d2|Rams": {
-        "title": "Spread: Rams (-2.5)",
-        "outcome": "Rams",
-        "value": 7583.5674,
-        "avgPrice": 0.4716,
-        "slug": "nfl-lac-la-2026-11-01-spread-home-2pt5"
-      },
-      "0x57bfd26e861431467ae2feaa6305ba0cc41057857933b8366d41b334c21a5267|Over": {
-        "title": "Chargers vs. Rams: O/U 46.5",
-        "outcome": "Over",
-        "value": 6974.5786,
-        "avgPrice": 0.4841,
-        "slug": "nfl-lac-la-2026-11-01-total-46pt5"
       },
       "0xb043efc40b18a318667c71f48f25021996e838548bb8657936a288b2f9e5b488|Over": {
         "title": "Clippers vs. Warriors: O/U 220.5",
         "outcome": "Over",
-        "value": 6449.3698,
-        "avgPrice": 0.5298,
+        "value": 9051.4606,
+        "avgPrice": 0.5271,
         "slug": "nba-lac-gsw-2026-11-01-total-220pt5"
       },
-      "0x49f5558b039f8528f55a2340ef1bca578d289990912e3f69e84a3a87c50a9e38|Celtics": {
-        "title": "Spread: Celtics (-7.5)",
-        "outcome": "Celtics",
-        "value": 4253.6255,
-        "avgPrice": 0.5099,
-        "slug": "nba-bos-orl-2026-11-01-spread-away-7pt5"
+      "0xefdb30410d2abdee80673ff4805c8b8def82796e533a784523ec9fe02d653635|Ducks": {
+        "title": "Senators vs. Ducks",
+        "outcome": "Ducks",
+        "value": 8316.9152,
+        "avgPrice": 0.4699,
+        "slug": "nhl-ott-ana-2026-11-01"
       },
-      "0xf1dd88f8a94c0df20559f39d9b21ec334882a58954638f0e280b5b5f29da8b6a|Chiefs": {
-        "title": "Spread: Broncos (-2.5)",
-        "outcome": "Chiefs",
-        "value": 4228.2005,
-        "avgPrice": 0.46,
-        "slug": "nfl-kc-den-2026-11-01-spread-home-2pt5"
+      "0x57aaf90134c50dea622e63f8f0d7e16261b2ad12716fae23d8002a50752f4c4b|Clippers": {
+        "title": "Spread: Warriors (-2.5)",
+        "outcome": "Clippers",
+        "value": 7839.4327,
+        "avgPrice": 0.5205,
+        "slug": "nba-lac-gsw-2026-11-01-spread-home-2pt5"
+      },
+      "0xf05549db516ab80bf0bd393c6601076bace28f9e3588577726413c99954cf5f4|Under": {
+        "title": "Raptors vs. Lakers: O/U 224.5",
+        "outcome": "Under",
+        "value": 5653.1552,
+        "avgPrice": 0.5,
+        "slug": "nba-tor-lal-2026-11-01-total-224pt5"
+      },
+      "0xec99c349030b13a8af1672362c0467d7c1231c98bf0a7c185018df3167567b04|Clippers": {
+        "title": "Clippers vs. Warriors",
+        "outcome": "Clippers",
+        "value": 4231.506,
+        "avgPrice": 0.4535,
+        "slug": "nba-lac-gsw-2026-11-01"
+      },
+      "0x123546409bdb9e19eaf4512489abfebb72b2ddf6a037b879f45b31ad6e286cce|Over": {
+        "title": "Clippers vs. Warriors: O/U 221.5",
+        "outcome": "Over",
+        "value": 3635.8158,
+        "avgPrice": 0.48,
+        "slug": "nba-lac-gsw-2026-11-01-total-221pt5"
       },
       "0x3a5736b4d3b777663ab3b24aedb50f092bd96b50d154a9fc89388314f1ecaca2|Elsa Bonelli": {
         "title": "ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Sarina Schnyder vs Elsa Bonelli",
@@ -190,75 +127,19 @@
         "avgPrice": 0.5765,
         "slug": "itf-schnyde-bonelli-2026-08-26"
       },
-      "0x383401393d592dc88681d297ed9846d7850490d7959937b4cb2cd7f8bf0fa43a|Over": {
-        "title": "Chargers vs. Rams: O/U 42.5",
-        "outcome": "Over",
-        "value": 3463.5758,
-        "avgPrice": 0.4699,
-        "slug": "nfl-lac-la-2026-11-01-total-42pt5"
+      "0xefa35d30849e8a41afdfa1112ca65d682767ff237a113c191f60ef1bf88e6f13|Raptors": {
+        "title": "Raptors vs. Lakers",
+        "outcome": "Raptors",
+        "value": 2721.7285,
+        "avgPrice": 0.4,
+        "slug": "nba-tor-lal-2026-11-01"
       },
-      "0xe7af522aa479a371bb17e6126c2444a4f0825c00645dae815d1abed5195b60ce|Broncos": {
-        "title": "Spread: Chiefs (-4.5)",
-        "outcome": "Broncos",
-        "value": 2965.0131,
-        "avgPrice": 0.51,
-        "slug": "nfl-kc-den-2026-11-01-spread-away-4pt5"
-      },
-      "0x4e47995cb0f17625ba2ab34b05af180cbabb34207d1e7f7c8516d84a7f0273d7|Rams": {
-        "title": "Chargers vs. Rams",
-        "outcome": "Rams",
-        "value": 2933.5007,
-        "avgPrice": 0.8699,
-        "slug": "nfl-lac-la-2026-11-01"
-      },
-      "0x1d3b2d68b424cbcb3453492def52ae61c515df29f6cb0c89808a48c53c556bd0|Magic": {
-        "title": "Spread: Celtics (-8.5)",
-        "outcome": "Magic",
-        "value": 2909.8336,
-        "avgPrice": 0.5299,
-        "slug": "nba-bos-orl-2026-11-01-spread-away-8pt5"
-      },
-      "0x288f63b524110c68e691ad2eeacd1cb3be599e0c523c9d2269f3c2350efb6543|Over": {
-        "title": "CA Belgrano vs. CA Barracas Central: O/U 2.5",
-        "outcome": "Over",
-        "value": 2709.9215,
-        "avgPrice": 0.4099,
-        "slug": "arg-bel-bar-2026-11-01-total-2pt5"
-      },
-      "0xe126a5a0abe87a98e5e365feae41bba143e107ed47b14cb54e6ad89f350815a2|Under": {
-        "title": "Nets vs. Pacers: O/U 210.5",
-        "outcome": "Under",
-        "value": 2690.5861,
-        "avgPrice": 0.4299,
-        "slug": "nba-bkn-ind-2026-11-01-total-210pt5"
-      },
-      "0x4ce0ba31598cdaaa3322e46f922c2f32d51bf9e360afd7748850016d9a5f7bb0|Chargers": {
-        "title": "Spread: Rams (-9.5)",
-        "outcome": "Chargers",
-        "value": 2578.9603,
-        "avgPrice": 0.5,
-        "slug": "nfl-lac-la-2026-11-01-spread-home-9pt5"
-      },
-      "0xcbc12bbd521f1e250bf6eff05c4e52d879c618cb6a9410008b21ce8aab9b0628|Under": {
-        "title": "Chiefs vs. Broncos: O/U 40.5",
-        "outcome": "Under",
-        "value": 2471.8169,
-        "avgPrice": 0.4899,
-        "slug": "nfl-kc-den-2026-11-01-total-40pt5"
-      },
-      "0x97e69351542e6dae0eb4a05b6ca24f252e4f6f6202c728c0ac7a99003c4f7c51|Pacers": {
-        "title": "Spread: Pacers (-4.5)",
-        "outcome": "Pacers",
-        "value": 2458.4028,
-        "avgPrice": 0.44,
-        "slug": "nba-bkn-ind-2026-11-01-spread-home-4pt5"
-      },
-      "0x8f9509d95e9dcd55670f4a6e92337ef5d00256a8c03d6e2e5f9fda4d57e06434|Chiefs": {
-        "title": "Spread: Chiefs (-3.5)",
-        "outcome": "Chiefs",
-        "value": 2442.7203,
-        "avgPrice": 0.3302,
-        "slug": "nfl-kc-den-2026-11-01-spread-away-3pt5"
+      "0x4379d7ea674ecaa4fbe8a711f7b0aee29f2409a51891011c3dd6c27ad57e75ae|Eagles": {
+        "title": "Spread: Commanders (-5.5)",
+        "outcome": "Eagles",
+        "value": 2588.5099,
+        "avgPrice": 0.4777,
+        "slug": "nfl-phi-was-2026-11-02-spread-home-5pt5"
       },
       "0x9af167ed361bdc016577401cd59cc05fee72a7aaf70b4a28616f8c6acca2b920|Luiza Fullana": {
         "title": "ITF WOMEN - SINGLES: W35 Barueri (Brazil), hard: Maria Fernanda Navarro vs Luiza Fullana",
@@ -266,13 +147,6 @@
         "value": 2334.4456,
         "avgPrice": 0.6414,
         "slug": "itf-navarr-fullana-2026-08-26"
-      },
-      "0x4379d7ea674ecaa4fbe8a711f7b0aee29f2409a51891011c3dd6c27ad57e75ae|Eagles": {
-        "title": "Spread: Commanders (-5.5)",
-        "outcome": "Eagles",
-        "value": 2241.063,
-        "avgPrice": 0.4799,
-        "slug": "nfl-phi-was-2026-11-02-spread-home-5pt5"
       },
       "0x4add5d6c538a3231c493ea5ed350177e0aefd8b434918a3f1fe450a4bc8d205b|Julieta Pareja": {
         "title": "ITF Dallas: Dana Guzman vs Julieta Pareja",
@@ -288,20 +162,6 @@
         "avgPrice": 0.5834,
         "slug": "wta-kuderme-korneev-2026-07-20"
       },
-      "0x1c78eb1372d067a94440e81e9c5b0df5cda1bc6683c371bd99d9117e1e9a2c57|Chargers": {
-        "title": "Spread: Rams (-7.5)",
-        "outcome": "Chargers",
-        "value": 2114.9818,
-        "avgPrice": 0.44,
-        "slug": "nfl-lac-la-2026-11-01-spread-home-7pt5"
-      },
-      "0x89ff52bb0d5d29fdbf1473859fff52d3002a476699fd9ac3c892fc060d28b699|Bianca Andreescu": {
-        "title": "Queretaro: Tatjana Maria vs Bianca Andreescu",
-        "outcome": "Bianca Andreescu",
-        "value": 2095.0182,
-        "avgPrice": 0.6758,
-        "slug": "wta-maria-andrees-2026-11-01"
-      },
       "0xea43f4e7cd3128279734fbb9d16ab18b686cc05affb2a9e347c095a0028da161|Jan Kumstat": {
         "title": "ITF Ollersbach: Vladyslav Orlov vs Jan Kumstat",
         "outcome": "Jan Kumstat",
@@ -309,26 +169,12 @@
         "avgPrice": 0.67,
         "slug": "itf-orlov-kumstat-2026-07-23"
       },
-      "0x1c38b70102ec35a994cf5690751f8b9543de68ea6e19067867766962b9003766|Nets": {
-        "title": "Spread: Pacers (-3.5)",
-        "outcome": "Nets",
-        "value": 2018.4759,
-        "avgPrice": 0.4899,
-        "slug": "nba-bkn-ind-2026-11-01-spread-home-3pt5"
-      },
-      "0xe5879d26547f244cebe1da78bf0698bd8186158f1c01171be59fe4d839a6397b|Rams": {
-        "title": "Spread: Rams (-1.5)",
-        "outcome": "Rams",
-        "value": 1949.5829,
-        "avgPrice": 0.5199,
-        "slug": "nfl-lac-la-2026-11-01-spread-home-1pt5"
-      },
-      "0xb5d681dc6e45e1440c64c69652d7c3875e927af2420c72f6224aaf7a6c55de5c|Under": {
-        "title": "Patriots vs. Dolphins: O/U 32.5",
-        "outcome": "Under",
-        "value": 1918.6026,
-        "avgPrice": 0.43,
-        "slug": "nfl-ne-mia-2026-11-01-total-32pt5"
+      "0xcfe0e96b5a699f466a74f03c21bab8f6a255c911c4e5d01d4226caff62bcb50f|Eagles": {
+        "title": "Spread: Commanders (-3.5)",
+        "outcome": "Eagles",
+        "value": 1912.665,
+        "avgPrice": 0.55,
+        "slug": "nfl-phi-was-2026-11-02-spread-home-3pt5"
       },
       "0x4c7b0e07dfb705ca8004abf7dd591e62a35dae69c7b27de634b7aed4573c8483|Tereza Valentova": {
         "title": "Livesport Prague Open: Eva Lys vs Tereza Valentova",
@@ -344,20 +190,6 @@
         "avgPrice": 0.6038,
         "slug": "itf-zeltina-palicov-2026-08-17"
       },
-      "0x5d5a27cbf66962c97fdf08fcdc63c9f8665a6d613def6a9b9bca3b1c56385aef|Broncos": {
-        "title": "Spread: Chiefs (-2.5)",
-        "outcome": "Broncos",
-        "value": 1835.4,
-        "avgPrice": 0.48,
-        "slug": "nfl-kc-den-2026-11-01-spread-away-2pt5"
-      },
-      "0x84f17a50966b0bb5ee544aa44f6011aff0b08bbed41ba22501c13c62303f565a|Rams": {
-        "title": "Spread: Rams (-3.5)",
-        "outcome": "Rams",
-        "value": 1748.0736,
-        "avgPrice": 0.56,
-        "slug": "nfl-lac-la-2026-11-01-spread-home-3pt5"
-      },
       "0x9436ee87d591f1e5f1ec40661679c462e642aba82fcf00d871e2a848f5136579|Over": {
         "title": "Rayo Vallecano de Madrid vs. Athletic Club: 1st Half O/U 0.5",
         "outcome": "Over",
@@ -371,13 +203,6 @@
         "value": 1282.225,
         "avgPrice": 0.5886,
         "slug": "itf-rottoli-ferrar-2026-08-04"
-      },
-      "0x3499c524664ea1f131f7644a123d6338ea8f51f7ada4385ccc140704c638007b|Broncos": {
-        "title": "Spread: Chiefs (-7.5)",
-        "outcome": "Broncos",
-        "value": 1269.0417,
-        "avgPrice": 0.57,
-        "slug": "nfl-kc-den-2026-11-01-spread-away-7pt5"
       },
       "0x7aa71e47536cd611c9a7567bcd45752e171da74fae7c437a8c959fce8254c2c7|Stefan Vujic": {
         "title": "ITF Hillcrest: Preston Brown vs Stefan Vujic",
@@ -449,6 +274,13 @@
         "avgPrice": 0.55,
         "slug": "atp-munar-blockx-2026-08-04"
       },
+      "0x85d4c434db834ec87b30ae6f91fdfd240d9a725fe327f748b0ebc0781c318721|Legacy": {
+        "title": "Counter-Strike: Legacy vs TheMongolz (BO3) - IEM Beijing Group A",
+        "outcome": "Legacy",
+        "value": 1083.0306,
+        "avgPrice": 0.5448,
+        "slug": "cs2-lgc-mglz-2026-11-02"
+      },
       "0xd5775d8d33445e6f5c14b584c0f54535d4b2255b8cdfa9b69697f86969327718|Svyatoslav Gulin": {
         "title": "Prague: Marek Gengel vs Svyatoslav Gulin",
         "outcome": "Svyatoslav Gulin",
@@ -462,6 +294,13 @@
         "value": 1056.33,
         "avgPrice": 0.73,
         "slug": "itf-daems-granweh-2026-07-23"
+      },
+      "0xc578e064525883ec1e08a16816432b017635c27735208b51f98f449db0f2bd20|TheMongolz": {
+        "title": "Map Handicap: LGC (-1.5) vs TheMongolz (+1.5)",
+        "outcome": "TheMongolz",
+        "value": 867.24,
+        "avgPrice": 0.6499,
+        "slug": "cs2-lgc-mglz-2026-11-02-map-handicap-away-1pt5"
       },
       "0x16a4eb4f9ba2c5601406f85e5a86decb01f265adae6fd57e208085651b302a56|KT Wiz": {
         "title": "KBO: Doosan Bears vs. KT Wiz",
@@ -484,20 +323,6 @@
         "avgPrice": 0.6982,
         "slug": "itf-tenguer-reco-2026-07-23"
       },
-      "0x8077d622e420c19692bc2510700cd431ad0b09fee63bf59cd98e36727c7fc4ce|Under": {
-        "title": "Patriots vs. Dolphins: O/U 42.5",
-        "outcome": "Under",
-        "value": 684.103,
-        "avgPrice": 0.5299,
-        "slug": "nfl-ne-mia-2026-11-01-total-42pt5"
-      },
-      "0x65f686df635cb1d8c643e659a482dd970337beefe7292b657ec86b1cadbde9f4|Karl Poling": {
-        "title": "Charlottesville: Andrew Fenty vs Karl Poling",
-        "outcome": "Karl Poling",
-        "value": 662.9848,
-        "avgPrice": 0.0255,
-        "slug": "atp-fenty-poling-2026-11-01"
-      },
       "0xe3c90c8836bbdcb619f6b749e7095458baca9be96cc81f125568bea771336207|Sobolieva": {
         "title": "Set 1 Winner: Samson vs Sobolieva",
         "outcome": "Sobolieva",
@@ -505,33 +330,12 @@
         "avgPrice": 0.5179,
         "slug": "wta-samson-sobolie-2026-07-29-first-set-winner-Samson-vs-Sobolieva"
       },
-      "0x8573955fe17aab943a89de41778bebc7ed69632d615188004522307aa62c9164|Over": {
-        "title": "Celtics vs. Magic: O/U 221.5",
-        "outcome": "Over",
-        "value": 612.6896,
-        "avgPrice": 0.5214,
-        "slug": "nba-bos-orl-2026-11-01-total-221pt5"
-      },
-      "0x89ff52bb0d5d29fdbf1473859fff52d3002a476699fd9ac3c892fc060d28b699|Tatjana Maria": {
-        "title": "Queretaro: Tatjana Maria vs Bianca Andreescu",
-        "outcome": "Tatjana Maria",
-        "value": 555.3875,
-        "avgPrice": 0.0802,
-        "slug": "wta-maria-andrees-2026-11-01"
-      },
-      "0x6bc3d5b7d8a8032f3c169e09562f81fccb8707748709ecf8f47269d3b152c4ef|Under": {
-        "title": "Chiefs vs. Broncos: O/U 42.5",
-        "outcome": "Under",
-        "value": 541.5466,
-        "avgPrice": 0.4124,
-        "slug": "nfl-kc-den-2026-11-01-total-42pt5"
-      },
-      "0x25220347866dc9850acdd166564a32f1b31dab7327ac938362bef26559f52f90|Under": {
-        "title": "Chargers vs. Rams: O/U 40.5",
-        "outcome": "Under",
-        "value": 531.2975,
-        "avgPrice": 0.6029,
-        "slug": "nfl-lac-la-2026-11-01-total-40pt5"
+      "0x6ebab16c5ce48c4c421e7308103d654d0d329dca4318d042b9c825170eefac34|Legacy": {
+        "title": "Counter-Strike: Legacy vs TheMongolz - Map 1 Winner",
+        "outcome": "Legacy",
+        "value": 518.9268,
+        "avgPrice": 0.632,
+        "slug": "cs2-lgc-mglz-2026-11-02-game1"
       },
       "0xcba78f02cd07d809471ee9b21813b430d360262db259917a6709806d69e159ea|Dzumhur": {
         "title": "Set 1 Winner: Gaston vs Dzumhur",
@@ -542,33 +346,33 @@
       }
     },
     "#2 RN1": {
-      "0xa3e8ef111c104c3b3d56ca06d6aa42dd0b28b3ba319c169ac5a836170be4b353|Broncos": {
-        "title": "Chiefs vs. Broncos",
-        "outcome": "Broncos",
-        "value": 10330.7662,
-        "avgPrice": 0.4096,
-        "slug": "nfl-kc-den-2026-11-01"
+      "0x319188254841be676802bba342bb38123759df8f47ff21443c836741b98f902c|Yanki Erel": {
+        "title": "Taipei: Yanki Erel vs Masamichi Imamura",
+        "outcome": "Yanki Erel",
+        "value": 9458.0491,
+        "avgPrice": 0.6836,
+        "slug": "atp-erel-imamura-2026-11-01"
       },
-      "0xa3e8ef111c104c3b3d56ca06d6aa42dd0b28b3ba319c169ac5a836170be4b353|Chiefs": {
-        "title": "Chiefs vs. Broncos",
-        "outcome": "Chiefs",
-        "value": 10121.4451,
-        "avgPrice": 0.5884,
-        "slug": "nfl-kc-den-2026-11-01"
+      "0x83197d7b5052586479ce2549e14f0a78ddbac08f234a35b1a51e3f7b272bb917|Eagles": {
+        "title": "Eagles vs. Commanders",
+        "outcome": "Eagles",
+        "value": 8843.1572,
+        "avgPrice": 0.5216,
+        "slug": "nfl-phi-was-2026-11-02"
       },
-      "0x4e47995cb0f17625ba2ab34b05af180cbabb34207d1e7f7c8516d84a7f0273d7|Rams": {
-        "title": "Chargers vs. Rams",
-        "outcome": "Rams",
-        "value": 9177.45,
-        "avgPrice": 0.6669,
-        "slug": "nfl-lac-la-2026-11-01"
+      "0xe2ff1169aa68cf9ed9c3e1f50ac0926a7d689a6eb5eff8660cff70e95de25012|Yes": {
+        "title": "Will Club Santos Laguna win on 2026-11-01?",
+        "outcome": "Yes",
+        "value": 8364.8449,
+        "avgPrice": 0.4205,
+        "slug": "mex-san-nec-2026-11-01-san"
       },
-      "0xe23c9d151cfe6b414aae0f0d567eb8dd45345f1c5cf53e9ed218fafa62a5f0f1|Rams": {
-        "title": "Spread: Rams (-6.5)",
-        "outcome": "Rams",
-        "value": 7894.7341,
-        "avgPrice": 0.5296,
-        "slug": "nfl-lac-la-2026-11-01-spread-home-6pt5"
+      "0x83197d7b5052586479ce2549e14f0a78ddbac08f234a35b1a51e3f7b272bb917|Commanders": {
+        "title": "Eagles vs. Commanders",
+        "outcome": "Commanders",
+        "value": 8187.854,
+        "avgPrice": 0.4277,
+        "slug": "nfl-phi-was-2026-11-02"
       },
       "0x3e4d20cb627ab0bcfab0e7fb48753765b3436dd121999befd2596572a6d2dc36|No": {
         "title": "Will Athletic Club win on 2026-10-10?",
@@ -577,82 +381,26 @@
         "avgPrice": 0.6228,
         "slug": "lal-ray-bil-2026-10-10-bil"
       },
-      "0x9dedf734db84bef6ddc0ca4bd5e15c53cb273f96983d4e39d4d3e9633ef112ea|Patriots": {
-        "title": "Patriots vs. Dolphins",
-        "outcome": "Patriots",
-        "value": 7452.8652,
-        "avgPrice": 0.6022,
-        "slug": "nfl-ne-mia-2026-11-01"
-      },
-      "0x9dedf734db84bef6ddc0ca4bd5e15c53cb273f96983d4e39d4d3e9633ef112ea|Dolphins": {
-        "title": "Patriots vs. Dolphins",
-        "outcome": "Dolphins",
-        "value": 6836.5707,
-        "avgPrice": 0.4473,
-        "slug": "nfl-ne-mia-2026-11-01"
-      },
-      "0x3499c524664ea1f131f7644a123d6338ea8f51f7ada4385ccc140704c638007b|Broncos": {
-        "title": "Spread: Chiefs (-7.5)",
-        "outcome": "Broncos",
-        "value": 6383.6914,
-        "avgPrice": 0.5754,
-        "slug": "nfl-kc-den-2026-11-01-spread-away-7pt5"
-      },
-      "0x10d09c45bad949597c9921be1f5d4fcbc9302a841de9cae9df8f4918230807a7|Over": {
-        "title": "SC Braga vs. FC Famalic\u00e3o: O/U 2.5",
-        "outcome": "Over",
-        "value": 5912.9185,
-        "avgPrice": 0.291,
-        "slug": "por-scb-fam-2026-11-01-total-2pt5"
-      },
-      "0xb6a8b047fd44a47ef8f6e53249f73d96ab4d9fcfc88e2223a25a76b6cd85a56b|Under": {
-        "title": "Gr\u00eamio FBPA vs. CA Mineiro: O/U 2.5",
-        "outcome": "Under",
-        "value": 5706.997,
-        "avgPrice": 0.6132,
-        "slug": "brco-gre-cam-2026-11-01-total-2pt5"
-      },
-      "0xdf5326b1e0b651ba761a55d15897554d4205ae99cd0870557a4b369a1611d870|Filip Misolic": {
-        "title": "Costa do Sauipe: Marcelo Zormann vs Filip Misolic",
-        "outcome": "Filip Misolic",
-        "value": 5157.4157,
-        "avgPrice": 0.93,
-        "slug": "atp-zormann-misolic-2026-11-01"
-      },
       "0xada6a8094879acbd5e9e1fd09f3c8324a9a28bc9def7c2ef98d16e96d811741d|Joaquin Aguilar": {
         "title": "Guayaquil: Joaquin Aguilar vs Hugo Dellien",
         "outcome": "Joaquin Aguilar",
-        "value": 5094.2375,
+        "value": 5203.791,
         "avgPrice": 0.3597,
         "slug": "atp-aguil-dellien-2026-11-01"
       },
-      "0x3a0194e5047ef65b7815501f8aaf039fc51538f3cf199690d2cc48d1ad098efc|Yes": {
-        "title": "Will SC Braga win on 2026-11-01?",
-        "outcome": "Yes",
-        "value": 4773.8019,
-        "avgPrice": 0.595,
-        "slug": "por-scb-fam-2026-11-01-scb"
+      "0x2a2100c9ed1a34b7bcc77328168ab6dd4d609c172292b307040ded0829338535|Over": {
+        "title": "Club Guabir\u00e1 vs. Club Bol\u00edvar: O/U 2.5",
+        "outcome": "Over",
+        "value": 5015.2911,
+        "avgPrice": 0.4842,
+        "slug": "bol1-gua-bol-2026-11-01-total-2pt5"
       },
-      "0x0b6d3bce340857f8ec95c74b45d6a7199cde4ee04aa6cd5fba067497914584a0|Dolphins": {
-        "title": "Spread: Patriots (-8.5)",
-        "outcome": "Dolphins",
-        "value": 4563.2,
-        "avgPrice": 0.49,
-        "slug": "nfl-ne-mia-2026-11-01-spread-away-8pt5"
-      },
-      "0x4a01e162901ca9f36611477e57c1a680f39f69f1d4759320c5cae4d10bf213f2|Rams": {
-        "title": "Spread: Rams (-4.5)",
-        "outcome": "Rams",
-        "value": 4233.3216,
-        "avgPrice": 0.5091,
-        "slug": "nfl-lac-la-2026-11-01-spread-home-4pt5"
-      },
-      "0x1731fafcdf38cac7d343c4deea1d7aeb5d77bdcaa73feeaaeccf2228b4add5d2|Rams": {
-        "title": "Spread: Rams (-2.5)",
-        "outcome": "Rams",
-        "value": 4153.59,
-        "avgPrice": 0.51,
-        "slug": "nfl-lac-la-2026-11-01-spread-home-2pt5"
+      "0x43e0988de9d2480476e13b2aa5929ed662aab7566b2afdccf6972362c79554c1|Under": {
+        "title": "Eagles vs. Commanders: O/U 44.5",
+        "outcome": "Under",
+        "value": 4599.945,
+        "avgPrice": 0.4833,
+        "slug": "nfl-phi-was-2026-11-02-total-44pt5"
       },
       "0x3e4d20cb627ab0bcfab0e7fb48753765b3436dd121999befd2596572a6d2dc36|Yes": {
         "title": "Will Athletic Club win on 2026-10-10?",
@@ -661,61 +409,26 @@
         "avgPrice": 0.3789,
         "slug": "lal-ray-bil-2026-10-10-bil"
       },
-      "0x166a41d981e3f5ac1634065dfffef2e82f405833610d30187eb8d6b01f71a2b5|No": {
-        "title": "Will Club Bol\u00edvar win on 2026-11-01?",
+      "0xf0ca0332190c92a8ba3a2c711718f21b3f8e72897ac85d94fbcd2a77611ee59a|No": {
+        "title": "Will Independiente Medell\u00edn vs. Alianza FC end in a draw?",
         "outcome": "No",
-        "value": 3711.0703,
-        "avgPrice": 0.4698,
-        "slug": "bol1-gua-bol-2026-11-01-bol"
+        "value": 3719.8058,
+        "avgPrice": 0.2472,
+        "slug": "col1-inm-alf-2026-11-01-draw"
       },
-      "0x383401393d592dc88681d297ed9846d7850490d7959937b4cb2cd7f8bf0fa43a|Over": {
-        "title": "Chargers vs. Rams: O/U 42.5",
-        "outcome": "Over",
-        "value": 3649.0362,
-        "avgPrice": 0.47,
-        "slug": "nfl-lac-la-2026-11-01-total-42pt5"
-      },
-      "0xf1dd88f8a94c0df20559f39d9b21ec334882a58954638f0e280b5b5f29da8b6a|Chiefs": {
-        "title": "Spread: Broncos (-2.5)",
-        "outcome": "Chiefs",
-        "value": 3461.99,
-        "avgPrice": 0.5399,
-        "slug": "nfl-kc-den-2026-11-01-spread-home-2pt5"
-      },
-      "0x2a2100c9ed1a34b7bcc77328168ab6dd4d609c172292b307040ded0829338535|Over": {
-        "title": "Club Guabir\u00e1 vs. Club Bol\u00edvar: O/U 2.5",
-        "outcome": "Over",
-        "value": 3236.481,
-        "avgPrice": 0.4842,
-        "slug": "bol1-gua-bol-2026-11-01-total-2pt5"
-      },
-      "0xb7092660841a2dbea4e2be47e7d169b3c6e95347ca16062c90a0f9ceea82926a|Under": {
-        "title": "Patriots vs. Dolphins: O/U 38.5",
+      "0xcf71d557cfac45233edf057cad328c2880a588700413985f33646ed36e93c6fc|Under": {
+        "title": "Independiente Medell\u00edn vs. Alianza FC: O/U 3.5",
         "outcome": "Under",
-        "value": 3229.4549,
-        "avgPrice": 0.6004,
-        "slug": "nfl-ne-mia-2026-11-01-total-38pt5"
+        "value": 3501.0325,
+        "avgPrice": 0.8812,
+        "slug": "col1-inm-alf-2026-11-01-total-3pt5"
       },
-      "0x8b526dda76bbf588cdaf70819572aa62129ba50e90db92b254cc8bd609f5264a|Dolphins": {
-        "title": "Spread: Patriots (-9.5)",
-        "outcome": "Dolphins",
-        "value": 3172.9225,
-        "avgPrice": 0.545,
-        "slug": "nfl-ne-mia-2026-11-01-spread-away-9pt5"
-      },
-      "0xe137800afd9b99d79dde0b6262394be859fae4c3a1bacd41d58c924db3955028|Over": {
-        "title": "SC Braga vs. FC Famalic\u00e3o: O/U 0.5",
-        "outcome": "Over",
-        "value": 2990.504,
-        "avgPrice": 0.8215,
-        "slug": "por-scb-fam-2026-11-01-total-0pt5"
-      },
-      "0x383401393d592dc88681d297ed9846d7850490d7959937b4cb2cd7f8bf0fa43a|Under": {
-        "title": "Chargers vs. Rams: O/U 42.5",
+      "0xf6d7de01ed4d947383a839bdf261941c728d0c4f9eaa6c55c974140c88fc9845|Under": {
+        "title": "Club Santos Laguna vs. Club Necaxa: O/U 2.5",
         "outcome": "Under",
-        "value": 2827.6547,
-        "avgPrice": 0.5202,
-        "slug": "nfl-lac-la-2026-11-01-total-42pt5"
+        "value": 3065.9819,
+        "avgPrice": 0.8089,
+        "slug": "mex-san-nec-2026-11-01-total-2pt5"
       },
       "0xfb4f43c5928fc8c68bed1a114798afe2cca4b2b55694d0add490cf2a589c5787|Over": {
         "title": "Rayo Vallecano de Madrid vs. Athletic Club: O/U 1.5",
@@ -731,61 +444,26 @@
         "avgPrice": 0.2099,
         "slug": "lal-ray-bil-2026-10-10-halftime-result-home"
       },
-      "0x7831f1d57b0385132fa452572bdc143ffcee47841aec05e425b4f03d93fe9e15|Dolphins": {
-        "title": "Spread: Patriots (-7.5)",
-        "outcome": "Dolphins",
-        "value": 2619.9026,
-        "avgPrice": 0.6366,
-        "slug": "nfl-ne-mia-2026-11-01-spread-away-7pt5"
-      },
-      "0x27817f248ac145fc60b52d2c26a39a7aad3bcfb036a6c4017e82e4a79a30d50e|No": {
-        "title": "Will GV CD San Jos\u00e9 win on 2026-11-01?",
+      "0xf870d6e7293eb6acbddb2835e980d9a2575772ece6c55e192ee9721db720cd88|No": {
+        "title": "Will Club Necaxa win on 2026-11-01?",
         "outcome": "No",
-        "value": 2523.9354,
-        "avgPrice": 0.7829,
-        "slug": "bol1-str-gvs-2026-11-01-gvs"
-      },
-      "0x8f9509d95e9dcd55670f4a6e92337ef5d00256a8c03d6e2e5f9fda4d57e06434|Broncos": {
-        "title": "Spread: Chiefs (-3.5)",
-        "outcome": "Broncos",
-        "value": 2507.329,
-        "avgPrice": 0.5553,
-        "slug": "nfl-kc-den-2026-11-01-spread-away-3pt5"
-      },
-      "0xb6a8b047fd44a47ef8f6e53249f73d96ab4d9fcfc88e2223a25a76b6cd85a56b|Over": {
-        "title": "Gr\u00eamio FBPA vs. CA Mineiro: O/U 2.5",
-        "outcome": "Over",
-        "value": 2490.771,
-        "avgPrice": 0.6049,
-        "slug": "brco-gre-cam-2026-11-01-total-2pt5"
-      },
-      "0x1c78eb1372d067a94440e81e9c5b0df5cda1bc6683c371bd99d9117e1e9a2c57|Chargers": {
-        "title": "Spread: Rams (-7.5)",
-        "outcome": "Chargers",
-        "value": 2478.815,
-        "avgPrice": 0.5016,
-        "slug": "nfl-lac-la-2026-11-01-spread-home-7pt5"
-      },
-      "0x85c129682f3217bc66e3c46ab1ca06b43efc9b7009d386d04d23a584f21f8a97|Yes": {
-        "title": "Will AD Cali win on 2026-11-01?",
-        "outcome": "Yes",
-        "value": 2393.2427,
-        "avgPrice": 0.8199,
-        "slug": "col1-adc-bcf-2026-11-01-adc"
-      },
-      "0x7dd84d841eb331894527ab6bb3f5e1ae8308897c1cc1b737fa87173ff9adf743|Patriots": {
-        "title": "Spread: Patriots (-2.5)",
-        "outcome": "Patriots",
-        "value": 2213.345,
-        "avgPrice": 0.6372,
-        "slug": "nfl-ne-mia-2026-11-01-spread-away-2pt5"
+        "value": 2540.8148,
+        "avgPrice": 0.7753,
+        "slug": "mex-san-nec-2026-11-01-nec"
       },
       "0xa0996a2e100ea502040335bf116a5ce635fa214d25b8ecd6e8eeb0d1541575de|No": {
         "title": "Will Rayo Vallecano de Madrid win on 2026-10-10?",
         "outcome": "No",
-        "value": 2190.1847,
+        "value": 2206.1715,
         "avgPrice": 0.6792,
         "slug": "lal-ray-bil-2026-10-10-ray"
+      },
+      "0x02cd38968488efbfa724d74c538c95799e65b9eb15878a70b193568887ba2163|Over": {
+        "title": "Independiente Medell\u00edn vs. Alianza FC: O/U 0.5",
+        "outcome": "Over",
+        "value": 2201.8985,
+        "avgPrice": 0.8632,
+        "slug": "col1-inm-alf-2026-11-01-total-0pt5"
       },
       "0xc0dfdca45e0cd9977eccc5c1860e803c94db2a5d5c5f0af0d039c628711c3828|Under": {
         "title": "Rayo Vallecano de Madrid vs. Athletic Club: O/U 3.5",
@@ -794,47 +472,26 @@
         "avgPrice": 0.84,
         "slug": "lal-ray-bil-2026-10-10-total-3pt5"
       },
-      "0x4e47995cb0f17625ba2ab34b05af180cbabb34207d1e7f7c8516d84a7f0273d7|Chargers": {
-        "title": "Chargers vs. Rams",
-        "outcome": "Chargers",
-        "value": 2026.3,
-        "avgPrice": 0.2829,
-        "slug": "nfl-lac-la-2026-11-01"
+      "0xb3ab5fcae824d81289e97cec9802ca240f751e39bd64ae29b3731dc01123625b|Eagles": {
+        "title": "Spread: Commanders (-7.5)",
+        "outcome": "Eagles",
+        "value": 2069.965,
+        "avgPrice": 0.56,
+        "slug": "nfl-phi-was-2026-11-02-spread-home-7pt5"
       },
-      "0x84f17a50966b0bb5ee544aa44f6011aff0b08bbed41ba22501c13c62303f565a|Rams": {
-        "title": "Spread: Rams (-3.5)",
-        "outcome": "Rams",
-        "value": 1908.66,
-        "avgPrice": 0.48,
-        "slug": "nfl-lac-la-2026-11-01-spread-home-3pt5"
+      "0xcfe0e96b5a699f466a74f03c21bab8f6a255c911c4e5d01d4226caff62bcb50f|Eagles": {
+        "title": "Spread: Commanders (-3.5)",
+        "outcome": "Eagles",
+        "value": 1850.97,
+        "avgPrice": 0.55,
+        "slug": "nfl-phi-was-2026-11-02-spread-home-3pt5"
       },
-      "0xb5d681dc6e45e1440c64c69652d7c3875e927af2420c72f6224aaf7a6c55de5c|Over": {
-        "title": "Patriots vs. Dolphins: O/U 32.5",
+      "0xf4af34cd1b4ff5c55450ab3c238173c53345533c5ee8ee39f84669fd104192b8|Over": {
+        "title": "Club Santos Laguna vs. Club Necaxa: O/U 0.5",
         "outcome": "Over",
-        "value": 1896.6,
-        "avgPrice": 0.68,
-        "slug": "nfl-ne-mia-2026-11-01-total-32pt5"
-      },
-      "0xaaa06fa5ee61d2ef85563a6ea89ea4f235532297415c21a58a3aaacf53f823e0|Dolphins": {
-        "title": "Spread: Dolphins (-3.5)",
-        "outcome": "Dolphins",
-        "value": 1840.92,
-        "avgPrice": 0.3871,
-        "slug": "nfl-ne-mia-2026-11-01-spread-home-3pt5"
-      },
-      "0x1e94e97d4658710b538b444d68750a719b06548569070307cdd76cbaf5c91f21|Yes": {
-        "title": "Will Club The Strongest win on 2026-11-01?",
-        "outcome": "Yes",
-        "value": 1828.2454,
-        "avgPrice": 0.6441,
-        "slug": "bol1-str-gvs-2026-11-01-str"
-      },
-      "0x9dee5f53bc2915113142c59fd6c60751fa4663dff843db206beebdad10a5c78a|Patriots": {
-        "title": "Spread: Patriots (-1.5)",
-        "outcome": "Patriots",
-        "value": 1823.0875,
-        "avgPrice": 0.6445,
-        "slug": "nfl-ne-mia-2026-11-01-spread-away-1pt5"
+        "value": 1807.7795,
+        "avgPrice": 0.9327,
+        "slug": "mex-san-nec-2026-11-01-total-0pt5"
       },
       "0x95abc56a0a7053a62e4b74d1d0e2705a09244557e971ea2c23c27611798fd015|Rayo Vallecano de Madrid": {
         "title": "Spread: Athletic Club (-1.5)",
@@ -843,27 +500,6 @@
         "avgPrice": 0.87,
         "slug": "lal-ray-bil-2026-10-10-spread-away-1pt5"
       },
-      "0x9dee5f53bc2915113142c59fd6c60751fa4663dff843db206beebdad10a5c78a|Dolphins": {
-        "title": "Spread: Patriots (-1.5)",
-        "outcome": "Dolphins",
-        "value": 1740.15,
-        "avgPrice": 0.56,
-        "slug": "nfl-ne-mia-2026-11-01-spread-away-1pt5"
-      },
-      "0xdb125f1ddaaac3ecb8e516bcbee90e54caef07ebf9c76fef8a3611a40d3a8925|Broncos": {
-        "title": "Spread: Chiefs (-6.5)",
-        "outcome": "Broncos",
-        "value": 1727.514,
-        "avgPrice": 0.5935,
-        "slug": "nfl-kc-den-2026-11-01-spread-away-6pt5"
-      },
-      "0x80670dee988efbc5a0ea145d6fa6c3fdd9984e73825feee506da0300ccac11f9|Under": {
-        "title": "Celtics vs. Magic: O/U 224.5",
-        "outcome": "Under",
-        "value": 1723.75,
-        "avgPrice": 0.55,
-        "slug": "nba-bos-orl-2026-11-01-total-224pt5"
-      },
       "0x2cddca6f004aaecf57433d7f3194dee41189012c5a6e205e3177727415423aa0|Under": {
         "title": "Rayo Vallecano de Madrid vs. Athletic Club: O/U 5.5",
         "outcome": "Under",
@@ -871,19 +507,12 @@
         "avgPrice": 0.957,
         "slug": "lal-ray-bil-2026-10-10-total-5pt5"
       },
-      "0x81f17f6f17a2146ee10fc3a5dd7bb619a9d2808beb48a2749dad42525d86fdb9|Patriots": {
-        "title": "Spread: Dolphins (-5.5)",
-        "outcome": "Patriots",
-        "value": 1656.5368,
-        "avgPrice": 0.7756,
-        "slug": "nfl-ne-mia-2026-11-01-spread-home-5pt5"
-      },
-      "0xb7092660841a2dbea4e2be47e7d169b3c6e95347ca16062c90a0f9ceea82926a|Over": {
-        "title": "Patriots vs. Dolphins: O/U 38.5",
-        "outcome": "Over",
-        "value": 1596.5754,
-        "avgPrice": 0.5599,
-        "slug": "nfl-ne-mia-2026-11-01-total-38pt5"
+      "0x7db3cfa2f9773973a0efc709260d65d1dc4a0decf7f1c98d0d0b4ad3b9e96664|No": {
+        "title": "Will Alianza FC win on 2026-11-01?",
+        "outcome": "No",
+        "value": 1570.9619,
+        "avgPrice": 0.9902,
+        "slug": "col1-inm-alf-2026-11-01-alf"
       },
       "0xea83da0f880872e5a9ac39ca5ea06f643871ec9dacf4306eabd56949da983df2|Over": {
         "title": "Rayo Vallecano de Madrid vs. Athletic Club: O/U 2.5",
@@ -892,75 +521,19 @@
         "avgPrice": 0.3804,
         "slug": "lal-ray-bil-2026-10-10-total-2pt5"
       },
-      "0xc0c2346d371928aeb3cea901e02a204a50ee9d8bc4ebf0e230d5f32ddd81143e|Dolphins": {
-        "title": "Spread: Patriots (-10.5)",
-        "outcome": "Dolphins",
-        "value": 1519.05,
-        "avgPrice": 0.6,
-        "slug": "nfl-ne-mia-2026-11-01-spread-away-10pt5"
+      "0x625ead1a358e56fe02423abe3711ea2190c3ac3ea5a123a63b471746bc7b5e63|Kenta Miyoshi": {
+        "title": "Charlottesville: Dominick Mosejczuk vs Kenta Miyoshi",
+        "outcome": "Kenta Miyoshi",
+        "value": 1351.5472,
+        "avgPrice": 0.5597,
+        "slug": "atp-mosejcz-miyoshi-2026-11-01"
       },
-      "0xaaa06fa5ee61d2ef85563a6ea89ea4f235532297415c21a58a3aaacf53f823e0|Patriots": {
-        "title": "Spread: Dolphins (-3.5)",
-        "outcome": "Patriots",
-        "value": 1463.915,
-        "avgPrice": 0.56,
-        "slug": "nfl-ne-mia-2026-11-01-spread-home-3pt5"
-      },
-      "0xd7dad4195fbc0482db90e68680541633e70bc752651b421584ec2daf9aa7e422|Rams": {
-        "title": "Spread: Chargers (-5.5)",
-        "outcome": "Rams",
-        "value": 1454.885,
-        "avgPrice": 0.83,
-        "slug": "nfl-lac-la-2026-11-01-spread-away-5pt5"
-      },
-      "0xccb00854f05337fceff286eb7cbd38f0c56e282e458d8f8339b3c48715fb94cc|No": {
-        "title": "Will Guayaquil City FC win on 2026-11-01?",
+      "0x29a9adb0a88edba55ae26157f71734fceac57549d62fea739e8571cbfabf6412|No": {
+        "title": "Will Utebo FC win on 2026-10-28?",
         "outcome": "No",
-        "value": 1400.68,
-        "avgPrice": 0.63,
-        "slug": "ecu1-gua-lib-2026-11-01-gua"
-      },
-      "0x5cf591c37c15a3425aef3ce6902fac11236b12de68417c4972806a07da18b86d|Over": {
-        "title": "Chiefs vs. Broncos: O/U 44.5",
-        "outcome": "Over",
-        "value": 1311.6391,
-        "avgPrice": 0.5527,
-        "slug": "nfl-kc-den-2026-11-01-total-44pt5"
-      },
-      "0x427e27790e6fdf4e7963acb2d4422fc542745a030aed31a8c05066f13c7673f0|Over": {
-        "title": "AD Cali vs. Boyac\u00e1 Chic\u00f3 FC: O/U 1.5",
-        "outcome": "Over",
-        "value": 1309.6548,
-        "avgPrice": 0.7058,
-        "slug": "col1-adc-bcf-2026-11-01-total-1pt5"
-      },
-      "0x1c78eb1372d067a94440e81e9c5b0df5cda1bc6683c371bd99d9117e1e9a2c57|Rams": {
-        "title": "Spread: Rams (-7.5)",
-        "outcome": "Rams",
-        "value": 1308.1818,
-        "avgPrice": 0.4275,
-        "slug": "nfl-lac-la-2026-11-01-spread-home-7pt5"
-      },
-      "0x25220347866dc9850acdd166564a32f1b31dab7327ac938362bef26559f52f90|Over": {
-        "title": "Chargers vs. Rams: O/U 40.5",
-        "outcome": "Over",
-        "value": 1303.6416,
-        "avgPrice": 0.4192,
-        "slug": "nfl-lac-la-2026-11-01-total-40pt5"
-      },
-      "0x0b3344e6909868c6e3242a49d0e25662bc73f8d45a2d57126e82a5d84f6c3c39|Rams": {
-        "title": "Spread: Chargers (-9.5)",
-        "outcome": "Rams",
-        "value": 1205.6131,
-        "avgPrice": 0.81,
-        "slug": "nfl-lac-la-2026-11-01-spread-away-9pt5"
-      },
-      "0x2ca1aff776cacd2d4fe15422de7e6f84aba44d3d7d7318676b85e4f024a2efdb|Dolphins": {
-        "title": "Spread: Dolphins (-1.5)",
-        "outcome": "Dolphins",
-        "value": 1197.14,
-        "avgPrice": 0.59,
-        "slug": "nfl-ne-mia-2026-11-01-spread-home-1pt5"
+        "value": 1290.0,
+        "avgPrice": 0.8619,
+        "slug": "cdr-ute-sab-2026-10-28-ute"
       },
       "0xd2c63ff48b004b1b4ff8b7da99945157018fb84a8845970290355ee746f57a5c|Under": {
         "title": "Rayo Vallecano de Madrid vs. Athletic Club: 1st Half O/U 1.5",
@@ -969,61 +542,19 @@
         "avgPrice": 0.75,
         "slug": "lal-ray-bil-2026-10-10-first-half-total-1pt5"
       },
-      "0x29a9adb0a88edba55ae26157f71734fceac57549d62fea739e8571cbfabf6412|No": {
-        "title": "Will Utebo FC win on 2026-10-28?",
-        "outcome": "No",
-        "value": 1147.5,
-        "avgPrice": 0.8619,
-        "slug": "cdr-ute-sab-2026-10-28-ute"
-      },
-      "0xe7e845d820a36891b0c2453e7b6def4d9e696d1ae7f71061b1d7d1823b6351af|Over": {
-        "title": "Gr\u00eamio FBPA vs. CA Mineiro: O/U 1.5",
-        "outcome": "Over",
-        "value": 1145.427,
-        "avgPrice": 0.64,
-        "slug": "brco-gre-cam-2026-11-01-total-1pt5"
-      },
-      "0xa2722200850d6db87d7df4603b4e63857f0ec620e927c63ddf39fc965378c4c9|Patrick Zahraj": {
-        "title": "Charlottesville: Andres Martin vs Patrick Zahraj",
-        "outcome": "Patrick Zahraj",
-        "value": 1142.8978,
-        "avgPrice": 0.4,
-        "slug": "atp-marti-zahraj-2026-11-01"
-      },
-      "0xb5d681dc6e45e1440c64c69652d7c3875e927af2420c72f6224aaf7a6c55de5c|Under": {
-        "title": "Patriots vs. Dolphins: O/U 32.5",
+      "0xfe6fb1c4ae8c713d87b528d073c1127f461b0a028f470b44824846e33aa1e745|Under": {
+        "title": "Club Santos Laguna vs. Club Necaxa: O/U 1.5",
         "outcome": "Under",
-        "value": 1130.4177,
-        "avgPrice": 0.4168,
-        "slug": "nfl-ne-mia-2026-11-01-total-32pt5"
+        "value": 1151.6945,
+        "avgPrice": 0.6607,
+        "slug": "mex-san-nec-2026-11-01-total-1pt5"
       },
-      "0x6c9e6146d55698dc8ee726f3c07b6b5d4c543db83a2889d2ea9d6778e9b23189|Patriots": {
-        "title": "Spread: Dolphins (-2.5)",
-        "outcome": "Patriots",
-        "value": 1063.575,
-        "avgPrice": 0.44,
-        "slug": "nfl-ne-mia-2026-11-01-spread-home-2pt5"
-      },
-      "0x434965795dbfdab4436eceaf38d16d6f91f9980d314ec7109276276a1c9cdb90|Under": {
-        "title": "FC Supra Du Quebec vs. Cavalry FC: O/U 3.5",
-        "outcome": "Under",
-        "value": 1028.4472,
-        "avgPrice": 0.4199,
-        "slug": "canpl-sup-cav-2026-11-01-total-3pt5"
-      },
-      "0x8077d622e420c19692bc2510700cd431ad0b09fee63bf59cd98e36727c7fc4ce|Over": {
-        "title": "Patriots vs. Dolphins: O/U 42.5",
+      "0xb08f02822feb48ae645e4988b4566231ca28941fb47dea2de1c55bcdb86c60ab|Over": {
+        "title": "Independiente Medell\u00edn vs. Alianza FC: O/U 2.5",
         "outcome": "Over",
-        "value": 1015.473,
-        "avgPrice": 0.4035,
-        "slug": "nfl-ne-mia-2026-11-01-total-42pt5"
-      },
-      "0x2ca1aff776cacd2d4fe15422de7e6f84aba44d3d7d7318676b85e4f024a2efdb|Patriots": {
-        "title": "Spread: Dolphins (-1.5)",
-        "outcome": "Patriots",
-        "value": 1010.07,
-        "avgPrice": 0.49,
-        "slug": "nfl-ne-mia-2026-11-01-spread-home-1pt5"
+        "value": 1059.47,
+        "avgPrice": 0.31,
+        "slug": "col1-inm-alf-2026-11-01-total-2pt5"
       },
       "0x210ef3ee277c5b3b2648c847ba05748cfacaf7c1fdb64d6bdb92f09e282e3cd1|No": {
         "title": "Will Boluspor win on 2026-10-14?",
@@ -1032,40 +563,26 @@
         "avgPrice": 0.605,
         "slug": "tur2-umr-bol-2026-10-14-bol"
       },
-      "0xf13e4b073e88f3365c02fd48cc7c0b2eeb5349cba194cc093bb844b26cc58d45|Rams": {
-        "title": "Spread: Rams (-5.5)",
-        "outcome": "Rams",
-        "value": 957.918,
-        "avgPrice": 0.5278,
-        "slug": "nfl-lac-la-2026-11-01-spread-home-5pt5"
+      "0x43e0988de9d2480476e13b2aa5929ed662aab7566b2afdccf6972362c79554c1|Over": {
+        "title": "Eagles vs. Commanders: O/U 44.5",
+        "outcome": "Over",
+        "value": 953.4296,
+        "avgPrice": 0.4961,
+        "slug": "nfl-phi-was-2026-11-02-total-44pt5"
       },
-      "0x827b9cce0ddcdb1860750abb9f2879afb2c1d339c07cdcb20cea5d57593f168d|Yes": {
-        "title": "Will S\u00e3o Bernardo FC win on 2026-11-01?",
-        "outcome": "Yes",
-        "value": 950.4489,
-        "avgPrice": 0.1753,
-        "slug": "bra2-cui-ber-2026-11-01-ber"
-      },
-      "0x13d9762ede6428268eae1eb770fe9e7e761fb66349a8f6e5dd45e97e1c015038|Under": {
-        "title": "Wild vs. Capitals: O/U 5.5",
+      "0x50e6270276340881a9f19099876f7b264c590058bbcb5fbffe436d6a724b4570|Under": {
+        "title": "Club Santos Laguna vs. Club Necaxa: 1st Half O/U 0.5",
         "outcome": "Under",
-        "value": 918.63,
-        "avgPrice": 0.59,
-        "slug": "nhl-min-wsh-2026-11-01-total-5pt5"
+        "value": 919.7598,
+        "avgPrice": 0.708,
+        "slug": "mex-san-nec-2026-11-01-first-half-total-0pt5"
       },
-      "0x78d7f0a41c0992a850da91795a580763423657c426a700ada925e9cdd4b6707b|Under": {
-        "title": "Chargers vs. Rams: O/U 48.5",
+      "0xd12e4c2640ba9472607364e0914bcf81ce852182215f8de9fb346978f5d13a46|Under": {
+        "title": "Club Santos Laguna vs. Club Necaxa: 1st Half O/U 1.5",
         "outcome": "Under",
-        "value": 868.7724,
-        "avgPrice": 0.5807,
-        "slug": "nfl-lac-la-2026-11-01-total-48pt5"
-      },
-      "0x4ce0ba31598cdaaa3322e46f922c2f32d51bf9e360afd7748850016d9a5f7bb0|Chargers": {
-        "title": "Spread: Rams (-9.5)",
-        "outcome": "Chargers",
-        "value": 847.1865,
-        "avgPrice": 0.5298,
-        "slug": "nfl-lac-la-2026-11-01-spread-home-9pt5"
+        "value": 838.2673,
+        "avgPrice": 0.7065,
+        "slug": "mex-san-nec-2026-11-01-first-half-total-1pt5"
       },
       "0xc0dfdca45e0cd9977eccc5c1860e803c94db2a5d5c5f0af0d039c628711c3828|Over": {
         "title": "Rayo Vallecano de Madrid vs. Athletic Club: O/U 3.5",
@@ -1074,27 +591,6 @@
         "avgPrice": 0.1711,
         "slug": "lal-ray-bil-2026-10-10-total-3pt5"
       },
-      "0x6bc3d5b7d8a8032f3c169e09562f81fccb8707748709ecf8f47269d3b152c4ef|Over": {
-        "title": "Chiefs vs. Broncos: O/U 42.5",
-        "outcome": "Over",
-        "value": 794.068,
-        "avgPrice": 0.47,
-        "slug": "nfl-kc-den-2026-11-01-total-42pt5"
-      },
-      "0x6bc3d5b7d8a8032f3c169e09562f81fccb8707748709ecf8f47269d3b152c4ef|Under": {
-        "title": "Chiefs vs. Broncos: O/U 42.5",
-        "outcome": "Under",
-        "value": 789.72,
-        "avgPrice": 0.4992,
-        "slug": "nfl-kc-den-2026-11-01-total-42pt5"
-      },
-      "0x92a44c3411af87fb57d7d5a356633c6176c32730254b8dea329c9dc0fd07563d|Under": {
-        "title": "SC Braga vs. FC Famalic\u00e3o: 1st Half O/U 1.5",
-        "outcome": "Under",
-        "value": 778.7368,
-        "avgPrice": 0.7095,
-        "slug": "por-scb-fam-2026-11-01-first-half-total-1pt5"
-      },
       "0x05e2ed867d200fa5d01f65ecd8fc03698ea411e9d1d9d13a2a9f0c0b4c260a64|No": {
         "title": "Exact Score: Club Guabir\u00e1 1 - 0 Club Bol\u00edvar?",
         "outcome": "No",
@@ -1102,103 +598,40 @@
         "avgPrice": 0.949,
         "slug": "bol1-gua-bol-2026-11-01-exact-score-1-0"
       },
-      "0xdd909e508c5bbd86f4351b79468fd82032d361643bb94269d6637133b827a4b8|Stiles Brockett": {
-        "title": "Charlottesville: Stiles Brockett vs Emile Hudd",
-        "outcome": "Stiles Brockett",
-        "value": 767.5236,
-        "avgPrice": 0.7024,
-        "slug": "atp-brocket-hudd-2026-11-01"
-      },
-      "0xf13e4b073e88f3365c02fd48cc7c0b2eeb5349cba194cc093bb844b26cc58d45|Chargers": {
-        "title": "Spread: Rams (-5.5)",
-        "outcome": "Chargers",
-        "value": 761.585,
-        "avgPrice": 0.58,
-        "slug": "nfl-lac-la-2026-11-01-spread-home-5pt5"
-      },
-      "0xc1208b7cc64ff879edaf537ed2c2134e2412ff60a0fdd89caa5b3ecbe2cc9a1b|No": {
-        "title": "Will CA Barracas Central win on 2026-11-01?",
-        "outcome": "No",
-        "value": 761.474,
-        "avgPrice": 0.996,
-        "slug": "arg-bel-bar-2026-11-01-bar"
-      },
-      "0x25220347866dc9850acdd166564a32f1b31dab7327ac938362bef26559f52f90|Under": {
-        "title": "Chargers vs. Rams: O/U 40.5",
-        "outcome": "Under",
-        "value": 753.9015,
-        "avgPrice": 0.6069,
-        "slug": "nfl-lac-la-2026-11-01-total-40pt5"
-      },
-      "0x366a16036c0037effe88d7791ed4249813cc57a326a7eb77ba6cffd74e9c9733|No": {
-        "title": "SC Braga leading at halftime?",
-        "outcome": "No",
-        "value": 727.9333,
-        "avgPrice": 0.6787,
-        "slug": "por-scb-fam-2026-11-01-halftime-result-home"
-      },
-      "0xd6c885fa34925092493d40c79b6ec0abf26e4e0eb26340cdf305374263443fa0|Under": {
-        "title": "Chargers vs. Rams: O/U 44.5",
-        "outcome": "Under",
-        "value": 660.45,
-        "avgPrice": 0.45,
-        "slug": "nfl-lac-la-2026-11-01-total-44pt5"
-      },
-      "0x4677ae95cebc3b2202e8738771e793a1c87a0ac29677b7334b1fa5b315a5a2fe|Wild": {
-        "title": "Wild vs. Capitals",
-        "outcome": "Wild",
-        "value": 632.9295,
-        "avgPrice": 0.86,
-        "slug": "nhl-min-wsh-2026-11-01"
-      },
-      "0x8624d52ec61b068d94b89b05ca435153c1d69b3803cededb06974de42be8c8d8|No": {
-        "title": "Will Gr\u00eamio FBPA win on 2026-11-01?",
-        "outcome": "No",
-        "value": 623.0083,
-        "avgPrice": 0.4174,
-        "slug": "brco-gre-cam-2026-11-01-gre"
-      },
-      "0x49f5558b039f8528f55a2340ef1bca578d289990912e3f69e84a3a87c50a9e38|Celtics": {
-        "title": "Spread: Celtics (-7.5)",
-        "outcome": "Celtics",
-        "value": 622.5,
-        "avgPrice": 0.4933,
-        "slug": "nba-bos-orl-2026-11-01-spread-away-7pt5"
-      },
-      "0x57bfd26e861431467ae2feaa6305ba0cc41057857933b8366d41b334c21a5267|Over": {
-        "title": "Chargers vs. Rams: O/U 46.5",
-        "outcome": "Over",
-        "value": 611.667,
-        "avgPrice": 0.3421,
-        "slug": "nfl-lac-la-2026-11-01-total-46pt5"
-      },
-      "0xe8a2f3cba7c901a7aa2f298ac41d56f91e95a3bf24e3fd7902632b9190696f6c|Rams": {
-        "title": "Spread: Chargers (-6.5)",
-        "outcome": "Rams",
-        "value": 604.8534,
-        "avgPrice": 0.8,
-        "slug": "nfl-lac-la-2026-11-01-spread-away-6pt5"
-      },
-      "0xd189d35da0bef95ee0d8965b7d86cdb17599b5276fca4d93ccbcbd7e48bf82b6|Patriots": {
-        "title": "Spread: Patriots (-3.5)",
-        "outcome": "Patriots",
-        "value": 604.32,
-        "avgPrice": 0.54,
-        "slug": "nfl-ne-mia-2026-11-01-spread-away-3pt5"
-      },
-      "0x800be586ed30e9a28cc86d42fb3c2320109e3bfa6d396531f1b83643a8a6658c|Over": {
-        "title": "SC Braga vs. FC Famalic\u00e3o: O/U 1.5",
-        "outcome": "Over",
-        "value": 587.1507,
-        "avgPrice": 0.7247,
-        "slug": "por-scb-fam-2026-11-01-total-1pt5"
-      },
       "0x4f9b1042d3c76213b36a2dac54fe65ccf15cbad18a25311359fb86b46ad5a1f0|No": {
         "title": "Exact Score: Club Guabir\u00e1 3 - 2 Club Bol\u00edvar?",
         "outcome": "No",
-        "value": 582.4125,
+        "value": 774.6125,
         "avgPrice": 0.994,
         "slug": "bol1-gua-bol-2026-11-01-exact-score-3-2"
+      },
+      "0xb0e3da55b64ea4245418bcfb884e35d69846d95a0d1ffc40c5fd1e672793c421|Under": {
+        "title": "Club Santos Laguna vs. Club Necaxa: 1st Half O/U 2.5",
+        "outcome": "Under",
+        "value": 760.6195,
+        "avgPrice": 0.81,
+        "slug": "mex-san-nec-2026-11-01-first-half-total-2pt5"
+      },
+      "0xefdb30410d2abdee80673ff4805c8b8def82796e533a784523ec9fe02d653635|Senators": {
+        "title": "Senators vs. Ducks",
+        "outcome": "Senators",
+        "value": 756.855,
+        "avgPrice": 0.51,
+        "slug": "nhl-ott-ana-2026-11-01"
+      },
+      "0x4379d7ea674ecaa4fbe8a711f7b0aee29f2409a51891011c3dd6c27ad57e75ae|Commanders": {
+        "title": "Spread: Commanders (-5.5)",
+        "outcome": "Commanders",
+        "value": 720.0,
+        "avgPrice": 0.26,
+        "slug": "nfl-phi-was-2026-11-02-spread-home-5pt5"
+      },
+      "0x5c038f11f4e5ff8a5c6f588a654c64354f25faa585c8fa21fcb69e71532c64c5|No": {
+        "title": "Exact Score: Club Guabir\u00e1 3 - 1 Club Bol\u00edvar?",
+        "outcome": "No",
+        "value": 557.2212,
+        "avgPrice": 0.976,
+        "slug": "bol1-gua-bol-2026-11-01-exact-score-3-1"
       },
       "0x167dee4fcf65b41354dcf32b9361bd1ac1a5c0f784e13085071b6e28ce338646|Over": {
         "title": "Umraniyespor vs. Boluspor: O/U 2.5",
@@ -1206,13 +639,6 @@
         "value": 550.6305,
         "avgPrice": 0.5789,
         "slug": "tur2-umr-bol-2026-10-14-total-2pt5"
-      },
-      "0x8f9509d95e9dcd55670f4a6e92337ef5d00256a8c03d6e2e5f9fda4d57e06434|Chiefs": {
-        "title": "Spread: Chiefs (-3.5)",
-        "outcome": "Chiefs",
-        "value": 538.2507,
-        "avgPrice": 0.3547,
-        "slug": "nfl-kc-den-2026-11-01-spread-away-3pt5"
       },
       "0xc482402c65935c66d26b3322f0000d01320f01d1bd76394c86892c8d977c3a1f|Under": {
         "title": "Rayo Vallecano de Madrid vs. Athletic Club: O/U 0.5",
@@ -1223,17 +649,17 @@
       }
     },
     "#3 2C": {
-      "0xa3e8ef111c104c3b3d56ca06d6aa42dd0b28b3ba319c169ac5a836170be4b353|Broncos": {
-        "title": "Chiefs vs. Broncos",
-        "outcome": "Broncos",
-        "value": 152279.224,
-        "avgPrice": 0.4899,
-        "slug": "nfl-kc-den-2026-11-01"
+      "0x83197d7b5052586479ce2549e14f0a78ddbac08f234a35b1a51e3f7b272bb917|Eagles": {
+        "title": "Eagles vs. Commanders",
+        "outcome": "Eagles",
+        "value": 171490.9984,
+        "avgPrice": 0.3142,
+        "slug": "nfl-phi-was-2026-11-02"
       },
       "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37|No": {
         "title": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
         "outcome": "No",
-        "value": 148391.8798,
+        "value": 145622.4304,
         "avgPrice": 0.679,
         "slug": "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel"
       },
@@ -1244,54 +670,40 @@
         "avgPrice": 0.3999,
         "slug": "will-jeremiah-smith-win-the-2026-heisman-trophy-20260731185756307"
       },
+      "0x9168ff92c2a441b02faddb080fdea71b4b915b5da812ba443645ead929b66a11|Under": {
+        "title": "Eagles vs. Commanders: O/U 42.5",
+        "outcome": "Under",
+        "value": 101999.9903,
+        "avgPrice": 0.5499,
+        "slug": "nfl-phi-was-2026-11-02-total-42pt5"
+      },
       "0xf137b480d9969c45716c067f5702503fce14fda10caa5f0b28919eb6543d9393|No": {
         "title": "Will Dallas Cowboys win the 2026 NFC East?",
         "outcome": "No",
-        "value": 84390.1642,
+        "value": 87834.6607,
         "avgPrice": 0.5099,
         "slug": "will-dallas-cowboys-win-the-2026-nfc-east"
       },
-      "0xa3e8ef111c104c3b3d56ca06d6aa42dd0b28b3ba319c169ac5a836170be4b353|Chiefs": {
-        "title": "Chiefs vs. Broncos",
-        "outcome": "Chiefs",
-        "value": 61846.9417,
-        "avgPrice": 0.56,
-        "slug": "nfl-kc-den-2026-11-01"
-      },
-      "0x5b45890ba4d6ffbed68921fb06ebd948ad52dcb75fd4e4d744b9a086fa52b1ab|Chiefs": {
-        "title": "Spread: Chiefs (-1.5)",
-        "outcome": "Chiefs",
-        "value": 47743.6454,
-        "avgPrice": 0.5995,
-        "slug": "nfl-kc-den-2026-11-01-spread-away-1pt5"
-      },
-      "0x4e47995cb0f17625ba2ab34b05af180cbabb34207d1e7f7c8516d84a7f0273d7|Rams": {
-        "title": "Chargers vs. Rams",
-        "outcome": "Rams",
-        "value": 46221.3786,
-        "avgPrice": 0.7424,
-        "slug": "nfl-lac-la-2026-11-01"
+      "0x83197d7b5052586479ce2549e14f0a78ddbac08f234a35b1a51e3f7b272bb917|Commanders": {
+        "title": "Eagles vs. Commanders",
+        "outcome": "Commanders",
+        "value": 38878.8314,
+        "avgPrice": 0.5678,
+        "slug": "nfl-phi-was-2026-11-02"
       },
       "0x2745c38ff0617cb345c1d2df19b4f74ea777508e07411e88eeb6ab3affcda2a2|No": {
         "title": "Will Bitcoin dip to $35,000 by December 31, 2026?",
         "outcome": "No",
-        "value": 19565.8218,
+        "value": 19595.8154,
         "avgPrice": 0.8499,
         "slug": "will-bitcoin-dip-to-35000-by-december-31-2026-744-877-748-219-467-465-646-211-122-947-537-552-555-361-972-954-635-887-657-996-643"
       },
-      "0x4e47995cb0f17625ba2ab34b05af180cbabb34207d1e7f7c8516d84a7f0273d7|Chargers": {
-        "title": "Chargers vs. Rams",
-        "outcome": "Chargers",
-        "value": 18056.1523,
-        "avgPrice": 0.3512,
-        "slug": "nfl-lac-la-2026-11-01"
-      },
-      "0x9dedf734db84bef6ddc0ca4bd5e15c53cb273f96983d4e39d4d3e9633ef112ea|Patriots": {
-        "title": "Patriots vs. Dolphins",
-        "outcome": "Patriots",
-        "value": 17495.2452,
-        "avgPrice": 0.7599,
-        "slug": "nfl-ne-mia-2026-11-01"
+      "0xe0ec6514dbdc2ac5d9955acc67dc58f5fd89000fcfab2b1c1e1f427521427141|Over": {
+        "title": "CD Pamplona vs. SD Eibar: O/U 3.5",
+        "outcome": "Over",
+        "value": 15963.804,
+        "avgPrice": 0.4,
+        "slug": "cdr-pam-eib-2026-10-28-total-3pt5"
       },
       "0x98c266979031b3ee6c87ea5b8b671be0e242e13f9be4c123ff2c21ef46ff62c3|No": {
         "title": "Will Gen.G win Worlds 2026?",
@@ -1300,31 +712,17 @@
         "avgPrice": 0.66,
         "slug": "will-genptg-win-worlds-2026"
       },
-      "0xe0ec6514dbdc2ac5d9955acc67dc58f5fd89000fcfab2b1c1e1f427521427141|Over": {
-        "title": "CD Pamplona vs. SD Eibar: O/U 3.5",
-        "outcome": "Over",
-        "value": 13768.7809,
-        "avgPrice": 0.4,
-        "slug": "cdr-pam-eib-2026-10-28-total-3pt5"
-      },
       "0xc288967f4bee42292b3c1516fe640c19d7805f8ed949bfcabf989b0eb5e70554|No": {
         "title": "Will Bilibili Gaming win Worlds 2026?",
         "outcome": "No",
-        "value": 13386.6039,
+        "value": 13442.1829,
         "avgPrice": 0.8299,
         "slug": "will-bilibili-gaming-win-worlds-2026"
-      },
-      "0xd771d49ca1c59b82057a87459e6bdf5de272c5ad329f625e078ddc60db5db62f|Over": {
-        "title": "Club Santos Laguna vs. Club Necaxa: O/U 3.5",
-        "outcome": "Over",
-        "value": 12872.4,
-        "avgPrice": 0.41,
-        "slug": "mex-san-nec-2026-11-01-total-3pt5"
       },
       "0xe96dbaceb816e80063bec945a76ac915cba4341bdf1ef704f722bfc9054aad09|Yes": {
         "title": "Will Anthropic have the highest IPO Market Cap 2026?",
         "outcome": "Yes",
-        "value": 7966.3316,
+        "value": 8003.4274,
         "avgPrice": 0.4799,
         "slug": "will-anthropic-have-the-highest-ipo-market-cap-2026-673"
       },
@@ -1335,12 +733,12 @@
         "avgPrice": 0.3899,
         "slug": "lal-ray-bil-2026-10-10-bil"
       },
-      "0xf6d7de01ed4d947383a839bdf261941c728d0c4f9eaa6c55c974140c88fc9845|Over": {
-        "title": "Club Santos Laguna vs. Club Necaxa: O/U 2.5",
-        "outcome": "Over",
-        "value": 4731.4168,
-        "avgPrice": 0.6299,
-        "slug": "mex-san-nec-2026-11-01-total-2pt5"
+      "0x4379d7ea674ecaa4fbe8a711f7b0aee29f2409a51891011c3dd6c27ad57e75ae|Commanders": {
+        "title": "Spread: Commanders (-5.5)",
+        "outcome": "Commanders",
+        "value": 5437.7339,
+        "avgPrice": 0.4999,
+        "slug": "nfl-phi-was-2026-11-02-spread-home-5pt5"
       },
       "0xf44cf137562b90cf6205e0b81a03aa63001c491e4d8f04c0098bfb9233f9d04f|No": {
         "title": "Will Philadelphia 76ers win the 2027 NBA Finals?",
@@ -1349,26 +747,19 @@
         "avgPrice": 0.8604,
         "slug": "will-philadelphia-76ers-win-the-2027-nba-finals"
       },
-      "0x7c94de3139d15741f361423e0e374ead2a1256dfa8f8f0292ff0abd3b10164fc|Patriots": {
-        "title": "Spread: Patriots (-6.5)",
-        "outcome": "Patriots",
-        "value": 4495.8739,
-        "avgPrice": 0.5399,
-        "slug": "nfl-ne-mia-2026-11-01-spread-away-6pt5"
+      "0xec99c349030b13a8af1672362c0467d7c1231c98bf0a7c185018df3167567b04|Warriors": {
+        "title": "Clippers vs. Warriors",
+        "outcome": "Warriors",
+        "value": 3952.5324,
+        "avgPrice": 0.461,
+        "slug": "nba-lac-gsw-2026-11-01"
       },
-      "0x6bc3d5b7d8a8032f3c169e09562f81fccb8707748709ecf8f47269d3b152c4ef|Under": {
-        "title": "Chiefs vs. Broncos: O/U 42.5",
-        "outcome": "Under",
-        "value": 4250.12,
-        "avgPrice": 0.5102,
-        "slug": "nfl-kc-den-2026-11-01-total-42pt5"
-      },
-      "0xcbc12bbd521f1e250bf6eff05c4e52d879c618cb6a9410008b21ce8aab9b0628|Under": {
-        "title": "Chiefs vs. Broncos: O/U 40.5",
-        "outcome": "Under",
-        "value": 3353.5,
-        "avgPrice": 0.4501,
-        "slug": "nfl-kc-den-2026-11-01-total-40pt5"
+      "0x4af47fb51fc95fa1c23e968634fd0ee0d76e3a088e620ef05a51537f683cf35e|Devils": {
+        "title": "Oilers vs. Devils",
+        "outcome": "Devils",
+        "value": 3585.7997,
+        "avgPrice": 0.5899,
+        "slug": "nhl-edm-nj-2026-11-03"
       },
       "0xe326d1abf5fb59b82ecfdff3348e75f90561eace327ba1bdc8d38d045ddbe775|No": {
         "title": "Will Bitcoin dip to $25,000 by December 31, 2026?",
@@ -1377,141 +768,169 @@
         "avgPrice": 0.92,
         "slug": "will-bitcoin-dip-to-25000-by-december-31-2026-948-243-253-666-115-787-981-282-573-719-186-417-762-754-486-851-278-145-417-178-244"
       },
-      "0x7d5cc8736995d2972511abdd054005c066df956e2e508784c4dc086a15bcac14|Utah": {
-        "title": "Utah vs. Flyers",
-        "outcome": "Utah",
-        "value": 1949.9087,
-        "avgPrice": 0.6,
-        "slug": "nhl-utah-phi-2026-11-01"
+      "0xc96adefd29b769d81ce1e98c69ed5b0213141e6509af7c7d2181483b938c7c11|Eagles": {
+        "title": "Spread: Commanders (-2.5)",
+        "outcome": "Eagles",
+        "value": 2325.9859,
+        "avgPrice": 0.34,
+        "slug": "nfl-phi-was-2026-11-02-spread-home-2pt5"
       },
-      "0x9dedf734db84bef6ddc0ca4bd5e15c53cb273f96983d4e39d4d3e9633ef112ea|Dolphins": {
-        "title": "Patriots vs. Dolphins",
-        "outcome": "Dolphins",
-        "value": 1514.0609,
-        "avgPrice": 0.21,
-        "slug": "nfl-ne-mia-2026-11-01"
+      "0xb191262c0debdfc1fc2ca4f93dbd0bf59a0d75decab35e313822d0e8323e1792|Eagles": {
+        "title": "Spread: Commanders (-4.5)",
+        "outcome": "Eagles",
+        "value": 1758.5377,
+        "avgPrice": 0.46,
+        "slug": "nfl-phi-was-2026-11-02-spread-home-4pt5"
       },
-      "0xedd2e744dc1b99eb626a9718c3fbff5f4f879b111376cad47e6f253c1c546d6c|Under": {
-        "title": "Clippers vs. Warriors: O/U 219.5",
-        "outcome": "Under",
-        "value": 1171.0507,
-        "avgPrice": 0.4599,
-        "slug": "nba-lac-gsw-2026-11-01-total-219pt5"
+      "0x9168ff92c2a441b02faddb080fdea71b4b915b5da812ba443645ead929b66a11|Over": {
+        "title": "Eagles vs. Commanders: O/U 42.5",
+        "outcome": "Over",
+        "value": 1320.55,
+        "avgPrice": 0.5899,
+        "slug": "nfl-phi-was-2026-11-02-total-42pt5"
       },
       "0x5142be04c728f39973e57d51c32260e86b3eb88d323d3369e551f41644c92288|Yes": {
         "title": "Will Manchester City be relegated from the 2026-27 Premier League?",
         "outcome": "Yes",
-        "value": 1109.5939,
+        "value": 1271.1993,
         "avgPrice": 0.2699,
         "slug": "will-manchester-city-be-relegated-from-premier-league-2026-27"
+      },
+      "0xedd2e744dc1b99eb626a9718c3fbff5f4f879b111376cad47e6f253c1c546d6c|Under": {
+        "title": "Clippers vs. Warriors: O/U 219.5",
+        "outcome": "Under",
+        "value": 986.148,
+        "avgPrice": 0.4599,
+        "slug": "nba-lac-gsw-2026-11-01-total-219pt5"
+      },
+      "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37|Yes": {
+        "title": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+        "outcome": "Yes",
+        "value": 938.564,
+        "avgPrice": 0.35,
+        "slug": "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel"
+      },
+      "0xaa9322326dfc99b4291bbbc96373acc5bb73c71dcf653e90d021d63a1d3fdf13|Yes": {
+        "title": "Will Republicans win the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?",
+        "outcome": "Yes",
+        "value": 865.4742,
+        "avgPrice": 0.0092,
+        "slug": "2026-senate-map-r-all"
       }
     },
     "#4 SwissTony": {},
     "#5 HomeRunHazard": {
-      "0x5ee60c5dfa331979febc2b4ce50c730af2fbc8e4abcc7466d8b3e86a890ffdc1|Chargers": {
-        "title": "Spread: Rams (-17.5)",
-        "outcome": "Chargers",
-        "value": 40621.4129,
-        "avgPrice": 0.8199,
-        "slug": "nfl-lac-la-2026-11-01-spread-home-17pt5"
+      "0xada9785d374575caa4a972ba5793b21831c75dc409a0566392fa10cd4425ca92|Over": {
+        "title": "Senators vs. Ducks: O/U 6.5",
+        "outcome": "Over",
+        "value": 71637.6388,
+        "avgPrice": 0.5554,
+        "slug": "nhl-ott-ana-2026-11-01-total-6pt5"
       },
       "0x4379d7ea674ecaa4fbe8a711f7b0aee29f2409a51891011c3dd6c27ad57e75ae|Eagles": {
         "title": "Spread: Commanders (-5.5)",
         "outcome": "Eagles",
-        "value": 37255.1342,
+        "value": 56070.8585,
         "avgPrice": 0.463,
         "slug": "nfl-phi-was-2026-11-02-spread-home-5pt5"
-      },
-      "0x1c5235a6a583fcdb802cd76ab57d76c62668165f45aaf53e3df42fe15a207a75|Eagles": {
-        "title": "Spread: Commanders (-17.5)",
-        "outcome": "Eagles",
-        "value": 33162.9622,
-        "avgPrice": 0.8335,
-        "slug": "nfl-phi-was-2026-11-02-spread-home-17pt5"
-      },
-      "0xc006111a720d7a06d0bd8cb974f9885adb5a871dd38be0b18a0eda67fd33e888|Chargers": {
-        "title": "Spread: Rams (-14.5)",
-        "outcome": "Chargers",
-        "value": 24108.5363,
-        "avgPrice": 0.7599,
-        "slug": "nfl-lac-la-2026-11-01-spread-home-14pt5"
-      },
-      "0x431da6b0a1c4f856599208732d7323118d7de244b26a360b42c84596653b24a6|Celtics": {
-        "title": "Celtics vs. Magic",
-        "outcome": "Celtics",
-        "value": 21299.2491,
-        "avgPrice": 0.7042,
-        "slug": "nba-bos-orl-2026-11-01"
       },
       "0x95970f339dea6ba85845d5990c2905a75cf00c3192958175faf6ae6362b94680|Eagles": {
         "title": "Spread: Commanders (-6.5)",
         "outcome": "Eagles",
-        "value": 20564.5814,
-        "avgPrice": 0.5199,
+        "value": 40384.7605,
+        "avgPrice": 0.5249,
         "slug": "nfl-phi-was-2026-11-02-spread-home-6pt5"
       },
-      "0x57aaf90134c50dea622e63f8f0d7e16261b2ad12716fae23d8002a50752f4c4b|Clippers": {
-        "title": "Spread: Warriors (-2.5)",
-        "outcome": "Clippers",
-        "value": 20268.2497,
-        "avgPrice": 0.5197,
-        "slug": "nba-lac-gsw-2026-11-01-spread-home-2pt5"
+      "0x1c5235a6a583fcdb802cd76ab57d76c62668165f45aaf53e3df42fe15a207a75|Eagles": {
+        "title": "Spread: Commanders (-17.5)",
+        "outcome": "Eagles",
+        "value": 38810.7152,
+        "avgPrice": 0.8335,
+        "slug": "nfl-phi-was-2026-11-02-spread-home-17pt5"
       },
-      "0x4622dee213d5e20d46febc0a352e1b77a23add65053df614d184736a3d4e0186|Under": {
-        "title": "Nets vs. Pacers: O/U 229.5",
-        "outcome": "Under",
-        "value": 19403.4757,
-        "avgPrice": 0.4942,
-        "slug": "nba-bkn-ind-2026-11-01-total-229pt5"
-      },
-      "0x1f879a0da3c89e534a37d64a0bf35f6eefe37c016c75805392adec3e5e9ddae0|Celtics": {
-        "title": "Spread: Celtics (-6.5)",
-        "outcome": "Celtics",
-        "value": 19171.4347,
-        "avgPrice": 0.5209,
-        "slug": "nba-bos-orl-2026-11-01-spread-away-6pt5"
-      },
-      "0x8573955fe17aab943a89de41778bebc7ed69632d615188004522307aa62c9164|Under": {
-        "title": "Celtics vs. Magic: O/U 221.5",
-        "outcome": "Under",
-        "value": 17667.7466,
-        "avgPrice": 0.4804,
-        "slug": "nba-bos-orl-2026-11-01-total-221pt5"
-      },
-      "0xf6d9582d6dc2e1b27f98d6302ea9af65de3060765898a5ba3deb686f038f41fb|Under": {
-        "title": "Nets vs. Pacers: O/U 230.5",
-        "outcome": "Under",
-        "value": 16914.436,
-        "avgPrice": 0.5095,
-        "slug": "nba-bkn-ind-2026-11-01-total-230pt5"
-      },
-      "0x0397ef87ab7d459cd00824e2705c33850dc233d72ea681ffb202b544fa0be7eb|Under": {
-        "title": "Celtics vs. Magic: O/U 222.5",
-        "outcome": "Under",
-        "value": 13856.3185,
-        "avgPrice": 0.5076,
-        "slug": "nba-bos-orl-2026-11-01-total-222pt5"
-      },
-      "0xc9ce30cf5c67cb844e4e5088508d12229f8de12e7abd89ad435a47e3667bf854|Chiefs": {
-        "title": "Spread: Broncos (-3.5)",
-        "outcome": "Chiefs",
-        "value": 13779.3057,
-        "avgPrice": 0.6727,
-        "slug": "nfl-kc-den-2026-11-01-spread-home-3pt5"
+      "0x1ccdaa22c5f0e374aebf0512a8ab42406721273cb0edf0055a4ce183108f2867|Lakers": {
+        "title": "Spread: Lakers (-3.5)",
+        "outcome": "Lakers",
+        "value": 27633.645,
+        "avgPrice": 0.4938,
+        "slug": "nba-tor-lal-2026-11-01-spread-home-3pt5"
       },
       "0xec99c349030b13a8af1672362c0467d7c1231c98bf0a7c185018df3167567b04|Clippers": {
         "title": "Clippers vs. Warriors",
         "outcome": "Clippers",
-        "value": 12855.3808,
-        "avgPrice": 0.4452,
+        "value": 27545.1285,
+        "avgPrice": 0.4478,
         "slug": "nba-lac-gsw-2026-11-01"
       },
       "0x5852fdc591dcff20f68d9948dfcb77b73be5882b055b2138782f7d45aecdd5e2|Eagles": {
         "title": "Spread: Commanders (-14.5)",
         "outcome": "Eagles",
-        "value": 12539.7064,
+        "value": 27370.465,
         "avgPrice": 0.7799,
         "slug": "nfl-phi-was-2026-11-02-spread-home-14pt5"
+      },
+      "0xefa35d30849e8a41afdfa1112ca65d682767ff237a113c191f60ef1bf88e6f13|Lakers": {
+        "title": "Raptors vs. Lakers",
+        "outcome": "Lakers",
+        "value": 26264.8569,
+        "avgPrice": 0.6002,
+        "slug": "nba-tor-lal-2026-11-01"
+      },
+      "0x57aaf90134c50dea622e63f8f0d7e16261b2ad12716fae23d8002a50752f4c4b|Clippers": {
+        "title": "Spread: Warriors (-2.5)",
+        "outcome": "Clippers",
+        "value": 25398.5103,
+        "avgPrice": 0.5198,
+        "slug": "nba-lac-gsw-2026-11-01-spread-home-2pt5"
+      },
+      "0xb043efc40b18a318667c71f48f25021996e838548bb8657936a288b2f9e5b488|Under": {
+        "title": "Clippers vs. Warriors: O/U 220.5",
+        "outcome": "Under",
+        "value": 24905.8677,
+        "avgPrice": 0.4984,
+        "slug": "nba-lac-gsw-2026-11-01-total-220pt5"
+      },
+      "0xf05549db516ab80bf0bd393c6601076bace28f9e3588577726413c99954cf5f4|Under": {
+        "title": "Raptors vs. Lakers: O/U 224.5",
+        "outcome": "Under",
+        "value": 22818.2978,
+        "avgPrice": 0.5139,
+        "slug": "nba-tor-lal-2026-11-01-total-224pt5"
+      },
+      "0xedd2e744dc1b99eb626a9718c3fbff5f4f879b111376cad47e6f253c1c546d6c|Under": {
+        "title": "Clippers vs. Warriors: O/U 219.5",
+        "outcome": "Under",
+        "value": 19761.2997,
+        "avgPrice": 0.4811,
+        "slug": "nba-lac-gsw-2026-11-01-total-219pt5"
+      },
+      "0x1c1a285c027642fbf69d5870c43cbf7317454369d236a12408c236dfd09b2600|Under": {
+        "title": "Raptors vs. Lakers: O/U 225.5",
+        "outcome": "Under",
+        "value": 18341.6644,
+        "avgPrice": 0.5369,
+        "slug": "nba-tor-lal-2026-11-01-total-225pt5"
+      },
+      "0x1ddb5bcef47f72cfd6cf0c4259c93734f3ff8d6dc2f0cbc7fd74f390a08ec430|Lakers": {
+        "title": "Spread: Lakers (-4.5)",
+        "outcome": "Lakers",
+        "value": 14545.3305,
+        "avgPrice": 0.4655,
+        "slug": "nba-tor-lal-2026-11-01-spread-home-4pt5"
+      },
+      "0x0f5dd5da2efdf04117e5b21fc400564c9b72de35b0bcf1282b5d99d4cc72d31f|Over": {
+        "title": "Raptors vs. Lakers: O/U 223.5",
+        "outcome": "Over",
+        "value": 13209.1317,
+        "avgPrice": 0.4984,
+        "slug": "nba-tor-lal-2026-11-01-total-223pt5"
+      },
+      "0x1dc763b8f8b3fe9f71a21fba44dda5cb40155cdfea442ea2c81faa21460e11bd|Bears": {
+        "title": "Spread: Seahawks (-13.5)",
+        "outcome": "Bears",
+        "value": 12743.7556,
+        "avgPrice": 0.8198,
+        "slug": "nfl-chi-sea-2026-11-03-spread-home-13pt5"
       },
       "0x57aaf90134c50dea622e63f8f0d7e16261b2ad12716fae23d8002a50752f4c4b|Warriors": {
         "title": "Spread: Warriors (-2.5)",
@@ -1520,348 +939,229 @@
         "avgPrice": 0.4804,
         "slug": "nba-lac-gsw-2026-11-01-spread-home-2pt5"
       },
-      "0xe257f520a9e6d163b2646bb05d4b4bb25c3a73be3e756980bd91acef2f197ddb|Chiefs": {
-        "title": "Spread: Broncos (-7.5)",
-        "outcome": "Chiefs",
-        "value": 12165.7393,
-        "avgPrice": 0.7949,
-        "slug": "nfl-kc-den-2026-11-01-spread-home-7pt5"
-      },
-      "0x1ccdaa22c5f0e374aebf0512a8ab42406721273cb0edf0055a4ce183108f2867|Lakers": {
-        "title": "Spread: Lakers (-3.5)",
-        "outcome": "Lakers",
-        "value": 11615.2941,
-        "avgPrice": 0.4755,
-        "slug": "nba-tor-lal-2026-11-01-spread-home-3pt5"
-      },
       "0xc60c842f25863c9ed80b5cf233b08a97f5a3c4bdd6bbc0fc56056592d5fe01b3|Warriors": {
         "title": "Spread: Warriors (-1.5)",
         "outcome": "Warriors",
-        "value": 10957.1617,
+        "value": 11282.622,
         "avgPrice": 0.5122,
         "slug": "nba-lac-gsw-2026-11-01-spread-home-1pt5"
-      },
-      "0x1d3b2d68b424cbcb3453492def52ae61c515df29f6cb0c89808a48c53c556bd0|Celtics": {
-        "title": "Spread: Celtics (-8.5)",
-        "outcome": "Celtics",
-        "value": 10480.2099,
-        "avgPrice": 0.4487,
-        "slug": "nba-bos-orl-2026-11-01-spread-away-8pt5"
-      },
-      "0x97e69351542e6dae0eb4a05b6ca24f252e4f6f6202c728c0ac7a99003c4f7c51|Nets": {
-        "title": "Spread: Pacers (-4.5)",
-        "outcome": "Nets",
-        "value": 10178.3202,
-        "avgPrice": 0.5409,
-        "slug": "nba-bkn-ind-2026-11-01-spread-home-4pt5"
       },
       "0xefa35d30849e8a41afdfa1112ca65d682767ff237a113c191f60ef1bf88e6f13|Raptors": {
         "title": "Raptors vs. Lakers",
         "outcome": "Raptors",
-        "value": 9774.8112,
-        "avgPrice": 0.3961,
+        "value": 10758.7226,
+        "avgPrice": 0.3972,
         "slug": "nba-tor-lal-2026-11-01"
       },
-      "0x7831f1d57b0385132fa452572bdc143ffcee47841aec05e425b4f03d93fe9e15|Dolphins": {
-        "title": "Spread: Patriots (-7.5)",
-        "outcome": "Dolphins",
-        "value": 9737.8905,
-        "avgPrice": 0.53,
-        "slug": "nfl-ne-mia-2026-11-01-spread-away-7pt5"
-      },
-      "0xb043efc40b18a318667c71f48f25021996e838548bb8657936a288b2f9e5b488|Under": {
-        "title": "Clippers vs. Warriors: O/U 220.5",
-        "outcome": "Under",
-        "value": 8837.4249,
-        "avgPrice": 0.4899,
-        "slug": "nba-lac-gsw-2026-11-01-total-220pt5"
-      },
-      "0x3945f32108352122d3b69ed6a51dd0837227e880d11fe81921543bf1adbb92b4|Pacers": {
-        "title": "Nets vs. Pacers",
-        "outcome": "Pacers",
-        "value": 8569.6875,
-        "avgPrice": 0.6094,
-        "slug": "nba-bkn-ind-2026-11-01"
-      },
-      "0xca62b4f44552f3001f75db32840adf162372e6f62a73456a7670361161d59c6a|Magic": {
-        "title": "Spread: Celtics (-9.5)",
-        "outcome": "Magic",
-        "value": 8438.801,
-        "avgPrice": 0.5656,
-        "slug": "nba-bos-orl-2026-11-01-spread-away-9pt5"
-      },
-      "0x14bc54c0b48a2e6bf7299eac2d57269f6d73d66ac5a88434af84baaa3eae9060|Over": {
-        "title": "Patriots vs. Dolphins: O/U 34.5",
+      "0xf022efe120e4a6ac300aab0938527741d621881acefa3bdf27d333d8562624a1|Over": {
+        "title": "Senators vs. Ducks: O/U 5.5",
         "outcome": "Over",
-        "value": 8427.8597,
-        "avgPrice": 0.72,
-        "slug": "nfl-ne-mia-2026-11-01-total-34pt5"
+        "value": 10703.4251,
+        "avgPrice": 0.6586,
+        "slug": "nhl-ott-ana-2026-11-01-total-5pt5"
       },
-      "0x8077d622e420c19692bc2510700cd431ad0b09fee63bf59cd98e36727c7fc4ce|Over": {
-        "title": "Patriots vs. Dolphins: O/U 42.5",
-        "outcome": "Over",
-        "value": 8193.5753,
-        "avgPrice": 0.4835,
-        "slug": "nfl-ne-mia-2026-11-01-total-42pt5"
-      },
-      "0x7d5cc8736995d2972511abdd054005c066df956e2e508784c4dc086a15bcac14|Flyers": {
-        "title": "Utah vs. Flyers",
-        "outcome": "Flyers",
-        "value": 7759.8471,
-        "avgPrice": 0.3907,
-        "slug": "nhl-utah-phi-2026-11-01"
-      },
-      "0x8042a35eb51336bb685c284eb2e2c6e57061824677b50167c278126c6a39be5d|Under": {
-        "title": "Nets vs. Pacers: O/U 228.5",
+      "0x0f5dd5da2efdf04117e5b21fc400564c9b72de35b0bcf1282b5d99d4cc72d31f|Under": {
+        "title": "Raptors vs. Lakers: O/U 223.5",
         "outcome": "Under",
-        "value": 7705.6783,
-        "avgPrice": 0.4686,
-        "slug": "nba-bkn-ind-2026-11-01-total-228pt5"
+        "value": 10416.483,
+        "avgPrice": 0.4971,
+        "slug": "nba-tor-lal-2026-11-01-total-223pt5"
       },
-      "0x5d5a27cbf66962c97fdf08fcdc63c9f8665a6d613def6a9b9bca3b1c56385aef|Chiefs": {
-        "title": "Spread: Chiefs (-2.5)",
-        "outcome": "Chiefs",
-        "value": 7169.1207,
-        "avgPrice": 0.46,
-        "slug": "nfl-kc-den-2026-11-01-spread-away-2pt5"
-      },
-      "0xb191262c0debdfc1fc2ca4f93dbd0bf59a0d75decab35e313822d0e8323e1792|Commanders": {
+      "0xb191262c0debdfc1fc2ca4f93dbd0bf59a0d75decab35e313822d0e8323e1792|Eagles": {
         "title": "Spread: Commanders (-4.5)",
-        "outcome": "Commanders",
-        "value": 6592.6124,
-        "avgPrice": 0.53,
+        "outcome": "Eagles",
+        "value": 10017.6591,
+        "avgPrice": 0.4674,
         "slug": "nfl-phi-was-2026-11-02-spread-home-4pt5"
-      },
-      "0x1c1a285c027642fbf69d5870c43cbf7317454369d236a12408c236dfd09b2600|Over": {
-        "title": "Raptors vs. Lakers: O/U 225.5",
-        "outcome": "Over",
-        "value": 6217.5528,
-        "avgPrice": 0.4913,
-        "slug": "nba-tor-lal-2026-11-01-total-225pt5"
-      },
-      "0x95970f339dea6ba85845d5990c2905a75cf00c3192958175faf6ae6362b94680|Commanders": {
-        "title": "Spread: Commanders (-6.5)",
-        "outcome": "Commanders",
-        "value": 6128.6048,
-        "avgPrice": 0.4601,
-        "slug": "nfl-phi-was-2026-11-02-spread-home-6pt5"
-      },
-      "0x5d5a27cbf66962c97fdf08fcdc63c9f8665a6d613def6a9b9bca3b1c56385aef|Broncos": {
-        "title": "Spread: Chiefs (-2.5)",
-        "outcome": "Broncos",
-        "value": 5973.3765,
-        "avgPrice": 0.53,
-        "slug": "nfl-kc-den-2026-11-01-spread-away-2pt5"
-      },
-      "0x5b45890ba4d6ffbed68921fb06ebd948ad52dcb75fd4e4d744b9a086fa52b1ab|Broncos": {
-        "title": "Spread: Chiefs (-1.5)",
-        "outcome": "Broncos",
-        "value": 5454.4518,
-        "avgPrice": 0.53,
-        "slug": "nfl-kc-den-2026-11-01-spread-away-1pt5"
-      },
-      "0x8077d622e420c19692bc2510700cd431ad0b09fee63bf59cd98e36727c7fc4ce|Under": {
-        "title": "Patriots vs. Dolphins: O/U 42.5",
-        "outcome": "Under",
-        "value": 5232.563,
-        "avgPrice": 0.49,
-        "slug": "nfl-ne-mia-2026-11-01-total-42pt5"
-      },
-      "0x57fb5403620d2ffa1e83dfdb9d4c9224cf8e28a992eec67e1b559254e3a54261|Over": {
-        "title": "Clippers vs. Warriors: O/U 218.5",
-        "outcome": "Over",
-        "value": 5101.825,
-        "avgPrice": 0.548,
-        "slug": "nba-lac-gsw-2026-11-01-total-218pt5"
-      },
-      "0xa3e8ef111c104c3b3d56ca06d6aa42dd0b28b3ba319c169ac5a836170be4b353|Broncos": {
-        "title": "Chiefs vs. Broncos",
-        "outcome": "Broncos",
-        "value": 4989.8362,
-        "avgPrice": 0.4899,
-        "slug": "nfl-kc-den-2026-11-01"
-      },
-      "0xedd2e744dc1b99eb626a9718c3fbff5f4f879b111376cad47e6f253c1c546d6c|Over": {
-        "title": "Clippers vs. Warriors: O/U 219.5",
-        "outcome": "Over",
-        "value": 4955.5279,
-        "avgPrice": 0.5227,
-        "slug": "nba-lac-gsw-2026-11-01-total-219pt5"
-      },
-      "0xedd2e744dc1b99eb626a9718c3fbff5f4f879b111376cad47e6f253c1c546d6c|Under": {
-        "title": "Clippers vs. Warriors: O/U 219.5",
-        "outcome": "Under",
-        "value": 4853.6828,
-        "avgPrice": 0.4732,
-        "slug": "nba-lac-gsw-2026-11-01-total-219pt5"
       },
       "0xc121d784c2695dd562a3b312c084c0d2f837d759c88544ac089f38334ddb7179|Seahawks": {
         "title": "Spread: Bears (-3.5)",
         "outcome": "Seahawks",
-        "value": 4804.865,
+        "value": 9703.3377,
         "avgPrice": 0.7299,
         "slug": "nfl-chi-sea-2026-11-03-spread-away-3pt5"
       },
-      "0x57bfd26e861431467ae2feaa6305ba0cc41057857933b8366d41b334c21a5267|Over": {
-        "title": "Chargers vs. Rams: O/U 46.5",
+      "0xa80ff0acc7a2b015d10481854a4f64c8ac86f7f437c21d7612812dffcf77d216|Over": {
+        "title": "Raptors vs. Lakers: O/U 222.5",
         "outcome": "Over",
-        "value": 4455.0447,
-        "avgPrice": 0.4796,
-        "slug": "nfl-lac-la-2026-11-01-total-46pt5"
+        "value": 9547.3813,
+        "avgPrice": 0.5298,
+        "slug": "nba-tor-lal-2026-11-01-total-222pt5"
       },
-      "0x1d3b2d68b424cbcb3453492def52ae61c515df29f6cb0c89808a48c53c556bd0|Magic": {
-        "title": "Spread: Celtics (-8.5)",
-        "outcome": "Magic",
-        "value": 3901.9049,
-        "avgPrice": 0.5299,
-        "slug": "nba-bos-orl-2026-11-01-spread-away-8pt5"
+      "0x1ccdaa22c5f0e374aebf0512a8ab42406721273cb0edf0055a4ce183108f2867|Raptors": {
+        "title": "Spread: Lakers (-3.5)",
+        "outcome": "Raptors",
+        "value": 9379.0913,
+        "avgPrice": 0.4945,
+        "slug": "nba-tor-lal-2026-11-01-spread-home-3pt5"
       },
-      "0x3945f32108352122d3b69ed6a51dd0837227e880d11fe81921543bf1adbb92b4|Nets": {
-        "title": "Nets vs. Pacers",
-        "outcome": "Nets",
-        "value": 3803.7095,
-        "avgPrice": 0.3826,
-        "slug": "nba-bkn-ind-2026-11-01"
-      },
-      "0x53c777491fe545831f47ae84b5cbb7049b02d73de0c32de6d4d9223e15ed9d1c|Under": {
-        "title": "Celtics vs. Magic: O/U 223.5",
+      "0xa80ff0acc7a2b015d10481854a4f64c8ac86f7f437c21d7612812dffcf77d216|Under": {
+        "title": "Raptors vs. Lakers: O/U 222.5",
         "outcome": "Under",
-        "value": 3802.0573,
-        "avgPrice": 0.5227,
-        "slug": "nba-bos-orl-2026-11-01-total-223pt5"
+        "value": 9211.0588,
+        "avgPrice": 0.4704,
+        "slug": "nba-tor-lal-2026-11-01-total-222pt5"
       },
-      "0x02b7dbadd467341ec0cf54af3c562c0781484ffa2856475ce8866b04b56736a0|Lakers": {
-        "title": "Spread: Lakers (-2.5)",
-        "outcome": "Lakers",
-        "value": 3669.4687,
-        "avgPrice": 0.51,
-        "slug": "nba-tor-lal-2026-11-01-spread-home-2pt5"
-      },
-      "0x1c1a285c027642fbf69d5870c43cbf7317454369d236a12408c236dfd09b2600|Under": {
+      "0x1c1a285c027642fbf69d5870c43cbf7317454369d236a12408c236dfd09b2600|Over": {
         "title": "Raptors vs. Lakers: O/U 225.5",
-        "outcome": "Under",
-        "value": 3447.5805,
-        "avgPrice": 0.5099,
+        "outcome": "Over",
+        "value": 8575.6442,
+        "avgPrice": 0.4808,
         "slug": "nba-tor-lal-2026-11-01-total-225pt5"
       },
-      "0x283a70dbf27c346d749cfb4384f9662c513920884ebb3cdac9ebd28e07e69e11|Under": {
-        "title": "Patriots vs. Dolphins: O/U 40.5",
+      "0x9168ff92c2a441b02faddb080fdea71b4b915b5da812ba443645ead929b66a11|Under": {
+        "title": "Eagles vs. Commanders: O/U 42.5",
         "outcome": "Under",
-        "value": 3352.6934,
-        "avgPrice": 0.47,
-        "slug": "nfl-ne-mia-2026-11-01-total-40pt5"
-      },
-      "0x57fb5403620d2ffa1e83dfdb9d4c9224cf8e28a992eec67e1b559254e3a54261|Under": {
-        "title": "Clippers vs. Warriors: O/U 218.5",
-        "outcome": "Under",
-        "value": 3132.868,
-        "avgPrice": 0.4658,
-        "slug": "nba-lac-gsw-2026-11-01-total-218pt5"
-      },
-      "0x6bc3d5b7d8a8032f3c169e09562f81fccb8707748709ecf8f47269d3b152c4ef|Over": {
-        "title": "Chiefs vs. Broncos: O/U 42.5",
-        "outcome": "Over",
-        "value": 3113.9913,
-        "avgPrice": 0.4499,
-        "slug": "nfl-kc-den-2026-11-01-total-42pt5"
-      },
-      "0xf3e34c4dfb12fcfc97331ec51328d3ffdf99601d8b62e5812e6ae8ce9db555dc|Under": {
-        "title": "Celtics vs. Magic: O/U 220.5",
-        "outcome": "Under",
-        "value": 3101.3134,
-        "avgPrice": 0.4661,
-        "slug": "nba-bos-orl-2026-11-01-total-220pt5"
-      },
-      "0x02b7dbadd467341ec0cf54af3c562c0781484ffa2856475ce8866b04b56736a0|Raptors": {
-        "title": "Spread: Lakers (-2.5)",
-        "outcome": "Raptors",
-        "value": 3087.414,
-        "avgPrice": 0.47,
-        "slug": "nba-tor-lal-2026-11-01-spread-home-2pt5"
-      },
-      "0x0e2d127a775d6663c0e5d8ad4001ceae6fca24d3d2575d2290bddc0235562cee|Lakers": {
-        "title": "Spread: Lakers (-1.5)",
-        "outcome": "Lakers",
-        "value": 2928.6159,
-        "avgPrice": 0.5503,
-        "slug": "nba-tor-lal-2026-11-01-spread-home-1pt5"
-      },
-      "0x283a70dbf27c346d749cfb4384f9662c513920884ebb3cdac9ebd28e07e69e11|Over": {
-        "title": "Patriots vs. Dolphins: O/U 40.5",
-        "outcome": "Over",
-        "value": 2800.7558,
-        "avgPrice": 0.52,
-        "slug": "nfl-ne-mia-2026-11-01-total-40pt5"
-      },
-      "0x6fa334d20456f750994d9d5634ead78b6e48f4991767d377e7e70d32f8f4ee4a|Nets": {
-        "title": "Spread: Pacers (-5.5)",
-        "outcome": "Nets",
-        "value": 2714.6422,
-        "avgPrice": 0.5721,
-        "slug": "nba-bkn-ind-2026-11-01-spread-home-5pt5"
-      },
-      "0xbcce9a861e5136d677ce77a74dda54b7a087988b019adbf57ec148e0ac96b341|Over": {
-        "title": "Raptors vs. Lakers: O/U 227.5",
-        "outcome": "Over",
-        "value": 2703.2835,
-        "avgPrice": 0.477,
-        "slug": "nba-tor-lal-2026-11-01-total-227pt5"
-      },
-      "0xcbc12bbd521f1e250bf6eff05c4e52d879c618cb6a9410008b21ce8aab9b0628|Over": {
-        "title": "Chiefs vs. Broncos: O/U 40.5",
-        "outcome": "Over",
-        "value": 2644.191,
-        "avgPrice": 0.5399,
-        "slug": "nfl-kc-den-2026-11-01-total-40pt5"
-      },
-      "0x1ddb5bcef47f72cfd6cf0c4259c93734f3ff8d6dc2f0cbc7fd74f390a08ec430|Raptors": {
-        "title": "Spread: Lakers (-4.5)",
-        "outcome": "Raptors",
-        "value": 2567.3052,
-        "avgPrice": 0.5574,
-        "slug": "nba-tor-lal-2026-11-01-spread-home-4pt5"
-      },
-      "0xf05549db516ab80bf0bd393c6601076bace28f9e3588577726413c99954cf5f4|Under": {
-        "title": "Raptors vs. Lakers: O/U 224.5",
-        "outcome": "Under",
-        "value": 2551.9504,
-        "avgPrice": 0.4894,
-        "slug": "nba-tor-lal-2026-11-01-total-224pt5"
-      },
-      "0x12a81d81ae078f65b8d2187607fa2cb977187cd98b85410e55ee30dd2a32fe0d|Under": {
-        "title": "Clippers vs. Warriors: O/U 222.5",
-        "outcome": "Under",
-        "value": 2510.5538,
-        "avgPrice": 0.5299,
-        "slug": "nba-lac-gsw-2026-11-01-total-222pt5"
-      },
-      "0xc60c842f25863c9ed80b5cf233b08a97f5a3c4bdd6bbc0fc56056592d5fe01b3|Clippers": {
-        "title": "Spread: Warriors (-1.5)",
-        "outcome": "Clippers",
-        "value": 2365.5703,
-        "avgPrice": 0.4799,
-        "slug": "nba-lac-gsw-2026-11-01-spread-home-1pt5"
-      },
-      "0x26c62f2c3134a827eda136ac6228947817d2888416c9174583a08bcc6ebe9149|Celtics": {
-        "title": "Spread: Celtics (-5.5)",
-        "outcome": "Celtics",
-        "value": 2292.7878,
-        "avgPrice": 0.5784,
-        "slug": "nba-bos-orl-2026-11-01-spread-away-5pt5"
+        "value": 6633.9577,
+        "avgPrice": 0.55,
+        "slug": "nfl-phi-was-2026-11-02-total-42pt5"
       },
       "0x7a97aa1f7de8836914a275e02e5b9abaed1b68df35f3bed5f6010e6573e7ff68|Under": {
         "title": "Raptors vs. Lakers: O/U 226.5",
         "outcome": "Under",
-        "value": 2281.0771,
-        "avgPrice": 0.4919,
+        "value": 6448.5663,
+        "avgPrice": 0.5353,
         "slug": "nba-tor-lal-2026-11-01-total-226pt5"
+      },
+      "0x57fb5403620d2ffa1e83dfdb9d4c9224cf8e28a992eec67e1b559254e3a54261|Over": {
+        "title": "Clippers vs. Warriors: O/U 218.5",
+        "outcome": "Over",
+        "value": 6204.9223,
+        "avgPrice": 0.548,
+        "slug": "nba-lac-gsw-2026-11-01-total-218pt5"
+      },
+      "0xedd2e744dc1b99eb626a9718c3fbff5f4f879b111376cad47e6f253c1c546d6c|Over": {
+        "title": "Clippers vs. Warriors: O/U 219.5",
+        "outcome": "Over",
+        "value": 5569.0694,
+        "avgPrice": 0.5227,
+        "slug": "nba-lac-gsw-2026-11-01-total-219pt5"
+      },
+      "0xb3ab5fcae824d81289e97cec9802ca240f751e39bd64ae29b3731dc01123625b|Eagles": {
+        "title": "Spread: Commanders (-7.5)",
+        "outcome": "Eagles",
+        "value": 5499.7152,
+        "avgPrice": 0.5999,
+        "slug": "nfl-phi-was-2026-11-02-spread-home-7pt5"
+      },
+      "0xa32511795bd0ca88e6309012179798251529a8c2c08e0a71a37cfb0f098e3ee6|Knicks": {
+        "title": "Nets vs. Knicks",
+        "outcome": "Knicks",
+        "value": 5046.3319,
+        "avgPrice": 0.8798,
+        "slug": "nba-bkn-nyk-2026-11-02"
+      },
+      "0xc60c842f25863c9ed80b5cf233b08a97f5a3c4bdd6bbc0fc56056592d5fe01b3|Clippers": {
+        "title": "Spread: Warriors (-1.5)",
+        "outcome": "Clippers",
+        "value": 4897.1594,
+        "avgPrice": 0.4853,
+        "slug": "nba-lac-gsw-2026-11-01-spread-home-1pt5"
+      },
+      "0x02b7dbadd467341ec0cf54af3c562c0781484ffa2856475ce8866b04b56736a0|Lakers": {
+        "title": "Spread: Lakers (-2.5)",
+        "outcome": "Lakers",
+        "value": 4863.075,
+        "avgPrice": 0.5147,
+        "slug": "nba-tor-lal-2026-11-01-spread-home-2pt5"
+      },
+      "0x123546409bdb9e19eaf4512489abfebb72b2ddf6a037b879f45b31ad6e286cce|Under": {
+        "title": "Clippers vs. Warriors: O/U 221.5",
+        "outcome": "Under",
+        "value": 4537.624,
+        "avgPrice": 0.523,
+        "slug": "nba-lac-gsw-2026-11-01-total-221pt5"
+      },
+      "0xb043efc40b18a318667c71f48f25021996e838548bb8657936a288b2f9e5b488|Over": {
+        "title": "Clippers vs. Warriors: O/U 220.5",
+        "outcome": "Over",
+        "value": 4466.5531,
+        "avgPrice": 0.4817,
+        "slug": "nba-lac-gsw-2026-11-01-total-220pt5"
+      },
+      "0x0e2d127a775d6663c0e5d8ad4001ceae6fca24d3d2575d2290bddc0235562cee|Lakers": {
+        "title": "Spread: Lakers (-1.5)",
+        "outcome": "Lakers",
+        "value": 4013.5459,
+        "avgPrice": 0.5534,
+        "slug": "nba-tor-lal-2026-11-01-spread-home-1pt5"
+      },
+      "0x57fb5403620d2ffa1e83dfdb9d4c9224cf8e28a992eec67e1b559254e3a54261|Under": {
+        "title": "Clippers vs. Warriors: O/U 218.5",
+        "outcome": "Under",
+        "value": 3257.0135,
+        "avgPrice": 0.4622,
+        "slug": "nba-lac-gsw-2026-11-01-total-218pt5"
+      },
+      "0xb191262c0debdfc1fc2ca4f93dbd0bf59a0d75decab35e313822d0e8323e1792|Commanders": {
+        "title": "Spread: Commanders (-4.5)",
+        "outcome": "Commanders",
+        "value": 3080.66,
+        "avgPrice": 0.53,
+        "slug": "nfl-phi-was-2026-11-02-spread-home-4pt5"
       },
       "0xbcce9a861e5136d677ce77a74dda54b7a087988b019adbf57ec148e0ac96b341|Under": {
         "title": "Raptors vs. Lakers: O/U 227.5",
         "outcome": "Under",
-        "value": 2278.0911,
+        "value": 2812.9473,
         "avgPrice": 0.5191,
         "slug": "nba-tor-lal-2026-11-01-total-227pt5"
+      },
+      "0x7a97aa1f7de8836914a275e02e5b9abaed1b68df35f3bed5f6010e6573e7ff68|Over": {
+        "title": "Raptors vs. Lakers: O/U 226.5",
+        "outcome": "Over",
+        "value": 2784.1183,
+        "avgPrice": 0.4221,
+        "slug": "nba-tor-lal-2026-11-01-total-226pt5"
+      },
+      "0x95970f339dea6ba85845d5990c2905a75cf00c3192958175faf6ae6362b94680|Commanders": {
+        "title": "Spread: Commanders (-6.5)",
+        "outcome": "Commanders",
+        "value": 2767.757,
+        "avgPrice": 0.4601,
+        "slug": "nfl-phi-was-2026-11-02-spread-home-6pt5"
+      },
+      "0xcfe0e96b5a699f466a74f03c21bab8f6a255c911c4e5d01d4226caff62bcb50f|Eagles": {
+        "title": "Spread: Commanders (-3.5)",
+        "outcome": "Eagles",
+        "value": 2628.9,
+        "avgPrice": 0.4,
+        "slug": "nfl-phi-was-2026-11-02-spread-home-3pt5"
+      },
+      "0x02b7dbadd467341ec0cf54af3c562c0781484ffa2856475ce8866b04b56736a0|Raptors": {
+        "title": "Spread: Lakers (-2.5)",
+        "outcome": "Raptors",
+        "value": 2489.85,
+        "avgPrice": 0.47,
+        "slug": "nba-tor-lal-2026-11-01-spread-home-2pt5"
+      },
+      "0xfa169ed96aa50222bd6b8c379f7fd50833662113397c34b9c4588acddfbdd571|Spurs": {
+        "title": "Jazz vs. Spurs",
+        "outcome": "Spurs",
+        "value": 2365.7695,
+        "avgPrice": 0.8999,
+        "slug": "nba-uta-sas-2026-11-02"
+      },
+      "0x087cd258edf923859b8229711c89d194eae8e526c03783c926d99b1ee9662edc|76ers": {
+        "title": "Bulls vs. 76ers",
+        "outcome": "76ers",
+        "value": 2317.326,
+        "avgPrice": 0.8233,
+        "slug": "nba-chi-phi-2026-11-02"
+      },
+      "0x12a81d81ae078f65b8d2187607fa2cb977187cd98b85410e55ee30dd2a32fe0d|Under": {
+        "title": "Clippers vs. Warriors: O/U 222.5",
+        "outcome": "Under",
+        "value": 2191.4224,
+        "avgPrice": 0.53,
+        "slug": "nba-lac-gsw-2026-11-01-total-222pt5"
+      },
+      "0x1ddb5bcef47f72cfd6cf0c4259c93734f3ff8d6dc2f0cbc7fd74f390a08ec430|Raptors": {
+        "title": "Spread: Lakers (-4.5)",
+        "outcome": "Raptors",
+        "value": 2060.3656,
+        "avgPrice": 0.5574,
+        "slug": "nba-tor-lal-2026-11-01-spread-home-4pt5"
       },
       "0x7c51ca4fa62fa356430f6aaaad839888a475c9a791b089fb3e5c7717c6a39342|Barbora Palicova": {
         "title": "Makarska: Petra Marcinko vs Barbora Palicova",
@@ -1870,82 +1170,61 @@
         "avgPrice": 0.3699,
         "slug": "wta-marcink-palicov-2026-06-04"
       },
-      "0xaaa06fa5ee61d2ef85563a6ea89ea4f235532297415c21a58a3aaacf53f823e0|Patriots": {
-        "title": "Spread: Dolphins (-3.5)",
-        "outcome": "Patriots",
-        "value": 1887.0887,
-        "avgPrice": 0.8599,
-        "slug": "nfl-ne-mia-2026-11-01-spread-home-3pt5"
-      },
-      "0x1ddb5bcef47f72cfd6cf0c4259c93734f3ff8d6dc2f0cbc7fd74f390a08ec430|Lakers": {
-        "title": "Spread: Lakers (-4.5)",
-        "outcome": "Lakers",
-        "value": 1854.2801,
-        "avgPrice": 0.4421,
-        "slug": "nba-tor-lal-2026-11-01-spread-home-4pt5"
-      },
-      "0x499c2461e44ad34d3f2fe6e5b7b51e76d68ede4a51731c32536f89b115ccca46|Celtics": {
-        "title": "Spread: Celtics (-3.5)",
-        "outcome": "Celtics",
-        "value": 1640.52,
-        "avgPrice": 0.6,
-        "slug": "nba-bos-orl-2026-11-01-spread-away-3pt5"
-      },
-      "0xcfe0e96b5a699f466a74f03c21bab8f6a255c911c4e5d01d4226caff62bcb50f|Eagles": {
-        "title": "Spread: Commanders (-3.5)",
-        "outcome": "Eagles",
-        "value": 1619.25,
-        "avgPrice": 0.4,
-        "slug": "nfl-phi-was-2026-11-02-spread-home-3pt5"
-      },
-      "0xc9ce30cf5c67cb844e4e5088508d12229f8de12e7abd89ad435a47e3667bf854|Broncos": {
-        "title": "Spread: Broncos (-3.5)",
-        "outcome": "Broncos",
-        "value": 1574.7833,
-        "avgPrice": 0.3399,
-        "slug": "nfl-kc-den-2026-11-01-spread-home-3pt5"
-      },
-      "0x5cf591c37c15a3425aef3ce6902fac11236b12de68417c4972806a07da18b86d|Over": {
-        "title": "Chiefs vs. Broncos: O/U 44.5",
+      "0xbcce9a861e5136d677ce77a74dda54b7a087988b019adbf57ec148e0ac96b341|Over": {
+        "title": "Raptors vs. Lakers: O/U 227.5",
         "outcome": "Over",
-        "value": 1492.14,
-        "avgPrice": 0.3996,
-        "slug": "nfl-kc-den-2026-11-01-total-44pt5"
+        "value": 1844.5935,
+        "avgPrice": 0.477,
+        "slug": "nba-tor-lal-2026-11-01-total-227pt5"
       },
-      "0x49f5558b039f8528f55a2340ef1bca578d289990912e3f69e84a3a87c50a9e38|Celtics": {
-        "title": "Spread: Celtics (-7.5)",
-        "outcome": "Celtics",
-        "value": 1478.8216,
-        "avgPrice": 0.5094,
-        "slug": "nba-bos-orl-2026-11-01-spread-away-7pt5"
+      "0x27c168175c16fa3e1dbbe352d562439707b3b53d22beca37b1d41b040bc7517b|Bulls": {
+        "title": "Spread: 76ers (-15.5)",
+        "outcome": "Bulls",
+        "value": 1775.0875,
+        "avgPrice": 0.6299,
+        "slug": "nba-chi-phi-2026-11-02-spread-home-15pt5"
       },
-      "0x80670dee988efbc5a0ea145d6fa6c3fdd9984e73825feee506da0300ccac11f9|Under": {
-        "title": "Celtics vs. Magic: O/U 224.5",
-        "outcome": "Under",
-        "value": 1468.6297,
-        "avgPrice": 0.5431,
-        "slug": "nba-bos-orl-2026-11-01-total-224pt5"
+      "0xa28d2edf93c1c5ec96ade903310e1afb5503590817579bf83818ae8bc96cf9f9|Grizzlies": {
+        "title": "Pelicans vs. Grizzlies",
+        "outcome": "Grizzlies",
+        "value": 1715.9593,
+        "avgPrice": 0.6774,
+        "slug": "nba-nop-mem-2026-11-02"
       },
-      "0x4a01e162901ca9f36611477e57c1a680f39f69f1d4759320c5cae4d10bf213f2|Rams": {
-        "title": "Spread: Rams (-4.5)",
-        "outcome": "Rams",
-        "value": 1375.9636,
-        "avgPrice": 0.5699,
-        "slug": "nfl-lac-la-2026-11-01-spread-home-4pt5"
+      "0x123546409bdb9e19eaf4512489abfebb72b2ddf6a037b879f45b31ad6e286cce|Over": {
+        "title": "Clippers vs. Warriors: O/U 221.5",
+        "outcome": "Over",
+        "value": 1702.7488,
+        "avgPrice": 0.4758,
+        "slug": "nba-lac-gsw-2026-11-01-total-221pt5"
       },
-      "0x95be53f1338a54ab3dde767b68fa8db7467790987d4681dfb3e551d446743b42|Under": {
-        "title": "Patriots vs. Dolphins: O/U 36.5",
-        "outcome": "Under",
-        "value": 1322.2512,
-        "avgPrice": 0.2999,
-        "slug": "nfl-ne-mia-2026-11-01-total-36pt5"
+      "0xf3a327ce7671b289896dd99c4aabd590e334c3b70389cfee17578c9c522253d5|Wizards": {
+        "title": "Wizards vs. Magic",
+        "outcome": "Wizards",
+        "value": 1691.6019,
+        "avgPrice": 0.4459,
+        "slug": "nba-was-orl-2026-11-02"
       },
-      "0x7831f1d57b0385132fa452572bdc143ffcee47841aec05e425b4f03d93fe9e15|Patriots": {
-        "title": "Spread: Patriots (-7.5)",
-        "outcome": "Patriots",
-        "value": 1219.8976,
-        "avgPrice": 0.45,
-        "slug": "nfl-ne-mia-2026-11-01-spread-away-7pt5"
+      "0xe4a383ec9db56fb2ae6f919bc77fd31cfe92661bf34c9e5389fc6d8e5364e4a9|Timberwolves": {
+        "title": "Bucks vs. Timberwolves",
+        "outcome": "Timberwolves",
+        "value": 1561.7392,
+        "avgPrice": 0.7945,
+        "slug": "nba-mil-min-2026-11-02"
+      },
+      "0xb25093742da5cd2260987b5a5dceabf9e91c6c4d94ffa1864ade0c389f0b54c6|Commanders": {
+        "title": "Spread: Eagles (-3.5)",
+        "outcome": "Commanders",
+        "value": 1300.5774,
+        "avgPrice": 0.78,
+        "slug": "nfl-phi-was-2026-11-02-spread-away-3pt5"
+      },
+      "0xce020263693fd2189f633197a53aaf2576a83780598a424680c48fe9595b1e44|Cavaliers": {
+        "title": "Thunder vs. Cavaliers",
+        "outcome": "Cavaliers",
+        "value": 1233.9298,
+        "avgPrice": 0.6147,
+        "slug": "nba-okc-cle-2026-11-02"
       },
       "0x873c16717fef843256324ffd5d8b6a5f6745bc0c67f3ea412cd66682af7810b8|Under": {
         "title": "Masarova vs. Ryser: Match O/U 23.5",
@@ -1954,40 +1233,47 @@
         "avgPrice": 0.6104,
         "slug": "wta-masarov-ryser-2026-07-18-match-total-23pt5"
       },
-      "0x1c38b70102ec35a994cf5690751f8b9543de68ea6e19067867766962b9003766|Nets": {
-        "title": "Spread: Pacers (-3.5)",
-        "outcome": "Nets",
-        "value": 1185.9926,
-        "avgPrice": 0.4829,
-        "slug": "nba-bkn-ind-2026-11-01-spread-home-3pt5"
-      },
-      "0x1c38b70102ec35a994cf5690751f8b9543de68ea6e19067867766962b9003766|Pacers": {
-        "title": "Spread: Pacers (-3.5)",
-        "outcome": "Pacers",
-        "value": 1014.7202,
-        "avgPrice": 0.4859,
-        "slug": "nba-bkn-ind-2026-11-01-spread-home-3pt5"
-      },
-      "0x344f66e34df3d081f718fa5da21f16e0ace2aa4514c7bf828a91eb81fe4d5f25|Under": {
-        "title": "Utah vs. Flyers: O/U 6.5",
-        "outcome": "Under",
-        "value": 960.9589,
-        "avgPrice": 0.5507,
-        "slug": "nhl-utah-phi-2026-11-01-total-6pt5"
-      },
-      "0xdaf4bb1bbea4338d23cd629c2f955ab8ca48d5734b6c81fddbdd9d53e6969975|Over": {
-        "title": "Oilers vs. Rangers: O/U 6.5",
+      "0xf05549db516ab80bf0bd393c6601076bace28f9e3588577726413c99954cf5f4|Over": {
+        "title": "Raptors vs. Lakers: O/U 224.5",
         "outcome": "Over",
-        "value": 853.38,
-        "avgPrice": 0.5,
-        "slug": "nhl-edm-nyr-2026-11-01-total-6pt5"
+        "value": 1016.9105,
+        "avgPrice": 0.4887,
+        "slug": "nba-tor-lal-2026-11-01-total-224pt5"
       },
-      "0xc10ecfad4d975cce207190678f4592f69d9f6641e1bbd941f467fba87ece90ea|Oilers": {
-        "title": "Oilers vs. Rangers",
-        "outcome": "Oilers",
-        "value": 847.1091,
-        "avgPrice": 0.46,
-        "slug": "nhl-edm-nyr-2026-11-01"
+      "0x4c43e7bcd8dd3477f83c6e91287a2ef0bb33c744a158722c0faaea626aa75a14|Over": {
+        "title": "Thunder vs. Cavaliers: O/U 227.5",
+        "outcome": "Over",
+        "value": 976.0943,
+        "avgPrice": 0.5038,
+        "slug": "nba-okc-cle-2026-11-02-total-227pt5"
+      },
+      "0xec99c349030b13a8af1672362c0467d7c1231c98bf0a7c185018df3167567b04|Warriors": {
+        "title": "Clippers vs. Warriors",
+        "outcome": "Warriors",
+        "value": 940.7179,
+        "avgPrice": 0.5553,
+        "slug": "nba-lac-gsw-2026-11-01"
+      },
+      "0x4c08e7f378c487e8fd3277f7002f2202610aaa7883cae499fe4695018a9a545e|Over": {
+        "title": "Thunder vs. Cavaliers: O/U 228.5",
+        "outcome": "Over",
+        "value": 866.3797,
+        "avgPrice": 0.4799,
+        "slug": "nba-okc-cle-2026-11-02-total-228pt5"
+      },
+      "0x08e2da17c29ec5e35b2995b4bad4c2db5ecc7735568324cf16ab90022a16ac3f|Under": {
+        "title": "Thunder vs. Cavaliers: O/U 226.5",
+        "outcome": "Under",
+        "value": 853.5283,
+        "avgPrice": 0.4655,
+        "slug": "nba-okc-cle-2026-11-02-total-226pt5"
+      },
+      "0x71b6fb7dc86da7f8baafdbd80d3b6cca7b44d120d66c8f82fcef4ab5c63cc445|Nuggets": {
+        "title": "Trail Blazers vs. Nuggets",
+        "outcome": "Nuggets",
+        "value": 841.8427,
+        "avgPrice": 0.6099,
+        "slug": "nba-por-den-2026-11-02"
       },
       "0x37b15cb2c0a5189766a2d0b49e598dd47a3900939c5168ff98b5c1930010232d|Under": {
         "title": "Michelsen vs. Gea: Match O/U 23.5",
@@ -1996,101 +1282,159 @@
         "avgPrice": 0.57,
         "slug": "atp-michels-gea-2026-07-20-match-total-23pt5"
       },
-      "0xb043efc40b18a318667c71f48f25021996e838548bb8657936a288b2f9e5b488|Over": {
-        "title": "Clippers vs. Warriors: O/U 220.5",
+      "0xa701fd1846cc41a9de9ccc2584511363a61c9de18e6bb629dcaf9bd25ba90230|Over": {
+        "title": "Trail Blazers vs. Nuggets: O/U 227.5",
         "outcome": "Over",
-        "value": 825.6038,
-        "avgPrice": 0.484,
-        "slug": "nba-lac-gsw-2026-11-01-total-220pt5"
+        "value": 836.2979,
+        "avgPrice": 0.5395,
+        "slug": "nba-por-den-2026-11-02-total-227pt5"
       },
-      "0x84f17a50966b0bb5ee544aa44f6011aff0b08bbed41ba22501c13c62303f565a|Rams": {
-        "title": "Spread: Rams (-3.5)",
-        "outcome": "Rams",
-        "value": 812.475,
-        "avgPrice": 0.6,
-        "slug": "nfl-lac-la-2026-11-01-spread-home-3pt5"
+      "0xd56e40b0c4edaf8802fbf18d85da12906a47dc77f64321924056c14f143be117|Bears": {
+        "title": "Spread: Seahawks (-10.5)",
+        "outcome": "Bears",
+        "value": 809.7206,
+        "avgPrice": 0.7599,
+        "slug": "nfl-chi-sea-2026-11-03-spread-home-10pt5"
       },
-      "0xf05549db516ab80bf0bd393c6601076bace28f9e3588577726413c99954cf5f4|Over": {
-        "title": "Raptors vs. Lakers: O/U 224.5",
-        "outcome": "Over",
-        "value": 804.3977,
-        "avgPrice": 0.4921,
-        "slug": "nba-tor-lal-2026-11-01-total-224pt5"
+      "0x9d303a7f156f76abe774f2e2dab9767ca2de758a884ae620165d9800b228d758|Bulls": {
+        "title": "Spread: 76ers (-13.5)",
+        "outcome": "Bulls",
+        "value": 801.5989,
+        "avgPrice": 0.5692,
+        "slug": "nba-chi-phi-2026-11-02-spread-home-13pt5"
       },
-      "0xec99c349030b13a8af1672362c0467d7c1231c98bf0a7c185018df3167567b04|Warriors": {
-        "title": "Clippers vs. Warriors",
-        "outcome": "Warriors",
-        "value": 779.5462,
-        "avgPrice": 0.5599,
-        "slug": "nba-lac-gsw-2026-11-01"
-      },
-      "0x0b60175c560c6cd70d708c35cb50e2cee6cb0377c20f812526a4b9df5297ed6b|Pacers": {
-        "title": "Spread: Pacers (-2.5)",
-        "outcome": "Pacers",
-        "value": 731.1159,
-        "avgPrice": 0.5429,
-        "slug": "nba-bkn-ind-2026-11-01-spread-home-2pt5"
-      },
-      "0x8573955fe17aab943a89de41778bebc7ed69632d615188004522307aa62c9164|Over": {
-        "title": "Celtics vs. Magic: O/U 221.5",
-        "outcome": "Over",
-        "value": 715.0098,
-        "avgPrice": 0.5,
-        "slug": "nba-bos-orl-2026-11-01-total-221pt5"
-      },
-      "0x8f9509d95e9dcd55670f4a6e92337ef5d00256a8c03d6e2e5f9fda4d57e06434|Broncos": {
-        "title": "Spread: Chiefs (-3.5)",
-        "outcome": "Broncos",
-        "value": 655.455,
-        "avgPrice": 0.6199,
-        "slug": "nfl-kc-den-2026-11-01-spread-away-3pt5"
-      },
-      "0x49f5558b039f8528f55a2340ef1bca578d289990912e3f69e84a3a87c50a9e38|Magic": {
-        "title": "Spread: Celtics (-7.5)",
-        "outcome": "Magic",
-        "value": 599.6918,
-        "avgPrice": 0.52,
-        "slug": "nba-bos-orl-2026-11-01-spread-away-7pt5"
-      },
-      "0x4a01e162901ca9f36611477e57c1a680f39f69f1d4759320c5cae4d10bf213f2|Chargers": {
-        "title": "Spread: Rams (-4.5)",
-        "outcome": "Chargers",
-        "value": 584.68,
-        "avgPrice": 0.41,
-        "slug": "nfl-lac-la-2026-11-01-spread-home-4pt5"
-      },
-      "0xdf1ba77049409a699ecedd4f4febe5865fdf10ceb7316d06d7903e4901184a5f|Under": {
-        "title": "Nets vs. Pacers: O/U 232.5",
+      "0x6440e6c10420ee1270868553f0f3b8a9ae5f5faa503573bd26bea7a7ce5b2e3b|Under": {
+        "title": "Eagles vs. Commanders: O/U 38.5",
         "outcome": "Under",
-        "value": 554.2188,
-        "avgPrice": 0.542,
-        "slug": "nba-bkn-ind-2026-11-01-total-232pt5"
+        "value": 792.3529,
+        "avgPrice": 0.41,
+        "slug": "nfl-phi-was-2026-11-02-total-38pt5"
       },
-      "0xb0122d9d597f0a30af91abd1df901ad7432f2403129f6916c71f9a326f2a7f97|Over": {
-        "title": "Utah vs. Flyers: O/U 4.5",
-        "outcome": "Over",
-        "value": 550.6168,
-        "avgPrice": 0.77,
-        "slug": "nhl-utah-phi-2026-11-01-total-4pt5"
+      "0x7304f70660ef62a43763024202ce487ae18f05aee3cde18aa36a5281996ce3a4|Under": {
+        "title": "Pistons vs. Hornets: O/U 210.5",
+        "outcome": "Under",
+        "value": 769.5916,
+        "avgPrice": 0.51,
+        "slug": "nba-det-cha-2026-11-02-total-210pt5"
       },
-      "0x123546409bdb9e19eaf4512489abfebb72b2ddf6a037b879f45b31ad6e286cce|Over": {
-        "title": "Clippers vs. Warriors: O/U 221.5",
+      "0x986d084ce3193b21c4e9b244c00026dc9cb0cf3eb20ea96d915710ea6a77f68e|Clippers": {
+        "title": "Spread: Warriors (-4.5)",
+        "outcome": "Clippers",
+        "value": 763.4285,
+        "avgPrice": 0.587,
+        "slug": "nba-lac-gsw-2026-11-01-spread-home-4pt5"
+      },
+      "0x08e2da17c29ec5e35b2995b4bad4c2db5ecc7735568324cf16ab90022a16ac3f|Over": {
+        "title": "Thunder vs. Cavaliers: O/U 226.5",
         "outcome": "Over",
-        "value": 540.5862,
-        "avgPrice": 0.4799,
-        "slug": "nba-lac-gsw-2026-11-01-total-221pt5"
+        "value": 757.1855,
+        "avgPrice": 0.5299,
+        "slug": "nba-okc-cle-2026-11-02-total-226pt5"
+      },
+      "0x63b7b11605cb7976245f0f64126623911bfd806939db8038959320f23df4e5a4|Over": {
+        "title": "Pistons vs. Hornets: O/U 209.5",
+        "outcome": "Over",
+        "value": 743.36,
+        "avgPrice": 0.4999,
+        "slug": "nba-det-cha-2026-11-02-total-209pt5"
+      },
+      "0x4c43e7bcd8dd3477f83c6e91287a2ef0bb33c744a158722c0faaea626aa75a14|Under": {
+        "title": "Thunder vs. Cavaliers: O/U 227.5",
+        "outcome": "Under",
+        "value": 726.9501,
+        "avgPrice": 0.4952,
+        "slug": "nba-okc-cle-2026-11-02-total-227pt5"
+      },
+      "0x63930cde6983b75da503fcb225d8d0f987851d231c9f7d54dab06e23b5211336|Over": {
+        "title": "Senators vs. Ducks: O/U 7.5",
+        "outcome": "Over",
+        "value": 703.9295,
+        "avgPrice": 0.3199,
+        "slug": "nhl-ott-ana-2026-11-01-total-7pt5"
+      },
+      "0xea2855c9dd3f4abe1da63ed308227201fef19a122e4c4dbbcb8c80bba9f41afe|76ers": {
+        "title": "Spread: 76ers (-12.5)",
+        "outcome": "76ers",
+        "value": 659.671,
+        "avgPrice": 0.4796,
+        "slug": "nba-chi-phi-2026-11-02-spread-home-12pt5"
+      },
+      "0x7edbc43aff94dbbdeb1a3cd5a430433a8cefafee6c3087ca68c0e7c3e4529203|Red Wings": {
+        "title": "Red Wings vs. Panthers",
+        "outcome": "Red Wings",
+        "value": 647.1515,
+        "avgPrice": 0.37,
+        "slug": "nhl-det-fla-2026-11-02"
+      },
+      "0x748702b6c1e82ff6bd95c7eaeaa9602657697e2e3f5ad1b69cfd6943096d49d3|Nets": {
+        "title": "Spread: Knicks (-13.5)",
+        "outcome": "Nets",
+        "value": 598.464,
+        "avgPrice": 0.45,
+        "slug": "nba-bkn-nyk-2026-11-02-spread-home-13pt5"
+      },
+      "0xccfeb055d70e286b742b3abe29bd8d7736089a187fd4c5d2517a602bd4c7d9aa|Over": {
+        "title": "Thunder vs. Cavaliers: O/U 230.5",
+        "outcome": "Over",
+        "value": 593.1834,
+        "avgPrice": 0.4399,
+        "slug": "nba-okc-cle-2026-11-02-total-230pt5"
+      },
+      "0x5fa9a04ab9921f6864ff08a18a722c6342332e592094226c166851ba6c1b5749|Hornets": {
+        "title": "Spread: Pistons (-5.5)",
+        "outcome": "Hornets",
+        "value": 585.71,
+        "avgPrice": 0.55,
+        "slug": "nba-det-cha-2026-11-02-spread-away-5pt5"
+      },
+      "0x9d303a7f156f76abe774f2e2dab9767ca2de758a884ae620165d9800b228d758|76ers": {
+        "title": "Spread: 76ers (-13.5)",
+        "outcome": "76ers",
+        "value": 583.6142,
+        "avgPrice": 0.4399,
+        "slug": "nba-chi-phi-2026-11-02-spread-home-13pt5"
+      },
+      "0xfe78288d9c639df549e152a1bf1ba8cc72e0cf80c8b1f94ef142074714c95f20|Under": {
+        "title": "Bucks vs. Timberwolves: O/U 233.5",
+        "outcome": "Under",
+        "value": 579.8541,
+        "avgPrice": 0.49,
+        "slug": "nba-mil-min-2026-11-02-total-233pt5"
+      },
+      "0xfd0ba16214960e51410f0329ac859041d675811b35adb20fd8a333773d2e3625|Under": {
+        "title": "Pelicans vs. Grizzlies: O/U 235.5",
+        "outcome": "Under",
+        "value": 572.9646,
+        "avgPrice": 0.4845,
+        "slug": "nba-nop-mem-2026-11-02-total-235pt5"
+      },
+      "0xefdb30410d2abdee80673ff4805c8b8def82796e533a784523ec9fe02d653635|Senators": {
+        "title": "Senators vs. Ducks",
+        "outcome": "Senators",
+        "value": 561.2408,
+        "avgPrice": 0.5127,
+        "slug": "nhl-ott-ana-2026-11-01"
+      },
+      "0x12a81d81ae078f65b8d2187607fa2cb977187cd98b85410e55ee30dd2a32fe0d|Over": {
+        "title": "Clippers vs. Warriors: O/U 222.5",
+        "outcome": "Over",
+        "value": 525.7281,
+        "avgPrice": 0.4517,
+        "slug": "nba-lac-gsw-2026-11-01-total-222pt5"
+      },
+      "0xa7af0912188fff9d74b58c789167db21a6b2941765ee5184be3ac22687ddfe0c|76ers": {
+        "title": "Spread: 76ers (-11.5)",
+        "outcome": "76ers",
+        "value": 502.475,
+        "avgPrice": 0.5195,
+        "slug": "nba-chi-phi-2026-11-02-spread-home-11pt5"
       }
     }
   },
   "announced": {
-    "0xa3e8ef111c104c3b3d56ca06d6aa42dd0b28b3ba319c169ac5a836170be4b353|Broncos": 4,
-    "0x9dedf734db84bef6ddc0ca4bd5e15c53cb273f96983d4e39d4d3e9633ef112ea|Patriots": 3,
-    "0xaaa06fa5ee61d2ef85563a6ea89ea4f235532297415c21a58a3aaacf53f823e0|Patriots": 3,
-    "0x4e47995cb0f17625ba2ab34b05af180cbabb34207d1e7f7c8516d84a7f0273d7|Chargers": 3,
-    "0x57bfd26e861431467ae2feaa6305ba0cc41057857933b8366d41b334c21a5267|Over": 3,
-    "0x49f5558b039f8528f55a2340ef1bca578d289990912e3f69e84a3a87c50a9e38|Celtics": 3,
-    "0x4e47995cb0f17625ba2ab34b05af180cbabb34207d1e7f7c8516d84a7f0273d7|Rams": 3,
-    "0x84f17a50966b0bb5ee544aa44f6011aff0b08bbed41ba22501c13c62303f565a|Rams": 3,
-    "0x6bc3d5b7d8a8032f3c169e09562f81fccb8707748709ecf8f47269d3b152c4ef|Under": 3
+    "0x83197d7b5052586479ce2549e14f0a78ddbac08f234a35b1a51e3f7b272bb917|Eagles": 3,
+    "0x83197d7b5052586479ce2549e14f0a78ddbac08f234a35b1a51e3f7b272bb917|Commanders": 3,
+    "0x9168ff92c2a441b02faddb080fdea71b4b915b5da812ba443645ead929b66a11|Under": 3,
+    "0xcfe0e96b5a699f466a74f03c21bab8f6a255c911c4e5d01d4226caff62bcb50f|Eagles": 3
   }
 }
